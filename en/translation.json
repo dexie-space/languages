@@ -1,0 +1,122 @@
+{
+  "Connect Wallet": "Connect Wallet",
+  "footer": {
+    "synced": "synced"
+  },
+  "common": {
+    "Dark Mode": "Dark",
+    "Light Mode": "Light"
+  },
+  "uploadOffer": {
+    "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
+    "Uploading": "Uploading...",
+    "#dropHint": "Drop your offer files here ...",
+    "#dragHint": "Drop your offer files here, or click to select",
+    "Uploading2": "Uploading...",
+    "Offer": "Offer",
+    "Inspect": "Inspect",
+    "Hide": "Hide"
+  },
+  "invalid offer file": "Invalid Offer File",
+  "header": {
+    "Markets": "Markets",
+    "Trade": "Trade",
+    "Recent Trades": "Recent Trades",
+    "FAQ": "FAQ",
+    "bannerMessage": "🎉 We've launched and more is yet to come! Follow us at<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>to stay up to date!",
+    "Add Offer": "Add Offer"
+  },
+  "offersTable": {
+    "No Offers Found": "No offers found",
+    "You Offer": "You Offer",
+    "You Receive": "You Receive",
+    "Price": "Price",
+    "Best Price": "Best price",
+    "New": "New",
+    "Inspect": "Inspect",
+    "Accept": "Accept",
+    "Download Offer File": "Download Offer File",
+    "Copy Offer File": "Copy Offer File",
+    "Accept in Goby": "Accept in Goby"
+  },
+  "toast": {
+    "gobyRequiredError": "Goby Browser Extension required",
+    "Offer accepted": "Offer accepted"
+  },
+  "optionsModal": {
+    "no results": "no results"
+  },
+  "status": {
+    "pending": "Pending",
+    "cancelled": "Cancelled",
+    "completed": "Completed",
+    "unknown": "Unknown"
+  },
+  "faq": {
+    "question1": "What is dexie?",
+    "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "question2": "Support or Questions?",
+    "answer2": "<p class='my-5'>Contact us on twitter at <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> or check our <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, we are always happy to help.</p>"
+  },
+  "inspect": {
+    "offer": "Offer",
+    "dexie link": "dexie link",
+    "active": "Active",
+    "pending": "Pending",
+    "canceled": "Canceled",
+    "completed": "Completed",
+    "unknown": "Unknown",
+    "Date Collected": "Date Collected",
+    "Date Closed": "Date Closed",
+    "Confirmed at Height": "Confirmed at Height",
+    "Offered": "Offered",
+    "Requested": "Requested",
+    "Inputs": "Inputs",
+    "Raw Offer File": "Raw Offer File",
+    "Download Offer File": "Download Offer File",
+    "Offer file copied": "Offer file copied",
+    "Copy Offer File": "Copy Offer File",
+    "Accept in Goby": "Accept in Goby",
+    "Loading": "Loading..."
+  },
+  "markets": {
+    "heading": "Markets",
+    "subheading": "Showing all known assets with at least 1 XCH buy and sell liquidity.",
+    "Depth": "Depth",
+    "Rank": "Rank",
+    "Asset": "Asset",
+    "#buyPriceHint{{depth}}": "The unit price for buying {{depth}} XCH of volume\nand how much each XCH would get.",
+    "Buy Price": "Buy Price",
+    "#sellPriceHint{{depth}}": "The unit price for selling {{depth}} XCH of volume\nand how much each XCH would cost.",
+    "Sell Price": "Sell Price",
+    "#priceChangeHint{{depth}}": "The change of the average price (buy and sell with {{depth}} XCH depth)\nover the last 24 hours.",
+    "24h Change": "24h",
+    "#totalOfferedHint{{depth}}": "The sum of each offered asset.\nMarkets are ranked by most XCH in active offer files locked.\nOffers with duplicate inputs are ignored.",
+    "Total Offered": "Total Offered",
+    "Actions": "Actions",
+    "Buy": "Buy",
+    "Sell": "Sell",
+    "no liquidity": "no liquidity"
+  },
+  "offers": {
+    "Offer": "Offer",
+    "Search token by code or name": "Search token by code or name",
+    "Offer at least": "Offer at least",
+    "Offer at most": "Offer at most",
+    "Receive": "Receive",
+    "Receive at least": "Receive at least",
+    "Receive at most": "Receive at most"
+  },
+  "trades": {
+    "no filters selected": "no filters selected",
+    "no results": "no results",
+    "Offered": "Offered",
+    "Requested": "Requested",
+    "Date": "Date",
+    "Height": "Height",
+    "Status": "Status",
+    "Actions": "Actions",
+    "Inspect": "Inspect"
+  },
+  "button": ""
+}

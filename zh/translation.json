@@ -1,0 +1,122 @@
+{
+  "Connect Wallet": "链接钱包",
+  "footer": {
+    "synced": "已同步"
+  },
+  "common": {
+    "Dark Mode": "",
+    "Light Mode": ""
+  },
+  "uploadOffer": {
+    "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
+    "Uploading": "上传中...",
+    "#dropHint": "请将你的offer文件拖放到这里...",
+    "#dragHint": "请将你的offer文件拖放到这里, 或者点击屏幕从文件夹中选择",
+    "Uploading2": "上传中g...",
+    "Offer": "Offer",
+    "Inspect": "检查",
+    "Hide": "隐藏"
+  },
+  "invalid offer file": "Offer文件无效",
+  "header": {
+    "Markets": "市场",
+    "Trade": "交易",
+    "Recent Trades": "近期交易",
+    "FAQ": "常见问题",
+    "bannerMessage": "🎉 我们已经上线，更多功能即将发布! 请关注我们<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>以保持更新!",
+    "Add Offer": "添加Offer"
+  },
+  "offersTable": {
+    "No Offers Found": "未发现Offer",
+    "You Offer": "你提供",
+    "You Receive": "你接收",
+    "Price": "价格",
+    "Best Price": "最优价格",
+    "New": "新",
+    "Inspect": "检查",
+    "Accept": "接受",
+    "Download Offer File": "下载Offer文件",
+    "Copy Offer File": "拷贝offer文件",
+    "Accept in Goby": "在Goby钱包中接收"
+  },
+  "toast": {
+    "gobyRequiredError": "需要Goby浏览器扩展插件",
+    "Offer accepted": "Offer已被接受"
+  },
+  "optionsModal": {
+    "no results": "没有结果"
+  },
+  "status": {
+    "pending": "待处理",
+    "cancelled": "已取消",
+    "completed": "已完成",
+    "unknown": "未知"
+  },
+  "faq": {
+    "question1": "什么是dexie?",
+    "answer1": "<p class='my-5'>dexie是一个Chia offer文件的点对点交易所，Offer文件完全去中心化并无需信任。</p><p class='my-5'>dexie并不托管任何硬币，硬币将一直在maker的钱包里直到offer被接受, 这时资产在maker和taker之间通过一次交易，安全的在区块链上进行了转移，无需任何中间商。</p><p class='my-5'>请到Chia官方网址了解更多关于offer文件的解释。<a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "question2": "如何获得支持和帮助?",
+    "answer2": "<p class='my-5'>请通过我们的推特联系我们 <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 或者加入我们的Discord社区 <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, 我们将很高兴提供帮助。</p>"
+  },
+  "inspect": {
+    "offer": "Offer",
+    "dexie link": "dexie链接",
+    "active": "活跃",
+    "pending": "",
+    "canceled": "取消",
+    "completed": "已完成",
+    "unknown": "未知",
+    "Date Collected": "日期已搜集",
+    "Date Closed": "日期关闭",
+    "Confirmed at Height": "确认高度",
+    "Offered": "已提供",
+    "Requested": "已要求",
+    "Inputs": "输入",
+    "Raw Offer File": "原Offer文件",
+    "Download Offer File": "下载offer文件",
+    "Offer file copied": "Offer文件已拷贝",
+    "Copy Offer File": "拷贝offer文件",
+    "Accept in Goby": "在Goby钱包接受",
+    "Loading": "加载中..."
+  },
+  "markets": {
+    "heading": "市场",
+    "subheading": "仅显示至少有1XCH买卖流动性的所有已知资产。",
+    "Depth": "深度",
+    "Rank": "排行",
+    "Asset": "资产",
+    "#buyPriceHint{{depth}}": "购买单价{{depth}} XCH总量\n以及每个XCH得到多少。",
+    "Buy Price": "Buy Price",
+    "#sellPriceHint{{depth}}": "售出单价{{depth}} XCH总量\n以及每个XCH花掉多少",
+    "Sell Price": "Sell Price",
+    "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} XCH深度)\n在过去24小时内。",
+    "24h Change": "24h",
+    "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数XCH被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
+    "Total Offered": "全部已提供的",
+    "Actions": "动作",
+    "Buy": "买",
+    "Sell": "卖",
+    "no liquidity": "没有流动性"
+  },
+  "offers": {
+    "Offer": "Offer",
+    "Search token by code or name": "按代号或名称查询通证",
+    "Offer at least": "最少提供",
+    "Offer at most": "最多提供",
+    "Receive": "接受",
+    "Receive at least": "最少接受",
+    "Receive at most": "最多接受"
+  },
+  "trades": {
+    "no filters selected": "",
+    "no results": "",
+    "Offered": "已提供",
+    "Requested": "已要求",
+    "Date": "日期",
+    "Height": "高度",
+    "Status": "状态",
+    "Actions": "动作",
+    "Inspect": "检查"
+  },
+  "button": ""
+}

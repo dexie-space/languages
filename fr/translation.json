@@ -1,0 +1,122 @@
+{
+  "Connect Wallet": "Connecter votre Portefeuille",
+  "footer": {
+    "synced": "synchronisé"
+  },
+  "common": {
+    "Dark Mode": "Nuit",
+    "Light Mode": "Jour"
+  },
+  "uploadOffer": {
+    "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",
+    "Uploading": "Chargement...",
+    "#dropHint": "Déposer vos Offres ici ...",
+    "#dragHint": "Déposer vos Offres ici, ou cliquer pour sélectionner",
+    "Uploading2": "Chargement...",
+    "Offer": "Offre",
+    "Inspect": "Inspecter",
+    "Hide": "Cacher"
+  },
+  "invalid offer file": "Offre invalide",
+  "header": {
+    "Markets": "Marchés",
+    "Trade": "Echanger",
+    "Recent Trades": "Transactions récentes",
+    "FAQ": "FAQ",
+    "bannerMessage": "🎉 Découvrez Dexie\u00a0! Et vous n’avez encore rien vu... Suivez-nous à<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>pour rester informé!",
+    "Add Offer": "Ajouter une Offre"
+  },
+  "offersTable": {
+    "No Offers Found": "Aucune Offre trouvée",
+    "You Offer": "Votre Offre",
+    "You Receive": "Vous Recevez",
+    "Price": "Prix",
+    "Best Price": "Meilleur Prix",
+    "New": "Nouveau",
+    "Inspect": "Inspecter",
+    "Accept": "Accepter",
+    "Download Offer File": "Télécharger l’Offre",
+    "Copy Offer File": "Copier l’Offre",
+    "Accept in Goby": "Accepter dans Goby"
+  },
+  "toast": {
+    "gobyRequiredError": "Extension navigateur Goby nécessaire",
+    "Offer accepted": "Offre acceptée"
+  },
+  "optionsModal": {
+    "no results": "aucun résultat"
+  },
+  "status": {
+    "pending": "",
+    "cancelled": "Annulée",
+    "completed": "Complétée",
+    "unknown": "Annulée"
+  },
+  "faq": {
+    "question1": "C’est quoi dexie?",
+    "answer1": "<p class='my-5'>dexie est un échange peer-to-peer pour des Offres Chia. Les Offres Chia sont complètement décentralisées et sans besoin d’aucun tiers de confiance.</p><p class='my-5'>dexie ne détient aucun actif, ils restent toujours dans le portefeuille du créateur de l’Offre jusqu’à ce qu’elle soit acceptée, alors les actifs sont transférés de manière sécurisée entre le createur et le preneur de l’Offre dans une unique transaction sur la blockchain et sans aucun intermédiaire.</p><p class='my-5'>Découvrez-en plus à propos des Offres Chia dans la <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Documentation Chia</a> officielle.</p>",
+    "question2": "Questions ou Support?",
+    "answer2": "<p class='my-5'>Contactez nous sur twitter à <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ou sur <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, nous sommes toujours là pour vous aider.</p>"
+  },
+  "inspect": {
+    "offer": "Offre",
+    "dexie link": "lien dexie",
+    "active": "Active",
+    "pending": "",
+    "canceled": "Annulée",
+    "completed": "Complétée",
+    "unknown": "Inconnue",
+    "Date Collected": "Date d’acceptation",
+    "Date Closed": "Date de fermeture",
+    "Confirmed at Height": "Confirmée à hauteur",
+    "Offered": "A offert",
+    "Requested": "A demandé",
+    "Inputs": "Entrées",
+    "Raw Offer File": "Offre Raw",
+    "Download Offer File": "Télécharger Offre",
+    "Offer file copied": "Offre copiée",
+    "Copy Offer File": "Copier Offre",
+    "Accept in Goby": "Accepter dans Goby",
+    "Loading": "Chargement..."
+  },
+  "markets": {
+    "heading": "Marchés",
+    "subheading": "Montre tous les actifs avec au moins 1 XCH de liquidité (achat/vente).",
+    "Depth": "Liquidité",
+    "Rank": "Rang",
+    "Asset": "Actif",
+    "#buyPriceHint{{depth}}": "Le prix unitaire pour acheter {{depth}} XCH de volume\net combien de XCH vous obtenez.",
+    "Buy Price": "Prix d’Achat",
+    "#sellPriceHint{{depth}}": "Le prix unitaire pour vendre {{depth}} XCH de volume\net combien chaque XCH coûte.",
+    "Sell Price": "Prix de Vente",
+    "#priceChangeHint{{depth}}": "La variation moyenne de prix (liquidité d’achat et vente {{depth}} XCH)\nsur les 24 dernières heures.",
+    "24h Change": "24h",
+    "#totalOfferedHint{{depth}}": "La somme totale de chaque actif offert.\nLes  marchés sont classés selon les Offres fermes en XCH les plus actives.\nLes offres avec des entrées dupliquées sont ignorées.",
+    "Total Offered": "Total Offert",
+    "Actions": "Actions",
+    "Buy": "Achat",
+    "Sell": "Vente",
+    "no liquidity": "pas de liquidité"
+  },
+  "offers": {
+    "Offer": "Offre",
+    "Search token by code or name": "Rechercher un jeton par code ou par nom",
+    "Offer at least": "Offrez au moins",
+    "Offer at most": "Offrez au plus",
+    "Receive": "Recevez",
+    "Receive at least": "Recevez au moins",
+    "Receive at most": "Recevez au plus"
+  },
+  "trades": {
+    "no filters selected": "",
+    "no results": "aucun résultat",
+    "Offered": "Offert",
+    "Requested": "Demandé",
+    "Date": "Date",
+    "Height": "Hauteur",
+    "Status": "Statut",
+    "Actions": "Actions",
+    "Inspect": "Inspecter"
+  },
+  "button": ""
+}

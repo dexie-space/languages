@@ -1,0 +1,122 @@
+{
+  "Connect Wallet": "Wallet verbinden",
+  "footer": {
+    "synced": "synchronisiert"
+  },
+  "common": {
+    "Dark Mode": "Dunkel",
+    "Light Mode": "Hell"
+  },
+  "uploadOffer": {
+    "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
+    "Uploading": "Hochladen ...",
+    "#dropHint": "Offer Files hier ablegen ...",
+    "#dragHint": "Offer Files hier ablegen oder zur Auswahl klicken",
+    "Uploading2": "Hochladen ...",
+    "Offer": "Angebot",
+    "Inspect": "Infos",
+    "Hide": "Ausblenden"
+  },
+  "invalid offer file": "Ungültiges Offer File",
+  "header": {
+    "Markets": "Märkte",
+    "Trade": "Handel",
+    "Recent Trades": "Zuletzt gehandelt",
+    "FAQ": "F&A",
+    "bannerMessage": "🎉 Ab gehts! Folge uns unter<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>um auf dem Laufenden zu bleiben!",
+    "Add Offer": "Angebot hochladen"
+  },
+  "offersTable": {
+    "No Offers Found": "Keine Angebote gefunden",
+    "You Offer": "Du bietest",
+    "You Receive": "Du erhälst",
+    "Price": "Preis",
+    "Best Price": "Bester Preis",
+    "New": "Neu",
+    "Inspect": "Infos",
+    "Accept": "Annehmen",
+    "Download Offer File": "Angebot runterladen",
+    "Copy Offer File": "Angebot kopieren",
+    "Accept in Goby": "mit Goby annehmen"
+  },
+  "toast": {
+    "gobyRequiredError": "Goby Browser Erweiterung erforderlich",
+    "Offer accepted": "Angebot angenommen"
+  },
+  "optionsModal": {
+    "no results": "keine Ergebnisse"
+  },
+  "status": {
+    "pending": "Ausstehend",
+    "cancelled": "Abgebrochen",
+    "completed": "Ausgeführt",
+    "unknown": "Unbekannt"
+  },
+  "faq": {
+    "question1": "Was ist dexie?",
+    "answer1": "<p class='my-5'>dexie ist ein dezentraler Peer-to-Peer Handelsmarkt für Chia Offer Files. Offer Files sind kleine Dateien, die mit der <a class='text-nice underline' href='https://www.chia.net/download/' target='_blank' rel='noreferrer'>Chia Wallet</a> erstellt werden und ein signiertes Tauschangebot von Kryptowährungen auf der Chia Blockchain enthalten.</p><p class='my-5'>Diese Dateien lassen sich auf dexie hochladen und für andere auffindbar machen. Sobald ein Tauschangebot angenommen wird, werden die Beträge beider Seiten innerhalb einer einzigen Transaktion auf der Blockchain übertragen.</p><p class='my-5'>Da die Transaktion nur erfolgreich ist, wenn alle Beträge  übertragen wurden, ist kein Vertrauen zwischen den Händlern erforderlich. Das System wird daher auch als <i>trustless and decentralized</i> bezeichnet.</p><p class='my-5'>Erfahre mehr über Offer Files in der offiziellen <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Dokumentation</a> (englisch).</p>",
+    "question2": "Probleme oder Fragen?",
+    "answer2": "<p class='my-5'>Schreib uns auf Twitter unter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> oder schau mal in unserem <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord Kanal</a> vorbei.</p>"
+  },
+  "inspect": {
+    "offer": "Angebot",
+    "dexie link": "dexie link",
+    "active": "Aktiv",
+    "pending": "",
+    "canceled": "Abgebrochen",
+    "completed": "Ausgeführt",
+    "unknown": "Unbekannt",
+    "Date Collected": "Aufgenommen am",
+    "Date Closed": "Abgeschlossen am",
+    "Confirmed at Height": "Bestätigt in Block",
+    "Offered": "Angeboten",
+    "Requested": "Gefordert",
+    "Inputs": "Eingänge",
+    "Raw Offer File": "Inhalt (Raw-File)",
+    "Download Offer File": "Angebot runterladen",
+    "Offer file copied": "Angebot kopiert",
+    "Copy Offer File": "Angebot kopieren",
+    "Accept in Goby": "mit Goby annehmen",
+    "Loading": "Lade ..."
+  },
+  "markets": {
+    "heading": "Märkte",
+    "subheading": "Alle bekannten Währungen mit mindestens 1 XCH Kauf- und Verkaufsliquidität.",
+    "Depth": "Tiefe",
+    "Rank": "Rang",
+    "Asset": "Währung",
+    "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} XCH \nund Ertrag eines XCH.",
+    "Buy Price": "Kaufpreis",
+    "#sellPriceHint{{depth}}": "Der Stückpreis für den Verkauf von {{depth}} XCH\n und wie viel jeder XCH kosten würde.",
+    "Sell Price": "Verkaufspreis",
+    "#priceChangeHint{{depth}}": "Die Veränderung des Durchschnittspreises (Kauf und Verkauf mit {{depth}} XCH Tiefe)\n der letzten 24 Stunden.",
+    "24h Change": "24h",
+    "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten XCH in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
+    "Total Offered": "Gesamt",
+    "Actions": "Aktionen",
+    "Buy": "Kaufen",
+    "Sell": "Verkaufen",
+    "no liquidity": "keine Liquidität"
+  },
+  "offers": {
+    "Offer": "Biete",
+    "Search token by code or name": "Währung suchen",
+    "Offer at least": "Biete mindestens",
+    "Offer at most": "Biete höchstens",
+    "Receive": "Erhalte",
+    "Receive at least": "Erhalte mindestens",
+    "Receive at most": "Erhalte höchstens"
+  },
+  "trades": {
+    "no filters selected": "keine Filter ausgewählt",
+    "no results": "keine Treffer",
+    "Offered": "Angeboten",
+    "Requested": "Gefordert",
+    "Date": "Datum",
+    "Height": "Block",
+    "Status": "Status",
+    "Actions": "Aktionen",
+    "Inspect": "Infos"
+  },
+  "button": ""
+}
