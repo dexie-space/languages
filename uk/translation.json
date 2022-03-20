@@ -18,6 +18,11 @@
     "Hide": "Сховати"
   },
   "invalid offer file": "Недійсний файл пропозиції",
+  "gobyModal": {
+    "notice": "Потрібне розширення для браузера Goby",
+    "Try Goby": "",
+    "gobyInfo": ""
+  },
   "header": {
     "Markets": "Ринок",
     "Trade": "Торгівля",
@@ -39,10 +44,6 @@
     "Copy Offer File": "Копіювати пропозицію",
     "Accept in Goby": "Прийняти в Goby"
   },
-  "toast": {
-    "gobyRequiredError": "Потрібне розширення для браузера Goby",
-    "Offer accepted": "Пропозиція прийнята"
-  },
   "optionsModal": {
     "no results": "Відсутній результат"
   },
@@ -52,6 +53,9 @@
     "completed": "Виконано",
     "unknown": "Невідомо",
     "active": "Активна"
+  },
+  "toast": {
+    "Offer accepted": "Пропозиція прийнята"
   },
   "faq": {
     "question1": "Що таке dexie?",

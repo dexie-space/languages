@@ -18,6 +18,11 @@
     "Hide": "Hide"
   },
   "invalid offer file": "Invalid Offer File",
+  "gobyModal": {
+    "notice": "You haven't installed any browser wallet.",
+    "Try Goby": "Try Goby",
+    "gobyInfo": "Goby is an open-source browser wallet for Chia."
+  },
   "header": {
     "Markets": "Markets",
     "Trade": "Trade",
@@ -39,10 +44,6 @@
     "Copy Offer File": "Copy Offer File",
     "Accept in Goby": "Accept in Goby"
   },
-  "toast": {
-    "gobyRequiredError": "Goby Browser Extension required",
-    "Offer accepted": "Offer accepted"
-  },
   "optionsModal": {
     "no results": "no results"
   },
@@ -52,6 +53,9 @@
     "completed": "Completed",
     "unknown": "Unknown",
     "active": "Active"
+  },
+  "toast": {
+    "Offer accepted": "Offer accepted"
   },
   "faq": {
     "question1": "What is dexie?",

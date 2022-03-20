@@ -18,6 +18,11 @@
     "Hide": "隐藏"
   },
   "invalid offer file": "Offer文件无效",
+  "gobyModal": {
+    "notice": "需要Goby浏览器扩展插件",
+    "Try Goby": "",
+    "gobyInfo": ""
+  },
   "header": {
     "Markets": "市场",
     "Trade": "交易",
@@ -39,10 +44,6 @@
     "Copy Offer File": "拷贝offer文件",
     "Accept in Goby": "在Goby钱包中接收"
   },
-  "toast": {
-    "gobyRequiredError": "需要Goby浏览器扩展插件",
-    "Offer accepted": "Offer已被接受"
-  },
   "optionsModal": {
     "no results": "没有结果"
   },
@@ -52,6 +53,9 @@
     "completed": "已完成",
     "unknown": "未知",
     "active": "活跃"
+  },
+  "toast": {
+    "Offer accepted": "Offer已被接受"
   },
   "faq": {
     "question1": "什么是dexie?",

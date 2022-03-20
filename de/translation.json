@@ -18,6 +18,11 @@
     "Hide": "Ausblenden"
   },
   "invalid offer file": "Ungültiges Offer File",
+  "gobyModal": {
+    "notice": "Du hast keine Browser Wallet installiert.",
+    "Try Goby": "Goby installieren",
+    "gobyInfo": "Goby ist eine Open-Source Browser Wallet für die Chia Blockchain."
+  },
   "header": {
     "Markets": "Märkte",
     "Trade": "Handel",
@@ -39,10 +44,6 @@
     "Copy Offer File": "Angebot kopieren",
     "Accept in Goby": "mit Goby annehmen"
   },
-  "toast": {
-    "gobyRequiredError": "Goby Browser Erweiterung erforderlich",
-    "Offer accepted": "Angebot angenommen"
-  },
   "optionsModal": {
     "no results": "keine Ergebnisse"
   },
@@ -52,6 +53,9 @@
     "completed": "Ausgeführt",
     "unknown": "Unbekannt",
     "active": "Aktiv"
+  },
+  "toast": {
+    "Offer accepted": "Angebot angenommen"
   },
   "faq": {
     "question1": "Was ist dexie?",

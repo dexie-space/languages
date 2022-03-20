@@ -18,6 +18,11 @@
     "Hide": "숨김"
   },
   "invalid offer file": "유효하지 않은 오퍼파일",
+  "gobyModal": {
+    "notice": "Goby 확장 브라우저가 필요합니다",
+    "Try Goby": "",
+    "gobyInfo": ""
+  },
   "header": {
     "Markets": "마켓",
     "Trade": "거래",
@@ -39,10 +44,6 @@
     "Copy Offer File": "오퍼 파일 복사",
     "Accept in Goby": "Goby를 사용해 열기"
   },
-  "toast": {
-    "gobyRequiredError": "Goby 확장 브라우저가 필요합니다",
-    "Offer accepted": "제안 수락되었습니다"
-  },
   "optionsModal": {
     "no results": "결과 없음"
   },
@@ -52,6 +53,9 @@
     "completed": "완료",
     "unknown": "알 수 없음",
     "active": "활성됨"
+  },
+  "toast": {
+    "Offer accepted": "제안 수락되었습니다"
   },
   "faq": {
     "question1": "덱시는 무엇인가요?",

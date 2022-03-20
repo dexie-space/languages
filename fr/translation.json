@@ -18,6 +18,11 @@
     "Hide": "Cacher"
   },
   "invalid offer file": "Offre invalide",
+  "gobyModal": {
+    "notice": "Extension navigateur Goby nécessaire",
+    "Try Goby": "",
+    "gobyInfo": ""
+  },
   "header": {
     "Markets": "Marchés",
     "Trade": "Echanger",
@@ -39,10 +44,6 @@
     "Copy Offer File": "Copier l’Offre",
     "Accept in Goby": "Accepter dans Goby"
   },
-  "toast": {
-    "gobyRequiredError": "Extension navigateur Goby nécessaire",
-    "Offer accepted": "Offre acceptée"
-  },
   "optionsModal": {
     "no results": "aucun résultat"
   },
@@ -52,6 +53,9 @@
     "completed": "Complétée",
     "unknown": "Annulée",
     "active": "Active"
+  },
+  "toast": {
+    "Offer accepted": "Offre acceptée"
   },
   "faq": {
     "question1": "C’est quoi dexie?",
