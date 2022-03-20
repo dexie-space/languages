@@ -1,6 +1,6 @@
 # dexie Community Translations
 
-dexie should be accessible for all, and that includes languages. Everyone is invited to improve existing translations or create new ones.
+[dexie](https://dexie.space) should be accessible for all, and that includes languages. Everyone is invited to improve existing translations or create new ones.
 
 ## Participate
 To participate, simply clone this repository, make the changes, and create a pull request. Alternatively, you can also edit the file directly on Github, without having to clone the repository first.
