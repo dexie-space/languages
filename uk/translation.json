@@ -50,7 +50,8 @@
     "pending": "Очікує",
     "cancelled": "Скасовано",
     "completed": "Виконано",
-    "unknown": "Невідомо"
+    "unknown": "Невідомо",
+    "active": "Активна"
   },
   "faq": {
     "question1": "Що таке dexie?",
@@ -61,11 +62,6 @@
   "inspect": {
     "offer": "Пропозиція",
     "dexie link": "dexie посилання",
-    "active": "Активна",
-    "pending": "Очікує",
-    "canceled": "Скасовано",
-    "completed": "Виконано",
-    "unknown": "Невідомо",
     "Date Collected": "Дата створення",
     "Date Closed": "Дата закриття",
     "Confirmed at Height": "Підтверджено на висоті",

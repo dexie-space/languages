@@ -50,7 +50,8 @@
     "pending": "Pending",
     "cancelled": "Cancelled",
     "completed": "Completed",
-    "unknown": "Unknown"
+    "unknown": "Unknown",
+    "active": "Active"
   },
   "faq": {
     "question1": "What is dexie?",
@@ -61,11 +62,6 @@
   "inspect": {
     "offer": "Offer",
     "dexie link": "dexie link",
-    "active": "Active",
-    "pending": "Pending",
-    "canceled": "Canceled",
-    "completed": "Completed",
-    "unknown": "Unknown",
     "Date Collected": "Date Collected",
     "Date Closed": "Date Closed",
     "Confirmed at Height": "Confirmed at Height",

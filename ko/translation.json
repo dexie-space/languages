@@ -50,7 +50,8 @@
     "pending": "",
     "cancelled": "취소",
     "completed": "완료",
-    "unknown": "알 수 없음"
+    "unknown": "알 수 없음",
+    "active": "활성됨"
   },
   "faq": {
     "question1": "덱시는 무엇인가요?",
@@ -61,11 +62,6 @@
   "inspect": {
     "offer": "Offer",
     "dexie link": "덱시 링크",
-    "active": "활성됨",
-    "pending": "",
-    "canceled": "최소되었습니다",
-    "completed": "완료되었습니다",
-    "unknown": "알 수 없음",
     "Date Collected": "수집일",
     "Date Closed": "완료일",
     "Confirmed at Height": "확정된 블록높이",

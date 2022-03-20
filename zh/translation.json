@@ -50,7 +50,8 @@
     "pending": "待处理",
     "cancelled": "已取消",
     "completed": "已完成",
-    "unknown": "未知"
+    "unknown": "未知",
+    "active": "活跃"
   },
   "faq": {
     "question1": "什么是dexie?",
@@ -61,11 +62,6 @@
   "inspect": {
     "offer": "Offer",
     "dexie link": "dexie链接",
-    "active": "活跃",
-    "pending": "",
-    "canceled": "取消",
-    "completed": "已完成",
-    "unknown": "未知",
     "Date Collected": "日期已搜集",
     "Date Closed": "日期关闭",
     "Confirmed at Height": "确认高度",

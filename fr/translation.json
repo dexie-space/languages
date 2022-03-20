@@ -50,7 +50,8 @@
     "pending": "",
     "cancelled": "Annulée",
     "completed": "Complétée",
-    "unknown": "Annulée"
+    "unknown": "Annulée",
+    "active": "Active"
   },
   "faq": {
     "question1": "C’est quoi dexie?",
@@ -61,11 +62,6 @@
   "inspect": {
     "offer": "Offre",
     "dexie link": "lien dexie",
-    "active": "Active",
-    "pending": "",
-    "canceled": "Annulée",
-    "completed": "Complétée",
-    "unknown": "Inconnue",
     "Date Collected": "Date d’acceptation",
     "Date Closed": "Date de fermeture",
     "Confirmed at Height": "Confirmée à hauteur",
