@@ -1,7 +1,8 @@
 {
   "Connect Wallet": "Підключіть гаманець",
   "footer": {
-    "synced": "Синхронізовано"
+    "synced": "Синхронізовано",
+    "disconnected": ""
   },
   "common": {
     "Dark Mode": "Темна",

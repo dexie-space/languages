@@ -1,7 +1,8 @@
 {
   "Connect Wallet": "链接钱包",
   "footer": {
-    "synced": "已同步"
+    "synced": "已同步",
+    "disconnected": ""
   },
   "common": {
     "Dark Mode": "",

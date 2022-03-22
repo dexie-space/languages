@@ -1,7 +1,8 @@
 {
   "Connect Wallet": "Wallet verbinden",
   "footer": {
-    "synced": "synchronisiert"
+    "synced": "synchronisiert",
+    "disconnected": "getrennt"
   },
   "common": {
     "Dark Mode": "Dunkel",

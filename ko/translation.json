@@ -1,7 +1,8 @@
 {
   "Connect Wallet": "지갑 연동",
   "footer": {
-    "synced": "동기화"
+    "synced": "동기화",
+    "disconnected": ""
   },
   "common": {
     "Dark Mode": "다크 모드",
