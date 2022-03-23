@@ -99,6 +99,12 @@
     "Sell": "卖",
     "no liquidity": "没有流动性"
   },
+  "notFound": {
+    "404 Error": "",
+    "Page not found": "",
+    "Sorry, we couldn't find the page you're looking for": "",
+    "Go back home": ""
+  },
   "offers": {
     "Offer": "Offer",
     "Search token by code or name": "按代号或名称查询通证",

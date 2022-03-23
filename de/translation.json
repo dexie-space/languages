@@ -99,6 +99,12 @@
     "Sell": "Verkaufen",
     "no liquidity": "keine Liquidität"
   },
+  "notFound": {
+    "404 Error": "Fehler 404",
+    "Page not found": "Seite nicht gefunden",
+    "Sorry, we couldn't find the page you're looking for": "Die angefragte Seite existiert nicht.",
+    "Go back home": "Zurück zur Startseite"
+  },
   "offers": {
     "Offer": "Biete",
     "Search token by code or name": "Währung suchen",

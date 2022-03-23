@@ -99,6 +99,12 @@
     "Sell": "Vente",
     "no liquidity": "pas de liquidité"
   },
+  "notFound": {
+    "404 Error": "",
+    "Page not found": "",
+    "Sorry, we couldn't find the page you're looking for": "",
+    "Go back home": ""
+  },
   "offers": {
     "Offer": "Offre",
     "Search token by code or name": "Rechercher un jeton par code ou par nom",
