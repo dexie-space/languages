@@ -65,6 +65,8 @@
     "answer2": "<p class='my-5'>트위터 <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 혹은 디스코드 채널 <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord</a> 을 확인해 보세요 기꺼이 도와드리겠습니다.</p>"
   },
   "inspect": {
+    "Loading": "로딩중...",
+    "offer not found": "",
     "offer": "Offer",
     "dexie link": "덱시 링크",
     "Date Collected": "수집일",
@@ -77,26 +79,26 @@
     "Download Offer File": "다운로드 오퍼 파일",
     "Offer file copied": "오퍼 파일이 복사되었습니다",
     "Copy Offer File": "오퍼 파일 복사",
-    "Accept in Goby": "Goby를 사용해 열기",
-    "Loading": "로딩중..."
+    "Accept in Goby": "Goby를 사용해 열기"
   },
   "markets": {
-    "heading": "Markets",
-    "subheading": "최소 1개의 XCH 매수 및 매도 유동성이 있는 모든 자산.",
+    "headingUSDS": "USDS Markets",
     "Depth": "깊이",
     "Rank": "순위",
     "Asset": "자산",
-    "#buyPriceHint{{depth}}": "{{depth}} XCH 유닛당 구매 단가\nXCH 개별가",
+    "#buyPriceHint{{depth}}": "{{depth}} {{market}} 유닛당 구매 단가\n{{market}} 개별가",
     "Buy Price": "구매가",
-    "#sellPriceHint{{depth}}": "{{depth}} XCH 유닛당 판매 단가\nXCH 개별가",
+    "#sellPriceHint{{depth}}": "{{depth}} {{market}} 유닛당 판매 단가\n{{market}} 개별가",
     "Sell Price": "판매가",
-    "#priceChangeHint{{depth}}": "평균 단가 (매매 {{depth}} XCH 깊이)\n24간 전 단가.",
+    "#priceChangeHint{{depth}}": "평균 단가 (매매 {{depth}} {{market}} 깊이)\n24간 전 단가.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "제공되는 각 자산의 합계입니다.\n마켓은 잠긴 활성 제안 파일에서 대부분의 XCH에 의해 순위가 매겨집니다.\n중복 입력이 있는 제안은 무시됩니다.",
     "Total Offered": "총 제안",
     "Actions": "Actions",
     "Buy": "구매",
     "Sell": "판매",
+    "headingXCH": "XCH Markets",
+    "subheading": "최소 1개의 XCH 매수 및 매도 유동성이 있는 모든 자산.",
     "no liquidity": "유동성 없음"
   },
   "notFound": {

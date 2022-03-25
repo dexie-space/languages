@@ -65,6 +65,8 @@
     "answer2": "<p class='my-5'>Schreib uns auf Twitter unter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> oder schau mal in unserem <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord Kanal</a> vorbei.</p>"
   },
   "inspect": {
+    "Loading": "Lade ...",
+    "offer not found": "Angebot nicht gefunden",
     "offer": "Angebot",
     "dexie link": "dexie link",
     "Date Collected": "Aufgenommen am",
@@ -77,26 +79,26 @@
     "Download Offer File": "Angebot herunterladen",
     "Offer file copied": "Angebot kopiert",
     "Copy Offer File": "Angebot kopieren",
-    "Accept in Goby": "mit Goby annehmen",
-    "Loading": "Lade ..."
+    "Accept in Goby": "mit Goby annehmen"
   },
   "markets": {
-    "heading": "Märkte",
-    "subheading": "Alle bekannten Währungen mit mindestens 1 XCH Kauf- und Verkaufsliquidität.",
+    "headingUSDS": "USDS Märkte",
     "Depth": "Tiefe",
     "Rank": "Rang",
     "Asset": "Währung",
-    "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} XCH \nund Ertrag eines XCH.",
+    "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} {{market}} \nund Ertrag eines {{market}}.",
     "Buy Price": "Kaufpreis",
-    "#sellPriceHint{{depth}}": "Der Stückpreis für den Verkauf von {{depth}} XCH\n und wie viel jeder XCH kosten würde.",
+    "#sellPriceHint{{depth}}": "Der Stückpreis für den Verkauf von {{depth}} {{market}}\n und wie viel jeder {{market}} kosten würde.",
     "Sell Price": "Verkaufspreis",
-    "#priceChangeHint{{depth}}": "Die Veränderung des Durchschnittspreises (Kauf und Verkauf mit {{depth}} XCH Tiefe)\n der letzten 24 Stunden.",
+    "#priceChangeHint{{depth}}": "Die Veränderung des Durchschnittspreises (Kauf und Verkauf mit {{depth}} {{market}} Tiefe)\n der letzten 24 Stunden.",
     "24h Change": "24h",
-    "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten XCH in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
+    "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten {{market}} in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
     "Total Offered": "Gesamt",
     "Actions": "Aktionen",
     "Buy": "Kaufen",
     "Sell": "Verkaufen",
+    "headingXCH": "XCH Märkte",
+    "subheading": "Alle bekannten Währungen mit mindestens 1 XCH Kauf- und Verkaufsliquidität.",
     "no liquidity": "keine Liquidität"
   },
   "notFound": {

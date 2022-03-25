@@ -65,6 +65,8 @@
     "answer2": "<p class='my-5'>Contactez nous sur twitter à <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ou sur <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, nous sommes toujours là pour vous aider.</p>"
   },
   "inspect": {
+    "Loading": "Chargement...",
+    "offer not found": "",
     "offer": "Offre",
     "dexie link": "lien dexie",
     "Date Collected": "Date d’acceptation",
@@ -77,26 +79,26 @@
     "Download Offer File": "Télécharger Offre",
     "Offer file copied": "Offre copiée",
     "Copy Offer File": "Copier Offre",
-    "Accept in Goby": "Accepter dans Goby",
-    "Loading": "Chargement..."
+    "Accept in Goby": "Accepter dans Goby"
   },
   "markets": {
-    "heading": "Marchés",
-    "subheading": "Montre tous les actifs avec au moins 1 XCH de liquidité (achat/vente).",
+    "headingUSDS": "USDS Marchés",
     "Depth": "Liquidité",
     "Rank": "Rang",
     "Asset": "Actif",
-    "#buyPriceHint{{depth}}": "Le prix unitaire pour acheter {{depth}} XCH de volume\net combien de XCH vous obtenez.",
+    "#buyPriceHint{{depth}}": "Le prix unitaire pour acheter {{depth}} {{market}} de volume\net combien de {{market}} vous obtenez.",
     "Buy Price": "Prix d’Achat",
-    "#sellPriceHint{{depth}}": "Le prix unitaire pour vendre {{depth}} XCH de volume\net combien chaque XCH coûte.",
+    "#sellPriceHint{{depth}}": "Le prix unitaire pour vendre {{depth}} {{market}} de volume\net combien chaque {{market}} coûte.",
     "Sell Price": "Prix de Vente",
-    "#priceChangeHint{{depth}}": "La variation moyenne de prix (liquidité d’achat et vente {{depth}} XCH)\nsur les 24 dernières heures.",
+    "#priceChangeHint{{depth}}": "La variation moyenne de prix (liquidité d’achat et vente {{depth}} {{market}})\nsur les 24 dernières heures.",
     "24h Change": "24h",
-    "#totalOfferedHint{{depth}}": "La somme totale de chaque actif offert.\nLes  marchés sont classés selon les Offres fermes en XCH les plus actives.\nLes offres avec des entrées dupliquées sont ignorées.",
+    "#totalOfferedHint{{depth}}": "La somme totale de chaque actif offert.\nLes  marchés sont classés selon les Offres fermes en {{market}} les plus actives.\nLes offres avec des entrées dupliquées sont ignorées.",
     "Total Offered": "Total Offert",
     "Actions": "Actions",
     "Buy": "Achat",
     "Sell": "Vente",
+    "headingXCH": "XCH Marchés",
+    "subheading": "Montre tous les actifs avec au moins 1 XCH de liquidité (achat/vente).",
     "no liquidity": "pas de liquidité"
   },
   "notFound": {

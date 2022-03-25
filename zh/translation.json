@@ -65,6 +65,8 @@
     "answer2": "<p class='my-5'>请通过我们的推特联系我们 <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 或者加入我们的Discord社区 <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, 我们将很高兴提供帮助。</p>"
   },
   "inspect": {
+    "Loading": "加载中...",
+    "offer not found": "",
     "offer": "Offer",
     "dexie link": "dexie链接",
     "Date Collected": "日期已搜集",
@@ -77,26 +79,26 @@
     "Download Offer File": "下载offer文件",
     "Offer file copied": "Offer文件已拷贝",
     "Copy Offer File": "拷贝offer文件",
-    "Accept in Goby": "在Goby钱包接受",
-    "Loading": "加载中..."
+    "Accept in Goby": "在Goby钱包接受"
   },
   "markets": {
-    "heading": "市场",
-    "subheading": "仅显示至少有1XCH买卖流动性的所有已知资产。",
+    "headingUSDS": "USDS 市场",
     "Depth": "深度",
     "Rank": "排行",
     "Asset": "资产",
-    "#buyPriceHint{{depth}}": "购买单价{{depth}} XCH总量\n以及每个XCH得到多少。",
+    "#buyPriceHint{{depth}}": "购买单价{{depth}} {{market}}总量\n以及每个{{market}}得到多少。",
     "Buy Price": "Buy Price",
-    "#sellPriceHint{{depth}}": "售出单价{{depth}} XCH总量\n以及每个XCH花掉多少",
+    "#sellPriceHint{{depth}}": "售出单价{{depth}} {{market}}总量\n以及每个{{market}}花掉多少",
     "Sell Price": "Sell Price",
-    "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} XCH深度)\n在过去24小时内。",
+    "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} {{market}}深度)\n在过去24小时内。",
     "24h Change": "24h",
-    "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数XCH被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
+    "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数{{market}}被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
     "Total Offered": "全部已提供的",
     "Actions": "动作",
     "Buy": "买",
     "Sell": "卖",
+    "headingXCH": "XCH 市场",
+    "subheading": "仅显示至少有1XCH买卖流动性的所有已知资产。",
     "no liquidity": "没有流动性"
   },
   "notFound": {

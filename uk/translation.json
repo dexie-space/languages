@@ -65,6 +65,8 @@
     "answer2": "<p class='my-5'>Зв'яжіться з нами в Twitter за адресою <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> або перевірте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, ми завжди раді допомогти.</p>"
   },
   "inspect": {
+    "Loading": "Завантаження...",
+    "offer not found": "",
     "offer": "Пропозиція",
     "dexie link": "dexie посилання",
     "Date Collected": "Дата створення",
@@ -77,26 +79,26 @@
     "Download Offer File": "Завантажити файл пропозиції",
     "Offer file copied": "Файл пропозиції скопійовано",
     "Copy Offer File": "Копіювати файл пропозиції",
-    "Accept in Goby": "Прийняти в Goby",
-    "Loading": "Завантаження..."
+    "Accept in Goby": "Прийняти в Goby"
   },
   "markets": {
-    "heading": "Ринок",
-    "subheading": "Показано всі відомі активи з принаймні 1 XCH ліквідністю.",
+    "headingUSDS": "USDS Ринок",
     "Depth": "Глибина",
     "Rank": "Ранг",
     "Asset": "Актив",
-    "#buyPriceHint{{depth}}": "Ціна за одиницю покупки {{depth}} XCH \nі скільки отримає кожен XCH.",
+    "#buyPriceHint{{depth}}": "Ціна за одиницю покупки {{depth}} {{market}} \nі скільки отримає кожен {{market}}.",
     "Buy Price": "Ціна купівлі",
-    "#sellPriceHint{{depth}}": "Ціна за одиницю продажу {{depth}} XCH \nі скільки буде коштувати кожен XCH.",
+    "#sellPriceHint{{depth}}": "Ціна за одиницю продажу {{depth}} {{market}} \nі скільки буде коштувати кожен {{market}}.",
     "Sell Price": "Ціна продажу",
-    "#priceChangeHint{{depth}}": "Зміна середньої ціни (купуйте і продавайте за {{depth}} XCH)\n за останні 24 години.",
+    "#priceChangeHint{{depth}}": "Зміна середньої ціни (купуйте і продавайте за {{depth}} {{market}})\n за останні 24 години.",
     "24h Change": "24 год",
-    "#totalOfferedHint{{depth}}": "Сума кожного пропонованого активу.\nMarkets are ranked by most XCH in active offer files locked.\nOffers з повторюваними вводами ігнорується.",
+    "#totalOfferedHint{{depth}}": "Сума кожного пропонованого активу.\nMarkets are ranked by most {{market}} in active offer files locked.\nOffers з повторюваними вводами ігнорується.",
     "Total Offered": "Всього",
     "Actions": "Дії",
     "Buy": "Купити",
     "Sell": "Продати",
+    "headingXCH": "XCH Ринок",
+    "subheading": "Показано всі відомі активи з принаймні 1 XCH ліквідністю.",
     "no liquidity": "Немає ліквідності"
   },
   "notFound": {
