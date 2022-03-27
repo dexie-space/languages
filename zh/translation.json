@@ -117,6 +117,10 @@
     "Receive at most": "最多接受"
   },
   "trades": {
+    "feeExplanation": "",
+    "minFee": "",
+    "mempoolExplanation": "",
+    "mempoolSize": "",
     "no filters selected": "",
     "no results": "",
     "Offered": "已提供",

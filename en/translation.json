@@ -117,6 +117,10 @@
     "Receive at most": "Receive at most"
   },
   "trades": {
+    "feeExplanation": "The current minimum network fee you would need to pay\nto make your transaction go through.",
+    "minFee": "Min Fee",
+    "mempoolExplanation": "Transactions that are currently waiting to be included in a block.",
+    "mempoolSize": "Mempool",
     "no filters selected": "no filters selected",
     "no results": "no results",
     "Offered": "Offered",
