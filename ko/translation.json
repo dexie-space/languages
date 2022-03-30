@@ -1,22 +1,30 @@
 {
   "Connect Wallet": "지갑 연동",
   "footer": {
+    "Status": "",
     "synced": "동기화",
     "disconnected": ""
   },
   "common": {
     "Dark Mode": "다크 모드",
-    "Light Mode": "라이트 모드"
+    "Light Mode": "라이트 모드",
+    "Inspect": "추가정보",
+    "Offered": "제안",
+    "Requested": "요청",
+    "Date": "날짜",
+    "Height": "높이",
+    "Status": "상태",
+    "Actions": "Actions",
+    "Uploading": "업로딩...",
+    "Hide": "숨김"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",
-    "Uploading": "업로딩...",
     "#dropHint": "오퍼 파일을 여기에 두세요...",
     "#dragHint": "오퍼파일을 드래그 하거나 클릭하여 선택하세요",
-    "Uploading2": "업로딩...",
-    "Offer": "Offer",
-    "Inspect": "검사",
-    "Hide": "숨김"
+    "Your offers": "",
+    "No uploaded offers": "",
+    "No matching offers": ""
   },
   "invalid offer file": "유효하지 않은 오퍼파일",
   "gobyModal": {
@@ -39,7 +47,6 @@
     "Price": "가격",
     "Best Price": "최저가",
     "New": "신규",
-    "Inspect": "추가정보",
     "Accept": "받기",
     "Download Offer File": "오퍼 파일 다운로드",
     "Copy Offer File": "오퍼 파일 복사",
@@ -49,11 +56,11 @@
     "no results": "결과 없음"
   },
   "status": {
+    "active": "활성됨",
     "pending": "보류중",
     "cancelled": "취소",
     "completed": "완료",
-    "unknown": "알 수 없음",
-    "active": "활성됨"
+    "unknown": "알 수 없음"
   },
   "toast": {
     "Offer accepted": "제안 수락되었습니다"
@@ -122,13 +129,6 @@
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "필터가 선택되지 않았습니다",
-    "no results": "결과 없음",
-    "Offered": "제안",
-    "Requested": "요청",
-    "Date": "날짜",
-    "Height": "높이",
-    "Status": "상태",
-    "Actions": "Actions",
-    "Inspect": "추가정보"
+    "no results": "결과 없음"
   }
 }

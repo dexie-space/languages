@@ -1,22 +1,30 @@
 {
   "Connect Wallet": "Wallet verbinden",
   "footer": {
+    "Status": "Status",
     "synced": "synchronisiert",
     "disconnected": "getrennt"
   },
   "common": {
     "Dark Mode": "Dunkel",
-    "Light Mode": "Hell"
+    "Light Mode": "Hell",
+    "Inspect": "Infos",
+    "Offered": "Angeboten",
+    "Requested": "Gefordert",
+    "Date": "Datum",
+    "Height": "Block",
+    "Status": "Status",
+    "Actions": "Aktionen",
+    "Uploading": "Hochladen...",
+    "Hide": "Ausblenden"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
-    "Uploading": "Hochladen ...",
     "#dropHint": "Offer Files hier ablegen ...",
     "#dragHint": "Offer Files hier ablegen oder zur Auswahl klicken",
-    "Uploading2": "Hochladen ...",
-    "Offer": "Angebot",
-    "Inspect": "Infos",
-    "Hide": "Ausblenden"
+    "Your offers": "Deine Angebote",
+    "No uploaded offers": "Keine Angebote hochgeladen",
+    "No matching offers": "Keine passenden Angebote gefunden"
   },
   "invalid offer file": "Ungültiges Offer File",
   "gobyModal": {
@@ -39,7 +47,6 @@
     "Price": "Preis",
     "Best Price": "Bester Preis",
     "New": "Neu",
-    "Inspect": "Infos",
     "Accept": "Annehmen",
     "Download Offer File": "Angebot herunterladen",
     "Copy Offer File": "Angebot kopieren",
@@ -49,11 +56,11 @@
     "no results": "keine Ergebnisse"
   },
   "status": {
+    "active": "Aktiv",
     "pending": "Ausstehend",
     "cancelled": "Abgebrochen",
     "completed": "Ausgeführt",
-    "unknown": "Unbekannt",
-    "active": "Aktiv"
+    "unknown": "Unbekannt"
   },
   "toast": {
     "Offer accepted": "Angebot angenommen"
@@ -122,13 +129,6 @@
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
     "no filters selected": "keine Filter ausgewählt",
-    "no results": "keine Treffer",
-    "Offered": "Angeboten",
-    "Requested": "Gefordert",
-    "Date": "Datum",
-    "Height": "Block",
-    "Status": "Status",
-    "Actions": "Aktionen",
-    "Inspect": "Infos"
+    "no results": "keine Treffer"
   }
 }

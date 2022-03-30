@@ -1,22 +1,30 @@
 {
   "Connect Wallet": "Connect Wallet",
   "footer": {
+    "Status": "Status",
     "synced": "synced",
     "disconnected": "disconnected"
   },
   "common": {
     "Dark Mode": "Dark",
-    "Light Mode": "Light"
+    "Light Mode": "Light",
+    "Inspect": "Inspect",
+    "Offered": "Offered",
+    "Requested": "Requested",
+    "Date": "Date",
+    "Height": "Height",
+    "Status": "Status",
+    "Actions": "Actions",
+    "Uploading": "Uploading...",
+    "Hide": "Hide"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
-    "Uploading": "Uploading...",
     "#dropHint": "Drop your offer files here ...",
     "#dragHint": "Drop your offer files here, or click to select",
-    "Uploading2": "Uploading...",
-    "Offer": "Offer",
-    "Inspect": "Inspect",
-    "Hide": "Hide"
+    "Your offers": "Your Offers",
+    "No uploaded offers": "No uploaded offers",
+    "No matching offers": "No matching offers"
   },
   "invalid offer file": "Invalid Offer File",
   "gobyModal": {
@@ -39,7 +47,6 @@
     "Price": "Price",
     "Best Price": "Best price",
     "New": "New",
-    "Inspect": "Inspect",
     "Accept": "Accept",
     "Download Offer File": "Download Offer File",
     "Copy Offer File": "Copy Offer File",
@@ -49,11 +56,11 @@
     "no results": "no results"
   },
   "status": {
+    "active": "Active",
     "pending": "Pending",
     "cancelled": "Cancelled",
     "completed": "Completed",
-    "unknown": "Unknown",
-    "active": "Active"
+    "unknown": "Unknown"
   },
   "toast": {
     "Offer accepted": "Offer accepted"
@@ -119,16 +126,9 @@
   "trades": {
     "feeExplanation": "The current minimum network fee you would need to pay\nto make your transaction go through.",
     "minFee": "Min Fee",
-    "mempoolExplanation": "Transactions that are currently waiting to be included in a block.",
+    "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
     "no filters selected": "no filters selected",
-    "no results": "no results",
-    "Offered": "Offered",
-    "Requested": "Requested",
-    "Date": "Date",
-    "Height": "Height",
-    "Status": "Status",
-    "Actions": "Actions",
-    "Inspect": "Inspect"
+    "no results": "no results"
   }
 }

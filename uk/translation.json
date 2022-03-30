@@ -1,22 +1,30 @@
 {
   "Connect Wallet": "Підключіть гаманець",
   "footer": {
+    "Status": "",
     "synced": "Синхронізовано",
     "disconnected": ""
   },
   "common": {
     "Dark Mode": "Темна",
-    "Light Mode": "Світла"
+    "Light Mode": "Світла",
+    "Inspect": "Перегляд",
+    "Offered": "Запропоновано",
+    "Requested": "Отримано",
+    "Date": "Дата",
+    "Height": "Висота",
+    "Status": "Статус",
+    "Actions": "Дії",
+    "Uploading": "Завантаження...",
+    "Hide": "Сховати"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Файл пропозиції проіндексовано  успішно",
-    "Uploading": "Завантаження...",
     "#dropHint": "Перетягніть файл пропозиції сюди ...",
     "#dragHint": "Перетягніть файл пропозиції сюди або натисніть, щоб вибрати",
-    "Uploading2": "Завантаження...",
-    "Offer": "Пропозиція",
-    "Inspect": "Перегляд",
-    "Hide": "Сховати"
+    "Your offers": "",
+    "No uploaded offers": "",
+    "No matching offers": ""
   },
   "invalid offer file": "Недійсний файл пропозиції",
   "gobyModal": {
@@ -39,7 +47,6 @@
     "Price": "Ціна",
     "Best Price": "Найкраща ціна",
     "New": "Нова",
-    "Inspect": "Перегляд",
     "Accept": "Прийняти",
     "Download Offer File": "Завантажити пропозицію",
     "Copy Offer File": "Копіювати пропозицію",
@@ -49,11 +56,11 @@
     "no results": "Відсутній результат"
   },
   "status": {
+    "active": "Активна",
     "pending": "Очікує",
     "cancelled": "Скасовано",
     "completed": "Виконано",
-    "unknown": "Невідомо",
-    "active": "Активна"
+    "unknown": "Невідомо"
   },
   "toast": {
     "Offer accepted": "Пропозиція прийнята"
@@ -122,13 +129,6 @@
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "Фільтрів не вибрано",
-    "no results": "Немає результату",
-    "Offered": "Запропоновано",
-    "Requested": "Отримано",
-    "Date": "Дата",
-    "Height": "Висота",
-    "Status": "Статус",
-    "Actions": "Дії",
-    "Inspect": "Перегляд"
+    "no results": "Немає результату"
   }
 }

@@ -1,28 +1,36 @@
 {
   "Connect Wallet": "链接钱包",
   "footer": {
+    "Status": "状态",
     "synced": "已同步",
-    "disconnected": ""
+    "disconnected": "已断开连接"
   },
   "common": {
-    "Dark Mode": "",
-    "Light Mode": ""
+    "Dark Mode": "暗黑模式",
+    "Light Mode": "明亮模式",
+    "Inspect": "检查",
+    "Offered": "已提供",
+    "Requested": "已要求",
+    "Date": "日期",
+    "Height": "高度",
+    "Status": "状态",
+    "Actions": "动作",
+    "Uploading": "上传中...",
+    "Hide": "隐藏"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
-    "Uploading": "上传中...",
     "#dropHint": "请将你的offer文件拖放到这里...",
     "#dragHint": "请将你的offer文件拖放到这里, 或者点击屏幕从文件夹中选择",
-    "Uploading2": "上传中g...",
-    "Offer": "Offer",
-    "Inspect": "检查",
-    "Hide": "隐藏"
+    "Your offers": "",
+    "No uploaded offers": "",
+    "No matching offers": ""
   },
   "invalid offer file": "Offer文件无效",
   "gobyModal": {
     "notice": "需要Goby浏览器扩展插件",
-    "Try Goby": "",
-    "gobyInfo": ""
+    "Try Goby": "试用Goby",
+    "gobyInfo": "Goby是Chia的开源浏览器钱包。"
   },
   "header": {
     "Markets": "市场",
@@ -39,7 +47,6 @@
     "Price": "价格",
     "Best Price": "最优价格",
     "New": "新",
-    "Inspect": "检查",
     "Accept": "接受",
     "Download Offer File": "下载Offer文件",
     "Copy Offer File": "拷贝offer文件",
@@ -49,11 +56,11 @@
     "no results": "没有结果"
   },
   "status": {
+    "active": "活跃",
     "pending": "待处理",
     "cancelled": "已取消",
     "completed": "已完成",
-    "unknown": "未知",
-    "active": "活跃"
+    "unknown": "未知"
   },
   "toast": {
     "Offer accepted": "Offer已被接受"
@@ -66,7 +73,7 @@
   },
   "inspect": {
     "Loading": "加载中...",
-    "offer not found": "",
+    "offer not found": "Offer未找到",
     "offer": "Offer",
     "dexie link": "dexie链接",
     "Date Collected": "日期已搜集",
@@ -87,11 +94,11 @@
     "Rank": "排行",
     "Asset": "资产",
     "#buyPriceHint{{depth}}": "购买单价{{depth}} {{market}}总量\n以及每个{{market}}得到多少。",
-    "Buy Price": "Buy Price",
+    "Buy Price": "买入价格",
     "#sellPriceHint{{depth}}": "售出单价{{depth}} {{market}}总量\n以及每个{{market}}花掉多少",
-    "Sell Price": "Sell Price",
+    "Sell Price": "卖出价格",
     "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} {{market}}深度)\n在过去24小时内。",
-    "24h Change": "24h",
+    "24h Change": "24小时变化",
     "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数{{market}}被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
     "Total Offered": "全部已提供的",
     "Actions": "动作",
@@ -102,10 +109,10 @@
     "no liquidity": "没有流动性"
   },
   "notFound": {
-    "404 Error": "",
-    "Page not found": "",
-    "Sorry, we couldn't find the page you're looking for": "",
-    "Go back home": ""
+    "404 Error": "Error 404",
+    "Page not found": "页面未找到",
+    "Sorry, we couldn't find the page you're looking for": "对不起，我们没找到您查找的页面。",
+    "Go back home": "回到首页"
   },
   "offers": {
     "Offer": "Offer",
@@ -117,18 +124,11 @@
     "Receive at most": "最多接受"
   },
   "trades": {
-    "feeExplanation": "",
-    "minFee": "",
-    "mempoolExplanation": "",
-    "mempoolSize": "",
-    "no filters selected": "",
-    "no results": "",
-    "Offered": "已提供",
-    "Requested": "已要求",
-    "Date": "日期",
-    "Height": "高度",
-    "Status": "状态",
-    "Actions": "动作",
-    "Inspect": "检查"
+    "feeExplanation": "你需支付的当前最低网络转账手续费\n以确保你的转账成功。",
+    "minFee": "最低转账手续费",
+    "mempoolExplanation": "当前等待打包到区块的转账数量",
+    "mempoolSize": "内存池数量",
+    "no filters selected": "未选择过滤条件",
+    "no results": "无结果"
   }
 }

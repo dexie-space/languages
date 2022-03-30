@@ -1,22 +1,30 @@
 {
   "Connect Wallet": "Connecter votre Portefeuille",
   "footer": {
+    "Status": "",
     "synced": "synchronisé",
     "disconnected": ""
   },
   "common": {
     "Dark Mode": "Nuit",
-    "Light Mode": "Jour"
+    "Light Mode": "Jour",
+    "Inspect": "Inspecter",
+    "Offered": "Offert",
+    "Requested": "Demandé",
+    "Date": "Date",
+    "Height": "Hauteur",
+    "Status": "Statut",
+    "Actions": "Actions",
+    "Uploading": "Chargement...",
+    "Hide": "Cacher"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",
-    "Uploading": "Chargement...",
     "#dropHint": "Déposer vos Offres ici ...",
     "#dragHint": "Déposer vos Offres ici, ou cliquer pour sélectionner",
-    "Uploading2": "Chargement...",
-    "Offer": "Offre",
-    "Inspect": "Inspecter",
-    "Hide": "Cacher"
+    "Your offers": "",
+    "No uploaded offers": "",
+    "No matching offers": ""
   },
   "invalid offer file": "Offre invalide",
   "gobyModal": {
@@ -39,7 +47,6 @@
     "Price": "Prix",
     "Best Price": "Meilleur Prix",
     "New": "Nouveau",
-    "Inspect": "Inspecter",
     "Accept": "Accepter",
     "Download Offer File": "Télécharger l’Offre",
     "Copy Offer File": "Copier l’Offre",
@@ -49,11 +56,11 @@
     "no results": "aucun résultat"
   },
   "status": {
+    "active": "Active",
     "pending": "",
     "cancelled": "Annulée",
     "completed": "Complétée",
-    "unknown": "Annulée",
-    "active": "Active"
+    "unknown": "Annulée"
   },
   "toast": {
     "Offer accepted": "Offre acceptée"
@@ -122,13 +129,6 @@
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "",
-    "no results": "aucun résultat",
-    "Offered": "Offert",
-    "Requested": "Demandé",
-    "Date": "Date",
-    "Height": "Hauteur",
-    "Status": "Statut",
-    "Actions": "Actions",
-    "Inspect": "Inspecter"
+    "no results": "aucun résultat"
   }
 }
