@@ -1,4 +1,8 @@
 {
+  "createOffer": {
+    "Select Offer Token": "",
+    "Search token by code or name": ""
+  },
   "Connect Wallet": "지갑 연동",
   "footer": {
     "Status": "",
@@ -63,6 +67,8 @@
     "unknown": "알 수 없음"
   },
   "toast": {
+    "gobyError4001": "",
+    "gobyError4900": "",
     "Offer accepted": "제안 수락되었습니다"
   },
   "faq": {
@@ -89,7 +95,7 @@
     "Accept in Goby": "Goby를 사용해 열기"
   },
   "markets": {
-    "headingUSDS": "USDS Markets",
+    "{{market}} heading": "{{market}} Markets",
     "Depth": "깊이",
     "Rank": "순위",
     "Asset": "자산",
@@ -104,8 +110,7 @@
     "Actions": "Actions",
     "Buy": "구매",
     "Sell": "판매",
-    "headingXCH": "XCH Markets",
-    "subheading": "최소 1개의 XCH 매수 및 매도 유동성이 있는 모든 자산.",
+    "{{market}} subheading": "최소 1개의 {{market}} 매수 및 매도 유동성이 있는 모든 자산.",
     "no liquidity": "유동성 없음"
   },
   "notFound": {

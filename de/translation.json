@@ -1,4 +1,8 @@
 {
+  "createOffer": {
+    "Select Offer Token": "",
+    "Search token by code or name": ""
+  },
   "Connect Wallet": "Wallet verbinden",
   "footer": {
     "Status": "Status",
@@ -63,6 +67,8 @@
     "unknown": "Unbekannt"
   },
   "toast": {
+    "gobyError4001": "",
+    "gobyError4900": "",
     "Offer accepted": "Angebot angenommen"
   },
   "faq": {
@@ -89,7 +95,7 @@
     "Accept in Goby": "mit Goby annehmen"
   },
   "markets": {
-    "headingUSDS": "USDS Märkte",
+    "{{market}} heading": "{{market}} Märkte",
     "Depth": "Tiefe",
     "Rank": "Rang",
     "Asset": "Währung",
@@ -104,8 +110,7 @@
     "Actions": "Aktionen",
     "Buy": "Kaufen",
     "Sell": "Verkaufen",
-    "headingXCH": "XCH Märkte",
-    "subheading": "Alle bekannten Währungen mit mindestens 1 XCH Kauf- und Verkaufsliquidität.",
+    "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
     "no liquidity": "keine Liquidität"
   },
   "notFound": {

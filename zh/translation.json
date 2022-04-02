@@ -1,4 +1,8 @@
 {
+  "createOffer": {
+    "Select Offer Token": "",
+    "Search token by code or name": ""
+  },
   "Connect Wallet": "链接钱包",
   "footer": {
     "Status": "状态",
@@ -63,6 +67,8 @@
     "unknown": "未知"
   },
   "toast": {
+    "gobyError4001": "",
+    "gobyError4900": "",
     "Offer accepted": "Offer已被接受"
   },
   "faq": {
@@ -89,7 +95,7 @@
     "Accept in Goby": "在Goby钱包接受"
   },
   "markets": {
-    "headingUSDS": "USDS 市场",
+    "{{market}} heading": "{{market}} 市场",
     "Depth": "深度",
     "Rank": "排行",
     "Asset": "资产",
@@ -104,8 +110,7 @@
     "Actions": "动作",
     "Buy": "买",
     "Sell": "卖",
-    "headingXCH": "XCH 市场",
-    "subheading": "仅显示至少有1XCH买卖流动性的所有已知资产。",
+    "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",
     "no liquidity": "没有流动性"
   },
   "notFound": {

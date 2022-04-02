@@ -16,9 +16,9 @@ Example:
 To add a new language, simply create a new directory and name it with the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language. You can copy the JSON file from an existing language into the new directory as a template.
 
 ## Test Translations
-Everyone who participates, gets access to the dexie testnet where all translations are automatically updated. 
+All translations are automatically updated on [dexie Testnet](https://testnet.dexie.space). 
 
-Translations will usually go live in the next weekly update.
+Translations will usually go live on Mainnet in the next weekly update.
 
 ## Questions?
 Head over to our [dexie discord](https://discord.gg/3xUrkAxUmd) and join the channel #translators. If you are not familiar with Github, you can also submit translations or suggestions there.

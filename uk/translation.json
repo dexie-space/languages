@@ -1,4 +1,8 @@
 {
+  "createOffer": {
+    "Select Offer Token": "",
+    "Search token by code or name": ""
+  },
   "Connect Wallet": "Підключіть гаманець",
   "footer": {
     "Status": "",
@@ -63,6 +67,8 @@
     "unknown": "Невідомо"
   },
   "toast": {
+    "gobyError4001": "",
+    "gobyError4900": "",
     "Offer accepted": "Пропозиція прийнята"
   },
   "faq": {
@@ -89,7 +95,7 @@
     "Accept in Goby": "Прийняти в Goby"
   },
   "markets": {
-    "headingUSDS": "USDS Ринок",
+    "{{market}} heading": "{{market}} Ринок",
     "Depth": "Глибина",
     "Rank": "Ранг",
     "Asset": "Актив",
@@ -104,8 +110,7 @@
     "Actions": "Дії",
     "Buy": "Купити",
     "Sell": "Продати",
-    "headingXCH": "XCH Ринок",
-    "subheading": "Показано всі відомі активи з принаймні 1 XCH ліквідністю.",
+    "{{market}} subheading": "Показано всі відомі активи з принаймні 1 {{market}} ліквідністю.",
     "no liquidity": "Немає ліквідності"
   },
   "notFound": {
