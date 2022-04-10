@@ -1,13 +1,14 @@
 {
   "createOffer": {
-    "Select Offer Token": "",
-    "Search token by code or name": ""
+    "Select Offer Token": "Select Token",
+    "Search token by code or name": "Search token by code or name"
   },
   "Connect Wallet": "Connect Wallet",
   "footer": {
     "Status": "Status",
     "synced": "synced",
-    "disconnected": "disconnected"
+    "disconnected": "disconnected",
+    "connecting": "connecting"
   },
   "common": {
     "Dark Mode": "Dark",
@@ -24,10 +25,22 @@
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
-    "#dropHint": "Drop your offer files here ...",
-    "#dragHint": "Drop your offer files here, or click to select",
-    "Your offers": "Your Offers",
-    "No uploaded offers": "No uploaded offers",
+    "Upload Offer File": "Upload Offer File",
+    "Create with Goby": "Create with Goby",
+    "Paste Offer": "Paste Offer",
+    "Backup / Restore": "Backup / Restore",
+    "Add Offer": "Add Offer",
+    "subheading": "Choose how to add your offer. All offers are automatically shared over IPFS.",
+    "#dragHint": "Drop your offer files here",
+    "Raw Offer here": "Raw Offer here",
+    "No Offer entered": "No Offer entered",
+    "Submit Offer": "Submit Offer",
+    "Paste from Clipboard": "Paste from Clipboard",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage.",
+    "Backup Your Offers": "Backup Your Offers",
+    "Restore Your Offers": "Restore Your Offers",
+    "Duplicate offers will be merged": "Duplicate offers will be merged.",
+    "Your Added Offers": "Your Added Offers",
     "No matching offers": "No matching offers"
   },
   "invalid offer file": "Invalid Offer File",

@@ -7,7 +7,8 @@
   "footer": {
     "Status": "状态",
     "synced": "已同步",
-    "disconnected": "已断开连接"
+    "disconnected": "已断开连接",
+    "connecting": ""
   },
   "common": {
     "Dark Mode": "暗黑模式",
@@ -24,10 +25,22 @@
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
-    "#dropHint": "请将你的offer文件拖放到这里...",
+    "Upload Offer File": "",
+    "Create with Goby": "",
+    "Paste Offer": "",
+    "Backup / Restore": "",
+    "Add Offer": "",
+    "subheading": "",
     "#dragHint": "请将你的offer文件拖放到这里, 或者点击屏幕从文件夹中选择",
-    "Your offers": "",
-    "No uploaded offers": "",
+    "Raw Offer here": "",
+    "No Offer entered": "",
+    "Submit Offer": "",
+    "Paste from Clipboard": "",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "",
+    "Backup Your Offers": "",
+    "Restore Your Offers": "",
+    "Duplicate offers will be merged": "",
+    "Your Added Offers": "",
     "No matching offers": ""
   },
   "invalid offer file": "Offer文件无效",

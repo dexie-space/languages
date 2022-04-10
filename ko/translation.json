@@ -7,7 +7,8 @@
   "footer": {
     "Status": "",
     "synced": "동기화",
-    "disconnected": ""
+    "disconnected": "",
+    "connecting": ""
   },
   "common": {
     "Dark Mode": "다크 모드",
@@ -24,10 +25,22 @@
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",
-    "#dropHint": "오퍼 파일을 여기에 두세요...",
+    "Upload Offer File": "",
+    "Create with Goby": "",
+    "Paste Offer": "",
+    "Backup / Restore": "",
+    "Add Offer": "",
+    "subheading": "",
     "#dragHint": "오퍼파일을 드래그 하거나 클릭하여 선택하세요",
-    "Your offers": "",
-    "No uploaded offers": "",
+    "Raw Offer here": "",
+    "No Offer entered": "",
+    "Submit Offer": "",
+    "Paste from Clipboard": "",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "",
+    "Backup Your Offers": "",
+    "Restore Your Offers": "",
+    "Duplicate offers will be merged": "",
+    "Your Added Offers": "",
     "No matching offers": ""
   },
   "invalid offer file": "유효하지 않은 오퍼파일",

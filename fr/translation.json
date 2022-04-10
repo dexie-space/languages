@@ -7,7 +7,8 @@
   "footer": {
     "Status": "",
     "synced": "synchronisé",
-    "disconnected": ""
+    "disconnected": "",
+    "connecting": ""
   },
   "common": {
     "Dark Mode": "Nuit",
@@ -24,10 +25,22 @@
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",
-    "#dropHint": "Déposer vos Offres ici ...",
-    "#dragHint": "Déposer vos Offres ici, ou cliquer pour sélectionner",
-    "Your offers": "",
-    "No uploaded offers": "",
+    "Upload Offer File": "",
+    "Create with Goby": "",
+    "Paste Offer": "",
+    "Backup / Restore": "",
+    "Add Offer": "",
+    "subheading": "",
+    "#dragHint": "Déposer vos Offres ici",
+    "Raw Offer here": "",
+    "No Offer entered": "",
+    "Submit Offer": "",
+    "Paste from Clipboard": "",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "",
+    "Backup Your Offers": "",
+    "Restore Your Offers": "",
+    "Duplicate offers will be merged": "",
+    "Your Added Offers": "",
     "No matching offers": ""
   },
   "invalid offer file": "Offre invalide",

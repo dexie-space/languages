@@ -1,13 +1,14 @@
 {
   "createOffer": {
-    "Select Offer Token": "",
-    "Search token by code or name": ""
+    "Select Offer Token": "Select Token",
+    "Search token by code or name": "Search token by code or name"
   },
   "Connect Wallet": "Wallet verbinden",
   "footer": {
     "Status": "Status",
     "synced": "synchronisiert",
-    "disconnected": "getrennt"
+    "disconnected": "getrennt",
+    "connecting": "verbinde"
   },
   "common": {
     "Dark Mode": "Dunkel",
@@ -24,10 +25,22 @@
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
-    "#dropHint": "Offer Files hier ablegen ...",
-    "#dragHint": "Offer Files hier ablegen oder zur Auswahl klicken",
-    "Your offers": "Deine Angebote",
-    "No uploaded offers": "Keine Angebote hochgeladen",
+    "Upload Offer File": "Angebot hochladen",
+    "Create with Goby": "Mit Goby erstellen",
+    "Paste Offer": "Angebot einfügen",
+    "Backup / Restore": "Sichern / Wiederherstellen",
+    "Add Offer": "Angebot hinzufügen",
+    "subheading": "Wähle wie du dein Angebot erstellen möchtest. Alle Angebote werden automatisch über IPFS geteilt.",
+    "#dragHint": "Offer Files hier ablegen",
+    "Raw Offer here": "Offer File",
+    "No Offer entered": "Kein Angebot eingegeben",
+    "Submit Offer": "Angebot hinzufügen",
+    "Paste from Clipboard": "Aus Zwischenablage einfügen",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Deine hinzugefügten Angebote werden in deinem Browser gespeichert, erstelle daher eine Sicherungskopie bevor du deinen Browser zurücksetzt.",
+    "Backup Your Offers": "Angebote sichern",
+    "Restore Your Offers": "Angebote wiederherstellen",
+    "Duplicate offers will be merged": "Doppelte Angebote werden zusammengeführt.",
+    "Your Added Offers": "Deine Angebote",
     "No matching offers": "Keine passenden Angebote gefunden"
   },
   "invalid offer file": "Ungültiges Offer File",
