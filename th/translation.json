@@ -15,7 +15,7 @@
     "Light Mode": "โหมดสว่าง",
     "Inspect": "ตรวจสอบ",
     "Offered": "นำเสนอ",
-    "Requested": "ขอแล้ว",
+    "Requested": "ร้องขอ",
     "Date": "วันที่",
     "Height": "ความสูง",
     "Status": "สถานะ",
@@ -59,12 +59,12 @@
   },
   "offersTable": {
     "No Offers Found": "ไม่พบข้อเสนอ",
-    "You Offer": "ข้อเสนอของคุณ",
+    "You Offer": "คุณเสนอ",
     "You Receive": "คุณได้รับ",
     "Price": "ราคา",
     "Best Price": "ราคาที่ดีที่สุด",
     "New": "ใหม่",
-    "Accept": "รับ",
+    "Accept": "ตอบรับ",
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
     "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ",
     "Accept in Goby": "ตอบรับข้อเสนอทาง Goby"
