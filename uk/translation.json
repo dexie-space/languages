@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "",
-    "Search token by code or name": ""
-  },
-  "Connect Wallet": "Підключіть гаманець",
-  "footer": {
-    "Status": "",
-    "synced": "Синхронізовано",
-    "disconnected": "",
-    "connecting": ""
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "Пошук маркера за кодом або назвою",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Inspect": "Перегляд",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "Запропоновано",
     "Requested": "Отримано",
     "Date": "Дата",
@@ -22,6 +22,13 @@
     "Actions": "Дії",
     "Uploading": "Завантаження...",
     "Hide": "Сховати"
+  },
+  "Connect Wallet": "Підключіть гаманець",
+  "footer": {
+    "Status": "",
+    "synced": "Синхронізовано",
+    "disconnected": "",
+    "connecting": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Файл пропозиції проіндексовано  успішно",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "Пропозиція",
-    "Search token by code or name": "Пошук маркера за кодом або назвою",
     "Offer at least": "Запропонувати",
     "Offer at most": "Максимальна пропозиція",
     "Receive": "Отримати",
@@ -146,7 +152,7 @@
     "minFee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no filters selected": "Фільтрів не вибрано",
-    "no results": "Немає результату"
+    "no results": "Немає результату",
+    "no filters selected": "Фільтрів не вибрано"
   }
 }

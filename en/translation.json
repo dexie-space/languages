@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "Select Token",
-    "Search token by code or name": "Search token by code or name"
-  },
-  "Connect Wallet": "Connect Wallet",
-  "footer": {
-    "Status": "Status",
-    "synced": "synced",
-    "disconnected": "disconnected",
-    "connecting": "connecting"
+    "Please wait": "Please wait...",
+    "Create Offer with Goby": "Create Offer with Goby"
   },
   "common": {
+    "Search token by code or name": "Search token by code or name",
+    "You Offer": "You Offer",
+    "You Request": "You Request",
     "Dark Mode": "Dark",
     "Light Mode": "Light",
     "Inspect": "Inspect",
+    "All Markets": "All Markets",
+    "Select Market": "Select Market",
+    "Loading": "Loading",
     "Offered": "Offered",
     "Requested": "Requested",
     "Date": "Date",
@@ -22,6 +22,13 @@
     "Actions": "Actions",
     "Uploading": "Uploading...",
     "Hide": "Hide"
+  },
+  "Connect Wallet": "Connect Wallet",
+  "footer": {
+    "Status": "Status",
+    "synced": "synced",
+    "disconnected": "disconnected",
+    "connecting": "connecting"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "Offer",
-    "Search token by code or name": "Search token by code or name",
     "Offer at least": "Offer at least",
     "Offer at most": "Offer at most",
     "Receive": "Receive",
@@ -146,7 +152,7 @@
     "minFee": "Min Fee",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no filters selected",
-    "no results": "no results"
+    "no results": "no results",
+    "no filters selected": "no filters selected"
   }
 }

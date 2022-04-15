@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "",
-    "Search token by code or name": ""
-  },
-  "Connect Wallet": "链接钱包",
-  "footer": {
-    "Status": "状态",
-    "synced": "已同步",
-    "disconnected": "已断开连接",
-    "connecting": ""
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "按代号或名称查询通证",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Inspect": "检查",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "已提供",
     "Requested": "已要求",
     "Date": "日期",
@@ -22,6 +22,13 @@
     "Actions": "动作",
     "Uploading": "上传中...",
     "Hide": "隐藏"
+  },
+  "Connect Wallet": "链接钱包",
+  "footer": {
+    "Status": "状态",
+    "synced": "已同步",
+    "disconnected": "已断开连接",
+    "connecting": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "Offer",
-    "Search token by code or name": "按代号或名称查询通证",
     "Offer at least": "最少提供",
     "Offer at most": "最多提供",
     "Receive": "接受",
@@ -146,7 +152,7 @@
     "minFee": "最低转账手续费",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
-    "no filters selected": "未选择过滤条件",
-    "no results": "无结果"
+    "no results": "无结果",
+    "no filters selected": "未选择过滤条件"
   }
 }

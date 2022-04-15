@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "เลือกเหรียญ",
-    "Search token by code or name": "ค้นหาเหรียญโดยโค้ดหรือชื่อ"
-  },
-  "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
-  "footer": {
-    "Status": "สถานะ",
-    "synced": "เชื่อมต่อ",
-    "disconnected": "ขาดการเชื่อมต่อ",
-    "connecting": "กำลังเชื่อมต่อ"
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "ค้นหาเหรียญโดยโค้ดหรือชื่อ",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "โหมดมืด",
     "Light Mode": "โหมดสว่าง",
     "Inspect": "ตรวจสอบ",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "นำเสนอ",
     "Requested": "ร้องขอ",
     "Date": "วันที่",
@@ -22,6 +22,13 @@
     "Actions": "การกระทำ",
     "Uploading": "กำลังอัพโหลด...",
     "Hide": "ซ่อน"
+  },
+  "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
+  "footer": {
+    "Status": "สถานะ",
+    "synced": "เชื่อมต่อ",
+    "disconnected": "ขาดการเชื่อมต่อ",
+    "connecting": "กำลังเชื่อมต่อ"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "ข้อเสนอ",
-    "Search token by code or name": "ค้นหาเหรียญโดยโค้ดหรือชื่อ",
     "Offer at least": "เสนออย่างน้อย",
     "Offer at most": "เสนออย่างมาก",
     "Receive": "ข้อตอบรับ",
@@ -146,7 +152,7 @@
     "minFee": "ค่าธรรมเนียมต่ำสุด",
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
-    "no filters selected": "ไม่ได้เลือกตัวคัดกรอง",
-    "no results": "ไม่พบผลลัพธ์"
+    "no results": "ไม่พบผลลัพธ์",
+    "no filters selected": "ไม่ได้เลือกตัวคัดกรอง"
   }
 }

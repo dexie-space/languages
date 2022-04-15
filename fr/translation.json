@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "",
-    "Search token by code or name": ""
-  },
-  "Connect Wallet": "Connecter votre Portefeuille",
-  "footer": {
-    "Status": "",
-    "synced": "synchronisé",
-    "disconnected": "",
-    "connecting": ""
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "Rechercher un jeton par code ou par nom",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "Nuit",
     "Light Mode": "Jour",
     "Inspect": "Inspecter",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "Offert",
     "Requested": "Demandé",
     "Date": "Date",
@@ -22,6 +22,13 @@
     "Actions": "Actions",
     "Uploading": "Chargement...",
     "Hide": "Cacher"
+  },
+  "Connect Wallet": "Connecter votre Portefeuille",
+  "footer": {
+    "Status": "",
+    "synced": "synchronisé",
+    "disconnected": "",
+    "connecting": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "Offre",
-    "Search token by code or name": "Rechercher un jeton par code ou par nom",
     "Offer at least": "Offrez au moins",
     "Offer at most": "Offrez au plus",
     "Receive": "Recevez",
@@ -146,7 +152,7 @@
     "minFee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no filters selected": "",
-    "no results": "aucun résultat"
+    "no results": "aucun résultat",
+    "no filters selected": ""
   }
 }

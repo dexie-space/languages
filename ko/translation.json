@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "",
-    "Search token by code or name": ""
-  },
-  "Connect Wallet": "지갑 연동",
-  "footer": {
-    "Status": "",
-    "synced": "동기화",
-    "disconnected": "",
-    "connecting": ""
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "코드나 이름으로 토큰 찾기",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
     "Inspect": "추가정보",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "제안",
     "Requested": "요청",
     "Date": "날짜",
@@ -22,6 +22,13 @@
     "Actions": "Actions",
     "Uploading": "업로딩...",
     "Hide": "숨김"
+  },
+  "Connect Wallet": "지갑 연동",
+  "footer": {
+    "Status": "",
+    "synced": "동기화",
+    "disconnected": "",
+    "connecting": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "제안",
-    "Search token by code or name": "코드나 이름으로 토큰 찾기",
     "Offer at least": "최저 제안",
     "Offer at most": "최고 제안",
     "Receive": "수락",
@@ -146,7 +152,7 @@
     "minFee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no filters selected": "필터가 선택되지 않았습니다",
-    "no results": "결과 없음"
+    "no results": "결과 없음",
+    "no filters selected": "필터가 선택되지 않았습니다"
   }
 }

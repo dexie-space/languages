@@ -1,19 +1,19 @@
 {
   "createOffer": {
     "Select Offer Token": "Select Token",
-    "Search token by code or name": "Search token by code or name"
-  },
-  "Connect Wallet": "Wallet verbinden",
-  "footer": {
-    "Status": "Status",
-    "synced": "synchronisiert",
-    "disconnected": "getrennt",
-    "connecting": "verbinde"
+    "Please wait": "",
+    "Create Offer with Goby": ""
   },
   "common": {
+    "Search token by code or name": "Währung suchen",
+    "You Offer": "",
+    "You Request": "",
     "Dark Mode": "Dunkel",
     "Light Mode": "Hell",
     "Inspect": "Infos",
+    "All Markets": "",
+    "Select Market": "",
+    "Loading": "",
     "Offered": "Angeboten",
     "Requested": "Gefordert",
     "Date": "Datum",
@@ -22,6 +22,13 @@
     "Actions": "Aktionen",
     "Uploading": "Hochladen...",
     "Hide": "Ausblenden"
+  },
+  "Connect Wallet": "Wallet verbinden",
+  "footer": {
+    "Status": "Status",
+    "synced": "synchronisiert",
+    "disconnected": "getrennt",
+    "connecting": "verbinde"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
@@ -134,7 +141,6 @@
   },
   "offers": {
     "Offer": "Biete",
-    "Search token by code or name": "Währung suchen",
     "Offer at least": "Biete mindestens",
     "Offer at most": "Biete höchstens",
     "Receive": "Erhalte",
@@ -146,7 +152,7 @@
     "minFee": "Mindestgebühr",
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
-    "no filters selected": "keine Filter ausgewählt",
-    "no results": "keine Treffer"
+    "no results": "keine Treffer",
+    "no filters selected": "keine Filter ausgewählt"
   }
 }
