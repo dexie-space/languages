@@ -21,6 +21,7 @@
     "Status": "Статус",
     "Actions": "Дії",
     "Uploading": "Завантаження...",
+    "Trade": "Торгівля",
     "Hide": "Сховати"
   },
   "Connect Wallet": "Підключіть гаманець",
@@ -75,6 +76,9 @@
     "Download Offer File": "Завантажити пропозицію",
     "Copy Offer File": "Копіювати пропозицію",
     "Accept in Goby": "Прийняти в Goby"
+  },
+  "ribbon": {
+    "Yours": ""
   },
   "optionsModal": {
     "no results": "Відсутній результат"
@@ -140,12 +144,12 @@
     "Go back home": ""
   },
   "offers": {
-    "Offer": "Пропозиція",
     "Offer at least": "Запропонувати",
     "Offer at most": "Максимальна пропозиція",
-    "Receive": "Отримати",
     "Receive at least": "Отримати",
-    "Receive at most": "Максимум отримати"
+    "Receive at most": "Максимум отримати",
+    "Offer": "Пропозиція",
+    "Receive": "Отримати"
   },
   "trades": {
     "feeExplanation": "",

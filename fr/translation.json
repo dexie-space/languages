@@ -21,6 +21,7 @@
     "Status": "Statut",
     "Actions": "Actions",
     "Uploading": "Chargement...",
+    "Trade": "Echanger",
     "Hide": "Cacher"
   },
   "Connect Wallet": "Connecter votre Portefeuille",
@@ -75,6 +76,9 @@
     "Download Offer File": "Télécharger l’Offre",
     "Copy Offer File": "Copier l’Offre",
     "Accept in Goby": "Accepter dans Goby"
+  },
+  "ribbon": {
+    "Yours": ""
   },
   "optionsModal": {
     "no results": "aucun résultat"
@@ -140,12 +144,12 @@
     "Go back home": ""
   },
   "offers": {
-    "Offer": "Offre",
     "Offer at least": "Offrez au moins",
     "Offer at most": "Offrez au plus",
-    "Receive": "Recevez",
     "Receive at least": "Recevez au moins",
-    "Receive at most": "Recevez au plus"
+    "Receive at most": "Recevez au plus",
+    "Offer": "Offre",
+    "Receive": "Recevez"
   },
   "trades": {
     "feeExplanation": "",

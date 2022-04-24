@@ -21,6 +21,7 @@
     "Status": "상태",
     "Actions": "Actions",
     "Uploading": "업로딩...",
+    "Trade": "거래",
     "Hide": "숨김"
   },
   "Connect Wallet": "지갑 연동",
@@ -75,6 +76,9 @@
     "Download Offer File": "오퍼 파일 다운로드",
     "Copy Offer File": "오퍼 파일 복사",
     "Accept in Goby": "Goby를 사용해 열기"
+  },
+  "ribbon": {
+    "Yours": ""
   },
   "optionsModal": {
     "no results": "결과 없음"
@@ -140,12 +144,12 @@
     "Go back home": ""
   },
   "offers": {
-    "Offer": "제안",
     "Offer at least": "최저 제안",
     "Offer at most": "최고 제안",
-    "Receive": "수락",
     "Receive at least": "최저 수락",
-    "Receive at most": "최고 수락"
+    "Receive at most": "최고 수락",
+    "Offer": "제안",
+    "Receive": "수락"
   },
   "trades": {
     "feeExplanation": "",

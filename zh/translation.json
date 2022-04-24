@@ -1,19 +1,19 @@
 {
   "createOffer": {
-    "Select Offer Token": "",
-    "Please wait": "",
-    "Create Offer with Goby": ""
+    "Select Offer Token": "选择生成Offer的代币",
+    "Please wait": "请等待",
+    "Create Offer with Goby": "用Goby生成Offer"
   },
   "common": {
     "Search token by code or name": "按代号或名称查询通证",
-    "You Offer": "",
-    "You Request": "",
+    "You Offer": "你提供",
+    "You Request": "你要换",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Inspect": "检查",
-    "All Markets": "",
-    "Select Market": "",
-    "Loading": "",
+    "All Markets": "所有市场",
+    "Select Market": "选定市场",
+    "Loading": "加载中",
     "Offered": "已提供",
     "Requested": "已要求",
     "Date": "日期",
@@ -21,6 +21,7 @@
     "Status": "状态",
     "Actions": "动作",
     "Uploading": "上传中...",
+    "Trade": "交易",
     "Hide": "隐藏"
   },
   "Connect Wallet": "链接钱包",
@@ -28,27 +29,27 @@
     "Status": "状态",
     "synced": "已同步",
     "disconnected": "已断开连接",
-    "connecting": ""
+    "connecting": "链接中"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
-    "Upload Offer File": "",
-    "Create with Goby": "",
-    "Paste Offer": "",
-    "Backup / Restore": "",
-    "Add Offer": "",
-    "subheading": "",
+    "Upload Offer File": "上传Offer文件",
+    "Create with Goby": "用Goby钱包生成",
+    "Paste Offer": "粘贴Offer文件",
+    "Backup / Restore": "备份/恢复",
+    "Add Offer": "增加Offer文件",
+    "subheading": "Choose how to add your offer. All offers are automatically shared over IPFS.",
     "#dragHint": "请将你的offer文件拖放到这里, 或者点击屏幕从文件夹中选择",
-    "Raw Offer here": "",
-    "No Offer entered": "",
-    "Submit Offer": "",
-    "Paste from Clipboard": "",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "",
-    "Backup Your Offers": "",
-    "Restore Your Offers": "",
-    "Duplicate offers will be merged": "",
-    "Your Added Offers": "",
-    "No matching offers": ""
+    "Raw Offer here": "此处粘贴Offer",
+    "No Offer entered": "没有输入Offer",
+    "Submit Offer": "提交Offer",
+    "Paste from Clipboard": "从粘贴板粘贴",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "增加的Offer单独存储在你的浏览器中，请在清除您本地存储之前做好备份",
+    "Backup Your Offers": "备份你的Offer文件",
+    "Restore Your Offers": "恢复你的Offer文件",
+    "Duplicate offers will be merged": "复制的Offer文件将要合并",
+    "Your Added Offers": "你增加的Offer文件",
+    "No matching offers": "没有匹配的Offer"
   },
   "invalid offer file": "Offer文件无效",
   "gobyModal": {
@@ -76,6 +77,9 @@
     "Copy Offer File": "拷贝offer文件",
     "Accept in Goby": "在Goby钱包中接收"
   },
+  "ribbon": {
+    "Yours": ""
+  },
   "optionsModal": {
     "no results": "没有结果"
   },
@@ -87,8 +91,8 @@
     "unknown": "未知"
   },
   "toast": {
-    "gobyError4001": "",
-    "gobyError4900": "",
+    "gobyError4001": "Please finish setting up Goby first.",
+    "gobyError4900": "Goby is not connected",
     "Offer accepted": "Offer已被接受"
   },
   "faq": {
@@ -140,12 +144,12 @@
     "Go back home": "回到首页"
   },
   "offers": {
-    "Offer": "Offer",
     "Offer at least": "最少提供",
     "Offer at most": "最多提供",
-    "Receive": "接受",
     "Receive at least": "最少接受",
-    "Receive at most": "最多接受"
+    "Receive at most": "最多接受",
+    "Offer": "Offer",
+    "Receive": "接受"
   },
   "trades": {
     "feeExplanation": "你需支付的当前最低网络转账手续费\n以确保你的转账成功。",

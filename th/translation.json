@@ -21,6 +21,7 @@
     "Status": "สถานะ",
     "Actions": "การกระทำ",
     "Uploading": "กำลังอัพโหลด...",
+    "Trade": "ซื้อขาย",
     "Hide": "ซ่อน"
   },
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
@@ -75,6 +76,9 @@
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
     "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ",
     "Accept in Goby": "ตอบรับข้อเสนอทาง Goby"
+  },
+  "ribbon": {
+    "Yours": ""
   },
   "optionsModal": {
     "no results": "ไม่มีผลลัพธ์"
@@ -140,12 +144,12 @@
     "Go back home": "Go back home"
   },
   "offers": {
-    "Offer": "ข้อเสนอ",
     "Offer at least": "เสนออย่างน้อย",
     "Offer at most": "เสนออย่างมาก",
-    "Receive": "ข้อตอบรับ",
     "Receive at least": "ตอบรับอย่างน้อย",
-    "Receive at most": "ตอบรับอย่างมาก"
+    "Receive at most": "ตอบรับอย่างมาก",
+    "Offer": "ข้อเสนอ",
+    "Receive": "ข้อตอบรับ"
   },
   "trades": {
     "feeExplanation": "ค่าธรรมเนียมต่ำสุด ณ ขณะนี้ที่คุณต้องจ่าย\nเพื่อให้ธุรกรรมสำเร็จรวดเร็ว",

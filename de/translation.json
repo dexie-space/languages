@@ -21,6 +21,7 @@
     "Status": "Status",
     "Actions": "Aktionen",
     "Uploading": "Hochladen...",
+    "Trade": "Handel",
     "Hide": "Ausblenden"
   },
   "Connect Wallet": "Wallet verbinden",
@@ -75,6 +76,9 @@
     "Download Offer File": "Angebot herunterladen",
     "Copy Offer File": "Angebot kopieren",
     "Accept in Goby": "mit Goby annehmen"
+  },
+  "ribbon": {
+    "Yours": "Deins"
   },
   "optionsModal": {
     "no results": "keine Ergebnisse"
@@ -140,12 +144,12 @@
     "Go back home": "Zurück zur Startseite"
   },
   "offers": {
-    "Offer": "Biete",
     "Offer at least": "Biete mindestens",
     "Offer at most": "Biete höchstens",
-    "Receive": "Erhalte",
     "Receive at least": "Erhalte mindestens",
-    "Receive at most": "Erhalte höchstens"
+    "Receive at most": "Erhalte höchstens",
+    "Offer": "Biete",
+    "Receive": "Erhalte"
   },
   "trades": {
     "feeExplanation": "Die aktuelle Netzwerk-Mindestgebühr, die gezahlt werden muss\num eine Transaktion zu verarbeiten.",
