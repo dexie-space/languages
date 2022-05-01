@@ -11,6 +11,7 @@
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Inspect": "检查",
+    "current price": "",
     "All Markets": "所有市场",
     "Select Market": "选定市场",
     "Loading": "加载中",
@@ -83,6 +84,20 @@
   "optionsModal": {
     "no results": "没有结果"
   },
+  "chart": {
+    "Day": "",
+    "Week": "",
+    "Month": "",
+    "3 Month": "",
+    "Year": "",
+    "Linear": "",
+    "Log": "",
+    "activeOffers": "",
+    "lastPrice": "",
+    "Collapse": "",
+    "Expand": "",
+    "Still collecting data for this chart": ""
+  },
   "status": {
     "active": "活跃",
     "pending": "待处理",
@@ -111,7 +126,8 @@
     "Confirmed at Height": "确认高度",
     "Offered": "已提供",
     "Requested": "已要求",
-    "Inputs": "输入",
+    "Input Fee": "",
+    "Input Coins": "",
     "Raw Offer File": "原Offer文件",
     "Download Offer File": "下载offer文件",
     "Offer file copied": "Offer文件已拷贝",

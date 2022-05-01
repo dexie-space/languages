@@ -11,6 +11,7 @@
     "Dark Mode": "Dark",
     "Light Mode": "Light",
     "Inspect": "Inspect",
+    "current price": "Current Price",
     "All Markets": "All Markets",
     "Select Market": "Select Market",
     "Loading": "Loading",
@@ -70,7 +71,7 @@
     "You Offer": "You Offer",
     "You Receive": "You Receive",
     "Price": "Price",
-    "Best Price": "Best price",
+    "Best Price": "Best Price",
     "New": "New",
     "Accept": "Accept",
     "Download Offer File": "Download Offer File",
@@ -82,6 +83,20 @@
   },
   "optionsModal": {
     "no results": "no results"
+  },
+  "chart": {
+    "Day": "Day",
+    "Week": "Week",
+    "Month": "Month",
+    "3 Month": "3 Month",
+    "Year": "Year",
+    "Linear": "Linear",
+    "Log": "Log",
+    "activeOffers": "Active Offers",
+    "lastPrice": "Last Price",
+    "Collapse": "Collapse",
+    "Expand": "Expand",
+    "Still collecting data for this chart": "Still collecting data for this chart"
   },
   "status": {
     "active": "Active",
@@ -111,7 +126,8 @@
     "Confirmed at Height": "Confirmed at Height",
     "Offered": "Offered",
     "Requested": "Requested",
-    "Inputs": "Inputs",
+    "Input Fee": "Input Fee",
+    "Input Coins": "Input Coins",
     "Raw Offer File": "Raw Offer File",
     "Download Offer File": "Download Offer File",
     "Offer file copied": "Offer file copied",

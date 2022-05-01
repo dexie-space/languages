@@ -11,6 +11,7 @@
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Inspect": "Перегляд",
+    "current price": "",
     "All Markets": "",
     "Select Market": "",
     "Loading": "",
@@ -83,6 +84,20 @@
   "optionsModal": {
     "no results": "Відсутній результат"
   },
+  "chart": {
+    "Day": "",
+    "Week": "",
+    "Month": "",
+    "3 Month": "",
+    "Year": "",
+    "Linear": "",
+    "Log": "",
+    "activeOffers": "",
+    "lastPrice": "",
+    "Collapse": "",
+    "Expand": "",
+    "Still collecting data for this chart": ""
+  },
   "status": {
     "active": "Активна",
     "pending": "Очікує",
@@ -111,7 +126,8 @@
     "Confirmed at Height": "Підтверджено на висоті",
     "Offered": "Запропоновано",
     "Requested": "Отримати",
-    "Inputs": "Вхідні",
+    "Input Fee": "",
+    "Input Coins": "",
     "Raw Offer File": "Вміст файла пропозиції",
     "Download Offer File": "Завантажити файл пропозиції",
     "Offer file copied": "Файл пропозиції скопійовано",

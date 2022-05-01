@@ -11,6 +11,7 @@
     "Dark Mode": "Nuit",
     "Light Mode": "Jour",
     "Inspect": "Inspecter",
+    "current price": "",
     "All Markets": "",
     "Select Market": "",
     "Loading": "",
@@ -83,6 +84,20 @@
   "optionsModal": {
     "no results": "aucun résultat"
   },
+  "chart": {
+    "Day": "",
+    "Week": "",
+    "Month": "",
+    "3 Month": "",
+    "Year": "",
+    "Linear": "",
+    "Log": "",
+    "activeOffers": "",
+    "lastPrice": "",
+    "Collapse": "",
+    "Expand": "",
+    "Still collecting data for this chart": ""
+  },
   "status": {
     "active": "Active",
     "pending": "",
@@ -111,7 +126,8 @@
     "Confirmed at Height": "Confirmée à hauteur",
     "Offered": "A offert",
     "Requested": "A demandé",
-    "Inputs": "Entrées",
+    "Input Fee": "",
+    "Input Coins": "",
     "Raw Offer File": "Offre Raw",
     "Download Offer File": "Télécharger Offre",
     "Offer file copied": "Offre copiée",

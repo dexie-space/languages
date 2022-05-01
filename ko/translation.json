@@ -11,6 +11,7 @@
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
     "Inspect": "추가정보",
+    "current price": "",
     "All Markets": "",
     "Select Market": "",
     "Loading": "",
@@ -83,6 +84,20 @@
   "optionsModal": {
     "no results": "결과 없음"
   },
+  "chart": {
+    "Day": "",
+    "Week": "",
+    "Month": "",
+    "3 Month": "",
+    "Year": "",
+    "Linear": "",
+    "Log": "",
+    "activeOffers": "",
+    "lastPrice": "",
+    "Collapse": "",
+    "Expand": "",
+    "Still collecting data for this chart": ""
+  },
   "status": {
     "active": "활성됨",
     "pending": "보류중",
@@ -111,7 +126,8 @@
     "Confirmed at Height": "확정된 블록높이",
     "Offered": "제안가",
     "Requested": "요청가",
-    "Inputs": "Inputs",
+    "Input Fee": "",
+    "Input Coins": "",
     "Raw Offer File": "Raw Offer File",
     "Download Offer File": "다운로드 오퍼 파일",
     "Offer file copied": "오퍼 파일이 복사되었습니다",
