@@ -68,9 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "未发现Offer",
+    "Combine offers to save network fees": "",
     "You Offer": "你提供",
     "You Receive": "你接收",
     "Price": "价格",
+    "Combined": "",
+    "Cancel": "",
+    "This offer contains overlapping inputs and can not be added": "",
     "Best Price": "最优价格",
     "New": "新",
     "Accept": "接受",

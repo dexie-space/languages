@@ -68,9 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "Aucune Offre trouvée",
+    "Combine offers to save network fees": "",
     "You Offer": "Votre Offre",
     "You Receive": "Vous Recevez",
     "Price": "Prix",
+    "Combined": "",
+    "Cancel": "",
+    "This offer contains overlapping inputs and can not be added": "",
     "Best Price": "Meilleur Prix",
     "New": "Nouveau",
     "Accept": "Accepter",

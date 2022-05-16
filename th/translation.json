@@ -68,9 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "ไม่พบข้อเสนอ",
+    "Combine offers to save network fees": "",
     "You Offer": "คุณเสนอ",
     "You Receive": "คุณได้รับ",
     "Price": "ราคา",
+    "Combined": "",
+    "Cancel": "",
+    "This offer contains overlapping inputs and can not be added": "",
     "Best Price": "ราคาที่ดีที่สุด",
     "New": "ใหม่",
     "Accept": "ตอบรับ",

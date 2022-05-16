@@ -68,9 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "제안을 찾을 수 없습니다",
+    "Combine offers to save network fees": "",
     "You Offer": "제안하기",
     "You Receive": "수락하기",
     "Price": "가격",
+    "Combined": "",
+    "Cancel": "",
+    "This offer contains overlapping inputs and can not be added": "",
     "Best Price": "최저가",
     "New": "신규",
     "Accept": "받기",

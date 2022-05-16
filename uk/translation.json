@@ -68,9 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "Пропозицію не знайдено",
+    "Combine offers to save network fees": "",
     "You Offer": "Запропонувати",
     "You Receive": "Отримати",
     "Price": "Ціна",
+    "Combined": "",
+    "Cancel": "",
+    "This offer contains overlapping inputs and can not be added": "",
     "Best Price": "Найкраща ціна",
     "New": "Нова",
     "Accept": "Прийняти",
