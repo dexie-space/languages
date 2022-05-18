@@ -11,7 +11,7 @@
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Inspect": "检查",
-    "current price": "",
+    "current price": "Current Price",
     "All Markets": "所有市场",
     "Select Market": "选定市场",
     "Loading": "加载中",
@@ -39,7 +39,7 @@
     "Paste Offer": "粘贴Offer文件",
     "Backup / Restore": "备份/恢复",
     "Add Offer": "增加Offer文件",
-    "subheading": "Choose how to add your offer. All offers are automatically shared over IPFS.",
+    "subheading": "请选择如何添加您的Offer，所有Offer会自动在IPFS上共享。",
     "#dragHint": "请将你的offer文件拖放到这里, 或者点击屏幕从文件夹中选择",
     "Raw Offer here": "此处粘贴Offer",
     "No Offer entered": "没有输入Offer",
@@ -68,13 +68,13 @@
   },
   "offersTable": {
     "No Offers Found": "未发现Offer",
-    "Combine offers to save network fees": "",
+    "Combine Offers": "Combine Offers",
     "You Offer": "你提供",
     "You Receive": "你接收",
     "Price": "价格",
-    "Combined": "",
-    "Cancel": "",
-    "This offer contains overlapping inputs and can not be added": "",
+    "Combined": "已合并",
+    "Cancel": "取消",
+    "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
     "Best Price": "最优价格",
     "New": "新",
     "Accept": "接受",
@@ -83,24 +83,24 @@
     "Accept in Goby": "在Goby钱包中接收"
   },
   "ribbon": {
-    "Yours": ""
+    "Yours": "你的"
   },
   "optionsModal": {
     "no results": "没有结果"
   },
   "chart": {
-    "Day": "",
-    "Week": "",
-    "Month": "",
-    "3 Month": "",
-    "Year": "",
-    "Linear": "",
-    "Log": "",
-    "activeOffers": "",
-    "lastPrice": "",
-    "Collapse": "",
-    "Expand": "",
-    "Still collecting data for this chart": ""
+    "Day": "日",
+    "Week": "周",
+    "Month": "月",
+    "3 Month": "3 月",
+    "Year": "年",
+    "Linear": "线性",
+    "Log": "Log",
+    "activeOffers": "活跃Offer文件",
+    "lastPrice": "最后价格",
+    "Collapse": "崩溃",
+    "Expand": "扩展",
+    "Still collecting data for this chart": "仍在从该表中搜集数据"
   },
   "status": {
     "active": "活跃",
@@ -110,8 +110,8 @@
     "unknown": "未知"
   },
   "toast": {
-    "gobyError4001": "Please finish setting up Goby first.",
-    "gobyError4900": "Goby is not connected",
+    "gobyError4001": "请先完成Goby钱包设置。",
+    "gobyError4900": "Goby钱包未链接",
     "Offer accepted": "Offer已被接受"
   },
   "faq": {
@@ -130,8 +130,8 @@
     "Confirmed at Height": "确认高度",
     "Offered": "已提供",
     "Requested": "已要求",
-    "Input Fee": "",
-    "Input Coins": "",
+    "Input Fee": "Input Fee",
+    "Input Coins": "Input Coins",
     "Raw Offer File": "原Offer文件",
     "Download Offer File": "下载offer文件",
     "Offer file copied": "Offer文件已拷贝",
