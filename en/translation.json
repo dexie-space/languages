@@ -1,19 +1,35 @@
 {
-  "createOffer": {
-    "Select Offer Token": "Select Token",
-    "Please wait": "Please wait...",
-    "Create Offer with Goby": "Create Offer with Goby"
+  "nft": {
+    "Unnamed NFT": "Unnamed NFT",
+    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "This NFT is from an unknown collection.\nAlways make sure the address and creator are correct.",
+    "Unverified": "Unverified",
+    "Close Metadata": "Close Metadata",
+    "Inspect Metadata": "Inspect Metadata",
+    "NFT Address copied": "NFT Address copied",
+    "NFT Address": "NFT Address",
+    "NFT Creator copied": "NFT Creator copied",
+    "NFT Creator": "NFT Creator",
+    "Royalty": "Royalty",
+    "Created at Height": "Created at Height",
+    "Data Hash": "Data Hash",
+    "Metadata URIs": "Metadata URIs",
+    "Metadata Hash": "Metadata Hash",
+    "License URIs": "License URIs",
+    "License Hash": "License Hash",
+    "Open on Mintgarden": "Open on Mintgarden",
+    "NFT Markets": "NFT Markets",
+    "All known collections with at least 1 {{xch}} in active buy and sell offers": "All known collections with at least 1 {{xch}} in active buy and sell offers."
   },
   "common": {
-    "Search token by code or name": "Search token by code or name",
+    "Search CATs or NFTs with active offers": "Search token by code or name",
     "You Offer": "You Offer",
     "You Request": "You Request",
     "Dark Mode": "Dark",
     "Light Mode": "Light",
     "Inspect": "Inspect",
+    "No Results": "No Results",
     "current price": "Current Price",
     "All Markets": "All Markets",
-    "Select Market": "Select Market",
     "Loading": "Loading",
     "Offered": "Offered",
     "Requested": "Requested",
@@ -21,11 +37,15 @@
     "Height": "Height",
     "Status": "Status",
     "Actions": "Actions",
-    "Uploading": "Uploading...",
     "Trade": "Trade",
+    "Uploading": "Uploading...",
     "Hide": "Hide"
   },
   "Connect Wallet": "Connect Wallet",
+  "createOffer": {
+    "Please wait": "Please wait...",
+    "Create Offer with Goby": "Create Offer with Goby"
+  },
   "footer": {
     "Status": "Status",
     "synced": "synced",
@@ -60,6 +80,7 @@
   },
   "header": {
     "Markets": "Markets",
+    "NFT": "NFT",
     "Trade": "Trade",
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
@@ -84,9 +105,6 @@
   },
   "ribbon": {
     "Yours": "Yours"
-  },
-  "optionsModal": {
-    "no results": "no results"
   },
   "chart": {
     "Day": "Day",
@@ -167,16 +185,13 @@
     "Offer at least": "Offer at least",
     "Offer at most": "Offer at most",
     "Receive at least": "Receive at least",
-    "Receive at most": "Receive at most",
-    "Offer": "Offer",
-    "Receive": "Receive"
+    "Receive at most": "Receive at most"
   },
   "trades": {
     "feeExplanation": "The current minimum network fee you would need to pay\nto make your transaction go through.",
     "minFee": "Min Fee",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
-    "no results": "no results",
     "no filters selected": "no filters selected"
   }
 }

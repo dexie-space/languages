@@ -1,19 +1,35 @@
 {
-  "createOffer": {
-    "Select Offer Token": "选择生成Offer的代币",
-    "Please wait": "请等待",
-    "Create Offer with Goby": "用Goby生成Offer"
+  "nft": {
+    "Unnamed NFT": "",
+    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified": "",
+    "Close Metadata": "",
+    "Inspect Metadata": "",
+    "NFT Address copied": "",
+    "NFT Address": "",
+    "NFT Creator copied": "",
+    "NFT Creator": "",
+    "Royalty": "",
+    "Created at Height": "",
+    "Data Hash": "",
+    "Metadata URIs": "",
+    "Metadata Hash": "",
+    "License URIs": "",
+    "License Hash": "",
+    "Open on Mintgarden": "",
+    "NFT Markets": "",
+    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
   },
   "common": {
-    "Search token by code or name": "按代号或名称查询通证",
+    "Search CATs or NFTs with active offers": "",
     "You Offer": "提供",
     "You Request": "请求",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Inspect": "检查",
+    "No Results": "",
     "current price": "Current Price",
     "All Markets": "所有市场",
-    "Select Market": "选定市场",
     "Loading": "加载中",
     "Offered": "提供",
     "Requested": "请求",
@@ -21,11 +37,15 @@
     "Height": "高度",
     "Status": "状态",
     "Actions": "动作",
-    "Uploading": "上传中...",
     "Trade": "交易",
+    "Uploading": "上传中...",
     "Hide": "隐藏"
   },
   "Connect Wallet": "链接钱包",
+  "createOffer": {
+    "Please wait": "请等待",
+    "Create Offer with Goby": "用Goby生成Offer"
+  },
   "footer": {
     "Status": "状态",
     "synced": "已同步",
@@ -60,6 +80,7 @@
   },
   "header": {
     "Markets": "市场",
+    "NFT": "",
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
@@ -84,9 +105,6 @@
   },
   "ribbon": {
     "Yours": "你的"
-  },
-  "optionsModal": {
-    "no results": "没有结果"
   },
   "chart": {
     "Day": "日",
@@ -167,16 +185,13 @@
     "Offer at least": "最少提供",
     "Offer at most": "最多提供",
     "Receive at least": "最少请求",
-    "Receive at most": "最多请求",
-    "Offer": "Offer",
-    "Receive": "接受"
+    "Receive at most": "最多请求"
   },
   "trades": {
     "feeExplanation": "你需支付的当前最低网络转账手续费\n以确保你的转账成功。",
     "minFee": "最低转账手续费",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
-    "no results": "无结果",
     "no filters selected": "未选择过滤条件"
   }
 }

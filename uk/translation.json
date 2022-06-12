@@ -1,19 +1,35 @@
 {
-  "createOffer": {
-    "Select Offer Token": "",
-    "Please wait": "",
-    "Create Offer with Goby": ""
+  "nft": {
+    "Unnamed NFT": "",
+    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified": "",
+    "Close Metadata": "",
+    "Inspect Metadata": "",
+    "NFT Address copied": "",
+    "NFT Address": "",
+    "NFT Creator copied": "",
+    "NFT Creator": "",
+    "Royalty": "",
+    "Created at Height": "",
+    "Data Hash": "",
+    "Metadata URIs": "",
+    "Metadata Hash": "",
+    "License URIs": "",
+    "License Hash": "",
+    "Open on Mintgarden": "",
+    "NFT Markets": "",
+    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
   },
   "common": {
-    "Search token by code or name": "Пошук маркера за кодом або назвою",
+    "Search CATs or NFTs with active offers": "",
     "You Offer": "",
     "You Request": "",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Inspect": "Перегляд",
+    "No Results": "",
     "current price": "",
     "All Markets": "",
-    "Select Market": "",
     "Loading": "",
     "Offered": "Запропоновано",
     "Requested": "Отримано",
@@ -21,11 +37,15 @@
     "Height": "Висота",
     "Status": "Статус",
     "Actions": "Дії",
-    "Uploading": "Завантаження...",
     "Trade": "Торгівля",
+    "Uploading": "Завантаження...",
     "Hide": "Сховати"
   },
   "Connect Wallet": "Підключіть гаманець",
+  "createOffer": {
+    "Please wait": "",
+    "Create Offer with Goby": ""
+  },
   "footer": {
     "Status": "",
     "synced": "Синхронізовано",
@@ -60,6 +80,7 @@
   },
   "header": {
     "Markets": "Ринок",
+    "NFT": "",
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
     "FAQ": "Поширені запитання",
@@ -84,9 +105,6 @@
   },
   "ribbon": {
     "Yours": ""
-  },
-  "optionsModal": {
-    "no results": "Відсутній результат"
   },
   "chart": {
     "Day": "",
@@ -167,16 +185,13 @@
     "Offer at least": "Запропонувати",
     "Offer at most": "Максимальна пропозиція",
     "Receive at least": "Отримати",
-    "Receive at most": "Максимум отримати",
-    "Offer": "Пропозиція",
-    "Receive": "Отримати"
+    "Receive at most": "Максимум отримати"
   },
   "trades": {
     "feeExplanation": "",
     "minFee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no results": "Немає результату",
     "no filters selected": "Фільтрів не вибрано"
   }
 }

@@ -1,19 +1,35 @@
 {
-  "createOffer": {
-    "Select Offer Token": "",
-    "Please wait": "",
-    "Create Offer with Goby": ""
+  "nft": {
+    "Unnamed NFT": "",
+    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified": "",
+    "Close Metadata": "",
+    "Inspect Metadata": "",
+    "NFT Address copied": "",
+    "NFT Address": "",
+    "NFT Creator copied": "",
+    "NFT Creator": "",
+    "Royalty": "",
+    "Created at Height": "",
+    "Data Hash": "",
+    "Metadata URIs": "",
+    "Metadata Hash": "",
+    "License URIs": "",
+    "License Hash": "",
+    "Open on Mintgarden": "",
+    "NFT Markets": "",
+    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
   },
   "common": {
-    "Search token by code or name": "Rechercher un jeton par code ou par nom",
+    "Search CATs or NFTs with active offers": "",
     "You Offer": "",
     "You Request": "",
     "Dark Mode": "Nuit",
     "Light Mode": "Jour",
     "Inspect": "Inspecter",
+    "No Results": "",
     "current price": "",
     "All Markets": "",
-    "Select Market": "",
     "Loading": "",
     "Offered": "Offert",
     "Requested": "Demandé",
@@ -21,11 +37,15 @@
     "Height": "Hauteur",
     "Status": "Statut",
     "Actions": "Actions",
-    "Uploading": "Chargement...",
     "Trade": "Echanger",
+    "Uploading": "Chargement...",
     "Hide": "Cacher"
   },
   "Connect Wallet": "Connecter votre Portefeuille",
+  "createOffer": {
+    "Please wait": "",
+    "Create Offer with Goby": ""
+  },
   "footer": {
     "Status": "",
     "synced": "synchronisé",
@@ -60,6 +80,7 @@
   },
   "header": {
     "Markets": "Marchés",
+    "NFT": "",
     "Trade": "Echanger",
     "Recent Trades": "Transactions récentes",
     "FAQ": "FAQ",
@@ -84,9 +105,6 @@
   },
   "ribbon": {
     "Yours": ""
-  },
-  "optionsModal": {
-    "no results": "aucun résultat"
   },
   "chart": {
     "Day": "",
@@ -167,16 +185,13 @@
     "Offer at least": "Offrez au moins",
     "Offer at most": "Offrez au plus",
     "Receive at least": "Recevez au moins",
-    "Receive at most": "Recevez au plus",
-    "Offer": "Offre",
-    "Receive": "Recevez"
+    "Receive at most": "Recevez au plus"
   },
   "trades": {
     "feeExplanation": "",
     "minFee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no results": "aucun résultat",
     "no filters selected": ""
   }
 }

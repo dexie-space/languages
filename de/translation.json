@@ -1,19 +1,35 @@
 {
-  "createOffer": {
-    "Select Offer Token": "Select Token",
-    "Please wait": "",
-    "Create Offer with Goby": ""
+  "nft": {
+    "Unnamed NFT": "",
+    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified": "",
+    "Close Metadata": "",
+    "Inspect Metadata": "",
+    "NFT Address copied": "",
+    "NFT Address": "",
+    "NFT Creator copied": "",
+    "NFT Creator": "",
+    "Royalty": "",
+    "Created at Height": "",
+    "Data Hash": "",
+    "Metadata URIs": "",
+    "Metadata Hash": "",
+    "License URIs": "",
+    "License Hash": "",
+    "Open on Mintgarden": "",
+    "NFT Markets": "",
+    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
   },
   "common": {
-    "Search token by code or name": "Währung suchen",
+    "Search CATs or NFTs with active offers": "",
     "You Offer": "",
     "You Request": "",
     "Dark Mode": "Dunkel",
     "Light Mode": "Hell",
     "Inspect": "Infos",
+    "No Results": "",
     "current price": "",
     "All Markets": "",
-    "Select Market": "",
     "Loading": "",
     "Offered": "Angeboten",
     "Requested": "Gefordert",
@@ -21,11 +37,15 @@
     "Height": "Block",
     "Status": "Status",
     "Actions": "Aktionen",
-    "Uploading": "Hochladen...",
     "Trade": "Handel",
+    "Uploading": "Hochladen...",
     "Hide": "Ausblenden"
   },
   "Connect Wallet": "Wallet verbinden",
+  "createOffer": {
+    "Please wait": "",
+    "Create Offer with Goby": ""
+  },
   "footer": {
     "Status": "Status",
     "synced": "synchronisiert",
@@ -60,6 +80,7 @@
   },
   "header": {
     "Markets": "Märkte",
+    "NFT": "",
     "Trade": "Handel",
     "Recent Trades": "Zuletzt gehandelt",
     "FAQ": "F&A",
@@ -84,9 +105,6 @@
   },
   "ribbon": {
     "Yours": "Deins"
-  },
-  "optionsModal": {
-    "no results": "keine Ergebnisse"
   },
   "chart": {
     "Day": "",
@@ -167,16 +185,13 @@
     "Offer at least": "Biete mindestens",
     "Offer at most": "Biete höchstens",
     "Receive at least": "Erhalte mindestens",
-    "Receive at most": "Erhalte höchstens",
-    "Offer": "Biete",
-    "Receive": "Erhalte"
+    "Receive at most": "Erhalte höchstens"
   },
   "trades": {
     "feeExplanation": "Die aktuelle Netzwerk-Mindestgebühr, die gezahlt werden muss\num eine Transaktion zu verarbeiten.",
     "minFee": "Mindestgebühr",
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
-    "no results": "keine Treffer",
     "no filters selected": "keine Filter ausgewählt"
   }
 }
