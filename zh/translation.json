@@ -168,7 +168,7 @@
     "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} {{market}}深度)\n在过去24小时内。",
     "24h Change": "24小时变化",
     "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数{{market}}被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
-    "Total Offered": "全部已卖出的",
+    "Total Offered": "全部锁定的",
     "Actions": "动作",
     "Buy": "买",
     "Sell": "卖",
