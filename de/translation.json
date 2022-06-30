@@ -1,7 +1,7 @@
 {
   "nft": {
     "Unnamed NFT": "",
-    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified Collection\nAlways make sure the NFT address and creator are correct": "",
     "Unverified": "",
     "Close Metadata": "",
     "Inspect Metadata": "",
@@ -16,12 +16,10 @@
     "Metadata Hash": "",
     "License URIs": "",
     "License Hash": "",
-    "Open on Mintgarden": "",
-    "NFT Markets": "",
-    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
+    "Open on Spacescan": ""
   },
   "common": {
-    "Search CATs or NFTs with active offers": "",
+    "Search Tokens, NFTs or enter Address": "",
     "You Offer": "",
     "You Request": "",
     "Dark Mode": "Dunkel",
@@ -118,6 +116,7 @@
     "lastPrice": "",
     "Collapse": "",
     "Expand": "",
+    "No data for this chart": "",
     "Still collecting data for this chart": ""
   },
   "status": {
@@ -173,7 +172,13 @@
     "Buy": "Kaufen",
     "Sell": "Verkaufen",
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
-    "no liquidity": "keine Liquidität"
+    "no liquidity": "keine Liquidität",
+    "All known NFT collections with active offers, ranked by total {{xch}} offered": "",
+    "Collection": "",
+    "The current lowest price of an NFT": "",
+    "Buy Price (Floor)": "",
+    "The highest price someone is bidding for an NFT": "",
+    "no {{xch}} offers": ""
   },
   "notFound": {
     "404 Error": "Fehler 404",

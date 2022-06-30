@@ -1,7 +1,7 @@
 {
   "nft": {
     "Unnamed NFT": "Unnamed NFT",
-    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "This NFT is from an unknown collection.\nAlways make sure the address and creator are correct.",
+    "Unverified Collection\nAlways make sure the NFT address and creator are correct": "Unverified Collection!\nAlways make sure the NFT address and creator are correct.",
     "Unverified": "Unverified",
     "Close Metadata": "Close Metadata",
     "Inspect Metadata": "Inspect Metadata",
@@ -16,12 +16,10 @@
     "Metadata Hash": "Metadata Hash",
     "License URIs": "License URIs",
     "License Hash": "License Hash",
-    "Open on Mintgarden": "Open on Mintgarden",
-    "NFT Markets": "NFT Markets",
-    "All known collections with at least 1 {{xch}} in active buy and sell offers": "All known collections with at least 1 {{xch}} in active buy and sell offers."
+    "Open on Spacescan": "Open on Spacescan"
   },
   "common": {
-    "Search CATs or NFTs with active offers": "Search token by code or name",
+    "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
     "You Offer": "You Offer",
     "You Request": "You Request",
     "Dark Mode": "Dark",
@@ -84,11 +82,11 @@
     "Trade": "Trade",
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
-    "bannerMessage": "🎉 We've launched and more is yet to come! Follow us at<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>to stay up to date!",
+    "bannerMessage": "🏙&nbsp; Now with NFT Offers! Follow us at<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>to see what's coming next!",
     "Add Offer": "Add Offer"
   },
   "offersTable": {
-    "No Offers Found": "No offers found",
+    "No Offers Found": "No Offers Found",
     "Combine Offers": "Combine Offers",
     "You Offer": "You Offer",
     "You Receive": "You Receive",
@@ -118,6 +116,7 @@
     "lastPrice": "Last Price",
     "Collapse": "Collapse",
     "Expand": "Expand",
+    "No data for this chart": "",
     "Still collecting data for this chart": "Still collecting data for this chart"
   },
   "status": {
@@ -173,7 +172,13 @@
     "Buy": "Buy",
     "Sell": "Sell",
     "{{market}} subheading": "All known assets with at least 1 {{market}} buy and sell liquidity.",
-    "no liquidity": "no liquidity"
+    "no liquidity": "no liquidity",
+    "All known NFT collections with active offers, ranked by total {{xch}} offered": "All known NFT collections with active offers, ranked by total {{xch}} offered.",
+    "Collection": "Collection",
+    "The current lowest price of an NFT": "The current lowest price of an NFT",
+    "Buy Price (Floor)": "Buy Price (Floor)",
+    "The highest price someone is bidding for an NFT": "The highest price someone is bidding for an NFT",
+    "no {{xch}} offers": "no {{xch}} offers"
   },
   "notFound": {
     "404 Error": "Error 404",

@@ -1,7 +1,7 @@
 {
   "nft": {
     "Unnamed NFT": "",
-    "This NFT is from an unknown collection\nAlways make sure the address and creator are correct": "",
+    "Unverified Collection\nAlways make sure the NFT address and creator are correct": "",
     "Unverified": "ยังไม่ได้ตรวจสอบ",
     "Close Metadata": "ปิด Metadata",
     "Inspect Metadata": "ตรวจสอบ Metadata",
@@ -16,9 +16,7 @@
     "Metadata Hash": "",
     "License URIs": "",
     "License Hash": "",
-    "Open on Mintgarden": "ิเปิดที่ Mintgarden",
-    "NFT Markets": "ตลาด NFT",
-    "All known collections with at least 1 {{xch}} in active buy and sell offers": ""
+    "Open on Spacescan": "ิเปิดที่ Spacescan"
   },
   "common": {
     "Search CATs or NFTs with active offers": "",
@@ -173,7 +171,13 @@
     "Buy": "ซื้อ",
     "Sell": "ขาย",
     "{{market}} subheading": "สินทรัพย์ทั้งหมดที่มีการซื้อขายหรือสภาพคล่องอย่างน้อย 1 {{market}}",
-    "no liquidity": "ไม่มีสภาพคล่อง"
+    "no liquidity": "ไม่มีสภาพคล่อง",
+    "All known NFT collections with active offers, ranked by total {{xch}} offered": "",
+    "Collection": "",
+    "The current lowest price of an NFT": "",
+    "Buy Price (Floor)": "",
+    "The highest price someone is bidding for an NFT": "",
+    "no {{xch}} offers": ""
   },
   "notFound": {
     "404 Error": "Error 404",
