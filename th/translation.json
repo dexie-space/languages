@@ -19,7 +19,7 @@
     "Open on Spacescan": "ิเปิดที่ Spacescan"
   },
   "common": {
-    "Search CATs or NFTs with active offers": "",
+    "Search Tokens, NFTs or enter Address": "",
     "You Offer": "คุณเสนอ",
     "You Request": "คุณร้องขอ",
     "Dark Mode": "โหมดมืด",
@@ -116,6 +116,7 @@
     "lastPrice": "ราคาล่าสุด",
     "Collapse": "ยุบ",
     "Expand": "ขยาย",
+    "No data for this chart": "",
     "Still collecting data for this chart": "กำลังรวบรวมข้อมูลสำหรับ chart นี้"
   },
   "status": {
@@ -166,7 +167,7 @@
     "#priceChangeHint{{depth}}": "การเปลี่ยนแปลงของราคาเฉลี่ย (ซื้อและขายด้วยความลึก {{depth}} {{market}})\nใน 24 ชั่วโมงล่าสุด",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "The sum of each offered asset.\nMarkets are ranked by most {{market}} in active offer files locked.\nOffers with duplicate inputs are ignored.",
-    "Total Offered": "ข้อเสนอทั้งหมด",
+    "Currently Offered": "",
     "Actions": "การกระทำ",
     "Buy": "ซื้อ",
     "Sell": "ขาย",

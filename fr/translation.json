@@ -167,7 +167,7 @@
     "#priceChangeHint{{depth}}": "La variation moyenne de prix (liquidité d’achat et vente {{depth}} {{market}})\nsur les 24 dernières heures.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "La somme totale de chaque actif offert.\nLes  marchés sont classés selon les Offres fermes en {{market}} les plus actives.\nLes offres avec des entrées dupliquées sont ignorées.",
-    "Total Offered": "Total Offert",
+    "Currently Offered": "",
     "Actions": "Actions",
     "Buy": "Achat",
     "Sell": "Vente",

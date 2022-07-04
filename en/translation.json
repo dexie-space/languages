@@ -167,7 +167,7 @@
     "#priceChangeHint{{depth}}": "The change of the average price (buy and sell with {{depth}} {{market}} depth)\nover the last 24 hours.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "The sum of each offered asset.\nMarkets are ranked by most {{market}} in active offer files locked.\nOffers with duplicate inputs are ignored.",
-    "Total Offered": "Total Offered",
+    "Currently Offered": "Currently Offered",
     "Actions": "Actions",
     "Buy": "Buy",
     "Sell": "Sell",

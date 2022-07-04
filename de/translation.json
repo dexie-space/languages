@@ -167,7 +167,7 @@
     "#priceChangeHint{{depth}}": "Die Veränderung des Durchschnittspreises (Kauf und Verkauf mit {{depth}} {{market}} Tiefe)\n der letzten 24 Stunden.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten {{market}} in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
-    "Total Offered": "Gesamt",
+    "Currently Offered": "",
     "Actions": "Aktionen",
     "Buy": "Kaufen",
     "Sell": "Verkaufen",

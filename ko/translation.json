@@ -167,7 +167,7 @@
     "#priceChangeHint{{depth}}": "평균 단가 (매매 {{depth}} {{market}} 깊이)\n24간 전 단가.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "제공되는 각 자산의 합계입니다.\n마켓은 잠긴 활성 제안 파일에서 대부분의 XCH에 의해 순위가 매겨집니다.\n중복 입력이 있는 제안은 무시됩니다.",
-    "Total Offered": "총 제안",
+    "Currently Offered": "",
     "Actions": "Actions",
     "Buy": "구매",
     "Sell": "판매",

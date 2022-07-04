@@ -167,7 +167,7 @@
     "#priceChangeHint{{depth}}": "Зміна середньої ціни (купуйте і продавайте за {{depth}} {{market}})\n за останні 24 години.",
     "24h Change": "24 год",
     "#totalOfferedHint{{depth}}": "Сума кожного пропонованого активу.\nMarkets are ranked by most {{market}} in active offer files locked.\nOffers з повторюваними вводами ігнорується.",
-    "Total Offered": "Всього",
+    "Currently Offered": "",
     "Actions": "Дії",
     "Buy": "Купити",
     "Sell": "Продати",
