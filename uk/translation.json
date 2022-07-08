@@ -16,7 +16,8 @@
     "Metadata Hash": "",
     "License URIs": "",
     "License Hash": "",
-    "Open on Spacescan": ""
+    "Open on Spacescan": "",
+    "DID verified by {{name}} on {{via}}": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -26,7 +27,9 @@
     "Light Mode": "Світла",
     "Inspect": "Перегляд",
     "No Results": "",
-    "current price": "",
+    "Current Price": "",
+    "Any Asset": "",
+    "Select Asset": "",
     "All Markets": "",
     "Loading": "",
     "Offered": "Запропоновано",

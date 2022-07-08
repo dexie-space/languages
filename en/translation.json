@@ -16,7 +16,8 @@
     "Metadata Hash": "Metadata Hash",
     "License URIs": "License URIs",
     "License Hash": "License Hash",
-    "Open on Spacescan": "Open on Spacescan"
+    "Open on Spacescan": "Open on Spacescan",
+    "DID verified by {{name}} on {{via}}": "DID verified by {{name}} on {{via}}"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
@@ -26,7 +27,9 @@
     "Light Mode": "Light",
     "Inspect": "Inspect",
     "No Results": "No Results",
-    "current price": "Current Price",
+    "Current Price": "Current Price",
+    "Any Asset": "Any Asset",
+    "Select Asset": "Select Asset",
     "All Markets": "All Markets",
     "Loading": "Loading",
     "Offered": "Offered",

@@ -16,7 +16,8 @@
     "Metadata Hash": "",
     "License URIs": "",
     "License Hash": "",
-    "Open on Spacescan": "ิเปิดที่ Spacescan"
+    "Open on Spacescan": "ิเปิดที่ Spacescan",
+    "DID verified by {{name}} on {{via}}": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -26,7 +27,9 @@
     "Light Mode": "โหมดสว่าง",
     "Inspect": "ตรวจสอบ",
     "No Results": "ไม่มีผลการค้นหา",
-    "current price": "ราคาปัจจุบัน",
+    "Current Price": "ราคาปัจจุบัน",
+    "Any Asset": "",
+    "Select Asset": "",
     "All Markets": "ทุกตลาด",
     "Loading": "กำลังโหลด",
     "Offered": "นำเสนอ",
