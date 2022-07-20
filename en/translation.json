@@ -1,14 +1,22 @@
 {
   "nft": {
     "Unnamed NFT": "Unnamed NFT",
-    "Unverified Collection\nAlways make sure the NFT address and creator are correct": "Unverified Collection!\nAlways make sure the NFT address and creator are correct.",
-    "Unverified": "Unverified",
+    "No Preview Available": "No Preview Available",
     "Close Metadata": "Close Metadata",
     "Inspect Metadata": "Inspect Metadata",
+    "Blocked for violating community rules": "Blocked for violating community rules",
+    "Blocked": "Blocked",
+    "Minter DID claimed by {{name}} on {{via}}": "Minter DID claimed by {{name}} on {{via}}",
+    "Anyone can create an NFT collection, make sure the creator/minter is authentic": "Anyone can create an NFT collection, make sure the creator/minter is authentic.",
+    "Unknown Minter": "Unknown Minter",
+    "Twitter Bio contains Minter DID": "Twitter Bio contains Minter DID",
+    "Twitter Bio does not contain Minter DID": "Twitter Bio does not contain Minter DID",
+    "DNS record of {{name}} contains Minter DID": "DNS record of {{name}} contains Minter DID",
+    "DNS record does not contain Minter DID": "DNS record does not contain Minter DID",
     "NFT Address copied": "NFT Address copied",
     "NFT Address": "NFT Address",
-    "NFT Creator copied": "NFT Creator copied",
-    "NFT Creator": "NFT Creator",
+    "NFT Minter copied": "NFT Minter copied",
+    "NFT Minter": "NFT Minter",
     "Royalty": "Royalty",
     "Created at Height": "Created at Height",
     "Data Hash": "Data Hash",
@@ -17,7 +25,7 @@
     "License URIs": "License URIs",
     "License Hash": "License Hash",
     "Open on Spacescan": "Open on Spacescan",
-    "DID verified by {{name}} on {{via}}": "DID verified by {{name}} on {{via}}"
+    "Website DNS record contains Minter DID ({{name}})": "Website DNS record contains Minter DID ({{name}})"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
@@ -25,11 +33,13 @@
     "You Request": "You Request",
     "Dark Mode": "Dark",
     "Light Mode": "Light",
+    "Report NFT": "Report NFT",
     "Inspect": "Inspect",
     "No Results": "No Results",
     "Current Price": "Current Price",
     "Any Asset": "Any Asset",
     "Select Asset": "Select Asset",
+    "Select Reason": "Select Reason",
     "All Markets": "All Markets",
     "Loading": "Loading",
     "Offered": "Offered",
@@ -49,13 +59,15 @@
   },
   "footer": {
     "Status": "Status",
+    "NFT Labels": "NFT Labels",
+    "Report": "Report",
     "synced": "synced",
     "disconnected": "disconnected",
     "connecting": "connecting"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
-    "Upload Offer File": "Upload Offer File",
+    "Upload Offer Files": "Upload Offer Files",
     "Create with Goby": "Create with Goby",
     "Paste Offer": "Paste Offer",
     "Bulk Upload": "Bulk Upload",
@@ -67,7 +79,7 @@
     "No Offer entered": "No Offer entered",
     "Submit Offer": "Submit Offer",
     "Paste from Clipboard": "Paste from Clipboard",
-    "To upload many offers at once, pack them into a single ZIP file, dexie will internally queue and publish them without overloading the nodes": "To upload many offers at once, pack them into a single ZIP file. dexie will internally queue and publish them without overloading the nodes.",
+    "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes.",
     "Successfully queued {{count}} offers for submission_one": "Successfully queued {{count}} offer for submission.",
     "Successfully queued {{count}} offers for submission_other": "Successfully queued {{count}} offers for submission.",
     "Select and Upload ZIP file": "Select and Upload ZIP file",
@@ -125,7 +137,7 @@
     "lastPrice": "Last Price",
     "Collapse": "Collapse",
     "Expand": "Expand",
-    "No data for this chart": "",
+    "No data for this chart": "No data for this chart",
     "Still collecting data for this chart": "Still collecting data for this chart"
   },
   "status": {
@@ -201,9 +213,21 @@
     "Receive at least": "Receive at least",
     "Receive at most": "Receive at most"
   },
+  "report": {
+    "Report Content": "Report Content",
+    "Impersonation": "Impersonation",
+    "Spam": "Spam",
+    "Illegal Content": "Illegal Content",
+    "Other": "Other",
+    "Enter additional notes (notes are public)": "Enter additional notes (notes are public)",
+    "Thank you, a new report has been generated": "Thank you, a new report has been generated",
+    "Report {{id}}": "Report {{id}}",
+    "Generating Report": "Generating Report ...",
+    "Submit Report": "Submit Report"
+  },
   "trades": {
-    "feeExplanation": "The current minimum network fee you would need to pay\nto make your transaction go through.",
-    "minFee": "Min Fee",
+    "The current recommended network fee to make your transaction go through": "The current recommended network fee to make your transaction go through.",
+    "Network Fee": "Network Fee",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
     "no filters selected": "no filters selected"
