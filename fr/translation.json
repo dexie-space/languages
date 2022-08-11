@@ -36,6 +36,7 @@
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
     "Inspect": "Inspecter",
+    "Accept in {{provider}}": "Accepter dans {{provider}}",
     "No Results": "",
     "Current Price": "",
     "Price": "",
@@ -74,6 +75,8 @@
     "Status": "",
     "NFT Labels": "",
     "Report": "",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "synchronisé",
     "disconnected": "",
     "connecting": ""
@@ -133,8 +136,7 @@
     "New": "Nouveau",
     "Accept": "Accepter",
     "Download Offer File": "Télécharger l’Offre",
-    "Copy Offer File": "Copier l’Offre",
-    "Accept in Goby": "Accepter dans Goby"
+    "Copy Offer File": "Copier l’Offre"
   },
   "ribbon": {
     "Yours": ""
@@ -157,6 +159,7 @@
   "status": {
     "active": "Active",
     "pending": "",
+    "cancelling": "",
     "cancelled": "Annulée",
     "completed": "Complétée",
     "unknown": "Annulée"
@@ -183,14 +186,13 @@
     "Date Pending": "",
     "Date Closed": "Date de fermeture",
     "Confirmed at Height": "Confirmée à hauteur",
-    "Input Fee": "",
+    "Attached Fee": "",
     "Input Coins": "",
     "Raw Offer File": "Offre Raw",
     "dexie link": "lien dexie",
     "Download Offer File": "Télécharger Offre",
     "Offer file copied": "Offre copiée",
-    "Copy Offer File": "Copier Offre",
-    "Accept in Goby": "Accepter dans Goby"
+    "Copy Offer File": "Copier Offre"
   },
   "markets": {
     "{{market}} heading": "{{market}} Marchés",
@@ -245,8 +247,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": ""

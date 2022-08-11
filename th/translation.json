@@ -36,6 +36,7 @@
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
     "Inspect": "ตรวจสอบ",
+    "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
     "Price": "",
@@ -74,6 +75,8 @@
     "Status": "สถานะ",
     "NFT Labels": "",
     "Report": "",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
     "connecting": "กำลังเชื่อมต่อ"
@@ -131,8 +134,7 @@
     "New": "ใหม่",
     "Accept": "ตอบรับ",
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
-    "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ",
-    "Accept in Goby": "ตอบรับข้อเสนอทาง Goby"
+    "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ"
   },
   "ribbon": {
     "Yours": ""
@@ -155,6 +157,7 @@
   "status": {
     "active": "พร้อมดำเนินการ",
     "pending": "รอดำเนินการ",
+    "cancelling": "",
     "cancelled": "ถูกยกเลิก",
     "completed": "เสร็จสมบรูณ์",
     "unknown": "ีไม่มีข้อมูล"
@@ -181,14 +184,13 @@
     "Date Pending": "",
     "Date Closed": "วันที่ปิดข้อเสนอ",
     "Confirmed at Height": "ได้รับการยืนยันที่ความสูง",
-    "Input Fee": "ค่าธรรมเนียม",
+    "Attached Fee": "",
     "Input Coins": "เหรียญ",
     "Raw Offer File": "ข้อมูลข้อเสนอ",
     "dexie link": "dexie link",
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
     "Offer file copied": "ไฟล์ข้อเสนอได้ถูกคัดลอก",
-    "Copy Offer File": "คัดลอกไฟล์ข้อเสนอ",
-    "Accept in Goby": "ตอบรับข้อเสนอทาง Goby"
+    "Copy Offer File": "คัดลอกไฟล์ข้อเสนอ"
   },
   "markets": {
     "{{market}} heading": "ตลาด {{market}}",
@@ -243,8 +245,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
     "no filters selected": "ไม่ได้เลือกตัวคัดกรอง"

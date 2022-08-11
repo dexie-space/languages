@@ -36,6 +36,7 @@
     "Show on Mintgarden": "zu Mintgarden",
     "Show on Spacescan": "zu Spacescan",
     "Inspect": "Infos",
+    "Accept in {{provider}}": "Mit {{provider}} annehmen",
     "No Results": "Keine Ergebnisse",
     "Current Price": "Aktueller Preis",
     "Price": "Preis",
@@ -74,6 +75,8 @@
     "Status": "Status",
     "NFT Labels": "NFT Labels",
     "Report": "Melden",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "synchronisiert",
     "disconnected": "getrennt",
     "connecting": "verbinde"
@@ -132,8 +135,7 @@
     "New": "Neu",
     "Accept": "Annehmen",
     "Download Offer File": "Angebot herunterladen",
-    "Copy Offer File": "Angebot kopieren",
-    "Accept in Goby": "mit Goby annehmen"
+    "Copy Offer File": "Angebot kopieren"
   },
   "ribbon": {
     "Yours": "Deins"
@@ -156,6 +158,7 @@
   "status": {
     "active": "Aktiv",
     "pending": "Ausstehend",
+    "cancelling": "",
     "cancelled": "Abgebrochen",
     "completed": "Ausgeführt",
     "unknown": "Unbekannt"
@@ -182,14 +185,13 @@
     "Date Pending": "",
     "Date Closed": "Abgeschlossen am",
     "Confirmed at Height": "Bestätigt in Block",
-    "Input Fee": "",
+    "Attached Fee": "",
     "Input Coins": "",
     "Raw Offer File": "Inhalt (Raw-File)",
     "dexie link": "dexie link",
     "Download Offer File": "Angebot herunterladen",
     "Offer file copied": "Angebot kopiert",
-    "Copy Offer File": "Angebot kopieren",
-    "Accept in Goby": "mit Goby annehmen"
+    "Copy Offer File": "Angebot kopieren"
   },
   "markets": {
     "{{market}} heading": "{{market}} Märkte",
@@ -203,10 +205,10 @@
     "#priceChangeHint{{depth}}": "Die Veränderung des Durchschnittspreises (Kauf und Verkauf mit {{depth}} {{market}} Tiefe)\n der letzten 24 Stunden.",
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten {{market}} in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
-    "Currently Offered": "",
+    "Currently Offered": "Derzeit Angeboten",
     "Actions": "Aktionen",
-    "Buy": "Kaufen",
-    "Sell": "Verkaufen",
+    "Buy": "Kauf",
+    "Sell": "Verkauf",
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
     "no liquidity": "keine Liquidität",
     "All known NFT collections with active offers": "",
@@ -244,8 +246,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
     "no filters selected": "keine Filter ausgewählt"

@@ -36,6 +36,7 @@
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
     "Inspect": "检查",
+    "Accept in {{provider}}": "在{{provider}}钱包接受",
     "No Results": "",
     "Current Price": "",
     "Price": "",
@@ -74,6 +75,8 @@
     "Status": "状态",
     "NFT Labels": "",
     "Report": "",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "已同步",
     "disconnected": "已断开连接",
     "connecting": "链接中"
@@ -131,8 +134,7 @@
     "New": "新",
     "Accept": "接受",
     "Download Offer File": "下载Offer文件",
-    "Copy Offer File": "拷贝offer文件",
-    "Accept in Goby": "在Goby钱包中接收"
+    "Copy Offer File": "拷贝offer文件"
   },
   "ribbon": {
     "Yours": "你的"
@@ -155,6 +157,7 @@
   "status": {
     "active": "活跃",
     "pending": "待处理",
+    "cancelling": "",
     "cancelled": "已取消",
     "completed": "已完成",
     "unknown": "未知"
@@ -181,14 +184,13 @@
     "Date Pending": "",
     "Date Closed": "日期关闭",
     "Confirmed at Height": "确认高度",
-    "Input Fee": "Input Fee",
+    "Attached Fee": "",
     "Input Coins": "Input Coins",
     "Raw Offer File": "原Offer文件",
     "dexie link": "dexie链接",
     "Download Offer File": "下载offer文件",
     "Offer file copied": "Offer文件已拷贝",
-    "Copy Offer File": "拷贝offer文件",
-    "Accept in Goby": "在Goby钱包接受"
+    "Copy Offer File": "拷贝offer文件"
   },
   "markets": {
     "{{market}} heading": "{{market}} 市场",
@@ -243,8 +245,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
     "no filters selected": "未选择过滤条件"

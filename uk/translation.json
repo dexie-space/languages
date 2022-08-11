@@ -36,6 +36,7 @@
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
     "Inspect": "Перегляд",
+    "Accept in {{provider}}": "Прийняти в {{provider}}",
     "No Results": "",
     "Current Price": "",
     "Price": "",
@@ -74,6 +75,8 @@
     "Status": "",
     "NFT Labels": "",
     "Report": "",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "Синхронізовано",
     "disconnected": "",
     "connecting": ""
@@ -134,8 +137,7 @@
     "New": "Нова",
     "Accept": "Прийняти",
     "Download Offer File": "Завантажити пропозицію",
-    "Copy Offer File": "Копіювати пропозицію",
-    "Accept in Goby": "Прийняти в Goby"
+    "Copy Offer File": "Копіювати пропозицію"
   },
   "ribbon": {
     "Yours": ""
@@ -158,6 +160,7 @@
   "status": {
     "active": "Активна",
     "pending": "Очікує",
+    "cancelling": "",
     "cancelled": "Скасовано",
     "completed": "Виконано",
     "unknown": "Невідомо"
@@ -184,14 +187,13 @@
     "Date Pending": "",
     "Date Closed": "Дата закриття",
     "Confirmed at Height": "Підтверджено на висоті",
-    "Input Fee": "",
+    "Attached Fee": "",
     "Input Coins": "",
     "Raw Offer File": "Вміст файла пропозиції",
     "dexie link": "dexie посилання",
     "Download Offer File": "Завантажити файл пропозиції",
     "Offer file copied": "Файл пропозиції скопійовано",
-    "Copy Offer File": "Копіювати файл пропозиції",
-    "Accept in Goby": "Прийняти в Goby"
+    "Copy Offer File": "Копіювати файл пропозиції"
   },
   "markets": {
     "{{market}} heading": "{{market}} Ринок",
@@ -246,8 +248,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "Фільтрів не вибрано"

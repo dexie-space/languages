@@ -36,6 +36,7 @@
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
     "Inspect": "추가정보",
+    "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",
     "Current Price": "",
     "Price": "",
@@ -74,6 +75,8 @@
     "Status": "",
     "NFT Labels": "",
     "Report": "",
+    "Offers API": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
     "synced": "동기화",
     "disconnected": "",
     "connecting": ""
@@ -131,8 +134,7 @@
     "New": "신규",
     "Accept": "받기",
     "Download Offer File": "오퍼 파일 다운로드",
-    "Copy Offer File": "오퍼 파일 복사",
-    "Accept in Goby": "Goby를 사용해 열기"
+    "Copy Offer File": "오퍼 파일 복사"
   },
   "ribbon": {
     "Yours": ""
@@ -155,6 +157,7 @@
   "status": {
     "active": "활성됨",
     "pending": "보류중",
+    "cancelling": "",
     "cancelled": "취소",
     "completed": "완료",
     "unknown": "알 수 없음"
@@ -181,14 +184,13 @@
     "Date Pending": "",
     "Date Closed": "완료일",
     "Confirmed at Height": "확정된 블록높이",
-    "Input Fee": "",
+    "Attached Fee": "",
     "Input Coins": "",
     "Raw Offer File": "Raw Offer File",
     "dexie link": "덱시 링크",
     "Download Offer File": "다운로드 오퍼 파일",
     "Offer file copied": "오퍼 파일이 복사되었습니다",
-    "Copy Offer File": "오퍼 파일 복사",
-    "Accept in Goby": "Goby를 사용해 열기"
+    "Copy Offer File": "오퍼 파일 복사"
   },
   "markets": {
     "{{market}} heading": "{{market}} Markets",
@@ -243,8 +245,8 @@
     "Submit Report": ""
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "",
-    "Network Fee": "",
+    "Recommended Transaction Fee": "",
+    "Tx Fee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "필터가 선택되지 않았습니다"

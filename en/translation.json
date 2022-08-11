@@ -36,6 +36,7 @@
     "Show on Mintgarden": "Show on Mintgarden",
     "Show on Spacescan": "Show on Spacescan",
     "Inspect": "Inspect",
+    "Accept in {{provider}}": "Accept in {{provider}}",
     "No Results": "No Results",
     "Current Price": "Current Price",
     "Price": "Price",
@@ -74,6 +75,8 @@
     "Status": "Status",
     "NFT Labels": "NFT Labels",
     "Report": "Report",
+    "Offers API": "Offers API",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "Blocks are fully utilized, recommended transaction fee: {{fee}} XCH",
     "synced": "synced",
     "disconnected": "disconnected",
     "connecting": "connecting"
@@ -132,8 +135,7 @@
     "New": "New",
     "Accept": "Accept",
     "Download Offer File": "Download Offer File",
-    "Copy Offer File": "Copy Offer File",
-    "Accept in Goby": "Accept in Goby"
+    "Copy Offer File": "Copy Offer File"
   },
   "ribbon": {
     "Yours": "Yours"
@@ -156,6 +158,7 @@
   "status": {
     "active": "Active",
     "pending": "Pending",
+    "cancelling": "Cancelling",
     "cancelled": "Cancelled",
     "completed": "Completed",
     "unknown": "Unknown"
@@ -182,14 +185,13 @@
     "Date Pending": "Date Pending",
     "Date Closed": "Date Closed",
     "Confirmed at Height": "Confirmed at Height",
-    "Input Fee": "Input Fee",
+    "Attached Fee": "Attached Fee",
     "Input Coins": "Input Coins",
     "Raw Offer File": "Raw Offer File",
     "dexie link": "dexie link",
     "Download Offer File": "Download Offer File",
     "Offer file copied": "Offer file copied",
-    "Copy Offer File": "Copy Offer File",
-    "Accept in Goby": "Accept in Goby"
+    "Copy Offer File": "Copy Offer File"
   },
   "markets": {
     "{{market}} heading": "{{market}} Markets",
@@ -244,8 +246,8 @@
     "Submit Report": "Submit Report"
   },
   "trades": {
-    "The current recommended network fee to make your transaction go through": "The current recommended network fee to make your transaction go through.",
-    "Network Fee": "Network Fee",
+    "Recommended Transaction Fee": "Recommended Transaction Fee",
+    "Tx Fee": "Tx Fee",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
     "no filters selected": "no filters selected"
