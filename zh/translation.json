@@ -76,7 +76,7 @@
     "NFT Labels": "",
     "Report": "",
     "Offers API": "",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "已同步",
     "disconnected": "已断开连接",
     "connecting": "链接中"
@@ -138,6 +138,11 @@
   },
   "ribbon": {
     "Yours": "你的"
+  },
+  "ozoneModal": {
+    "Scan QR Code with Ozone Wallet to accept": "",
+    "Try Ozone Wallet": "",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": ""
   },
   "chart": {
     "Day": "日",
@@ -210,7 +215,8 @@
     "Sell": "卖",
     "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",
     "no liquidity": "没有流动性",
-    "All known NFT collections with active offers": "",
+    "NFTs are unmoderated, always verify collections and their intention": "",
+    "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",
     "Buy Price (Floor)": "",

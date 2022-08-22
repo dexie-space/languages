@@ -76,7 +76,7 @@
     "NFT Labels": "",
     "Report": "",
     "Offers API": "",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "동기화",
     "disconnected": "",
     "connecting": ""
@@ -138,6 +138,11 @@
   },
   "ribbon": {
     "Yours": ""
+  },
+  "ozoneModal": {
+    "Scan QR Code with Ozone Wallet to accept": "",
+    "Try Ozone Wallet": "",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": ""
   },
   "chart": {
     "Day": "",
@@ -210,7 +215,8 @@
     "Sell": "판매",
     "{{market}} subheading": "최소 1개의 {{market}} 매수 및 매도 유동성이 있는 모든 자산.",
     "no liquidity": "유동성 없음",
-    "All known NFT collections with active offers": "",
+    "NFTs are unmoderated, always verify collections and their intention": "",
+    "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",
     "Buy Price (Floor)": "",

@@ -76,7 +76,7 @@
     "NFT Labels": "",
     "Report": "",
     "Offers API": "",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "Синхронізовано",
     "disconnected": "",
     "connecting": ""
@@ -141,6 +141,11 @@
   },
   "ribbon": {
     "Yours": ""
+  },
+  "ozoneModal": {
+    "Scan QR Code with Ozone Wallet to accept": "",
+    "Try Ozone Wallet": "",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": ""
   },
   "chart": {
     "Day": "",
@@ -213,7 +218,8 @@
     "Sell": "Продати",
     "{{market}} subheading": "Показано всі відомі активи з принаймні 1 {{market}} ліквідністю.",
     "no liquidity": "Немає ліквідності",
-    "All known NFT collections with active offers": "",
+    "NFTs are unmoderated, always verify collections and their intention": "",
+    "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",
     "Buy Price (Floor)": "",

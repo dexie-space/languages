@@ -76,7 +76,7 @@
     "NFT Labels": "NFT Labels",
     "Report": "Report",
     "Offers API": "Offers API",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} XCH": "Blocks are fully utilized, recommended transaction fee: {{fee}} XCH",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "synced": "synced",
     "disconnected": "disconnected",
     "connecting": "connecting"
@@ -139,6 +139,11 @@
   },
   "ribbon": {
     "Yours": "Yours"
+  },
+  "ozoneModal": {
+    "Scan QR Code with Ozone Wallet to accept": "Scan QR Code with Ozone Wallet to accept",
+    "Try Ozone Wallet": "Try Ozone Wallet",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way."
   },
   "chart": {
     "Day": "Day",
@@ -211,7 +216,8 @@
     "Sell": "Sell",
     "{{market}} subheading": "All known assets with at least 1 {{market}} buy and sell liquidity.",
     "no liquidity": "no liquidity",
-    "All known NFT collections with active offers": "All known NFT collections with active offers.",
+    "NFTs are unmoderated, always verify collections and their intention": "NFTs are unmoderated, always verify collections and their intention.",
+    "Learn more about our NFT Verification Labels": "Learn more about our NFT Verification Labels",
     "Collection": "Collection",
     "The current lowest price of an NFT": "The current lowest price of an NFT",
     "Buy Price (Floor)": "Buy Price (Floor)",
