@@ -114,13 +114,13 @@
     "gobyInfo": "Goby adalah dompet browser sumber terbuka untuk Chia."
   },
   "header": {
-    "Markets": "Markets",
+    "Markets": "Pasar",
     "NFT": "NFT",
-    "Trade": "Trade",
-    "Recent Trades": "Recent Trades",
+    "Trade": "Berdagang",
+    "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessage": "🏙&nbsp; Now with NFT Offers! Follow us at<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>to see what's coming next!",
-    "Add Offer": "Add Offer"
+    "bannerMessage": "🏙&nbsp; Sekarang dengan Penawaran NFT! Ikuti kami di<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>untuk melihat apa yang akan terjadi selanjutnya!",
+    "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
     "No Offers Found": "No Offers Found",
