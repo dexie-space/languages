@@ -240,16 +240,16 @@
     "Receive at most": "Terima paling banyak"
   },
   "report": {
-    "Report Content": "Report Content",
-    "Impersonation": "Impersonation",
+    "Report Content": "Laporkan konten",
+    "Impersonation": "Peniruan",
     "Spam": "Spam",
-    "Illegal Content": "Illegal Content",
-    "Other": "Other",
-    "Enter additional notes (notes are public)": "Enter additional notes (notes are public)",
-    "Thank you, a new report has been generated": "Thank you, a new report has been generated",
-    "Report {{id}}": "Report {{id}}",
-    "Generating Report": "Generating Report ...",
-    "Submit Report": "Submit Report"
+    "Illegal Content": "Konten ilegal",
+    "Other": "Lainnya",
+    "Enter additional notes (notes are public)": "Masukkan catatan tambahan (catatannya publik)",
+    "Thank you, a new report has been generated": "Terima kasih, laporan baru telah dihasilkan",
+    "Report {{id}}": "Laporan {{id}}",
+    "Generating Report": "Menghasilkan Laporan ...",
+    "Submit Report": "Kirimkan laporan"
   },
   "trades": {
     "Recommended Transaction Fee": "Recommended Transaction Fee",
