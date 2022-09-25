@@ -146,38 +146,38 @@
     "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozon Wallet dirancang untuk transaksi dengan XCH dan CAT dengan cara yang andal dan aman."
   },
   "chart": {
-    "Day": "Day",
-    "Week": "Week",
-    "Month": "Month",
-    "3 Month": "3 Month",
-    "Year": "Year",
-    "Linear": "Linear",
-    "Log": "Log",
-    "activeOffers": "Active Offers",
-    "lastPrice": "Last Price",
-    "Collapse": "Collapse",
-    "Expand": "Expand",
-    "No data for this chart": "No data for this chart",
-    "Still collecting data for this chart": "Still collecting data for this chart"
+    "Day": "Hari",
+    "Week": "Pekan",
+    "Month": "Bulan",
+    "3 Month": "3 bulan",
+    "Year": "Tahun",
+    "Linear": "linear",
+    "Log": "Catatan Log",
+    "activeOffers": "Penawaran Aktif",
+    "lastPrice": "Harga terakhir",
+    "Collapse": "Lipat",
+    "Expand": "Luaskan",
+    "No data for this chart": "Tidak ada data untuk grafik ini",
+    "Still collecting data for this chart": "Masih mengumpulkan data untuk grafik ini"
   },
   "status": {
-    "active": "Active",
-    "pending": "Pending",
-    "cancelling": "Cancelling",
-    "cancelled": "Cancelled",
-    "completed": "Completed",
-    "unknown": "Unknown"
+    "active": "Aktif",
+    "pending": "Tertunda",
+    "cancelling": "Membatalkan",
+    "cancelled": "Dibatalkan",
+    "completed": "Lengkap",
+    "unknown": "Tidak dikenal"
   },
   "toast": {
-    "gobyError4001": "Please finish setting up Goby first.",
-    "gobyError4900": "Goby is not connected",
-    "Offer accepted": "Offer accepted"
+    "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
+    "gobyError4900": "Goby tidak terhubung",
+    "Offer accepted": "Penawaran diterima"
   },
   "faq": {
-    "question1": "What is dexie?",
-    "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
-    "question2": "Support or Questions?",
-    "answer2": "<p class='my-5'>Contact us on twitter at <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> or check our <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, we are always happy to help.</p>"
+    "question1": "Apa itu Dexie?",
+    "answer1": "<p class='my-5'>Dexie adalah pertukaran peer-to-peer untuk file penawaran chia.File menawarkan sepenuhnya terdesentralisasi dan sangat dapat dipercaya.</p><p class='my-5'>Dexie tidak memegang tahanan koin, mereka selalu tinggal di dompet pembuat sampai tawaran diterima, pada titik mana aset ditransfer dengan aman antara pembuat dan pengambil dalam satu transaksi tunggal di blockchain tanpa perantara apa pun.</p><p class='my-5'>Pelajari lebih lanjut tentang penawaran file di <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Dokumentasi Resmi Chia</a>.</p>",
+    "question2": "Dukungan atau pertanyaan?",
+    "answer2": "<p class='my-5'>Hubungi kami di Twitter di <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> atau periksa kami <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, Kami selalu senang membantu.</p>"
   },
   "inspect": {
     "Loading": "Loading...",
