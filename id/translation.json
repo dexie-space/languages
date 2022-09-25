@@ -123,27 +123,27 @@
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
-    "No Offers Found": "No Offers Found",
-    "Combine Offers": "Combine Offers",
-    "You Offer": "You Offer",
-    "You Receive": "You Receive",
-    "Price": "Price",
-    "Combined": "Combined",
-    "Cancel": "Cancel",
-    "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added.",
-    "Best Price": "Best Price",
-    "New": "New",
-    "Accept": "Accept",
-    "Download Offer File": "Download Offer File",
-    "Copy Offer File": "Copy Offer File"
+    "No Offers Found": "Tidak ada penawaran yang ditemukan",
+    "Combine Offers": "Menggabungkan penawaran",
+    "You Offer": "Anda menawarkan",
+    "You Receive": "Anda menerima",
+    "Price": "Harga",
+    "Combined": "Digabungkan",
+    "Cancel": "Batalkan",
+    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
+    "Best Price": "Harga terbaik",
+    "New": "Baru",
+    "Accept": "Menerima",
+    "Download Offer File": "Unduh file penawaran",
+    "Copy Offer File": "Salin file penawaran"
   },
   "ribbon": {
-    "Yours": "Yours"
+    "Yours": "Milikmu"
   },
   "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Scan QR Code with Ozone Wallet to accept",
-    "Try Ozone Wallet": "Try Ozone Wallet",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way."
+    "Scan QR Code with Ozone Wallet to accept": "Pindai kode QR dengan Ozon Walet untuk diterima",
+    "Try Ozone Wallet": "Coba Ozon Wallet",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozon Wallet dirancang untuk transaksi dengan XCH dan CAT dengan cara yang andal dan aman."
   },
   "chart": {
     "Day": "Day",
