@@ -252,10 +252,10 @@
     "Submit Report": "Kirimkan laporan"
   },
   "trades": {
-    "Recommended Transaction Fee": "Recommended Transaction Fee",
-    "Tx Fee": "Tx Fee",
-    "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
+    "Recommended Transaction Fee": "Biaya transaksi yang disarankan",
+    "Tx Fee": "Biaya TX",
+    "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no filters selected"
+    "no filters selected": "Tidak ada filter yang dipilih"
   }
 }
