@@ -40,6 +40,7 @@
     "No Results": "",
     "Current Price": "",
     "Price": "",
+    "Uploading": "上传中...",
     "Currently Offered": "",
     "Daily Volume": "",
     "Weekly Volume": "",
@@ -59,11 +60,9 @@
     "Requested": "请求",
     "Offered": "提供",
     "Date": "日期",
-    "Height": "高度",
     "Status": "状态",
     "Actions": "动作",
     "Trade": "交易",
-    "Uploading": "上传中...",
     "Hide": "隐藏"
   },
   "Connect Wallet": "链接钱包",
@@ -118,7 +117,7 @@
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
-    "bannerMessage": "🎉 我们已经上线，更多功能即将发布! 请关注我们<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>以保持更新!",
+    "bannerMessageDBX": "",
     "Add Offer": "添加Offer"
   },
   "offersTable": {
@@ -183,6 +182,9 @@
     "offer not found": "Offer未找到",
     "Requested": "请求",
     "Offered": "提供",
+    "Download Offer": "",
+    "Offer file copied": "Offer文件已拷贝",
+    "Copy to Clipboard": "",
     "Status": "",
     "Offer ID (Hash)": "",
     "Date Collected": "日期已搜集",
@@ -193,9 +195,13 @@
     "Input Coins": "Input Coins",
     "Raw Offer File": "原Offer文件",
     "dexie link": "dexie链接",
-    "Download Offer File": "下载offer文件",
-    "Offer file copied": "Offer文件已拷贝",
-    "Copy Offer File": "拷贝offer文件"
+    "Current Bid": "",
+    "Make Bid": "",
+    "Requested price is too high? The seller might accept your bid!": "",
+    "{{count}} offers_other": "",
+    "Bid with Goby": "",
+    "Upload Offer": "",
+    "Create a new offer which requests this NFT": ""
   },
   "markets": {
     "{{market}} heading": "{{market}} 市场",
@@ -215,7 +221,6 @@
     "Sell": "卖",
     "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",
     "no liquidity": "没有流动性",
-    "NFTs are unmoderated, always verify collections and their intention": "",
     "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",

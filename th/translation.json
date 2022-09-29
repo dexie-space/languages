@@ -40,6 +40,7 @@
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
     "Price": "",
+    "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
     "Daily Volume": "",
     "Weekly Volume": "",
@@ -59,11 +60,9 @@
     "Requested": "ร้องขอ",
     "Offered": "นำเสนอ",
     "Date": "วันที่",
-    "Height": "ความสูง",
     "Status": "สถานะ",
     "Actions": "การกระทำ",
     "Trade": "ซื้อขาย",
-    "Uploading": "กำลังอัพโหลด...",
     "Hide": "ซ่อน"
   },
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
@@ -118,7 +117,7 @@
     "Trade": "ซื้อขาย",
     "Recent Trades": "ซื้อขายล่าสุด",
     "FAQ": "คำถามที่พบบ่อย",
-    "bannerMessage": "🎉 We've launched and more is yet to come! Follow us at<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>to stay up to date!",
+    "bannerMessageDBX": "",
     "Add Offer": "เพิ่มข้อเสนอ"
   },
   "offersTable": {
@@ -183,6 +182,9 @@
     "offer not found": "ไม่พบข้อเสนอ",
     "Requested": "ร้องขอ",
     "Offered": "นำเสนอ",
+    "Download Offer": "",
+    "Offer file copied": "ไฟล์ข้อเสนอได้ถูกคัดลอก",
+    "Copy to Clipboard": "",
     "Status": "",
     "Offer ID (Hash)": "",
     "Date Collected": "วันที่ยื่นข้อเสนอ",
@@ -193,9 +195,13 @@
     "Input Coins": "เหรียญ",
     "Raw Offer File": "ข้อมูลข้อเสนอ",
     "dexie link": "dexie link",
-    "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
-    "Offer file copied": "ไฟล์ข้อเสนอได้ถูกคัดลอก",
-    "Copy Offer File": "คัดลอกไฟล์ข้อเสนอ"
+    "Current Bid": "",
+    "Make Bid": "",
+    "Requested price is too high? The seller might accept your bid!": "",
+    "{{count}} offers_other": "",
+    "Bid with Goby": "",
+    "Upload Offer": "",
+    "Create a new offer which requests this NFT": ""
   },
   "markets": {
     "{{market}} heading": "ตลาด {{market}}",
@@ -215,7 +221,6 @@
     "Sell": "ขาย",
     "{{market}} subheading": "สินทรัพย์ทั้งหมดที่มีการซื้อขายหรือสภาพคล่องอย่างน้อย 1 {{market}}",
     "no liquidity": "ไม่มีสภาพคล่อง",
-    "NFTs are unmoderated, always verify collections and their intention": "",
     "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",

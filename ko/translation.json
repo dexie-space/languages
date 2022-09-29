@@ -40,6 +40,7 @@
     "No Results": "",
     "Current Price": "",
     "Price": "",
+    "Uploading": "업로딩...",
     "Currently Offered": "",
     "Daily Volume": "",
     "Weekly Volume": "",
@@ -59,11 +60,9 @@
     "Requested": "요청",
     "Offered": "제안",
     "Date": "날짜",
-    "Height": "높이",
     "Status": "상태",
     "Actions": "Actions",
     "Trade": "거래",
-    "Uploading": "업로딩...",
     "Hide": "숨김"
   },
   "Connect Wallet": "지갑 연동",
@@ -118,7 +117,7 @@
     "Trade": "거래",
     "Recent Trades": "신규 거래",
     "FAQ": "FAQ",
-    "bannerMessage": "🎉 덱시가 왔어요! 앞으로 더욱 많은 기능이 추가될 예정입니다 새 소식을 확인하시려면<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>를 방문해 주세요",
+    "bannerMessageDBX": "",
     "Add Offer": "오퍼 파일 등록"
   },
   "offersTable": {
@@ -183,6 +182,9 @@
     "offer not found": "",
     "Requested": "요청가",
     "Offered": "제안가",
+    "Download Offer": "",
+    "Offer file copied": "오퍼 파일이 복사되었습니다",
+    "Copy to Clipboard": "",
     "Status": "",
     "Offer ID (Hash)": "",
     "Date Collected": "수집일",
@@ -193,9 +195,13 @@
     "Input Coins": "",
     "Raw Offer File": "Raw Offer File",
     "dexie link": "덱시 링크",
-    "Download Offer File": "다운로드 오퍼 파일",
-    "Offer file copied": "오퍼 파일이 복사되었습니다",
-    "Copy Offer File": "오퍼 파일 복사"
+    "Current Bid": "",
+    "Make Bid": "",
+    "Requested price is too high? The seller might accept your bid!": "",
+    "{{count}} offers_other": "",
+    "Bid with Goby": "",
+    "Upload Offer": "",
+    "Create a new offer which requests this NFT": ""
   },
   "markets": {
     "{{market}} heading": "{{market}} Markets",
@@ -215,7 +221,6 @@
     "Sell": "판매",
     "{{market}} subheading": "최소 1개의 {{market}} 매수 및 매도 유동성이 있는 모든 자산.",
     "no liquidity": "유동성 없음",
-    "NFTs are unmoderated, always verify collections and their intention": "",
     "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",

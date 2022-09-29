@@ -40,6 +40,7 @@
     "No Results": "Keine Ergebnisse",
     "Current Price": "Aktueller Preis",
     "Price": "Preis",
+    "Uploading": "Hochladen...",
     "Currently Offered": "",
     "Daily Volume": "",
     "Weekly Volume": "",
@@ -59,11 +60,9 @@
     "Requested": "Gefordert",
     "Offered": "Geboten",
     "Date": "Datum",
-    "Height": "Block",
     "Status": "Status",
     "Actions": "Aktionen",
     "Trade": "Handel",
-    "Uploading": "Hochladen...",
     "Hide": "Ausblenden"
   },
   "Connect Wallet": "Wallet verbinden",
@@ -119,7 +118,7 @@
     "Trade": "Handel",
     "Recent Trades": "Zuletzt gehandelt",
     "FAQ": "F&A",
-    "bannerMessage": "🎉 Ab geht's! Folge uns unter<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>um auf dem Laufenden zu bleiben!",
+    "bannerMessageDBX": "",
     "Add Offer": "Angebot hochladen"
   },
   "offersTable": {
@@ -184,6 +183,9 @@
     "offer not found": "Angebot nicht gefunden",
     "Requested": "Gefordert",
     "Offered": "Angeboten",
+    "Download Offer": "",
+    "Offer file copied": "Angebot kopiert",
+    "Copy to Clipboard": "",
     "Status": "",
     "Offer ID (Hash)": "",
     "Date Collected": "Aufgenommen am",
@@ -194,9 +196,14 @@
     "Input Coins": "",
     "Raw Offer File": "Inhalt (Raw-File)",
     "dexie link": "dexie link",
-    "Download Offer File": "Angebot herunterladen",
-    "Offer file copied": "Angebot kopiert",
-    "Copy Offer File": "Angebot kopieren"
+    "Current Bid": "",
+    "Make Bid": "",
+    "Requested price is too high? The seller might accept your bid!": "",
+    "{{count}} offers_one": "",
+    "{{count}} offers_other": "",
+    "Bid with Goby": "",
+    "Upload Offer": "",
+    "Create a new offer which requests this NFT": ""
   },
   "markets": {
     "{{market}} heading": "{{market}} Märkte",
@@ -216,7 +223,6 @@
     "Sell": "Verkauf",
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
     "no liquidity": "keine Liquidität",
-    "NFTs are unmoderated, always verify collections and their intention": "",
     "Learn more about our NFT Verification Labels": "",
     "Collection": "",
     "The current lowest price of an NFT": "",
@@ -240,7 +246,7 @@
     "Receive at most": "Erhalte höchstens"
   },
   "report": {
-    "Report Content": "",
+    "Report Content": "Inhalt Melden",
     "Impersonation": "",
     "Spam": "",
     "Illegal Content": "",
