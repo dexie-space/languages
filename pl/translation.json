@@ -17,7 +17,7 @@
     "NFT Address": "Adres NFT",
     "NFT Minter copied": "Skopiowano Mintera NFT",
     "NFT Minter": "Minter NFT",
-    "Royalty": "Prowizja dla twórcy",
+    "Royalty": "tantiemy",
     "Created at Height": "Stworzony w bloku",
     "Data Hash": "Hash danych",
     "Metadata URIs": "URI metadanych",
@@ -38,10 +38,10 @@
     "Inspect": "Szczegóły",
     "Accept in {{provider}}": "Zaakceptuj w {{provider}}",
     "No Results": "Brak wyników",
-    "Current Price": "Aktualna cena",
+    "Current Price": "Cena",
     "Price": "Cena",
     "Uploading": "Wysyłanie...",
-    "Currently Offered": "Aktualnie oferowane",
+    "Currently Offered": "Oferowane",
     "Daily Volume": "Dzienny obrót",
     "Weekly Volume": "Tygodniowy obrót",
     "Monthly Volume": "Miesięczny obrót",
@@ -62,7 +62,7 @@
     "Date": "Data",
     "Status": "Status",
     "Actions": "Działania",
-    "Trade": "Handel",
+    "Trade": "Handluj",
     "Hide": "Ukryj"
   },
   "Connect Wallet": "Połącz portfel",
@@ -81,8 +81,8 @@
     "connecting": "łączenie"
   },
   "uploadOffer": {
-    "offerFileSuccessfullyIndexed": "Plik oferty pomyślnie zindeksowany.",
-    "Upload Offer Files": "Prześlij pliki ofert",
+    "offerFileSuccessfullyIndexed": "Oferta pomyślnie dodana do listy Twoich ofert.",
+    "Upload Offer Files": "Prześlij plik oferty",
     "Create with Goby": "Stwórz w Goby",
     "Paste Offer": "Wklej ofertę",
     "Bulk Upload": "Prześlij hurtowo",
@@ -98,17 +98,17 @@
     "Successfully queued {{count}} offers for submission_one": "Pomyślnie dodano do kolejki {{count}} ofertę.",
     "Successfully queued {{count}} offers for submission_other": "Pomyślnie dodano do kolejki oferty w liczbie {{count}}.",
     "Select and Upload ZIP file": "Wybierz i prześlij plik ZIP",
-    "Offers from Bulk Upload won't show up in Your Added Offers": "Oferty dodane hurtowo nie będą widoczne na liście twoich ofert.",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Lista twoich ofert jest przechowywana wyłącznie w twojej przeglądarce, zrób kopię zapasową przed wyczyszczeniem pamięci lokalnej (ciasteczek)",
+    "Offers from Bulk Upload won't show up in Your Added Offers": "Oferty dodane hurtowo nie będą widoczne na liście Twoich ofert.",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Lista Twoich ofert jest przechowywana wyłącznie w twojej przeglądarce, zrób kopię zapasową przed wyczyszczeniem pamięci lokalnej (ciasteczek).",
     "Backup Your Offers": "Wykonaj kopię zapasową listy ofert",
     "Restore Your Offers": "Przywróć kopię zapasową listy ofert",
     "Duplicate offers will be merged": "Zduplikowane oferty zostaną połączone.",
-    "Your Added Offers": "Lista twoich ofert",
+    "Your Added Offers": "Lista Twoich ofert",
     "No matching offers": "Brak pasujących ofert"
   },
   "invalid offer file": "Nieprawidłowy plik oferty",
   "gobyModal": {
-    "notice": "Nie posiadasz zainstalowanego portfela w przeglądarce.",
+    "notice": "Nie wykryto zainstalowanego portfela w przeglądarce.",
     "Try Goby": "Wypróbuj Goby",
     "gobyInfo": "Goby to portfel przeglądarkowy open-source dla kryptowaluty Chia."
   },
@@ -127,7 +127,7 @@
     "You Offer": "Oferujesz",
     "You Receive": "Otrzymujesz",
     "Price": "Cena",
-    "Combined": "Połączone",
+    "Combined": "Zsumowane",
     "Cancel": "Anuluj",
     "This offer contains overlapping inputs and can not be added": "Ta oferta zawiera nakładające się środki i nie może zostać dodana.",
     "Best Price": "Najlepsza cena",
@@ -140,9 +140,9 @@
     "Yours": "Twoja"
   },
   "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Zeskanuj kod QR w Ozone Wallet aby zaakceptować",
+    "Scan QR Code with Ozone Wallet to accept": "Zeskanuj kod QR w Ozone Wallet, aby zaakceptować",
     "Try Ozone Wallet": "Wypróbuj Ozone Wallet",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet jest przeznaczony do transakcji XCH i CAT w niezawodny i bezpieczny sposób."
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet służy do wykonywania transakcji XCH i CAT w niezawodny i bezpieczny sposób."
   },
   "chart": {
     "Day": "Dzień",
@@ -157,7 +157,7 @@
     "Collapse": "Zwiń",
     "Expand": "Rozwiń",
     "No data for this chart": "Brak danych dla tego wykresu",
-    "Still collecting data for this chart": "Dane do tego wykresu są jeszcze zbierane"
+    "Still collecting data for this chart": "Za mało danych, by utworzyć wykres"
   },
   "status": {
     "active": "Aktywna",
@@ -174,7 +174,7 @@
   },
   "faq": {
     "question1": "Czym jest dexie?",
-    "answer1": "<p class='my-5'>dexie to tablica ogłoszeń, na której użytkownicy mogą zamieszczać swoje pliki ofert Chia. Pliki ofert są całkowicie zdecentralizowane i niezależne od osób trzecich.</p><p class='my-5'> dexie w żadnym momencie transakcji nie wchodzi w posiadanie monet/tokenów. Pozostają one w portfelu twórcy oferty przez cały czas, dopóki oferta nie zostanie zaakceptowana, w którym to momencie monety/tokeny są bezpiecznie przekazywane bezpośrednio od twórcy oferty do osoby, która ją zaakceptowała, w ramach pojedynczej transakcji na blockchainie Chia bez udziału żadnego pośrednika.</p><p class='my-5'>Więcej o plikach ofert możesz dowiedzieć się w <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>oficjalnej dokumentacji Chia</a>.</p>",
+    "answer1": "<p class='my-5'>dexie to tablica ogłoszeń, na której użytkownicy mogą zamieszczać swoje pliki ofert Chia. Pliki ofert są całkowicie zdecentralizowane i niezależne od osób trzecich.</p><p class='my-5'> dexie w żadnym momencie transakcji nie wchodzi w posiadanie środków. Pozostają one w portfelu twórcy oferty aż do momentu zaakceptowania oferty, kiedy to są one bezpiecznie przekazywane bezpośrednio od twórcy oferty do osoby, która ją zaakceptowała, w ramach pojedynczej transakcji na blockchainie Chia, bez udziału żadnych pośredników.</p><p class='my-5'>Więcej o plikach ofert możesz dowiedzieć się w <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>oficjalnej dokumentacji Chia</a>.</p>",
     "question2": "Potrzebujesz pomocy lub masz pytania?",
     "answer2": "<p class='my-5'>Skontaktuj się z nami na Twitterze <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> lub odwiedź nasz <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>serwer Discord</a>, zawsze chętnie pomożemy.</p>"
   },
@@ -214,10 +214,10 @@
     "Buy Price": "Cena zakupu",
     "#sellPriceHint{{depth}}": "Cena jednostkowa sprzedaży {{depth}} {{market}} \noraz jaki zysk zapewni każda jednostka {{market}}.",
     "Sell Price": "Cena sprzedaży",
-    "#priceChangeHint{{depth}}": "Zmiana średniej ceny (zakupu i sprzedaży z głębokością {{depth}} {{market}})\nw ciągu ostatnich 24 godzin.",
+    "#priceChangeHint{{depth}}": "Zmiana średniej ceny (zakupu i sprzedaży\nz głębokością {{depth}} {{market}}) w ciągu ostatnich 24 godzin.",
     "24h Change": "Zmiana 24h",
     "#totalOfferedHint{{depth}}": "Suma wszystkich ofert.\nRynki są sortowane według liczby {{market}} zablokowanej w aktualnych ofertach.\nOferty z nakładającymi się środkami są pomijane.",
-    "Currently Offered": "Aktualnie oferowane",
+    "Currently Offered": "Oferowane",
     "Actions": "Działania",
     "Buy": "Kup",
     "Sell": "Sprzedaj",
@@ -226,7 +226,7 @@
     "Learn more about our NFT Verification Labels": "Dowiedz się więcej o naszych oznaczeniach weryfikacyjnych NFT",
     "Collection": "Kolekcja",
     "The current lowest price of an NFT": "Aktualna najniższa cena NFT",
-    "Buy Price (Floor)": "Cena zakupu (najniższa)",
+    "Buy Price (Floor)": "Cena zakupu",
     "The highest price someone is bidding for an NFT": "Najwyższa oferta złożona dla wybranego NFT",
     "Highest Bid": "Najwyższa oferta",
     "Floor 24h": "Zmiana 24h",
@@ -251,7 +251,7 @@
     "Spam": "Spam",
     "Illegal Content": "Nielegalna treść",
     "Other": "Inne",
-    "Enter additional notes (notes are public)": "Wprowadź dodatkowe uwagi (widoczne publicznie)",
+    "Enter additional notes (notes are public)": "Dodatkowe informacje",
     "Thank you, a new report has been generated": "Dziękujemy, zgłoszenie zostało utworzone",
     "Report {{id}}": "Zgłoszenie {{id}}",
     "Generating Report": "Tworzenie zgłoszenia ...",
