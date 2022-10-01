@@ -7,7 +7,7 @@
     "Blocked for violating community rules": "Zablokowane za naruszenie zasad społeczności",
     "Blocked": "Zablokowane",
     "Minter DID claimed by {{name}} on {{via}}": "Minter DID zarejestrowany przez {{name}} przez {{via}}",
-    "Anyone can create an NFT collection, make sure the creator/minter is authentic": "Każdy może stworzyć własną kolekcję NFT - upewnij się, że twórca/minter jest wiarygodny",
+    "Anyone can create an NFT collection, make sure the creator/minter is authentic": "Każdy może stworzyć własną kolekcję NFT - upewnij się, że twórca/minter jest autentyczny",
     "Unknown Minter": "Minter nieznany",
     "Twitter Bio contains Minter DID": "Pole 'O mnie' na Twitterze zawiera Minter DID",
     "Twitter Bio does not contain Minter DID": "Pole 'O mnie' na Twitterze nie zawiera Minter DID",
@@ -41,7 +41,7 @@
     "Current Price": "Cena",
     "Price": "Cena",
     "Uploading": "Wysyłanie...",
-    "Currently Offered": "Oferowane",
+    "Currently Offered": "Suma ofert",
     "Daily Volume": "Dzienny obrót",
     "Weekly Volume": "Tygodniowy obrót",
     "Monthly Volume": "Miesięczny obrót",
@@ -99,9 +99,9 @@
     "Successfully queued {{count}} offers for submission_other": "Pomyślnie dodano do kolejki oferty w liczbie {{count}}.",
     "Select and Upload ZIP file": "Wybierz i prześlij plik ZIP",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Oferty dodane hurtowo nie będą widoczne na liście Twoich ofert.",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Lista Twoich ofert jest przechowywana wyłącznie w twojej przeglądarce, zrób kopię zapasową przed wyczyszczeniem pamięci lokalnej (ciasteczek).",
-    "Backup Your Offers": "Wykonaj kopię zapasową listy ofert",
-    "Restore Your Offers": "Przywróć kopię zapasową listy ofert",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Lista Twoich ofert jest przechowywana wyłącznie w Twojej przeglądarce, zrób kopię zapasową przed wyczyszczeniem pamięci lokalnej (ciasteczek).",
+    "Backup Your Offers": "Wykonaj kopię zapasową listy Twoich ofert",
+    "Restore Your Offers": "Przywróć kopię zapasową listy Twoich ofert",
     "Duplicate offers will be merged": "Zduplikowane oferty zostaną połączone.",
     "Your Added Offers": "Lista Twoich ofert",
     "No matching offers": "Brak pasujących ofert"
@@ -140,7 +140,7 @@
     "Yours": "Twoja"
   },
   "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Zeskanuj kod QR w Ozone Wallet, aby zaakceptować",
+    "Scan QR Code with Ozone Wallet to accept": "Zeskanuj kod QR w Ozone Wallet, aby zaakceptować.",
     "Try Ozone Wallet": "Wypróbuj Ozone Wallet",
     "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet służy do wykonywania transakcji XCH i CAT w niezawodny i bezpieczny sposób."
   },
@@ -174,13 +174,14 @@
   },
   "faq": {
     "question1": "Czym jest dexie?",
-    "answer1": "<p class='my-5'>dexie to tablica ogłoszeń, na której użytkownicy mogą zamieszczać swoje pliki ofert Chia. Pliki ofert są całkowicie zdecentralizowane i niezależne od osób trzecich.</p><p class='my-5'> dexie w żadnym momencie transakcji nie wchodzi w posiadanie środków. Pozostają one w portfelu twórcy oferty aż do momentu zaakceptowania oferty, kiedy to są one bezpiecznie przekazywane bezpośrednio od twórcy oferty do osoby, która ją zaakceptowała, w ramach pojedynczej transakcji na blockchainie Chia, bez udziału żadnych pośredników.</p><p class='my-5'>Więcej o plikach ofert możesz dowiedzieć się w <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>oficjalnej dokumentacji Chia</a>.</p>",
+    "answer1": "<p class='my-5'>dexie to zdecentralizowana giełda peer-to-peer (DEX), porównywalna do tablicy ogłoszeń, na której użytkownicy mogą zamieszczać swoje pliki ofert Chia. Pliki ofert są całkowicie zdecentralizowane i niezależne od osób trzecich.</p><p class='my-5'> dexie w żadnym momencie transakcji nie wchodzi w posiadanie środków. Pozostają one w portfelu twórcy oferty aż do momentu zaakceptowania oferty, kiedy to są one bezpiecznie przekazywane bezpośrednio od twórcy oferty do osoby, która ją zaakceptowała, w ramach pojedynczej transakcji na blockchainie Chia, bez udziału żadnych pośredników.</p><p class='my-5'>Więcej o plikach ofert możesz dowiedzieć się w <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>oficjalnej dokumentacji Chia</a>.</p>",
     "question2": "Potrzebujesz pomocy lub masz pytania?",
     "answer2": "<p class='my-5'>Skontaktuj się z nami na Twitterze <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> lub odwiedź nasz <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>serwer Discord</a>, zawsze chętnie pomożemy.</p>"
   },
   "inspect": {
     "Loading": "Ładowanie...",
     "offer not found": "Nie znaleziono oferty",
+    "Add to Your Offers": "Dodaj do listy Twoich ofert",
     "Requested": "Żądane",
     "Offered": "Oferowane",
     "Download Offer": "Pobierz plik oferty",
@@ -207,17 +208,17 @@
   },
   "markets": {
     "{{market}} heading": "Rynki {{market}}",
-    "Depth": "Głębokość",
+    "Depth": "Głębokość rynku",
     "Rank": "Pozycja",
     "Asset": "Aktywo",
-    "#buyPriceHint{{depth}}": "Cena jednostkowa zakupu {{depth}} {{market}} \noraz na zakup ilu pozwoli każda jednostka {{market}}.",
+    "#buyPriceHint{{depth}}": "Cena jednostkowa zakupu o wartości {{depth}} {{market}}\noraz zakup na jaki pozwoli każda jednostka {{market}}.",
     "Buy Price": "Cena zakupu",
-    "#sellPriceHint{{depth}}": "Cena jednostkowa sprzedaży {{depth}} {{market}} \noraz jaki zysk zapewni każda jednostka {{market}}.",
+    "#sellPriceHint{{depth}}": "Cena jednostkowa sprzedaży o wartości {{depth}} {{market}}\noraz koszt każdej jednostki {{market}}.",
     "Sell Price": "Cena sprzedaży",
-    "#priceChangeHint{{depth}}": "Zmiana średniej ceny (zakupu i sprzedaży\nz głębokością {{depth}} {{market}}) w ciągu ostatnich 24 godzin.",
+    "#priceChangeHint{{depth}}": "Zmiana średniej ceny (zakupu i sprzedaży\no wartości {{depth}} {{market}}) w ciągu ostatnich 24 godzin.",
     "24h Change": "Zmiana 24h",
-    "#totalOfferedHint{{depth}}": "Suma wszystkich ofert.\nRynki są sortowane według liczby {{market}} zablokowanej w aktualnych ofertach.\nOferty z nakładającymi się środkami są pomijane.",
-    "Currently Offered": "Oferowane",
+    "#totalOfferedHint{{depth}}": "Suma wszystkich ofert.\nRynki są sortowane według sumy {{market}} zablokowanej w aktualnych ofertach.\nOferty z nakładającymi się środkami są pomijane.",
+    "Currently Offered": "Suma ofert",
     "Actions": "Działania",
     "Buy": "Kup",
     "Sell": "Sprzedaj",
@@ -231,7 +232,7 @@
     "Highest Bid": "Najwyższa oferta",
     "Floor 24h": "Zmiana 24h",
     "Toggle collections with suspicious trading activity": "Włącz/wyłącz kolekcje z podejrzaną aktywnością",
-    "no {{xch}} offers": "brak ofert {{xch}}"
+    "no {{xch}} offers": "Brak ofert {{xch}}"
   },
   "notFound": {
     "404 Error": "Błąd 404",
@@ -262,6 +263,6 @@
     "Tx Fee": "Opłata transakcyjna",
     "mempoolExplanation": "Transakcje, które aktualnie oczekują na zatwierdzenie w bloku.",
     "mempoolSize": "Mempool",
-    "no filters selected": "Nie wybrano filtrów"
+    "no filters selected": "Nie wybrano żadnych filtrów"
   }
 }
