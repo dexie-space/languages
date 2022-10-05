@@ -23,7 +23,9 @@
     "Metadata URIs": "Metadata URIs",
     "Metadata Hash": "Metadata Hash",
     "License URIs": "Lisensi URIs",
-    "License Hash": "Lisensi Hash"
+    "License Hash": "Lisensi Hash",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Cari Token, NFT atau masukkan Alamat",
@@ -40,6 +42,7 @@
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
     "Price": "Harga",
+    "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
     "Daily Volume": "Volume Harian",
     "Weekly Volume": "Volume Mingguan",
@@ -53,17 +56,14 @@
     "Loading": "Memuat ...",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
-    "Select Asset": "Pilih Aset",
     "Select Reason": "Pilih Alasan",
     "All Markets": "Semua Pasar",
     "Requested": "Diminta",
     "Offered": "Ditawarkan",
     "Date": "Tanggal",
-    "Height": "Tinggi",
     "Status": "Status",
     "Actions": "Tindakan",
     "Trade": "Berdagang",
-    "Uploading": "Mengunggah...",
     "Hide": "Sembunyikan"
   },
   "Connect Wallet": "Hubungkan Dompet",
@@ -96,7 +96,6 @@
     "Submit Offer": "Kirim Penawaran",
     "Paste from Clipboard": "Tempel dari Papan Klip",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Unggah banyak penawaran dalam file ZIP, dexie akan mengantre secara internal dan menerbitkannya tanpa membebani node.",
-    "Successfully queued {{count}} offers for submission_one": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan",
     "Successfully queued {{count}} offers for submission_other": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan lain",
     "Select and Upload ZIP file": "Pilih dan Unggah file ZIP",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Penawaran dari Unggahan Massal tidak akan muncul di Penawaran Anda yang Ditambahkan.",
@@ -105,7 +104,8 @@
     "Restore Your Offers": "Pulihkan Penawaran Anda",
     "Duplicate offers will be merged": "Penawaran duplikat akan digabungkan.",
     "Your Added Offers": "Penawaran Anda Ditambahkan",
-    "No matching offers": "Tidak ada penawaran yang cocok"
+    "No matching offers": "Tidak ada penawaran yang cocok",
+    "Successfully queued {{count}} offers for submission_one": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan"
   },
   "invalid offer file": "File Penawaran Tidak Valid",
   "gobyModal": {
@@ -119,7 +119,7 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessage": "🏙&nbsp; Sekarang dengan Penawaran NFT! Ikuti kami di<a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>untuk melihat apa yang akan terjadi selanjutnya!",
+    "bannerMessageDBX": "",
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
@@ -182,8 +182,12 @@
   "inspect": {
     "Loading": "Memuat...",
     "offer not found": "Penawaran tidak ditemukan",
+    "Add to Your Offers": "",
     "Requested": "Diminta",
     "Offered": "Ditawarkan",
+    "Download Offer": "",
+    "Offer file copied": "Penawaran file yang disalin",
+    "Copy to Clipboard": "",
     "Status": "status",
     "Offer ID (Hash)": "ID penawaran (Hash)",
     "Date Collected": "Tanggal dikumpulkan",
@@ -194,9 +198,13 @@
     "Input Coins": "Input Koin",
     "Raw Offer File": "File penawaran mentah",
     "dexie link": "tautan dexie",
-    "Download Offer File": "Unduh file penawaran",
-    "Offer file copied": "Penawaran file yang disalin",
-    "Copy Offer File": "Salin file penawaran"
+    "Current Bid": "",
+    "Make Bid": "",
+    "Requested price is too high? The seller might accept your bid!": "",
+    "{{count}} offers_other": "",
+    "Bid with Goby": "",
+    "Upload Offer": "",
+    "Create a new offer which requests this NFT": ""
   },
   "markets": {
     "{{market}} heading": "{{market}} Pasar",
@@ -211,12 +219,10 @@
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "Jumlah masing -masing aset yang ditawarkan.\nPasar diberi peringkat oleh sebagian besar {{market}} dalam file penawaran aktif terkunci.\nPenawaran dengan input duplikat diabaikan.",
     "Currently Offered": "Saat ini ditawarkan",
-    "Actions": "Tindakan",
     "Buy": "Membeli",
     "Sell": "Menjual",
     "{{market}} subheading": "Semua aset yang diketahui dengan setidaknya 1 {{market}} Beli dan jual likuiditas.",
     "no liquidity": "tidak ada likuiditas",
-    "NFTs are unmoderated, always verify collections and their intention": "NFT tidak dimoderasi, selalu memverifikasi koleksi dan niatnya.",
     "Learn more about our NFT Verification Labels": "Pelajari lebih lanjut tentang label verifikasi NFT kami",
     "Collection": "Koleksi",
     "The current lowest price of an NFT": "Harga NFT terendah saat ini",

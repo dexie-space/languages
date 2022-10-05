@@ -23,7 +23,9 @@
     "Metadata URIs": "",
     "Metadata Hash": "",
     "License URIs": "",
-    "License Hash": ""
+    "License Hash": "",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -54,7 +56,6 @@
     "Loading": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Select Asset": "",
     "Select Reason": "",
     "All Markets": "",
     "Requested": "요청",
@@ -217,7 +218,6 @@
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "제공되는 각 자산의 합계입니다.\n마켓은 잠긴 활성 제안 파일에서 대부분의 XCH에 의해 순위가 매겨집니다.\n중복 입력이 있는 제안은 무시됩니다.",
     "Currently Offered": "",
-    "Actions": "Actions",
     "Buy": "구매",
     "Sell": "판매",
     "{{market}} subheading": "최소 1개의 {{market}} 매수 및 매도 유동성이 있는 모든 자산.",

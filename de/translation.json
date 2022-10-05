@@ -23,7 +23,9 @@
     "Metadata URIs": "Metadata URIs",
     "Metadata Hash": "Metadata Has",
     "License URIs": "Lizenz URIs",
-    "License Hash": "Lizenz Hash"
+    "License Hash": "Lizenz Hash",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Suche nach Tokens, NFTs oder Adresse",
@@ -54,7 +56,6 @@
     "Loading": "Laden ...",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "Jedes Asset",
-    "Select Asset": "Asset Auswählen",
     "Select Reason": "Grund Auswählen",
     "All Markets": "Alle Märkte",
     "Requested": "Gefordert",
@@ -219,7 +220,6 @@
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "Die Summe jeder angebotenen Währung.\nDie Märkte sind nach den meisten {{market}} in aktiven Angeboten sortiert.\nAngebote mit doppelten Inputs werden ignoriert",
     "Currently Offered": "Derzeit Angeboten",
-    "Actions": "Aktionen",
     "Buy": "Kauf",
     "Sell": "Verkauf",
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",

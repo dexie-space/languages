@@ -23,7 +23,9 @@
     "Metadata URIs": "",
     "Metadata Hash": "",
     "License URIs": "",
-    "License Hash": ""
+    "License Hash": "",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -54,7 +56,6 @@
     "Loading": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Select Asset": "",
     "Select Reason": "",
     "All Markets": "",
     "Requested": "Demandé",
@@ -221,7 +222,6 @@
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "La somme totale de chaque actif offert.\nLes  marchés sont classés selon les Offres fermes en {{market}} les plus actives.\nLes offres avec des entrées dupliquées sont ignorées.",
     "Currently Offered": "",
-    "Actions": "Actions",
     "Buy": "Achat",
     "Sell": "Vente",
     "{{market}} subheading": "Montre tous les actifs avec au moins 1 {{market}} de liquidité (achat/vente).",

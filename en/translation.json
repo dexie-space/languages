@@ -23,7 +23,9 @@
     "Metadata URIs": "Metadata URIs",
     "Metadata Hash": "Metadata Hash",
     "License URIs": "License URIs",
-    "License Hash": "License Hash"
+    "License Hash": "License Hash",
+    "NFT Markets": "NFT Markets",
+    "Newcomers": "Newcomers"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
@@ -54,7 +56,6 @@
     "Loading": "Loading ...",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
     "Any Asset": "Any Asset",
-    "Select Asset": "Select Asset",
     "Select Reason": "Select Reason",
     "All Markets": "All Markets",
     "Requested": "Requested",
@@ -219,7 +220,6 @@
     "24h Change": "24h",
     "#totalOfferedHint{{depth}}": "The sum of each offered asset.\nMarkets are ranked by most {{market}} in active offer files locked.\nOffers with duplicate inputs are ignored.",
     "Currently Offered": "Currently Offered",
-    "Actions": "Actions",
     "Buy": "Buy",
     "Sell": "Sell",
     "{{market}} subheading": "All known assets with at least 1 {{market}} buy and sell liquidity.",

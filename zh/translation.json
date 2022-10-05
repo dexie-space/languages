@@ -23,7 +23,9 @@
     "Metadata URIs": "",
     "Metadata Hash": "",
     "License URIs": "",
-    "License Hash": ""
+    "License Hash": "",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -54,7 +56,6 @@
     "Loading": "加载中",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Select Asset": "",
     "Select Reason": "",
     "All Markets": "所有市场",
     "Requested": "请求",
@@ -217,7 +218,6 @@
     "24h Change": "24小时变化",
     "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数{{market}}被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
     "Currently Offered": "",
-    "Actions": "动作",
     "Buy": "买",
     "Sell": "卖",
     "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",
