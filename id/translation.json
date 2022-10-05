@@ -23,9 +23,7 @@
     "Metadata URIs": "Metadata URIs",
     "Metadata Hash": "Metadata Hash",
     "License URIs": "Lisensi URIs",
-    "License Hash": "Lisensi Hash",
-    "NFT Markets": "",
-    "Newcomers": ""
+    "License Hash": "Lisensi Hash"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Cari Token, NFT atau masukkan Alamat",
@@ -56,6 +54,7 @@
     "Loading": "Memuat ...",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
+    "Select Asset": "Pilih Aset",
     "Select Reason": "Pilih Alasan",
     "All Markets": "Semua Pasar",
     "Requested": "Diminta",

@@ -23,9 +23,7 @@
     "Metadata URIs": "URI metadanych",
     "Metadata Hash": "Hash metadanych",
     "License URIs": "URI licencji",
-    "License Hash": "Hash licencji",
-    "NFT Markets": "",
-    "Newcomers": ""
+    "License Hash": "Hash licencji"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Wyszukaj tokeny, NFT lub wprowadź adres",
@@ -56,6 +54,7 @@
     "Loading": "Ładowanie ...",
     "Suspicious trading activity (inflated volume)": "Podejrzane transakcje (zawyżony obrót)",
     "Any Asset": "Dowolne",
+    "Select Asset": "Wybierz token/NFT",
     "Select Reason": "Wybierz powód",
     "All Markets": "Wszystkie rynki",
     "Requested": "Żądane",

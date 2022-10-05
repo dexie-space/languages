@@ -23,9 +23,7 @@
     "Metadata URIs": "",
     "Metadata Hash": "",
     "License URIs": "",
-    "License Hash": "",
-    "NFT Markets": "",
-    "Newcomers": ""
+    "License Hash": ""
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "",
@@ -56,6 +54,7 @@
     "Loading": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
+    "Select Asset": "",
     "Select Reason": "",
     "All Markets": "",
     "Requested": "요청",
