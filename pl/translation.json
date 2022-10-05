@@ -261,6 +261,7 @@
     "Use this form to report NFTs or Tokens for rule violations": "Użyj poniższego formularza, aby zgłosić NFT lub tokeny za naruszenie zasad.",
     "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Każde zgłoszenie zostaje dodane do repozytorium <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Czarna lista społeczności</a> jako publicznie widoczny pull request (żądanie ściągnięcia), który zostanie przejrzany przez maintainera (opiekuna) repozytorium.",
     "NFT": "NFT",
+    "CAT reporting is not available right now": "",
     "Token (CAT)": "Token (CAT)",
     "Impersonation": "Podszywanie się",
     "Spam": "Spam",
