@@ -24,8 +24,8 @@
     "Metadata Hash": "Hash metadanych",
     "License URIs": "URI licencji",
     "License Hash": "Hash licencji",
-    "NFT Markets": "",
-    "Newcomers": ""
+    "NFT Markets": "Rynki NFT",
+    "Newcomers": "Nowe kolekcje"
   },
   "common": {
     "Search Tokens, NFTs or enter Address": "Wyszukaj tokeny, NFT lub wprowadź adres",
@@ -97,8 +97,8 @@
     "Paste from Clipboard": "Wklej ze schowka",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Prześlij wiele ofert w pliku ZIP, a dexie zajmie się ich kolejkowaniem i publikacją bez przeciążania sieci.",
     "Successfully queued {{count}} offers for submission_one": "Pomyślnie dodano do kolejki {{count}} ofertę.",
-    "Successfully queued {{count}} offers for submission_few": "",
-    "Successfully queued {{count}} offers for submission_many": "",
+    "Successfully queued {{count}} offers for submission_few": "Pomyślnie dodano do kolejki oferty w liczbie {{count}}.",
+    "Successfully queued {{count}} offers for submission_many": "Pomyślnie dodano do kolejki oferty w liczbie {{count}}.",
     "Successfully queued {{count}} offers for submission_other": "Pomyślnie dodano do kolejki oferty w liczbie {{count}}.",
     "Select and Upload ZIP file": "Wybierz i prześlij plik ZIP",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Oferty dodane hurtowo nie będą widoczne na liście Twoich ofert.",
@@ -204,8 +204,8 @@
     "Make Bid": "Złóż ofertę",
     "Requested price is too high? The seller might accept your bid!": "Uważasz, że proponowana cena jest zbyt wysoka? Być może sprzedawca zaakceptuje Twoją ofertę!",
     "{{count}} offers_one": "Liczba ofert: {{count}}",
-    "{{count}} offers_few": "",
-    "{{count}} offers_many": "",
+    "{{count}} offers_few": "Liczba ofert: {{count}}",
+    "{{count}} offers_many": "Liczba ofert: {{count}}",
     "{{count}} offers_other": "Liczba ofert: {{count}}",
     "Bid with Goby": "Licytuj w Goby",
     "Upload Offer": "Wyślij ofertę",
