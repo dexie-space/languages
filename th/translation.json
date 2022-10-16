@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "คุณร้องขอ",
+    "Contributors": "",
     "Dark Mode": "โหมดมืด",
     "Light Mode": "โหมดสว่าง",
     "Trade History": "",
@@ -43,6 +44,7 @@
     "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
+    "Friends": "",
     "Price": "",
     "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "สถานะ",
-    "NFT Labels": "",
     "Report": "",
     "Offers API": "",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
-    "connecting": "กำลังเชื่อมต่อ"
+    "connecting": "กำลังเชื่อมต่อ",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
