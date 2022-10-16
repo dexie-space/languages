@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Tokeny (CAT)",
     "Your NFTs": "Twoje NFT",
     "You Request": "Żądasz",
+    "Contributors": "",
     "Dark Mode": "Ciemny",
     "Light Mode": "Jasny",
     "Trade History": "Historia",
@@ -43,6 +44,7 @@
     "Accept in {{provider}}": "Zaakceptuj w {{provider}}",
     "No Results": "Brak wyników",
     "Current Price": "Cena",
+    "Friends": "",
     "Price": "Cena",
     "Uploading": "Wysyłanie...",
     "Currently Offered": "Suma ofert",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Status",
-    "NFT Labels": "Oznaczenia NFT",
     "Report": "Zgłoś",
     "Offers API": "API ofert",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Bloki są zapełnione, zalecana opłata transakcyjna: {{fee}} {{xch}}",
     "synced": "zsynchronizowano",
     "disconnected": "rozłączono",
-    "connecting": "łączenie"
+    "connecting": "łączenie",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Oferta pomyślnie dodana.",

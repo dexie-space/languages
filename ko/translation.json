@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "",
+    "Contributors": "",
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
     "Trade History": "",
@@ -43,6 +44,7 @@
     "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",
     "Current Price": "",
+    "Friends": "",
     "Price": "",
     "Uploading": "업로딩...",
     "Currently Offered": "",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "",
-    "NFT Labels": "",
     "Report": "",
     "Offers API": "",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "동기화",
     "disconnected": "",
-    "connecting": ""
+    "connecting": "",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",

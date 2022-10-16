@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "",
+    "Contributors": "",
     "Dark Mode": "Nuit",
     "Light Mode": "Jour",
     "Trade History": "",
@@ -43,6 +44,7 @@
     "Accept in {{provider}}": "Accepter dans {{provider}}",
     "No Results": "",
     "Current Price": "",
+    "Friends": "",
     "Price": "",
     "Uploading": "Chargement...",
     "Currently Offered": "",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "",
-    "NFT Labels": "",
     "Report": "",
     "Offers API": "",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "synchronisé",
     "disconnected": "",
-    "connecting": ""
+    "connecting": "",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",

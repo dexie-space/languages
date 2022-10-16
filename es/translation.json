@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Sus NFTs",
     "You Request": "Usted solicita",
+    "Contributors": "",
     "Dark Mode": "Oscuro",
     "Light Mode": "Claro",
     "Trade History": "Historial de operaciones",
@@ -43,6 +44,7 @@
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
+    "Friends": "",
     "Price": "Precio",
     "Uploading": "Cargando...",
     "Currently Offered": "Oferta actual",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Estado",
-    "NFT Labels": "Etiquetas NFT",
     "Report": "Reportar",
     "Offers API": "API de ofertas",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Los bloques se utilizan por completo, tarifa de transacción recomendada: {{fee}} {{xch}}",
     "synced": "sincronizada",
     "disconnected": "desconectada",
-    "connecting": "conectando"
+    "connecting": "conectando",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Archivo de oferta indexado con éxito.",
@@ -103,6 +106,7 @@
     "Paste from Clipboard": "Pegar desde portapapeles",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Cargue muchas ofertas en un archivo ZIP, Dexie las pondrá en cola internamente y las publicará sin sobrecargar los nodos.",
     "Successfully queued {{count}} offers for submission_one": "{{count}} oferta en cola para enviar con éxito.",
+    "Successfully queued {{count}} offers for submission_many": "",
     "Successfully queued {{count}} offers for submission_other": "{{count}} ofertas en cola para enviar con éxito.",
     "Select and Upload ZIP file": "Seleccione y cargue el archivo ZIP",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Las ofertas de carga masiva no aparecerán en sus ofertas añadidas.",
@@ -174,6 +178,7 @@
     "Make Bid": "Hacer una oferta",
     "Requested price is too high? The seller might accept your bid!": "¿El precio solicitado es demasiado alto? ¡El vendedor podría aceptar su oferta!",
     "{{count}} offers_one": "{{count}} oferta",
+    "{{count}} offers_many": "",
     "{{count}} offers_other": "{{count}} ofertas",
     "Bid with Goby": "Oferte con Goby",
     "Upload Offer": "Subir oferta",
