@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Accept in {{provider}}",
     "No Results": "No Results",
     "Current Price": "Current Price",
+    "Contributors": "Contributors",
+    "Friends": "Friends",
     "Price": "Price",
     "Uploading": "Uploading...",
     "Currently Offered": "Currently Offered",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Status",
-    "NFT Labels": "NFT Labels",
     "Report": "Report",
     "Offers API": "Offers API",
+    "Prices API": "Prices API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "synced": "synced",
     "disconnected": "disconnected",
-    "connecting": "connecting"
+    "connecting": "connecting",
+    "Help translate": "Help translate"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",

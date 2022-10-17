@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Accepter dans {{provider}}",
     "No Results": "",
     "Current Price": "",
+    "Contributors": "",
+    "Friends": "",
     "Price": "",
     "Uploading": "Chargement...",
     "Currently Offered": "",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "",
-    "NFT Labels": "",
     "Report": "",
     "Offers API": "",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "synchronisé",
     "disconnected": "",
-    "connecting": ""
+    "connecting": "",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès.",

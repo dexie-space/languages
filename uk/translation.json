@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Прийняти в {{provider}}",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
+    "Contributors": "",
+    "Friends": "",
     "Price": "Ціна",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Поточною пропозицією",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Статус",
-    "NFT Labels": "НФТ мітка",
     "Report": "Повідомити",
     "Offers API": "API Пропозицій",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "synced": "синхронізовано",
     "disconnected": "відключено",
-    "connecting": "підключено"
+    "connecting": "підключено",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
