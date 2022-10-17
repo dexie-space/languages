@@ -228,7 +228,7 @@
     "#sellPriceHint{{depth}}": "Il prezzo unitario per l'acquisto di {{depth}} {{market}} \n e quanto costerebbe ogni {{market}}.",
     "Sell Price": "Prezzo di vendita",
     "#priceChangeHint{{depth}}": "Cambio di prezzo (compra e vendi con {{depth}} {{market}} depth)\ndurante le ultime 24 ore",
-    "24h Change": "Variazione giornaliera",
+    "24h Change": "Var. 24h",
     "#totalOfferedHint{{depth}}": "Somma degli asset offerti.\nI mercati sono classificati in base alla maggior parte di {{market}} nei file di offerte attive con ancora completati.\nLe offerte doppie sono ignorate",
     "Currently Offered": "Attualmente Offerti",
     "Buy": "Compra",
