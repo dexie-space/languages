@@ -277,7 +277,7 @@
   "trades": {
     "Recommended Transaction Fee": "Frais de Transaction recommandés",
     "Tx Fee": "Frais de Transaction",
-    "mempoolExplanation": "Transactions enattente d'êetre inclues dans un bloc",
+    "mempoolExplanation": "Transactions en attente d'être inclues dans un bloc",
     "mempoolSize": "Mempool",
     "no filters selected": "Pas de filtre sélectionné"
   }
