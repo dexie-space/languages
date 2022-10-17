@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Zaakceptuj w {{provider}}",
     "No Results": "Brak wyników",
     "Current Price": "Cena",
+    "Contributors": "",
+    "Friends": "",
     "Price": "Cena",
     "Uploading": "Wysyłanie...",
     "Currently Offered": "Suma ofert",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Status",
-    "NFT Labels": "Oznaczenia NFT",
     "Report": "Zgłoś",
     "Offers API": "API ofert",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Bloki są zapełnione, zalecana opłata transakcyjna: {{fee}} {{xch}}",
     "synced": "zsynchronizowano",
     "disconnected": "rozłączono",
-    "connecting": "łączenie"
+    "connecting": "łączenie",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Oferta pomyślnie dodana.",

@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Terima di {{provider}}",
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
+    "Contributors": "",
+    "Friends": "",
     "Price": "Harga",
     "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Status",
-    "NFT Labels": "Label NFT",
     "Report": "Laporkan",
     "Offers API": "Penawaran API",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "synced": "disinkronkan",
     "disconnected": "terputus",
-    "connecting": "menghubungkan"
+    "connecting": "menghubungkan",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Penawaran File berhasil diindeks",

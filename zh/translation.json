@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "在{{provider}}钱包接受",
     "No Results": "",
     "Current Price": "",
+    "Contributors": "",
+    "Friends": "",
     "Price": "",
     "Uploading": "上传中...",
     "Currently Offered": "",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "状态",
-    "NFT Labels": "",
     "Report": "",
     "Offers API": "",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "已同步",
     "disconnected": "已断开连接",
-    "connecting": "链接中"
+    "connecting": "链接中",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",

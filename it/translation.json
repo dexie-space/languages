@@ -43,6 +43,8 @@
     "Accept in {{provider}}": "Accetta in {{provider}}",
     "No Results": "Nessun risultato",
     "Current Price": "Prezzo Corrente",
+    "Contributors": "",
+    "Friends": "",
     "Price": "Prezzo",
     "Uploading": "Caricamento in corso...",
     "Currently Offered": "Offerte Correnti",
@@ -79,13 +81,14 @@
   },
   "footer": {
     "Status": "Stato",
-    "NFT Labels": "NFT Labels",
     "Report": "Report",
     "Offers API": "Offers API",
+    "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "synced": "Sincronizzato",
     "disconnected": "Disconnesso",
-    "connecting": "Connessione in corso:"
+    "connecting": "Connessione in corso:",
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
@@ -223,7 +226,7 @@
     "#sellPriceHint{{depth}}": "Il prezzo unitario per l'acquisto di {{depth}} {{market}} \n e quanto costerebbe ogni {{market}}.",
     "Sell Price": "Prezzo di vendita",
     "#priceChangeHint{{depth}}": "Cambio di prezzo (compra e vendi con {{depth}} {{market}} depth)\ndurante le ultime 24 ore",
-    "24h Change": "Variazione delle ultime 24 ore",
+    "24h Change": "24 ore",
     "#totalOfferedHint{{depth}}": "Somma degli asset offerti.\nI mercati sono classificati in base alla maggior parte di {{market}} nei file di offerte attive con ancora completati.\nLe offerte doppie sono ignorate",
     "Currently Offered": "Attualmente Offerti",
     "Buy": "Compra",
