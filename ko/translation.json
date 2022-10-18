@@ -39,6 +39,8 @@
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "loading": "",
+    "{{count}} more_other": "",
     "Inspect": "추가정보",
     "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",

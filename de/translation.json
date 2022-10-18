@@ -39,6 +39,9 @@
     "Report NFT": "NFT melden",
     "Show on Mintgarden": "zu Mintgarden",
     "Show on Spacescan": "zu Spacescan",
+    "loading": "",
+    "{{count}} more_one": "",
+    "{{count}} more_other": "",
     "Inspect": "Infos",
     "Accept in {{provider}}": "Mit {{provider}} annehmen",
     "No Results": "Keine Ergebnisse",
@@ -88,7 +91,7 @@
     "synced": "synchronisiert",
     "disconnected": "getrennt",
     "connecting": "verbinde",
-    "Help translate": "Helfe übersetzen"
+    "Help translate": "Hilf übersetzen"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",

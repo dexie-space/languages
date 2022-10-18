@@ -39,6 +39,8 @@
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "loading": "",
+    "{{count}} more_other": "",
     "Inspect": "ตรวจสอบ",
     "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
