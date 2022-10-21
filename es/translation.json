@@ -47,9 +47,18 @@
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
+    "Assets": "",
+    "Loading": "Cargando ...",
+    "Trade": "Operación",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
     "Contributors": "Colaboradores",
     "Friends": "Amigos",
     "Price": "Precio",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "Cargando...",
     "Currently Offered": "Oferta actual",
     "Daily Volume": "Volumen diario",
@@ -61,7 +70,6 @@
     "Monthly Trades": "Operaciones mensuales",
     "Yearly Trades": "Operaciones anuales",
     "Rank by": "Clasificar por",
-    "Loading": "Cargando ...",
     "Suspicious trading activity (inflated volume)": "Operación sospechosa (volumen inflado)",
     "Any Asset": "Cualquier activo",
     "Select Asset": "Seleccionar activo",
@@ -75,7 +83,6 @@
     "Date": "Fecha",
     "Status": "Estado",
     "Actions": "Acciones",
-    "Trade": "Operación",
     "Hide": "Ocultar"
   },
   "Connect Wallet": "Conectar monedero",
@@ -216,6 +223,10 @@
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada"
   },
+  "Assets": {
+    "Search assets": "",
+    "Powered by Taildatabase": ""
+  },
   "faq": {
     "question1": "¿Qué es dexie?",
     "answer1": "<p class='my-5'>dexie es un intercambio peer-to-peer para archivos de ofertas de Chia. Los archivos de ofertas están completamente descentralizados y no necesitan de un tercero.</p><p class='my-5'>dexie no tiene la custodia de las monedas, siempre permanecen en la billetera del creador hasta que se acepta la oferta, momento en el cual los activos se transfieren de forma segura entre el creador y el tomador dentro de una sola transacción en la cadena de bloques sin ningún intermediario.</p><p class='my-5'>Obtenga más información sobre los archivos de oferta en la <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Documentación oficial de Chia</a>.</p>",
@@ -283,6 +294,9 @@
     "Tx Fee": "Tarifa de envío",
     "mempoolExplanation": "Transacciones que actualmente esperan ser incluidas en un bloque.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no se seleccionaron filtros"
+    "no filters selected": "no se seleccionaron filtros",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }

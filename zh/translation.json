@@ -45,9 +45,18 @@
     "Accept in {{provider}}": "在{{provider}}钱包接受",
     "No Results": "",
     "Current Price": "",
+    "Assets": "",
+    "Loading": "加载中",
+    "Trade": "交易",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
     "Contributors": "",
     "Friends": "",
     "Price": "",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "上传中...",
     "Currently Offered": "",
     "Daily Volume": "",
@@ -59,7 +68,6 @@
     "Monthly Trades": "",
     "Yearly Trades": "",
     "Rank by": "",
-    "Loading": "加载中",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
     "Select Asset": "",
@@ -73,7 +81,6 @@
     "Date": "日期",
     "Status": "状态",
     "Actions": "动作",
-    "Trade": "交易",
     "Hide": "隐藏"
   },
   "Connect Wallet": "链接钱包",
@@ -210,6 +217,10 @@
     "gobyError4900": "Goby钱包未链接",
     "Offer accepted": "Offer已被接受"
   },
+  "Assets": {
+    "Search assets": "",
+    "Powered by Taildatabase": ""
+  },
   "faq": {
     "question1": "什么是dexie?",
     "answer1": "<p class='my-5'>dexie是一个Chia offer文件的点对点交易所，Offer文件完全去中心化并无需信任。</p><p class='my-5'>dexie并不托管任何硬币，硬币将一直在maker的钱包里直到offer被接受, 这时资产在maker和taker之间通过一次交易，安全的在区块链上进行了转移，无需任何中间商。</p><p class='my-5'>请到Chia官方网址了解更多关于offer文件的解释。<a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -277,6 +288,9 @@
     "Tx Fee": "",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
-    "no filters selected": "未选择过滤条件"
+    "no filters selected": "未选择过滤条件",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }
