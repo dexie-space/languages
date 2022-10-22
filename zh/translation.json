@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "请求",
+    "Assets": "",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Trade History": "",
@@ -45,7 +46,6 @@
     "Accept in {{provider}}": "在{{provider}}钱包接受",
     "No Results": "",
     "Current Price": "",
-    "Assets": "",
     "Loading": "加载中",
     "Trade": "交易",
     "Description": "",
@@ -90,7 +90,6 @@
   },
   "footer": {
     "Status": "状态",
-    "Report": "",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -218,7 +217,7 @@
     "Offer accepted": "Offer已被接受"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

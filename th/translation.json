@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "คุณร้องขอ",
+    "Assets": "",
     "Dark Mode": "โหมดมืด",
     "Light Mode": "โหมดสว่าง",
     "Trade History": "",
@@ -45,7 +46,6 @@
     "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
-    "Assets": "",
     "Loading": "กำลังโหลด",
     "Trade": "ซื้อขาย",
     "Description": "",
@@ -90,7 +90,6 @@
   },
   "footer": {
     "Status": "สถานะ",
-    "Report": "",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -218,7 +217,7 @@
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

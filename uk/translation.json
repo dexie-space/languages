@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Токени (CAT)",
     "Your NFTs": "Твої НФТ",
     "You Request": "Ти отримаєш",
+    "Assets": "",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Trade History": "Історія торгівлі",
@@ -48,7 +49,6 @@
     "Accept in {{provider}}": "Прийняти в {{provider}}",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
-    "Assets": "",
     "Loading": "Завантаження...",
     "Trade": "Торгівля",
     "Description": "",
@@ -93,7 +93,6 @@
   },
   "footer": {
     "Status": "Статус",
-    "Report": "Повідомити",
     "Offers API": "API Пропозицій",
     "Prices API": "API цін",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
@@ -227,7 +226,10 @@
     "Offer accepted": "Пропозиція прийнята"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_few": "",
+    "Search {{count}} assets_many": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

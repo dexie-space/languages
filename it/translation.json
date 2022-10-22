@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "I tuoi NFT",
     "You Request": "La tua richiesta",
+    "Assets": "",
     "Dark Mode": "Scuro",
     "Light Mode": "Chiaro",
     "Trade History": "Lista degli scambi avvenuti",
@@ -47,7 +48,6 @@
     "Accept in {{provider}}": "Accetta in {{provider}}",
     "No Results": "Nessun risultato",
     "Current Price": "Prezzo Corrente",
-    "Assets": "",
     "Loading": "Caricamento in corso ...",
     "Trade": "Compravendite",
     "Description": "",
@@ -92,7 +92,6 @@
   },
   "footer": {
     "Status": "Stato",
-    "Report": "Report",
     "Offers API": "Offers API",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
@@ -224,7 +223,9 @@
     "Offer accepted": "Offerta Accettata"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_many": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

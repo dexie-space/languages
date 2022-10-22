@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "Du Forderst",
+    "Assets": "",
     "Dark Mode": "Dunkel",
     "Light Mode": "Hell",
     "Trade History": "Handelsverlauf",
@@ -46,7 +47,6 @@
     "Accept in {{provider}}": "Mit {{provider}} annehmen",
     "No Results": "Keine Ergebnisse",
     "Current Price": "Aktueller Preis",
-    "Assets": "",
     "Loading": "Laden ...",
     "Trade": "Handel",
     "Description": "Beschreibung",
@@ -91,7 +91,6 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Melden",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -221,7 +220,8 @@
     "Offer accepted": "Angebot angenommen"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

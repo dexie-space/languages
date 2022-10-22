@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Tokeny (CAT)",
     "Your NFTs": "Twoje NFT",
     "You Request": "Żądasz",
+    "Assets": "",
     "Dark Mode": "Ciemny",
     "Light Mode": "Jasny",
     "Trade History": "Historia",
@@ -48,7 +49,6 @@
     "Accept in {{provider}}": "Zaakceptuj w {{provider}}",
     "No Results": "Brak wyników",
     "Current Price": "Cena",
-    "Assets": "",
     "Loading": "Ładowanie ...",
     "Trade": "Handluj",
     "Description": "",
@@ -93,7 +93,6 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Zgłoś",
     "Offers API": "API ofert",
     "Prices API": "API cen",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Bloki są zapełnione, zalecana opłata transakcyjna: {{fee}} {{xch}}",
@@ -227,7 +226,10 @@
     "Offer accepted": "Oferta zaakceptowana"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_few": "",
+    "Search {{count}} assets_many": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

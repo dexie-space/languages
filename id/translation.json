@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "Anda Meminta",
+    "Assets": "",
     "Dark Mode": "Gelap",
     "Light Mode": "Terang",
     "Trade History": "Riwayat Perdagangan",
@@ -45,7 +46,6 @@
     "Accept in {{provider}}": "Terima di {{provider}}",
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
-    "Assets": "",
     "Loading": "Memuat ...",
     "Trade": "Berdagang",
     "Description": "",
@@ -90,7 +90,6 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Laporkan",
     "Offers API": "Penawaran API",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
@@ -219,7 +218,7 @@
     "Offer accepted": "Penawaran diterima"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {

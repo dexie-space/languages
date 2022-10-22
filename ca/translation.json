@@ -1,4 +1,4 @@
-{	
+{
   "nft": {
     "Unnamed NFT": "NFT sense nom",
     "No Preview Available": "No hi ha vista prèvia disponible",
@@ -26,13 +26,14 @@
     "License Hash": "Llicència de Hash",
     "NFT Markets": "Mercats NFT",
     "Newcomers": "Nouvinguts"
-  },	
+  },
   "common": {
     "Search Tokens, NFTs or enter Address": "Cerqueu fitxes, NFT o introduïu l'adreça",
     "You Offer": "Tu ofereixes",
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Els vostres NFT",
     "You Request": "Vostè demaneu",
+    "Assets": "Actius",
     "Dark Mode": "Fosc",
     "Light Mode": "Llum",
     "Trade History": "Història del comerç",
@@ -46,7 +47,6 @@
     "Accept in {{provider}}": "Accepta a {{provider}}",
     "No Results": "Sense resultats",
     "Current Price": "Preu actual",
-    "Assets": "Actius",
     "Loading": "Carregant...",
     "Trade": "Comerç",
     "Description": "Descripció",
@@ -59,7 +59,7 @@
     "Transaction Fee": "Comissió de transacció",
     "Mempool Transaction ID": "Identificador de transacció Mempool",
     "Uploading": "Pujant...",
-    "Currently Offered"	: "Actualment ofert",
+    "Currently Offered": "Actualment ofert",
     "Daily Volume": "Volum diari",
     "Weekly Volume": "Volum setmanal",
     "Monthly Volume": "Volum mensual",
@@ -83,15 +83,14 @@
     "Status": "Estat",
     "Actions": "Accions",
     "Hide": "Amaga"
-  },	
+  },
   "Connect Wallet": "Connecta cartera",
   "createOffer": {
     "Please wait": "Espereu si us plau...",
     "Create Offer with Goby": "Crea una oferta amb Goby"
-  },	
+  },
   "footer": {
     "Status": "Estat",
-    "Report": "Informe",
     "Offers API": "API d'ofertes",
     "Prices API": "API de preus",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Els blocs s'utilitzen completament, tarifa de transacció recomanada: {{fee}} {{xch}}",
@@ -99,7 +98,7 @@
     "disconnected": "desconnectat",
     "connecting": "Connectant",
     "Help translate": "Ajuda a traduir"
-  },	
+  },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "El fitxer d'oferta s'ha indexat correctament",
     "Upload Offer Files": "Pujar fitxers d'oferta",
@@ -125,13 +124,13 @@
     "Duplicate offers will be merged": "Les ofertes duplicades es fusionaran",
     "Your Added Offers": "Les vostres ofertes afegides",
     "No matching offers": "No hi ha ofertes coincidents"
-  },	
+  },
   "invalid offer file": "Fitxer d'oferta no vàlid",
   "gobyModal": {
     "notice": "No heu instal·lat cap cartera del navegador",
     "Try Goby": "Prova Goby",
     "gobyInfo": "Goby és una cartera de navegador de codi obert per a Chia"
-  },	
+  },
   "header": {
     "Markets": "Mercats",
     "NFT": "NFT",
@@ -140,7 +139,7 @@
     "FAQ": "FAQ",
     "bannerMessageDBX": "Hem llançat <a class='font-bold' href='/dbx'>dexie bucks</a>! Segueix-nos a <a class='font-bold' href='https://twitter.com /dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per estar al dia!",
     "Add Offer": "Afegeix una oferta"
-  },	
+  },
   "offersTable": {
     "No Offers Found": "No s'han trobat ofertes",
     "Combine Offers": "Combina ofertes",
@@ -155,15 +154,15 @@
     "Accept": "Acceptar",
     "Download Offer File": "Baixa el fitxer d'oferta",
     "Copy Offer File": "Copia el fitxer d'oferta"
-  },	
+  },
   "ribbon": {
     "Yours": "El teu"
-  },	
+  },
   "ozoneModal": {
     "Scan QR Code with Ozone Wallet to accept": "Escaneja el codi QR amb cartera Ozone per acceptar",
     "Try Ozone Wallet": "Proveu la cartera Ozone",
     "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "La cartera Ozone és dissenyadat per a transaccions amb XCH i CAT d'una manera fiable i segura"
-  },	
+  },
   "inspect": {
     "dexie link": "enllaç dexie",
     "Loading": "Carregant...",
@@ -191,7 +190,7 @@
     "Bid with Goby": "Oferta amb Goby",
     "Upload Offer": "Penja l'oferta",
     "Create a new offer which requests this NFT": "Crea una oferta nova que sol·liciti aquest NFT"
-  },	
+  },
   "chart": {
     "Day": "Dia",
     "Week": "setmana",
@@ -206,7 +205,7 @@
     "Expand": "Ampliar",
     "No data for this chart": "No hi ha dades per a aquest gràfic",
     "Still collecting data for this chart": "Encara recollint dades per a aquest gràfic"
-  },	
+  },
   "status": {
     "active": "Actiu",
     "pending": "Pendents",
@@ -214,22 +213,23 @@
     "cancelled": "Cancel·lat",
     "completed": "Completat",
     "unknown": "Desconegut"
-  },	
+  },
   "toast": {
     "gobyError4001": "Si us plau, acabeu de configurar en Goby primer",
     "gobyError4900": "Goby no està connectat",
     "Offer accepted": "Oferta acceptada"
-  },	
+  },
   "Assets": {
-    "Search assets": "Cerca recursos",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": "Impulsat per Taildatabase"
-  },	
+  },
   "faq": {
     "question1": "Què és dexie?",
     "answer1": "<p class='my-5'>dexie és un intercanvi d'igual a igual per a fitxers d'ofertes de Chia. Els fitxers d'oferta estan completament descentralitzats i sense confiança.</p><p class='my-5'>dexie no té cap custòdia de les monedes, sempre romanen a la cartera del fabricant fins que s'accepta l'oferta, moment en què els actius es transfereixen de manera segura entre el fabricant i el receptor en una única transacció a la cadena de blocs sense cap intermediari.</p><p class. ='my-5'>Obteniu més informació sobre els fitxers d'oferta al <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel=' oficial noreferrer'>Documentació de Chia</a>.</p>",
-    "question2":"Suport o preguntes?",
+    "question2": "Suport o preguntes?",
     "answer2": "<p class='my-5'>Contacteu amb nosaltres a Twitter a <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'> @dexie_space</a> o consulta el nostre <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>canal de discordia</a>, sempre estem encantats d'ajudar.</p>"
-  },	
+  },
   "markets": {
     "{{market}} heading": "{{market}} mercats",
     "Depth": "Profunditat",
@@ -256,19 +256,19 @@
     "Floor 24h": "Pis 24h",
     "Toggle collections with suspicious trading activity": "Canvia col·leccions amb activitat comercial sospitosa",
     "no {{xch}} offers": "no hi ha {{xch}} ofertes"
-  },	
+  },
   "notFound": {
     "404 Error": "Error 404",
     "Page not found": "Pàgina no trobada",
     "Sorry, we couldn't find the page you're looking for": "Ho sentim, no hem pogut trobar la pàgina que estàs cercant",
     "Go back home": "Tornar a casa"
-  },	
+  },
   "offers": {
     "Offer at least": "Ofereix almenys",
     "Offer at most": "Ofereix com a màxim",
     "Receive at least": "Rebre almenys",
     "Receive at most": "Rebre com a màxim"
-  },	
+  },
   "report": {
     "Report Content": "Reportar contingut",
     "Use this form to report NFTs or Tokens for rule violations": "Utilitzeu aquest formulari per denunciar NFT o fitxes per infraccions de regles",
@@ -285,7 +285,7 @@
     "Report {{id}}": "Informe {{id}}",
     "Generating Report": "S'està generant un informe...",
     "Submit Report": "Envia un informe"
-  },	
+  },
   "trades": {
     "Recommended Transaction Fee": "Comissió de transacció recomanada",
     "Tx Fee": "Taxa Tx",
@@ -295,5 +295,5 @@
     "Transaction Fee (higher fee = higher priority)": "Comissió de transacció (comissió més alta = prioritat més alta)",
     "Low Transaction Fee (low priority) {{fee}}": "Comissió de transacció baixa (prioritat baixa): {{fee}}",
     "Low Fee": "Tarifa baixa"
-  }	
-}	
+  }
+}

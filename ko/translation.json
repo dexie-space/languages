@@ -33,6 +33,7 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "",
+    "Assets": "",
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
     "Trade History": "",
@@ -45,7 +46,6 @@
     "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",
     "Current Price": "",
-    "Assets": "",
     "Loading": "",
     "Trade": "거래",
     "Description": "",
@@ -90,7 +90,6 @@
   },
   "footer": {
     "Status": "",
-    "Report": "",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -218,7 +217,7 @@
     "Offer accepted": "제안 수락되었습니다"
   },
   "Assets": {
-    "Search assets": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
   },
   "faq": {
