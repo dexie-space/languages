@@ -6,7 +6,7 @@
     "Inspect Metadata": "Inspeccionar metadatos",
     "Blocked for violating community rules": "Bloqueado por violar as regras da comunidade",
     "Blocked": "Bloqueado",
-    "Minter DID claimed by {{name}} en {{via}}": "Minter DID reclamado por {{name}} o {{via}}",
+    "Minter DID claimed by {{name}} on {{via}}": "Minter DID reclamado por {{name}} o {{via}}",
     "Anyone can create an NFT collection, make sure the creator/minter is authentic": "Calquera pode crear unha colección NFT, asegúrese de que o creador/minter sexa auténtico.",
     "Unknown Minter": "Creador descoñecido",
     "Twitter Bio contains Minter DID": "A biografía de Twitter contén o DID do creador",
@@ -33,6 +33,7 @@
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Os teus NFTs",
     "You Request": "Ti solicitas",
+    "Assets": "Activos",
     "Dark Mode": "Escuro",
     "Light Mode": "Light",
     "Trade History": "Historial de comercio",
@@ -46,7 +47,6 @@
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sen resultados",
     "Current Price": "Prezo actual",
-    "Assets": "Activos",
     "Loading": "Cargando...",
     "Trade": "Comercio",
     "Description": "Descrición",
@@ -57,7 +57,7 @@
     "Friends": "Amigos",
     "Price": "Prezo",
     "Transaction Fee": "Taxa de transacción",
-    "ID de transacción de Mempool": "ID de transacción de Mempool",
+    "Mempool Transaction ID": "ID de transacción de Mempool",
     "Uploading": "Cargando...",
     "Currently Offered": "Actualmente ofrecido",
     "Daily Volume": "Volum diario",
@@ -87,14 +87,13 @@
   "Connect Wallet": "Conectar carteira",
   "createOffer": {
     "Please wait": "Por favor, agarde...",
-    "Crear unha oferta con Goby": "Crear unha oferta con Goby"
+    "Create Offer with Goby": "Crear unha oferta con Goby"
   },
   "footer": {
     "Status": "Estado",
-    "Report": "Informe",
     "Offers API": "Ofrece API",
     "Prices API": "Prices API",
-    "Blocks are fully used, recommended transaction fee {{fee}} {{xch}}": "Os bloques están totalmente utilizados, recomendado taxa de transacción: {{fee}} {{xch}}",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Os bloques están totalmente utilizados, recomendado taxa de transacción: {{fee}} {{xch}}",
     "synced": "sincronizado",
     "disconnected": "desconectado",
     "connecting": "conectando",
@@ -141,7 +140,7 @@
     "bannerMessageDBX": "Lanzamos dexie bucks ! Síguenos en @dexie_space para estar ao día!",
     "Add Offer": "Engadir oferta"
   },
-  "ofertasTable": {
+  "offersTable": {
     "No Offers Found": "Non se atopou ningunha oferta",
     "Combine Offers": "Combinar ofertas",
     "You Offer": "You Offer",
@@ -207,7 +206,7 @@
     "No data for this chart": "Non hai datos para este gráfico",
     "Still collecting data for this chart": "Aínda recompilando datos para este gráfico"
   },
-  "estado": {
+  "status": {
     "active": "Activo",
     "pending": "Pendente",
     "cancelling": "Cancelando",
@@ -221,10 +220,11 @@
     "Offer accepted": "Oferta aceptada"
   },
   "Assets": {
-    "Search assets": "Buscar activos",
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_other": "",
     "Powered by Taildatabase": "Impulsado por Taildatabase"
   },
-  "FAQ": {
+  "faq": {
     "question1": "Que é dexie?",
     "answer1": "<p class='my-5'>dexie é un intercambio peer-to-peer para ficheiros de ofertas de Chia. Os ficheiros de ofertas están completamente descentralizados e sen confianza.</p><p class='my-5'>dexie non ten a custodia das moedas, sempre permanecen na carteira do creador ata que se acepta a oferta, momento no que os activos transfírense de forma segura entre o creador e o tomador nunha única transacción na cadea de bloques sen ningún intermediario.</p><p class='my-5'>Obtén máis información sobre os ficheiros de oferta na<a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>documentación oficial de Chia.</a>.</p>",
     "question2": "Asistencia ou preguntas?",
@@ -246,7 +246,7 @@
     "Buy": "Comprar",
     "Sell": "Vender",
     "{{market}} subheading": "Todos os activos coñecidos con polo menos 1 {{market}} de liquidez mercan e venden.",
-    "sen liquidez": "sen liquidez",
+    "no liquidity": "sen liquidez",
     "Learn more about our NFT Verification Labels": "Obtén máis información sobre as nosas etiquetas de verificación NFT",
     "Collection": "Colección",
     "The current lowest price of an NFT": "O prezo máis baixo actual dun NFT",
@@ -255,12 +255,12 @@
     "Highest Bid": "Máxima oferta",
     "Floor 24h": "Piso 24h",
     "Toggle collections with suspicious trading activity": "Alternar coleccións con actividade comercial sospeitosa",
-    "non {{xch}} offers": "sen {{xch}} ofertas"
+    "no {{xch}} offers": "sen {{xch}} ofertas"
   },
   "notFound": {
     "404 Error": "Erro 404",
     "Page not found": "Páxina non atopada",
-    "Sorry, we couldn't find the page you're looking": "Sentímolo, non puidemos atopar a páxina que estás a buscar.",
+    "Sorry, we couldn't find the page you're looking for": "Sentímolo, non puidemos atopar a páxina que estás a buscar.",
     "Go back home": "Volver a casa"
   },
   "offers": {
@@ -271,12 +271,12 @@
   },
   "report": {
     "Report Content": "Informar contido",
-    "Use this form to report NFTs or Tokens for rule infractions": "Use este formulario para informar NFTs ou Tokens por infraccións de regras.",
-    "Every report is a public pull request in the Community Blocklist repository, where it will be reviewed by a mantedor": "Cada informe pasa a ser unha solicitude de extracción pública no <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Community Blocklist</a> repositorio, onde será revisado por un mantedor.",
+    "Use this form to report NFTs or Tokens for rule violations": "Use este formulario para informar NFTs ou Tokens por infraccións de regras.",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Cada informe pasa a ser unha solicitude de extracción pública no <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Community Blocklist</a> repositorio, onde será revisado por un mantedor.",
     "NFT": "NFT",
     "CAT reporting is not available right now": "O informe CAT non está dispoñible agora mesmo",
     "Token (CAT)": "Tokens (CAT)",
-    "Suplantación": "Suplantación",
+    "Impersonation": "Suplantación",
     "Spam": "Spam",
     "Illegal Content": "Contido ilegal",
     "Other": "Outro",
