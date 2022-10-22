@@ -47,18 +47,18 @@
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
-    "Assets": "",
+    "Assets": "Activos",
     "Loading": "Cargando ...",
     "Trade": "Operación",
-    "Description": "",
-    "Category": "",
-    "Total supply": "",
-    "Website": "",
+    "Description": "Descripción",
+    "Category": "Categoría",
+    "Total supply": "Suministro total",
+    "Website": "Página Web",
     "Contributors": "Colaboradores",
     "Friends": "Amigos",
     "Price": "Precio",
-    "Transaction Fee": "",
-    "Mempool Transaction ID": "",
+    "Transaction Fee": "Tarifa de transacción",
+    "Mempool Transaction ID": "ID de transacción en la Mempool ",
     "Uploading": "Cargando...",
     "Currently Offered": "Oferta actual",
     "Daily Volume": "Volumen diario",
@@ -224,8 +224,8 @@
     "Offer accepted": "Oferta aceptada"
   },
   "Assets": {
-    "Search assets": "",
-    "Powered by Taildatabase": ""
+    "Search assets": "Buscar activos",
+    "Powered by Taildatabase": "Conectado con Taildatabase"
   },
   "faq": {
     "question1": "¿Qué es dexie?",
@@ -295,8 +295,8 @@
     "mempoolExplanation": "Transacciones que actualmente esperan ser incluidas en un bloque.",
     "mempoolSize": "Mempool",
     "no filters selected": "no se seleccionaron filtros",
-    "Transaction Fee (higher fee = higher priority)": "",
-    "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": ""
+    "Transaction Fee (higher fee = higher priority)": "Tarifa de transacción (tarifa alta = alta prioridad)",
+    "Low Transaction Fee (low priority) {{fee}}": "Tarifa de transacción baja (baja prioridad) {{fee}}",
+    "Low Fee": "Tarifa baja"
   }
 }
