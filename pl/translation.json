@@ -33,7 +33,7 @@
     "Tokens (CATs)": "Tokeny (CAT)",
     "Your NFTs": "Twoje NFT",
     "You Request": "Żądasz",
-    "Assets": "",
+    "Assets": "Tokeny",
     "Contributors": "Współtwórcy",
     "Dark Mode": "Ciemny",
     "Light Mode": "Jasny",
@@ -52,14 +52,14 @@
     "Current Price": "Cena",
     "Loading": "Ładowanie ...",
     "Trade": "Handluj",
-    "Description": "",
-    "Category": "",
-    "Total supply": "",
-    "Website": "",
-    "Friends": "Znajomi",
+    "Description": "Opis",
+    "Category": "Kategoria",
+    "Total supply": "Całkowita podaż",
+    "Website": "Strona",
+    "Friends": "Przyjaciele",
     "Price": "Cena",
-    "Transaction Fee": "",
-    "Mempool Transaction ID": "",
+    "Transaction Fee": "Opłata transakcyjna",
+    "Mempool Transaction ID": "ID transakcji w mempoolu",
     "Uploading": "Wysyłanie...",
     "Currently Offered": "Suma ofert",
     "Daily Volume": "Dzienny obrót",
@@ -226,15 +226,15 @@
     "Offer accepted": "Oferta zaakceptowana"
   },
   "Assets": {
-    "Search {{count}} assets_one": "",
-    "Search {{count}} assets_few": "",
-    "Search {{count}} assets_many": "",
-    "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Search {{count}} assets_one": "Wyszukaj {{count}} token",
+    "Search {{count}} assets_few": "Wyszukaj spośród {{count}} tokenów",
+    "Search {{count}} assets_many": "Wyszukaj spośród {{count}} tokenów",
+    "Search {{count}} assets_other": "Wyszukaj spośród {{count}} tokenów",
+    "Powered by Taildatabase": "Dane dostarczane przez Taildatabase"
   },
   "contributors": {
-    "Translator": "",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+    "Translator": "Tłumacz",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie serdecznie dziękuje wszystkim współtwórcom i przyjaciołom, bez których nie byłoby tym, czym jest."
   },
   "faq": {
     "question1": "Czym jest dexie?",
@@ -304,8 +304,8 @@
     "mempoolExplanation": "Transakcje, które aktualnie oczekują na zatwierdzenie w bloku.",
     "mempoolSize": "Mempool",
     "no filters selected": "Nie wybrano żadnych filtrów",
-    "Transaction Fee (higher fee = higher priority)": "",
-    "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": ""
+    "Transaction Fee (higher fee = higher priority)": "Opłata transakcyjna (wyższa opłata = krótszy czas oczekiwania)",
+    "Low Transaction Fee (low priority) {{fee}}": "Niska opłata transakcyjna (niski priorytet): {{fee}}",
+    "Low Fee": "Niska opłata"
   }
 }
