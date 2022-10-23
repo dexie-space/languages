@@ -220,8 +220,8 @@
     "Offer accepted": "Offer accepted"
   },
   "Assets": {
-    "Search {{count}} assets_one": "",
-    "Search {{count}} assets_other": "",
+    "Search {{count}} assets_one": "Search {{count}} asset",
+    "Search {{count}} assets_other": "Search {{count}} assets",
     "Powered by Taildatabase": "Powered by Taildatabase"
   },
   "faq": {
