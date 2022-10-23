@@ -34,6 +34,7 @@
     "Your NFTs": "Твої НФТ",
     "You Request": "Ти отримаєш",
     "Assets": "",
+    "Contributors": "Автори",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Trade History": "Історія торгівлі",
@@ -55,7 +56,6 @@
     "Category": "",
     "Total supply": "",
     "Website": "",
-    "Contributors": "Автори",
     "Friends": "Друзі",
     "Price": "Ціна",
     "Transaction Fee": "",
@@ -231,6 +231,10 @@
     "Search {{count}} assets_many": "",
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
     "question1": "Що таке dexie?",

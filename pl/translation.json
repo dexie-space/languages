@@ -34,6 +34,7 @@
     "Your NFTs": "Twoje NFT",
     "You Request": "Żądasz",
     "Assets": "",
+    "Contributors": "Współtwórcy",
     "Dark Mode": "Ciemny",
     "Light Mode": "Jasny",
     "Trade History": "Historia",
@@ -55,7 +56,6 @@
     "Category": "",
     "Total supply": "",
     "Website": "",
-    "Contributors": "Współtwórcy",
     "Friends": "Znajomi",
     "Price": "Cena",
     "Transaction Fee": "",
@@ -231,6 +231,10 @@
     "Search {{count}} assets_many": "",
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
     "question1": "Czym jest dexie?",

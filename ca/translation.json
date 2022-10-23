@@ -34,6 +34,7 @@
     "Your NFTs": "Els vostres NFT",
     "You Request": "Vostè demaneu",
     "Assets": "Actius",
+    "Contributors": "Col·laboradors",
     "Dark Mode": "Fosc",
     "Light Mode": "Llum",
     "Trade History": "Història del comerç",
@@ -53,7 +54,6 @@
     "Category": "Categoria",
     "Total supply": "Oferta total",
     "Website": "lloc web",
-    "Contributors": "Col·laboradors",
     "Friends": "Amics",
     "Price": "Preu",
     "Transaction Fee": "Comissió de transacció",
@@ -223,6 +223,10 @@
     "Search {{count}} assets_one": "",
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": "Impulsat per Taildatabase"
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
     "question1": "Què és dexie?",

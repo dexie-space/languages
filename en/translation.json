@@ -34,6 +34,7 @@
     "Your NFTs": "Your NFTs",
     "You Request": "You Request",
     "Assets": "Assets",
+    "Contributors": "Contributors",
     "Dark Mode": "Dark",
     "Light Mode": "Light",
     "Trade History": "Trade History",
@@ -53,7 +54,6 @@
     "Category": "Category",
     "Total supply": "Total supply",
     "Website": "Website",
-    "Contributors": "Contributors",
     "Friends": "Friends",
     "Price": "Price",
     "Transaction Fee": "Transaction Fee",
@@ -223,6 +223,10 @@
     "Search {{count}} assets_one": "Search {{count}} asset",
     "Search {{count}} assets_other": "Search {{count}} assets",
     "Powered by Taildatabase": "Powered by Taildatabase"
+  },
+  "contributors": {
+    "Translator": "Translator",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today."
   },
   "faq": {
     "question1": "What is dexie?",

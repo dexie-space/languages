@@ -34,6 +34,7 @@
     "Your NFTs": "",
     "You Request": "请求",
     "Assets": "",
+    "Contributors": "",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
     "Trade History": "",
@@ -52,7 +53,6 @@
     "Category": "",
     "Total supply": "",
     "Website": "",
-    "Contributors": "",
     "Friends": "",
     "Price": "",
     "Transaction Fee": "",
@@ -219,6 +219,10 @@
   "Assets": {
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
     "question1": "什么是dexie?",

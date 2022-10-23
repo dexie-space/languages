@@ -34,6 +34,7 @@
     "Your NFTs": "",
     "You Request": "Anda Meminta",
     "Assets": "",
+    "Contributors": "",
     "Dark Mode": "Gelap",
     "Light Mode": "Terang",
     "Trade History": "Riwayat Perdagangan",
@@ -52,7 +53,6 @@
     "Category": "",
     "Total supply": "",
     "Website": "",
-    "Contributors": "",
     "Friends": "",
     "Price": "Harga",
     "Transaction Fee": "",
@@ -220,6 +220,10 @@
   "Assets": {
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
     "question1": "Apa itu Dexie?",
