@@ -33,19 +33,31 @@
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Your NFTs",
     "You Request": "You Request",
+    "Assets": "Assets",
+    "Contributors": "Contributors",
     "Dark Mode": "Dark",
     "Light Mode": "Light",
     "Trade History": "Trade History",
     "Report NFT": "Report NFT",
     "Show on Mintgarden": "Show on Mintgarden",
     "Show on Spacescan": "Show on Spacescan",
+    "loading": "loading",
+    "{{count}} more_one": "{{count}} more",
+    "{{count}} more_other": "{{count}} more",
     "Inspect": "Inspect",
     "Accept in {{provider}}": "Accept in {{provider}}",
     "No Results": "No Results",
     "Current Price": "Current Price",
-    "Contributors": "Contributors",
+    "Loading": "Loading ...",
+    "Trade": "Trade",
+    "Description": "Description",
+    "Category": "Category",
+    "Total supply": "Total supply",
+    "Website": "Website",
     "Friends": "Friends",
     "Price": "Price",
+    "Transaction Fee": "Transaction Fee",
+    "Mempool Transaction ID": "Mempool Transaction ID",
     "Uploading": "Uploading...",
     "Currently Offered": "Currently Offered",
     "Daily Volume": "Daily Volume",
@@ -57,7 +69,6 @@
     "Monthly Trades": "Monthly Trades",
     "Yearly Trades": "Yearly Trades",
     "Rank by": "Rank by",
-    "Loading": "Loading ...",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
     "Any Asset": "Any Asset",
     "Select Asset": "Select Asset",
@@ -71,7 +82,6 @@
     "Date": "Date",
     "Status": "Status",
     "Actions": "Actions",
-    "Trade": "Trade",
     "Hide": "Hide"
   },
   "Connect Wallet": "Connect Wallet",
@@ -81,7 +91,6 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Report",
     "Offers API": "Offers API",
     "Prices API": "Prices API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
@@ -210,6 +219,15 @@
     "gobyError4900": "Goby is not connected",
     "Offer accepted": "Offer accepted"
   },
+  "Assets": {
+    "Search {{count}} assets_one": "Search {{count}} asset",
+    "Search {{count}} assets_other": "Search {{count}} assets",
+    "Powered by Taildatabase": "Powered by Taildatabase"
+  },
+  "contributors": {
+    "Translator": "Translator",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today."
+  },
   "faq": {
     "question1": "What is dexie?",
     "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -277,6 +295,9 @@
     "Tx Fee": "Tx Fee",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no filters selected"
+    "no filters selected": "no filters selected",
+    "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
+    "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
+    "Low Fee": "Low Fee"
   }
 }

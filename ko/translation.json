@@ -33,19 +33,30 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "",
+    "Assets": "",
+    "Contributors": "",
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
     "Trade History": "",
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "loading": "",
+    "{{count}} more_other": "",
     "Inspect": "추가정보",
     "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",
     "Current Price": "",
-    "Contributors": "",
+    "Loading": "",
+    "Trade": "거래",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
     "Friends": "",
     "Price": "",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "업로딩...",
     "Currently Offered": "",
     "Daily Volume": "",
@@ -57,7 +68,6 @@
     "Monthly Trades": "",
     "Yearly Trades": "",
     "Rank by": "",
-    "Loading": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
     "Select Asset": "",
@@ -71,7 +81,6 @@
     "Date": "날짜",
     "Status": "상태",
     "Actions": "Actions",
-    "Trade": "거래",
     "Hide": "숨김"
   },
   "Connect Wallet": "지갑 연동",
@@ -81,7 +90,6 @@
   },
   "footer": {
     "Status": "",
-    "Report": "",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -208,6 +216,14 @@
     "gobyError4900": "",
     "Offer accepted": "제안 수락되었습니다"
   },
+  "Assets": {
+    "Search {{count}} assets_other": "",
+    "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+  },
   "faq": {
     "question1": "덱시는 무엇인가요?",
     "answer1": "<p class='my-5'>덱시는 개인과 개인이 직접 연결하여 치아 오퍼 파일을 거래할수 있습니다. 오퍼 파일은 완전히 탈중앙화되어 있으므로 거래시 일체의 신용을 필요로하지 않습니다.</p><p class='my-5'>덱시는 코인을 대신 보관하지 않으며 제안을 수락하기전 까지 완전하게 사용자의 지갑에 남아 있습니다.</p><p class='my-5'>즉, 중개자 없는 블록체인의 단일 거래로 모든자산은 사용자간 안전하게 전송됩니다.</p><p class='my-5'>오퍼 파일에 대해 더 알고 싶으시면 <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>치아 싸이트</a> 를 방문해 주세요.</p>",
@@ -275,6 +291,9 @@
     "Tx Fee": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
-    "no filters selected": "필터가 선택되지 않았습니다"
+    "no filters selected": "필터가 선택되지 않았습니다",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }

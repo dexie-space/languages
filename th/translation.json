@@ -33,19 +33,30 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "คุณร้องขอ",
+    "Assets": "",
+    "Contributors": "",
     "Dark Mode": "โหมดมืด",
     "Light Mode": "โหมดสว่าง",
     "Trade History": "",
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "loading": "",
+    "{{count}} more_other": "",
     "Inspect": "ตรวจสอบ",
     "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
-    "Contributors": "",
+    "Loading": "กำลังโหลด",
+    "Trade": "ซื้อขาย",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
     "Friends": "",
     "Price": "",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
     "Daily Volume": "",
@@ -57,7 +68,6 @@
     "Monthly Trades": "",
     "Yearly Trades": "",
     "Rank by": "",
-    "Loading": "กำลังโหลด",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
     "Select Asset": "",
@@ -71,7 +81,6 @@
     "Date": "วันที่",
     "Status": "สถานะ",
     "Actions": "การกระทำ",
-    "Trade": "ซื้อขาย",
     "Hide": "ซ่อน"
   },
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
@@ -81,7 +90,6 @@
   },
   "footer": {
     "Status": "สถานะ",
-    "Report": "",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
@@ -208,6 +216,14 @@
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว"
   },
+  "Assets": {
+    "Search {{count}} assets_other": "",
+    "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+  },
   "faq": {
     "question1": "What is dexie?",
     "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -275,6 +291,9 @@
     "Tx Fee": "",
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
-    "no filters selected": "ไม่ได้เลือกตัวคัดกรอง"
+    "no filters selected": "ไม่ได้เลือกตัวคัดกรอง",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }

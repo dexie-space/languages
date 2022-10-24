@@ -33,19 +33,30 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "Anda Meminta",
+    "Assets": "",
+    "Contributors": "",
     "Dark Mode": "Gelap",
     "Light Mode": "Terang",
     "Trade History": "Riwayat Perdagangan",
     "Report NFT": "Laporkan NFT",
     "Show on Mintgarden": "Tampilkan di Mintgarden",
     "Show on Spacescan": "Tampilkan di Spacescan",
+    "loading": "",
+    "{{count}} more_other": "",
     "Inspect": "Periksa",
     "Accept in {{provider}}": "Terima di {{provider}}",
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
-    "Contributors": "",
+    "Loading": "Memuat ...",
+    "Trade": "Berdagang",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
     "Friends": "",
     "Price": "Harga",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
     "Daily Volume": "Volume Harian",
@@ -57,7 +68,6 @@
     "Monthly Trades": "Perdagangan Bulanan",
     "Yearly Trades": "Perdagangan Tahunan",
     "Rank by": "Peringkat menurut",
-    "Loading": "Memuat ...",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
     "Select Asset": "Pilih Aset",
@@ -71,7 +81,6 @@
     "Date": "Tanggal",
     "Status": "Status",
     "Actions": "Tindakan",
-    "Trade": "Berdagang",
     "Hide": "Sembunyikan"
   },
   "Connect Wallet": "Hubungkan Dompet",
@@ -81,7 +90,6 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Laporkan",
     "Offers API": "Penawaran API",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
@@ -209,6 +217,14 @@
     "gobyError4900": "Goby tidak terhubung",
     "Offer accepted": "Penawaran diterima"
   },
+  "Assets": {
+    "Search {{count}} assets_other": "",
+    "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+  },
   "faq": {
     "question1": "Apa itu Dexie?",
     "answer1": "<p class='my-5'>Dexie adalah pertukaran peer-to-peer untuk file penawaran chia.File menawarkan sepenuhnya terdesentralisasi dan sangat dapat dipercaya.</p><p class='my-5'>Dexie tidak memegang tahanan koin, mereka selalu tinggal di dompet pembuat sampai tawaran diterima, pada titik mana aset ditransfer dengan aman antara pembuat dan pengambil dalam satu transaksi tunggal di blockchain tanpa perantara apa pun.</p><p class='my-5'>Pelajari lebih lanjut tentang penawaran file di <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Dokumentasi Resmi Chia</a>.</p>",
@@ -276,6 +292,9 @@
     "Tx Fee": "Biaya TX",
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
-    "no filters selected": "Tidak ada filter yang dipilih"
+    "no filters selected": "Tidak ada filter yang dipilih",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }

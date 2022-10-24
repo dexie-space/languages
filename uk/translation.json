@@ -33,19 +33,33 @@
     "Tokens (CATs)": "Токени (CAT)",
     "Your NFTs": "Твої НФТ",
     "You Request": "Ти отримаєш",
+    "Assets": "",
+    "Contributors": "Автори",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
     "Trade History": "Історія торгівлі",
     "Report NFT": "Поскаржитись на НФТ",
     "Show on Mintgarden": "Показати на Mintgarden",
     "Show on Spacescan": "Показати на Spacescan",
+    "loading": "завантаження",
+    "{{count}} more_one": "",
+    "{{count}} more_few": "",
+    "{{count}} more_many": "",
+    "{{count}} more_other": "",
     "Inspect": "Перегляд",
     "Accept in {{provider}}": "Прийняти в {{provider}}",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
-    "Contributors": "",
-    "Friends": "",
+    "Loading": "Завантаження...",
+    "Trade": "Торгівля",
+    "Description": "",
+    "Category": "",
+    "Total supply": "",
+    "Website": "",
+    "Friends": "Друзі",
     "Price": "Ціна",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Поточною пропозицією",
     "Daily Volume": "Денним об'ємом",
@@ -57,7 +71,6 @@
     "Monthly Trades": "Місячною торгівлею",
     "Yearly Trades": "Річною торгівлею",
     "Rank by": "Ранжувати за",
-    "Loading": "Завантаження...",
     "Suspicious trading activity (inflated volume)": "Підозріла торгова діяльність (завищений обсяг)",
     "Any Asset": "Будь-який актив",
     "Select Asset": "Виберіть Актив",
@@ -71,7 +84,6 @@
     "Date": "Дата",
     "Status": "Статус",
     "Actions": "Дії",
-    "Trade": "Торгівля",
     "Hide": "Сховати"
   },
   "Connect Wallet": "Підключіть гаманець",
@@ -81,14 +93,13 @@
   },
   "footer": {
     "Status": "Статус",
-    "Report": "Повідомити",
     "Offers API": "API Пропозицій",
-    "Prices API": "",
+    "Prices API": "API цін",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "synced": "синхронізовано",
     "disconnected": "відключено",
     "connecting": "підключено",
-    "Help translate": ""
+    "Help translate": "Допоможіть перекласти"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
@@ -214,6 +225,17 @@
     "gobyError4900": "Goby помилка 4900",
     "Offer accepted": "Пропозиція прийнята"
   },
+  "Assets": {
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_few": "",
+    "Search {{count}} assets_many": "",
+    "Search {{count}} assets_other": "",
+    "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+  },
   "faq": {
     "question1": "Що таке dexie?",
     "answer1": "<p class='my-5'>dexie — це одноранговий обмін файлами пропозицій Chia. Файли пропозицій повністю децентралізовані.</p><p class='my-5'>dexie не зберігає монети, вони завжди залишаються в гаманці того хто їх створив, доки не буде прийнято пропозицію, після чого активи безпечно передаються між тим, хто їх створив і тим, хто хоче їх прийняти в рамках однієї транзакції в блокчейні без будь-якого посередника.</p><p class='my-5'>Дізнайтеся більше про файли пропозицій на офіційному сайті <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -281,6 +303,9 @@
     "Tx Fee": "комісія транзакції",
     "mempoolExplanation": "мемпул пояснення",
     "mempoolSize": "розмір мемпулу",
-    "no filters selected": "фільтрів не вибрано"
+    "no filters selected": "фільтрів не вибрано",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }

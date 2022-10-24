@@ -33,19 +33,32 @@
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Sus NFTs",
     "You Request": "Usted solicita",
+    "Assets": "Activos",
+    "Contributors": "Colaboradores",
     "Dark Mode": "Oscuro",
     "Light Mode": "Claro",
     "Trade History": "Historial de operaciones",
     "Report NFT": "Reportar NFT",
     "Show on Mintgarden": "Mostrar en Mintgarden",
     "Show on Spacescan": "Mostrar en Spacescan",
+    "loading": "cargando",
+    "{{count}} more_one": "{{count}} más",
+    "{{count}} more_many": "{{count}} más",
+    "{{count}} more_other": "{{count}} más",
     "Inspect": "Inspeccionar",
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
-    "Contributors": "Colaboradores",
+    "Loading": "Cargando ...",
+    "Trade": "Operación",
+    "Description": "Descripción",
+    "Category": "Categoría",
+    "Total supply": "Suministro total",
+    "Website": "Página Web",
     "Friends": "Amigos",
     "Price": "Precio",
+    "Transaction Fee": "Tarifa de transacción",
+    "Mempool Transaction ID": "ID de transacción en la Mempool ",
     "Uploading": "Cargando...",
     "Currently Offered": "Oferta actual",
     "Daily Volume": "Volumen diario",
@@ -57,7 +70,6 @@
     "Monthly Trades": "Operaciones mensuales",
     "Yearly Trades": "Operaciones anuales",
     "Rank by": "Clasificar por",
-    "Loading": "Cargando ...",
     "Suspicious trading activity (inflated volume)": "Operación sospechosa (volumen inflado)",
     "Any Asset": "Cualquier activo",
     "Select Asset": "Seleccionar activo",
@@ -71,7 +83,6 @@
     "Date": "Fecha",
     "Status": "Estado",
     "Actions": "Acciones",
-    "Trade": "Operación",
     "Hide": "Ocultar"
   },
   "Connect Wallet": "Conectar monedero",
@@ -81,7 +92,6 @@
   },
   "footer": {
     "Status": "Estado",
-    "Report": "Reportar",
     "Offers API": "API de ofertas",
     "Prices API": "API de precios",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Los bloques se utilizan por completo, tarifa de transacción recomendada: {{fee}} {{xch}}",
@@ -212,6 +222,16 @@
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada"
   },
+  "Assets": {
+    "Search {{count}} assets_one": "Buscar {{count}} activo",
+    "Search {{count}} assets_many": "Buscar {{count}} activos",
+    "Search {{count}} assets_other": "Buscar {{count}} activos",
+    "Powered by Taildatabase": "Conectado con Taildatabase"
+  },
+  "contributors": {
+    "Translator": "Traductor",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie quisiera agradecer a sus increíbles colaboradores y amigos, sin ellos dexie no sería lo que es hoy"
+  },
   "faq": {
     "question1": "¿Qué es dexie?",
     "answer1": "<p class='my-5'>dexie es un intercambio peer-to-peer para archivos de ofertas de Chia. Los archivos de ofertas están completamente descentralizados y no necesitan de un tercero.</p><p class='my-5'>dexie no tiene la custodia de las monedas, siempre permanecen en la billetera del creador hasta que se acepta la oferta, momento en el cual los activos se transfieren de forma segura entre el creador y el tomador dentro de una sola transacción en la cadena de bloques sin ningún intermediario.</p><p class='my-5'>Obtenga más información sobre los archivos de oferta en la <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Documentación oficial de Chia</a>.</p>",
@@ -221,7 +241,7 @@
   "markets": {
     "{{market}} heading": "{{market}} Mercados",
     "Depth": "Profundidad",
-    "Rank": "Clasificación",
+    "Rank": "Posición",
     "Asset": "Activo",
     "#buyPriceHint{{depth}}": "El precio unitario por comprar {{depth}} {{market}} de volumen\ny cada {{market}} cuánto obtendría.",
     "Buy Price": "Precio de compra",
@@ -279,6 +299,9 @@
     "Tx Fee": "Tarifa de envío",
     "mempoolExplanation": "Transacciones que actualmente esperan ser incluidas en un bloque.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no se seleccionaron filtros"
+    "no filters selected": "no se seleccionaron filtros",
+    "Transaction Fee (higher fee = higher priority)": "Tarifa de transacción (tarifa alta = alta prioridad)",
+    "Low Transaction Fee (low priority) {{fee}}": "Tarifa de transacción baja (baja prioridad) {{fee}}",
+    "Low Fee": "Tarifa baja"
   }
 }

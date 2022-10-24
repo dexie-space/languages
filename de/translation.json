@@ -33,19 +33,31 @@
     "Tokens (CATs)": "",
     "Your NFTs": "",
     "You Request": "Du Forderst",
+    "Assets": "",
+    "Contributors": "Mitwirkende",
     "Dark Mode": "Dunkel",
     "Light Mode": "Hell",
     "Trade History": "Handelsverlauf",
     "Report NFT": "NFT melden",
     "Show on Mintgarden": "zu Mintgarden",
     "Show on Spacescan": "zu Spacescan",
+    "loading": "",
+    "{{count}} more_one": "",
+    "{{count}} more_other": "",
     "Inspect": "Infos",
     "Accept in {{provider}}": "Mit {{provider}} annehmen",
     "No Results": "Keine Ergebnisse",
     "Current Price": "Aktueller Preis",
-    "Contributors": "Mitwirkende",
+    "Loading": "Laden ...",
+    "Trade": "Handel",
+    "Description": "Beschreibung",
+    "Category": "Kategorie",
+    "Total supply": "",
+    "Website": "",
     "Friends": "Freunde",
     "Price": "Preis",
+    "Transaction Fee": "",
+    "Mempool Transaction ID": "",
     "Uploading": "Hochladen...",
     "Currently Offered": "",
     "Daily Volume": "",
@@ -57,7 +69,6 @@
     "Monthly Trades": "",
     "Yearly Trades": "",
     "Rank by": "",
-    "Loading": "Laden ...",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "Jedes Asset",
     "Select Asset": "Asset Auswählen",
@@ -71,7 +82,6 @@
     "Date": "Datum",
     "Status": "Status",
     "Actions": "Aktionen",
-    "Trade": "Handel",
     "Hide": "Ausblenden"
   },
   "Connect Wallet": "Wallet verbinden",
@@ -81,14 +91,13 @@
   },
   "footer": {
     "Status": "Status",
-    "Report": "Melden",
     "Offers API": "",
     "Prices API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "synchronisiert",
     "disconnected": "getrennt",
     "connecting": "verbinde",
-    "Help translate": "Helfe übersetzen"
+    "Help translate": "Hilf übersetzen"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
@@ -210,6 +219,15 @@
     "gobyError4900": "",
     "Offer accepted": "Angebot angenommen"
   },
+  "Assets": {
+    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_other": "",
+    "Powered by Taildatabase": ""
+  },
+  "contributors": {
+    "Translator": "",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+  },
   "faq": {
     "question1": "Was ist dexie?",
     "answer1": "<p class='my-5'>dexie ist ein dezentraler Peer-to-Peer Handelsmarkt für Chia Offer Files. Offer Files sind kleine Dateien, die mit der <a class='text-nice underline' href='https://www.chia.net/download/' target='_blank' rel='noreferrer'>Chia Wallet</a> erstellt werden und ein signiertes Tauschangebot von Kryptowährungen auf der Chia Blockchain enthalten.</p><p class='my-5'>Diese Dateien lassen sich auf dexie hochladen und für andere auffindbar machen. Sobald ein Tauschangebot angenommen wird, werden die Beträge beider Seiten innerhalb einer einzigen Transaktion auf der Blockchain übertragen.</p><p class='my-5'>Da die Transaktion nur erfolgreich ist, wenn alle Beträge  übertragen wurden, ist kein Vertrauen zwischen den Händlern erforderlich. Das System wird daher auch als <i>trustless and decentralized</i> bezeichnet.</p><p class='my-5'>Erfahre mehr über Offer Files in der offiziellen <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Dokumentation</a> (englisch).</p>",
@@ -277,6 +295,9 @@
     "Tx Fee": "",
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
-    "no filters selected": "keine Filter ausgewählt"
+    "no filters selected": "keine Filter ausgewählt",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Low Fee": ""
   }
 }
