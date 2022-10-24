@@ -223,14 +223,14 @@
     "Offer accepted": "Offerta Accettata"
   },
   "Assets": {
-    "Search {{count}} assets_one": "",
-    "Search {{count}} assets_many": "",
-    "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Search {{count}} assets_one": "Trova Asset Attivo",
+    "Search {{count}} assets_many": "Trova {{count}} Asset Attivi",
+    "Search {{count}} assets_other": "Trova {{count}} Asset Attivi",
+    "Powered by Taildatabase": "Connesso con Taildatabase"
   },
   "contributors": {
-    "Translator": "",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+    "Translator": "Traduttore",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "Dexie vorrebbe ringraziare i suoi fantastici collaboratori e amici, senza di loro Dexie non sarebbe quello che è oggi!"
   },
   "faq": {
     "question1": "Che cosa è Dexie?",
