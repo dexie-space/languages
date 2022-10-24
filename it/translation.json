@@ -212,6 +212,16 @@
     "gobyError4900": "Goby non è connesso",
     "Offer accepted": "Offerta Accettata"
   },
+  "Assets": {
+    "Search {{count}} assets_one": "Trova Asset Attivo",
+    "Search {{count}} assets_many": "Trova {{count}} Asset Attivi",
+    "Search {{count}} assets_other": "Trova {{count}} Asset Attivi",
+    "Powered by Taildatabase": "Connesso con Taildatabase"
+  },
+  "contributors": {
+    "Translator": "Traduttore",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "Dexie vorrebbe ringraziare i suoi fantastici collaboratori e amici, senza di loro dexie non sarebbe quello che è oggi!"
+  },
   "faq": {
     "question1": "Che cosa è Dexie?",
     "answer1": "<p class='my-5'>Dexie è un Exchange peer-to-peer per i file delle offerte Chia. I file delle offerte sono completamente decentralizzati e affidabili.</p><p class='my-5'>Dexie non detiene in custodia alcuna moneta, queste rimangono sempre nel portafoglio dell'utente fino a quando l'offerta non viene accettata, a quel punto le risorse vengono trasferite in modo sicuro tra il venditore e l'acquirente all'interno di un'unica transazione sulla blockchain senza alcun intermediario.</p><p class='my-5'>Scopri i vantaggi dei file offerta sul sito ufficiale della <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>documentazione di Chia Network</a>.</p>",
