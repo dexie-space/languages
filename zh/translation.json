@@ -113,9 +113,9 @@
     "Submit Offer": "提交Offer",
     "Paste from Clipboard": "从粘贴板粘贴",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "在 ZIP 文件中上传许多报价，dexie 将在内部排队并发布它们，而不会超载节点",
-    "Successfully queued {{count}} offers for submission_other": "",
-    "Select and Upload ZIP file": "",
-    "Offers from Bulk Upload won't show up in Your Added Offers": "",
+    "Successfully queued {{count}} offers for submission_other": "已成功排队 {{count}} 个优惠",
+    "Select and Upload ZIP file": "选择并上传 ZIP 文件",
+    "Offers from Bulk Upload won't show up in Your Added Offers": "批量上传的优惠不会显示在您添加的优惠中",
     "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "增加的Offer单独存储在你的浏览器中，请在清除您本地存储之前做好备份",
     "Backup Your Offers": "备份你的Offer文件",
     "Restore Your Offers": "恢复你的Offer文件",
@@ -131,11 +131,11 @@
   },
   "header": {
     "Markets": "市场",
-    "NFT": "",
+    "NFT": "NFT",
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
-    "bannerMessageDBX": "",
+    "bannerMessageDBX": "我们推出了<a class='font-bold' href='/dbx'>dexie bucks</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们以保持最新！",
     "Add Offer": "添加Offer"
   },
   "offersTable": {
@@ -158,35 +158,35 @@
   },
   "ozoneModal": {
     "Scan QR Code with Ozone Wallet to accept": "",
-    "Try Ozone Wallet": "",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": ""
+    "Try Ozone Wallet": "试试Ozone钱包",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone钱包专为以可靠和安全的方式与 XCH 和 CAT 进行交易而设计"
   },
   "inspect": {
     "dexie link": "dexie链接",
     "Loading": "加载中...",
     "offer not found": "Offer未找到",
-    "Add to Your Offers": "",
+    "Add to Your Offers": "添加到您的报价",
     "Requested": "请求",
     "Offered": "提供",
-    "Download Offer": "",
+    "Download Offer": "下载优惠",
     "Offer file copied": "Offer文件已拷贝",
-    "Copy to Clipboard": "",
-    "Status": "",
-    "Offer ID (Hash)": "",
+    "Copy to Clipboard": "复制到剪贴板",
+    "Status": "地位",
+    "Offer ID (Hash)": "优惠 ID（哈希）",
     "Date Collected": "日期已搜集",
-    "Date Pending": "",
+    "Date Pending": "待定日期",
     "Date Closed": "日期关闭",
     "Confirmed at Height": "确认高度",
-    "Attached Fee": "",
-    "Input Coins": "Input Coins",
+    "Attached Fee": "附加费",
+    "Input Coins": "输入硬币",
     "Raw Offer File": "原Offer文件",
-    "Current Bid": "",
-    "Make Bid": "",
-    "Requested price is too high? The seller might accept your bid!": "",
-    "{{count}} offers_other": "",
-    "Bid with Goby": "",
-    "Upload Offer": "",
-    "Create a new offer which requests this NFT": ""
+    "Current Bid": "当前出价",
+    "Make Bid": "出价",
+    "Requested price is too high? The seller might accept your bid!": "要求的价格太高？ 卖家可能会接受您的出价！",
+    "{{count}} offers_other": "{{count}} 个优惠",
+    "Bid with Goby": "以Goby出价",
+    "Upload Offer": "上传优惠",
+    "Create a new offer which requests this NFT": "创建一个请求此 NFT 的新报价"
   },
   "chart": {
     "Day": "日",
@@ -200,13 +200,13 @@
     "lastPrice": "最后价格",
     "Collapse": "崩溃",
     "Expand": "扩展",
-    "No data for this chart": "",
+    "No data for this chart": "此图表没有数据",
     "Still collecting data for this chart": "仍在从该表中搜集数据"
   },
   "status": {
     "active": "活跃",
     "pending": "待处理",
-    "cancelling": "",
+    "cancelling": "取消",
     "cancelled": "已取消",
     "completed": "已完成",
     "unknown": "未知"
@@ -217,12 +217,12 @@
     "Offer accepted": "Offer已被接受"
   },
   "Assets": {
-    "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Search {{count}} assets_other": "搜索 {{count}} 项资产",
+    "Powered by Taildatabase": "由 Taildatabase 提供支持"
   },
   "contributors": {
-    "Translator": "",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+    "Translator": "译者",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie 在此感谢其出色的贡献者和朋友们，没有他们，dexie 不会有今天的样子"
   },
   "faq": {
     "question1": "什么是dexie?",
@@ -242,20 +242,20 @@
     "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} {{market}}深度)\n在过去24小时内。",
     "24h Change": "24小时变化",
     "#totalOfferedHint{{depth}}": "每个已提供资产总和\n市场排行按照大多数{{market}}被锁定在活跃Offer文件中的数量。\n有重复输入的Offer忽略不计",
-    "Currently Offered": "",
+    "Currently Offered": "目前提供",
     "Buy": "买",
     "Sell": "卖",
     "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",
     "no liquidity": "没有流动性",
-    "Learn more about our NFT Verification Labels": "",
-    "Collection": "",
-    "The current lowest price of an NFT": "",
-    "Buy Price (Floor)": "",
-    "The highest price someone is bidding for an NFT": "",
-    "Highest Bid": "",
-    "Floor 24h": "",
-    "Toggle collections with suspicious trading activity": "",
-    "no {{xch}} offers": ""
+    "Learn more about our NFT Verification Labels": "详细了解我们的 NFT 验证标签",
+    "Collection": "收藏",
+    "The current lowest price of an NFT": "NFT 的当前最低价格",
+    "Buy Price (Floor)": "购买价格（楼层）",
+    "The highest price someone is bidding for an NFT": "某人竞标 NFT 的最高价格",
+    "Highest Bid": "最高出价",
+    "Floor 24h": "24小时楼层",
+    "Toggle collections with suspicious trading activity": "切换具有可疑交易活动的集合",
+    "no {{xch}} offers": "没有 {{xch}} 优惠"
   },
   "notFound": {
     "404 Error": "Error 404",
@@ -270,30 +270,30 @@
     "Receive at most": "最多请求"
   },
   "report": {
-    "Report Content": "",
-    "Use this form to report NFTs or Tokens for rule violations": "",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "",
-    "NFT": "",
-    "CAT reporting is not available right now": "",
-    "Token (CAT)": "",
-    "Impersonation": "",
-    "Spam": "",
-    "Illegal Content": "",
-    "Other": "",
-    "Enter additional notes (notes are public)": "",
-    "Thank you, a new report has been generated": "",
-    "Report {{id}}": "",
-    "Generating Report": "",
-    "Submit Report": ""
+    "Report Content": "举报内容",
+    "Use this form to report NFTs or Tokens for rule violations": "使用此表格报告违反规则的 NFT 或代币",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "每个报告都成为社区阻止列表存储库中的公共拉取请求，维护者将在其中进行审查",
+    "NFT": "NFT",
+    "CAT reporting is not available right now": "CAT 报告目前不可用",
+    "Token (CAT)": "Token (CAT)",
+    "Impersonation": "冒充",
+    "Spam": "垃圾邮件",
+    "Illegal Content": "非法内容",
+    "Other": "其他",
+    "Enter additional notes (notes are public)": "输入附加注释（注释是公开的）",
+    "Thank you, a new report has been generated": "谢谢，已生成新报告",
+    "Report {{id}}": "举报{{id}}",
+    "Generating Report": "生成报告",
+    "Submit Report": "提交举报"
   },
   "trades": {
-    "Recommended Transaction Fee": "",
-    "Tx Fee": "",
+    "Recommended Transaction Fee": "建议交易费",
+    "Tx Fee": "交易费",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
     "no filters selected": "未选择过滤条件",
-    "Transaction Fee (higher fee = higher priority)": "",
-    "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": ""
+    "Transaction Fee (higher fee = higher priority)": "交易费用（更高的费用=更高的优先级）",
+    "Low Transaction Fee (low priority) {{fee}}": "低交易费（低优先级）{{fee}}",
+    "Low Fee": "低费用"
   }
 }
