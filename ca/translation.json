@@ -91,7 +91,7 @@
   },
   "footer": {
     "Status": "Estat",
-    "Public API": "",
+    "Public API": "API Pública",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Els blocs s'utilitzen completament, tarifa de transacció recomanada: {{fee}} {{xch}}",
     "synced": "sincronitzat",
     "disconnected": "desconnectat",
@@ -222,19 +222,19 @@
     "Search {{count}} assets_one": "Cerca {{count}} actiu",
     "Search {{count}} assets_other": "Cerca {{count}} actius",
     "Powered by Taildatabase": "Impulsat per Taildatabase",
-    "Code": "",
-    "Asset ID": "",
-    "{{code}} Liquidity": ""
+    "Code": "Codi",
+    "Asset ID": "ID d'actiu",
+    "{{code}} Liquidity": "{{code}} Liquiditat"
   },
   "contributors": {
-    "Core Contributor": "",
-    "Advisor/Strategy": "",
-    "Data Cruncher": "",
-    "Community Manager": "",
+    "Core Contributor": "Col·laborador principal",
+    "Advisor/Strategy": "Assessor/Estratègia",
+    "Data Cruncher": "Triturador de dades",
+    "Community Manager": "Community Manager",
     "Translator": "Traductor",
-    "Web3 Wallet": "",
-    "Explore NFTs": "",
-    "Add or Query TAILs": "",
+    "Web3 Wallet": "Cartera Web3",
+    "Explore NFTs": "Exploreu les NFT",
+    "Add or Query TAILs": "Afegeix o consulta TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie vol donar les gràcies als seus increïbles col·laboradors i amics, sense ells, Dexie no seria el que és avui."
   },
   "faq": {
