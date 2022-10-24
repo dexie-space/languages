@@ -91,8 +91,7 @@
   },
   "footer": {
     "Status": "Estat",
-    "Offers API": "API d'ofertes",
-    "Prices API": "API de preus",
+    "Public API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Els blocs s'utilitzen completament, tarifa de transacció recomanada: {{fee}} {{xch}}",
     "synced": "sincronitzat",
     "disconnected": "desconnectat",
@@ -222,10 +221,20 @@
   "Assets": {
     "Search {{count}} assets_one": "Cerca {{count}} actiu",
     "Search {{count}} assets_other": "Cerca {{count}} actius",
-    "Powered by Taildatabase": "Impulsat per Taildatabase"
+    "Powered by Taildatabase": "Impulsat per Taildatabase",
+    "Code": "",
+    "Asset ID": "",
+    "{{code}} Liquidity": ""
   },
   "contributors": {
+    "Core Contributor": "",
+    "Advisor/Strategy": "",
+    "Data Cruncher": "",
+    "Community Manager": "",
     "Translator": "Traductor",
+    "Web3 Wallet": "",
+    "Explore NFTs": "",
+    "Add or Query TAILs": "",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie vol donar les gràcies als seus increïbles col·laboradors i amics, sense ells, Dexie no seria el que és avui."
   },
   "faq": {

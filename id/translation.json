@@ -90,8 +90,7 @@
   },
   "footer": {
     "Status": "Status",
-    "Offers API": "Penawaran API",
-    "Prices API": "",
+    "Public API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "synced": "disinkronkan",
     "disconnected": "terputus",
@@ -219,10 +218,20 @@
   },
   "Assets": {
     "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Powered by Taildatabase": "",
+    "Code": "",
+    "Asset ID": "",
+    "{{code}} Liquidity": ""
   },
   "contributors": {
+    "Core Contributor": "",
+    "Advisor/Strategy": "",
+    "Data Cruncher": "",
+    "Community Manager": "",
     "Translator": "",
+    "Web3 Wallet": "",
+    "Explore NFTs": "",
+    "Add or Query TAILs": "",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {

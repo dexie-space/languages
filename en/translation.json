@@ -91,8 +91,7 @@
   },
   "footer": {
     "Status": "Status",
-    "Offers API": "Offers API",
-    "Prices API": "Prices API",
+    "Public API": "Public API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "synced": "synced",
     "disconnected": "disconnected",
@@ -222,10 +221,20 @@
   "Assets": {
     "Search {{count}} assets_one": "Search {{count}} asset",
     "Search {{count}} assets_other": "Search {{count}} assets",
-    "Powered by Taildatabase": "Powered by Taildatabase"
+    "Powered by Taildatabase": "Powered by Taildatabase",
+    "Code": "Code",
+    "Asset ID": "Asset ID",
+    "{{code}} Liquidity": "{{code}} Liquidity"
   },
   "contributors": {
+    "Core Contributor": "Core Contributor",
+    "Advisor/Strategy": "Advisor/Strategy",
+    "Data Cruncher": "Data Cruncher",
+    "Community Manager": "Community Manager",
     "Translator": "Translator",
+    "Web3 Wallet": "Web3 Wallet",
+    "Explore NFTs": "Explore NFTs",
+    "Add or Query TAILs": "Add or Query TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today."
   },
   "faq": {

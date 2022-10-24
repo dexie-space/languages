@@ -90,8 +90,7 @@
   },
   "footer": {
     "Status": "",
-    "Offers API": "",
-    "Prices API": "",
+    "Public API": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "synced": "동기화",
     "disconnected": "",
@@ -218,10 +217,20 @@
   },
   "Assets": {
     "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Powered by Taildatabase": "",
+    "Code": "",
+    "Asset ID": "",
+    "{{code}} Liquidity": ""
   },
   "contributors": {
+    "Core Contributor": "",
+    "Advisor/Strategy": "",
+    "Data Cruncher": "",
+    "Community Manager": "",
     "Translator": "",
+    "Web3 Wallet": "",
+    "Explore NFTs": "",
+    "Add or Query TAILs": "",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
   },
   "faq": {
