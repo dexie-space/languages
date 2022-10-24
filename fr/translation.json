@@ -33,7 +33,7 @@
     "Tokens (CATs)": "Jetons (CATs)",
     "Your NFTs": "Vos NFTs",
     "You Request": "Vous Demandez",
-    "Assets": "",
+    "Assets": "Actifs",
     "Contributors": "Contributeurs",
     "Dark Mode": "Mode Sombre",
     "Light Mode": "Mode Clair",
@@ -41,24 +41,24 @@
     "Report NFT": "Reporter ce NFT",
     "Show on Mintgarden": "Voir sur Mintgarden",
     "Show on Spacescan": "Voir sur Spacescan",
-    "loading": "",
-    "{{count}} more_one": "",
-    "{{count}} more_many": "",
-    "{{count}} more_other": "",
+    "loading": "chargement",
+    "{{count}} more_one": "{{count}} de plus",
+    "{{count}} more_many": "{{count}} de plus",
+    "{{count}} more_other": "{{count}} de plus",
     "Inspect": "Inspecter",
     "Accept in {{provider}}": "Accepter dans {{provider}}",
     "No Results": "Pas de Résultats",
     "Current Price": "Prix Actuel",
     "Loading": "Chargement",
     "Trade": "Echanger",
-    "Description": "",
-    "Category": "",
-    "Total supply": "",
-    "Website": "",
+    "Description": "Description",
+    "Category": "Catégorie",
+    "Total supply": "Approvisionnement total",
+    "Website": "Site Web",
     "Friends": "Amis",
     "Price": "Prix",
-    "Transaction Fee": "",
-    "Mempool Transaction ID": "",
+    "Transaction Fee": "Frais de transaction",
+    "Mempool Transaction ID": "ID de transaction Mempool",
     "Uploading": "Chargement en cours",
     "Currently Offered": "Offert Actuellement",
     "Daily Volume": "Volume Journalier",
@@ -223,14 +223,14 @@
     "Offer accepted": "Offre acceptée"
   },
   "Assets": {
-    "Search {{count}} assets_one": "",
-    "Search {{count}} assets_many": "",
-    "Search {{count}} assets_other": "",
-    "Powered by Taildatabase": ""
+    "Search {{count}} assets_one": "Rechercher {{count}} actif",
+    "Search {{count}} assets_many": "Rechercher {{count}} actifs",
+    "Search {{count}} assets_other": "Rechercher {{count}} actifs",
+    "Powered by Taildatabase": "Propulsé par Taildatabase"
   },
   "contributors": {
-    "Translator": "",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": ""
+    "Translator": "Traducteur",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie tient à remercier ses formidables contributeurs et amis, sans eux dexie ne serait pas ce qu'elle est aujourd'hui"
   },
   "faq": {
     "question1": "C’est quoi dexie?",
@@ -300,8 +300,8 @@
     "mempoolExplanation": "Transactions en attente d'être inclues dans un bloc",
     "mempoolSize": "Mempool",
     "no filters selected": "Pas de filtre sélectionné",
-    "Transaction Fee (higher fee = higher priority)": "",
-    "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": ""
+    "Transaction Fee (higher fee = higher priority)": "Frais de transaction (frais plus élevés = priorité plus élevée)",
+    "Low Transaction Fee (low priority) {{fee}}": "Frais de transaction faibles (faible priorité) {{fee}}",
+    "Low Fee": "Faibles frais"
   }
 }
