@@ -92,7 +92,7 @@
   },
   "footer": {
     "Status": "Statut",
-    "Public API": "",
+    "Public API": "API Publique",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Les Blocs sont remplis, frais de transaction recommandés {{fee}} {{xch}}",
     "synced": "synchronisé",
     "disconnected": "déconnecté",
@@ -226,19 +226,19 @@
     "Search {{count}} assets_many": "Rechercher {{count}}\u00a0actifs",
     "Search {{count}} assets_other": "Rechercher {{count}}\u00a0actifs",
     "Powered by Taildatabase": "Propulsé par Taildatabase",
-    "Code": "",
-    "Asset ID": "",
-    "{{code}} Liquidity": ""
+    "Code": "Code",
+    "Asset ID": "ID d'actif",
+    "{{code}} Liquidity": "{{code}} Liquidité"
   },
   "contributors": {
-    "Core Contributor": "",
-    "Advisor/Strategy": "",
-    "Data Cruncher": "",
-    "Community Manager": "",
+    "Core Contributor": "Contributeur principal",
+    "Advisor/Strategy": "Conseiller/Stratégie",
+    "Data Cruncher": "Cruncheur de données",
+    "Community Manager": "Gestionnaire de communauté",
     "Translator": "Traducteur",
-    "Web3 Wallet": "",
-    "Explore NFTs": "",
-    "Add or Query TAILs": "",
+    "Web3 Wallet": "Portefeuille Web3",
+    "Explore NFTs": "Explorer les NFT",
+    "Add or Query TAILs": "Ajouter ou interroger TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie tient à remercier ses formidables contributeurs et amis, sans eux dexie ne serait pas ce qu'elle est aujourd'hui"
   },
   "faq": {
