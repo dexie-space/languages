@@ -1,6 +1,6 @@
 {
   "nft": {
-    "Unnamed NFT": "未命名的NF",
+    "Unnamed NFT": "未命名的NFT",
     "No Preview Available": "预览不可用",
     "Close Metadata": "关闭元数据",
     "Inspect Metadata": "检查元数据",
@@ -28,7 +28,7 @@
     "Newcomers": "新人"
   },
   "common": {
-    "Search Tokens, NFTs or enter Address": "",
+    "Search Tokens, NFTs or enter Address": "搜索Tokens、NFT 或输入地址",
     "You Offer": "提供",
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "你的 NFT",
