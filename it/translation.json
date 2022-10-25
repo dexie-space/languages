@@ -92,12 +92,12 @@
   },
   "footer": {
     "Status": "Stato",
-    "Public API": "",
+    "Public API": "Public API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "synced": "Sincronizzato",
     "disconnected": "Disconnesso",
     "connecting": "Connessione in corso:",
-    "Help translate": ""
+    "Help translate": "Help translate"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
@@ -115,7 +115,7 @@
     "Paste from Clipboard": "Incolla dal Clipboard",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Carica più offerte in un file ZIP, dexie metterà internamente in coda e pubblicherà senza sovraccaricare i nodi",
     "Successfully queued {{count}} offers for submission_one": "un offerta sottomessa alla coda con successo.",
-    "Successfully queued {{count}} offers for submission_many": "",
+    "Successfully queued {{count}} offers for submission_many": "{{count}} offerte sottomesse alla coda con successo.",
     "Successfully queued {{count}} offers for submission_other": "{{count}} offerte sottomesse alla coda con successo.",
     "Select and Upload ZIP file": "Seleziona e carica il file ZIP",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Le offerte dal caricamento massivo non verranno visualizzate nelle tue offerte aggiunte.",
@@ -226,19 +226,19 @@
     "Search {{count}} assets_many": "Trova {{count}} Asset Attivi",
     "Search {{count}} assets_other": "Trova {{count}} Asset Attivi",
     "Powered by Taildatabase": "Connesso con Taildatabase",
-    "Code": "",
-    "Asset ID": "",
-    "{{code}} Liquidity": ""
+    "Code": "Codice Moneta",
+    "Asset ID": "Asset ID",
+    "{{code}} Liquidity": "Liquidità in {{code}}"
   },
   "contributors": {
-    "Core Contributor": "",
-    "Advisor/Strategy": "",
-    "Data Cruncher": "",
-    "Community Manager": "",
+    "Core Contributor": "Collaboratori principali",
+    "Advisor/Strategy": "Consulenti/Strategia",
+    "Data Cruncher": "Data Cruncher",
+    "Community Manager": "Community Manager",
     "Translator": "Traduttore",
-    "Web3 Wallet": "",
-    "Explore NFTs": "",
-    "Add or Query TAILs": "",
+    "Web3 Wallet": "Web3 Wallet",
+    "Explore NFTs": "Scopri gli NFT",
+    "Add or Query TAILs": "Aggiungi o Ricerca TAIL",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "Dexie vorrebbe ringraziare i suoi fantastici collaboratori e amici, senza di loro Dexie non sarebbe quello che è oggi!"
   },
   "faq": {
