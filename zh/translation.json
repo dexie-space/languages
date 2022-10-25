@@ -90,7 +90,7 @@
   },
   "footer": {
     "Status": "状态",
-    "Public API": "",
+    "Public API": "公共 API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "synced": "已同步",
     "disconnected": "已断开连接",
@@ -218,19 +218,19 @@
   "Assets": {
     "Search {{count}} assets_other": "搜索 {{count}} 项资产",
     "Powered by Taildatabase": "由 Taildatabase 提供支持",
-    "Code": "",
-    "Asset ID": "",
-    "{{code}} Liquidity": ""
+    "Code": "代码",
+    "Asset ID": "资产 ID",
+    "{{code}} Liquidity": "{{code}} 流动性"
   },
   "contributors": {
-    "Core Contributor": "",
-    "Advisor/Strategy": "",
-    "Data Cruncher": "",
-    "Community Manager": "",
+    "Core Contributor": "核心贡献者",
+    "Advisor/Strategy": "顾问/策略",
+    "Data Cruncher": "数据粉碎机",
+    "Community Manager": "社区管理员",
     "Translator": "译者",
-    "Web3 Wallet": "",
-    "Explore NFTs": "",
-    "Add or Query TAILs": "",
+    "Web3 Wallet": "Web3 钱包",
+    "Explore NFTs": "探索 NFTs",
+    "Add or Query TAILs": "添加或查询 TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie 在此感谢其出色的贡献者和朋友们，没有他们，dexie 不会有今天的样子"
   },
   "faq": {
