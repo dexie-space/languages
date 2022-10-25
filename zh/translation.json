@@ -148,6 +148,7 @@
     "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
     "Best Price": "最优价格",
     "New": "新",
+    "Last": "",
     "Accept": "接受",
     "Download Offer File": "下载Offer文件",
     "Copy Offer File": "拷贝offer文件"
