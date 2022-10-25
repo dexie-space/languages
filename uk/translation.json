@@ -154,7 +154,7 @@
     "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
     "Best Price": "Найкраща ціна",
     "New": "Нова",
-    "Last": "",
+    "Last": "Остання",
     "Accept": "Прийняти",
     "Download Offer File": "Завантажити пропозицію",
     "Copy Offer File": "Копіювати пропозицію"
@@ -243,7 +243,7 @@
     "Translator": "Перекладач",
     "Web3 Wallet": "Web3 Гаманець",
     "Explore NFTs": "Переглянути НФТ",
-    "Add or Query TAILs": "Додати або запитати TAIL",
+    "Add or Query TAILs": "Додати або знайти TAIL",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie хоче подякувати своїм чудовим учасникам і друзям, без них dexie не була б такою, якою вона є сьогодні"
   },
   "faq": {
