@@ -236,7 +236,7 @@
   },
   "faq": {
     "question1": "What is dexie?",
-    "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "Support or Questions?",
     "answer2": "<p class='my-5'>Contact us on twitter at <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> or check our <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, we are always happy to help.</p>"
   },

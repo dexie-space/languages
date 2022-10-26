@@ -237,7 +237,7 @@
   },
   "faq": {
     "question1": "Apa itu Dexie?",
-    "answer1": "<p class='my-5'>Dexie adalah pertukaran peer-to-peer untuk file penawaran chia.File menawarkan sepenuhnya terdesentralisasi dan sangat dapat dipercaya.</p><p class='my-5'>Dexie tidak memegang tahanan koin, mereka selalu tinggal di dompet pembuat sampai tawaran diterima, pada titik mana aset ditransfer dengan aman antara pembuat dan pengambil dalam satu transaksi tunggal di blockchain tanpa perantara apa pun.</p><p class='my-5'>Pelajari lebih lanjut tentang penawaran file di <a class='text-nice underline' href='https://chialisp.com/docs/puzzles/offers' target='_blank' rel='noreferrer'>Dokumentasi Resmi Chia</a>.</p>",
+    "answer1": "<p class='my-5'>Dexie adalah pertukaran peer-to-peer untuk file penawaran chia.File menawarkan sepenuhnya terdesentralisasi dan sangat dapat dipercaya.</p><p class='my-5'>Dexie tidak memegang tahanan koin, mereka selalu tinggal di dompet pembuat sampai tawaran diterima, pada titik mana aset ditransfer dengan aman antara pembuat dan pengambil dalam satu transaksi tunggal di blockchain tanpa perantara apa pun.</p><p class='my-5'>Pelajari lebih lanjut tentang penawaran file di <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Dokumentasi Resmi Chia</a>.</p>",
     "question2": "Dukungan atau pertanyaan?",
     "answer2": "<p class='my-5'>Hubungi kami di Twitter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> atau periksa kami <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, Kami selalu senang membantu.</p>"
   },
