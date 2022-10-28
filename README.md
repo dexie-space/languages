@@ -12,6 +12,9 @@ Example:
 "Connect Wallet": "지갑 연동",
 ```
 
+## New language
+To add a new language, create a new file and name it starting with the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language and then `translation.json` after a slash, e.g., `en/translation.json`. Please copy the contents of the English JSON file `en/translation.json` as a template.
+
 ## Plurals
 Translation pointers which contain the `{{count}}` variable, may have additional sub-pointers for plurals (`_one`, `_other`, `_few`, `_many`), depending on the language. More about plurals here: https://www.i18next.com/translation-function/plurals.
 
@@ -34,9 +37,6 @@ Example for Polish (multiple plurals):
   "You have {{count}} offers_other": "Masz {{count}} ofert",
 }
 ```
-
-## New language
-To add a new language, create a new file and name it starting with the [ISO 639-1 code](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) of your language and then `translation.json` after a slash, e.g., `en/translation.json`. Please copy the contents of the English JSON file `en/translation.json` as a template.
 
 ## Test Translations
 All translations are automatically updated after merging on [dexie Testnet](https://testnet.dexie.space). Please use the Testnet to proof-check your translation in context.
