@@ -15,7 +15,7 @@ Example:
 ## Plurals
 Translation pointers which contain the `{{count}}` variable, may have additional sub-pointers for plurals (`_one`, `_other`, `_few`, `_many`), depending on the language. More about plurals here: https://www.i18next.com/translation-function/plurals.
 
-You can also enter your language code in the tool available on https://jsfiddle.net/6bpxsgd4 and see how to properly use the sub-pointers in your translation: https://jsfiddle.net/6bpxsgd4
+You can also enter your language code in the tool available on https://jsfiddle.net/6bpxsgd4 and see how to properly use the sub-pointers in your translation.
 
 Example for English (one plural):
 ```json
