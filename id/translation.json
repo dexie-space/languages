@@ -135,7 +135,7 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "",
+    "bannerMessageDBX": "Kami telah meluncurkan <a class='font-bold' href='/dbx'>dexie bucks</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mendapatkan informasi terbaru!",
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
