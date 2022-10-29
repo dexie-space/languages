@@ -39,7 +39,7 @@ Example for Polish (multiple plurals):
 ```
 
 ## Test Translations
-All translations are automatically updated after merging on [dexie Testnet](https://testnet.dexie.space). Please use the Testnet to proof-check your translation in context.
+All translations are automatically updated after merging on [dexie Testnet](https://testnet.dexie.space). Please use the Testnet to proofread your translation in context.
 
 Translations will usually go live on Mainnet in the next weekly update.
 
