@@ -95,7 +95,7 @@
     "Status": "Стан",
     "Public API": "Грамадскі API",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блокі поўнасцю выкарыстаны, рэкамендаваная плата за транзакцыю: {{fee}} {{xch}}",
-    "synched": "сінхранізаваны",
+    "synced": "сінхранізаваны",
     "disconnected": "адключаны",
     "connecting": "падключэнне",
     "Help translate": "Дапамажыце перакласці"
@@ -140,7 +140,7 @@
     "Trade": "Гандаль",
     "Recent Trades": "Апошнія здзелкі",
     "FAQ": "Часта задаюць пытанні",
-    "bannerMessageDBX": "Мы запусцілі токен dexie! Сачыце за намі ў твітэры <a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel=' noreferrer' >@dexie_space</a> каб быць у курсе!»,
+    "bannerMessageDBX": "Мы запусцілі токен <a class='font-bold' href='/dbx'>dexie bucks</a>! Сачыце за намі ў твітэры <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel=' noreferrer' >@dexie_space</a> каб быць у курсе!",
     "Add Offer": "Дадаць прапанову"
   },
   "offersTable": {
@@ -244,7 +244,7 @@
     "DBX Holders": "Трымальнікі DBX",
     "The Community": "Супольнасць",
     "Web3 Wallet": "Кашалёк Web3",
-    "Explore NFT": "Праглядзець NFT",
+    "Explore NFTs": "Праглядзець NFTs",
     "Add or Query TAILs": "Дадаць або запытаць TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie хоча падзякаваць сваім выдатным удзельнікам і сябрам, без іх dexie не была б такой, якой яна ёсць сёння"
   },
@@ -275,7 +275,7 @@
     "Collection": "Калекцыя",
     "The current lowest price of an NFT": "Бягучая самая нізкая цана NFT",
     "Buy Price (Floor)": "Цана пакупкі (мін.)",
-    "The high price is some biding for an NFT": "Самая высокая цана, якую хтосьці прапануе за NFT",
+    "The highest price someone is bidding for an NFT": "Самая высокая цана, якую хтосьці прапануе за NFT",
     "Highest Bid": "Самая высокая стаўка",
     "Floor 24h": "На працягу 24 гадзін",
     "Toggle collections with suspicious trading activity": "Глядзець калекцыі з падазронай гандлёвай актыўнасцю",
@@ -295,7 +295,7 @@
   },
   "report": {
     "Report Content": "Скарга на змест",
-    "Use this form to report NFTs or Tokens for rules rules": "Выкарыстоўвайце гэту форму, каб паведаміць аб NFT або Tokens аб парушэннях правілаў",
+    "Use this form to report NFTs or Tokens for rule violations": "Выкарыстоўвайце гэту форму, каб паведаміць аб NFT або Tokens аб парушэннях правілаў",
     "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by supporting": "Кожная справаздача становіцца агульнадаступным запытам на выцягванне ў рэпазітары супольнасці Blocklist, дзе яна будзе прагледжана суправаджаючым",
     "NFT": "NFT",
     "CAT reporting is not available right now": "Скаргі на токены CAT зараз недаступныя",
