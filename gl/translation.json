@@ -136,7 +136,7 @@
     "Trade": "Comercio",
     "Recent Trades": "Comercios recentes",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "Lanzamos dexie bucks ! Síguenos en @dexie_space para estar ao día!",
+    "bannerMessageDBX": "Lanzamos <a class='font-bold' href='/dbx'>dexie bucks</a>! Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para estar ao día!",
     "Add Offer": "Engadir oferta"
   },
   "offersTable": {
