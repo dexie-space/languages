@@ -140,7 +140,7 @@
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
     "FAQ": "Поширені запитання",
-    "bannerMessageDBX": "Ми запустили dexie токен! Слідкуйте за нами у твіттері <a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб бути в курсі подій!",
+    "bannerMessageDBX": "Ми запустили <a class='font-bold' href='/dbx'>dexie bucks</a> токен! Слідкуйте за нами у твіттері <a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб бути в курсі подій!",
     "Add Offer": "Додати пропозицію"
   },
   "offersTable": {
