@@ -252,7 +252,7 @@
     "question1": "Что такое dexie?",
     "answer1": "<p class='my-5'>dexie – это одноранговой обмен файлами предложений Chia. Файлы предложений полностью децентрализованы.</p><p class='my-5'>dexie не хранит монеты, они всегда остаются в кошельке того, кто их создал, пока не будет принято предложение, после чего активы безопасно передаются между тем, кто их создал и тем, кто хочет их принять в рамках одной транзакции в блокчейне без какого-либо посредника.</p><p class='my-5'>Узнайте больше о файлах предложений на официальном сайте <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "Есть вопросы?",
-    "answer2": "<p class='my-5'>Свяжитесь с нами в Twitter по адресу <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> или проверьте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, мы всегда рады помочь.</ >"
+    "answer2": "<p class='my-5'>Свяжитесь с нами в Twitter по адресу <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> или проверьте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, мы всегда рады помочь.</p>"
   },
   "markets": {
     "{{market}} heading": "{{market}} Рынок",
