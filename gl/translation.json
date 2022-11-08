@@ -249,7 +249,7 @@
   "markets": {
     "{{market}} heading": "{{market}} Mercados",
     "Depth": "Profundidade",
-    "Rank": "Clasificación",
+    "Rank": "Posición",
     "Asset": "Activo",
     "#buyPriceHint{{depth}}": "O prezo unitario para mercar {{depth}} {{market}} de volume\ne canto obtería cada {{market}}.",
     "Buy Price": "Comprar prezo",
