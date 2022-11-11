@@ -149,14 +149,14 @@
     "New": "Новы",
     "No Offers Found": "Прапанова не знойдзена",
     "Combine Offers": "Камбінаваная прапанова",
-    "Collapse NFTs": "",
-    "Expand NFTs": "",
+    "Collapse NFTs": "Згарнуць NFT",
+    "Expand NFTs": "Разгарнуць NFT",
     "You Offer": "Прапанова",
     "You Receive": "Атрымаць",
     "Price": "Кошт",
     "Combined": "Камбінаваны",
     "Cancel": "Адмена",
-    "This offer contains overlapping inputs and can not be added": "",
+    "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена",
     "Accept": "Прыняць",
     "Download Offer File": "Спампаваць прапанову",
     "Copy Offer File": "Капіяваць прапанову"
@@ -210,7 +210,7 @@
     "activeOffers": "актыўная прапанова",
     "lastPrice": "Апошняя цана",
     "Collapse": "Згарнуць",
-    "Expand": "Пашырыць",
+    "Expand": "Разгарнуць",
     "No data for this chart": "Няма дадзеных для гэтай дыяграмы",
     "Still collecting data for this chart": "Усё яшчэ збіраюцца дадзеныя для гэтай дыяграмы"
   },
@@ -228,7 +228,7 @@
     "Offer accepted": "Прапанова прынята"
   },
   "Assets": {
-    "Search {{count}} assets_one": "",
+    "Search {{count}} assets_one": "Шукаць {{count}} актыў",
     "Search {{count}} assets_few": "Шукаць {{count}} актывы",
     "Search {{count}} assets_many": "Шукаць {{count}} актываў",
     "Search {{count}} assets_other": "Шукаць {{count}} актываў",
@@ -298,7 +298,7 @@
   "report": {
     "Report Content": "Скарга на змест",
     "Use this form to report NFTs or Tokens for rule violations": "Выкарыстоўвайце гэту форму, каб паведаміць аб NFT або Tokens аб парушэннях правілаў",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Кожная справаздача становіцца агульнадаступным запытам на выцягванне ў рэпазітары супольнасці Blocklist, дзе яна будзе прагледжана суправаджаючым",
     "NFT": "NFT",
     "CAT reporting is not available right now": "Скаргі на токены CAT зараз недаступныя",
     "Token (CAT)": "Токен (CAT)",
@@ -307,7 +307,7 @@
     "Illegal Content": "Незаконнае ўтрыманне",
     "Other": "Іншы",
     "Enter additional notes (notes are public)": "Увядзіце дадатковыя нататкі (нататкі публічныя)",
-    "Thank you, a new report has been generated": "",
+    "Thank you, a new report has been generated": "Дзякуй, новая справаздача была створана",
     "Report {{id}}": "Скарга {{id}}",
     "Generating Report": "Стварыць скаргу",
     "Submit Report": "Адправіць скаргу"
