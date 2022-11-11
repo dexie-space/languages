@@ -143,8 +143,8 @@
     "New": "新",
     "No Offers Found": "未发现Offer",
     "Combine Offers": "Combine Offers",
-    "Collapse NFTs": "",
-    "Expand NFTs": "",
+    "Collapse NFTs": "折叠NFT",
+    "Expand NFTs": "扩展NFT",
     "You Offer": "提供",
     "You Receive": "请求",
     "Price": "价格",
@@ -200,7 +200,7 @@
     "Log": "Log",
     "activeOffers": "活跃Offer文件",
     "lastPrice": "最后价格",
-    "Collapse": "崩溃",
+    "Collapse": "折叠",
     "Expand": "扩展",
     "No data for this chart": "此图表没有数据",
     "Still collecting data for this chart": "仍在从该表中搜集数据"
@@ -234,7 +234,7 @@
     "DBX Holders": "DBX 持有人",
     "The Community": "社区",
     "Web3 Wallet": "Web3 钱包",
-    "Explore NFTs": "探索 NFTs",
+    "Explore NFTs": "探索 NFT",
     "Add or Query TAILs": "添加或查询 TAILs",
     "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "dexie 在此感谢其出色的贡献者和朋友们，没有他们，dexie 不会有今天的样子"
   },
