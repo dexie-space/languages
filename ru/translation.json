@@ -315,7 +315,7 @@
   "trades": {
     "Recommended Transaction Fee": "Рекомендуемая комиссия транзакции",
     "Tx Fee": "комиссия транзакции",
-    "mempoolExplanation": "мемпул пояснение",
+    "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
     "mempoolSize": "размер мемпула",
     "no filters selected": "не выбрано фильтров",
     "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
