@@ -41,13 +41,13 @@
     "Report NFT": "ລາຍງານ NFT",
     "Show on Mintgarden": "ສະແດງໃຫ້ເຫັນໃນ Mintgarden",
     "Show on Spacescan": "ສະແດງໃຫ້ເຫັນໃນ Spacescan",
+    "Accept in {{provider}}": "ຍອມຮັບການສະເຫນີໂດຍຜ່ານ {{provider}}",
     "Requested": "ຮ້ອງຂໍ",
     "Offered": "ຂໍ້ສະເໜີ",
     "Price": "ລາຄາ",
     "loading": "ກຳລັງໂຫຼດ",
     "{{count}} more_other": "{{count}} ເພີ່ມເຕີມ",
     "Inspect": "ກວດກາ",
-    "Accept in {{provider}}": "ຍອມຮັບການສະເຫນີໂດຍຜ່ານ {{provider}}",
     "No Results": "ບໍ່ມີຜົນການຊອກຫາ",
     "Current Price": "ລາຄາປະຈຸບັນ",
     "Loading": "ກຳລັງໂຫຼດ",
@@ -72,7 +72,6 @@
     "Rank by": "ອັນດັບໂດຍ",
     "Suspicious trading activity (inflated volume)": "ການເຄື່ອນໄຫວການຊື້ຂາຍທີ່ໜ້າສົງໄສ (ປະລິມານທີ່ເພີ່ມຂຶ້ນ)",
     "Any Asset": "ຊັບສິນໃດນຶ່ງ",
-    "Select Asset": "ເລືອກຊັບສິນ",
     "NFT Collection": "ການເກັບ NFT",
     "Everything": "ທຸກຢ່າງ",
     "NFT Collections": "ຄໍເລັກຊັນ NFT",
@@ -90,6 +89,7 @@
   },
   "footer": {
     "Public API": "API ສາທາລະນະ",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "ບລັອກຖືກນຳໃຊ້ຢ່າງເຕັມທີ່, ຄ່າທຳນຽມທຸລະກຳທີ່ແນະນຳ {{fee}} {{xch}}",
     "Status": "ສະຖານະ",
     "synced": "ເຊື່ອມຕໍ່",
@@ -134,10 +134,13 @@
     "Trade": "ການຄ້າ",
     "Recent Trades": "ການຄ້າຄັ້ງສຸດທ້າຍ",
     "FAQ": "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ",
-    "bannerMessageDBX": "ພວກເຮົາໄດ້ເປີດຕົວ <a class='font-bold' href='/dbx'>dexie bucks</a>! ຕິດຕາມພວກເຮົາໄດ້ທີ່ <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ເພື່ອຕິດຕາມຂ່າວສານ!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "ເພີ່ມຂໍ້ສະເໜີ"
   },
   "offersTable": {
+    "Accept": "ຄໍາຕອບ",
+    "Download Offer File": "ດາວໂຫຼດໄຟລ໌ຂໍ້ສະເໜີ",
+    "Copy Offer File": "ເຮັດສໍາເນົາເອກະສານສະເຫນີ",
     "Last": "ຫຼ້າສຸດ",
     "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
     "New": "ໃຫມ່",
@@ -145,15 +148,12 @@
     "Combine Offers": "ສົມທົບການສະເຫນີ",
     "Collapse NFTs": "ຍຸບ NFTs",
     "Expand NFTs": "ຂະຫຍາຍ NFTs",
-    "You Offer": "ທ່ານສະເຫນີ",
+    "You Pay": "",
     "You Receive": "ທ່ານໄດ້ຮັບ",
     "Price": "ລາຄາ",
     "Combined": "ເກັບກໍາ",
     "Cancel": "ຍົກເລີກ",
-    "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
-    "Accept": "ຄໍາຕອບ",
-    "Download Offer File": "ດາວໂຫຼດໄຟລ໌ຂໍ້ສະເໜີ",
-    "Copy Offer File": "ເຮັດສໍາເນົາເອກະສານສະເຫນີ"
+    "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້"
   },
   "ribbon": {
     "Yours": "ຂອງເຈົ້າ"
@@ -282,6 +282,17 @@
     "Offer at most": "ສະເໜີໃຫ້ສູງ",
     "Receive at least": "ຕອບຢ່າງຫນ້ອຍ",
     "Receive at most": "ຕອບສະຫນອງຫຼາຍ"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "ລາຍງານເນື້ອຫາ",

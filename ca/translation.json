@@ -41,6 +41,7 @@
     "Report NFT": "Denuncia NFT",
     "Show on Mintgarden": "Mostra a Mintgarden",
     "Show on Spacescan": "Mostra a Spacescan",
+    "Accept in {{provider}}": "Accepta a {{provider}}",
     "Requested": "Demanat",
     "Offered": "Oferit",
     "Price": "Preu",
@@ -48,7 +49,6 @@
     "{{count}} more_one": "{{count}} més",
     "{{count}} more_other": "{{count}} més",
     "Inspect": "Inspeccionar",
-    "Accept in {{provider}}": "Accepta a {{provider}}",
     "No Results": "Sense resultats",
     "Current Price": "Preu actual",
     "Loading": "Carregant...",
@@ -73,7 +73,6 @@
     "Rank by": "Classifica per",
     "Suspicious trading activity (inflated volume)": "Activitat comercial sospitosa (volum inflat)",
     "Any Asset": "Qualsevol actiu",
-    "Select Asset": "Selecciona l'actiu",
     "NFT Collection": "Col·lecció NFT",
     "Everything": "Tot",
     "NFT Collections": "Col·leccions NFT",
@@ -91,6 +90,7 @@
   },
   "footer": {
     "Public API": "API Pública",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Els blocs s'utilitzen completament, tarifa de transacció recomanada: {{fee}} {{xch}}",
     "Status": "Estat",
     "synced": "sincronitzat",
@@ -136,10 +136,13 @@
     "Trade": "Comerç",
     "Recent Trades": "Oficis recents",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "Hem llançat <a class='font-bold' href='/dbx'>dexie bucks</a>! Segueix-nos a <a class='font-bold' href='https://twitter.com /dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per estar al dia!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Afegeix una oferta"
   },
   "offersTable": {
+    "Accept": "Acceptar",
+    "Download Offer File": "Baixa el fitxer d'oferta",
+    "Copy Offer File": "Copia el fitxer d'oferta",
     "Last": "Últim",
     "Best Price": "El millor preu",
     "New": "Nou",
@@ -147,15 +150,12 @@
     "Combine Offers": "Combina ofertes",
     "Collapse NFTs": "Col·lapse NFTs",
     "Expand NFTs": "Ampliar NFTs",
-    "You Offer": "Tu ofereixes",
+    "You Pay": "",
     "You Receive": "Vostè rep",
     "Price": "Preu",
     "Combined": "Combinat",
     "Cancel": "Cancel·lar",
-    "This offer contains overlapping inputs and can not be added": "Aquesta oferta conté entrades superposades i no es pot afegir",
-    "Accept": "Acceptar",
-    "Download Offer File": "Baixa el fitxer d'oferta",
-    "Copy Offer File": "Copia el fitxer d'oferta"
+    "This offer contains overlapping inputs and can not be added": "Aquesta oferta conté entrades superposades i no es pot afegir"
   },
   "ribbon": {
     "Yours": "El teu"
@@ -286,6 +286,18 @@
     "Offer at most": "Ofereix com a màxim",
     "Receive at least": "Rebre almenys",
     "Receive at most": "Rebre com a màxim"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_one": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "Reportar contingut",

@@ -41,13 +41,13 @@
     "Report NFT": "举报 NFT",
     "Show on Mintgarden": "在 Mintgarden 上展示",
     "Show on Spacescan": "在 Spacescan 上展示",
+    "Accept in {{provider}}": "在{{provider}}钱包接受",
     "Requested": "请求",
     "Offered": "提供",
     "Price": "价格",
     "loading": "加载",
     "{{count}} more_other": "还有 {{count}} 个",
     "Inspect": "检查",
-    "Accept in {{provider}}": "在{{provider}}钱包接受",
     "No Results": "没有结果",
     "Current Price": "时价",
     "Loading": "加载中",
@@ -72,7 +72,6 @@
     "Rank by": "排名依据",
     "Suspicious trading activity (inflated volume)": "可疑的交易活动（膨胀的交易量",
     "Any Asset": "任何资产",
-    "Select Asset": "选择资产",
     "NFT Collection": "NFT 集合",
     "Everything": "万事",
     "NFT Collections": "NFT 集合",
@@ -90,6 +89,7 @@
   },
   "footer": {
     "Public API": "公共 API",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",
     "synced": "已同步",
@@ -134,10 +134,13 @@
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
-    "bannerMessageDBX": "我们推出了<a class='font-bold' href='/dbx'>dexie bucks</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们以保持最新！",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "添加Offer"
   },
   "offersTable": {
+    "Accept": "接受",
+    "Download Offer File": "下载Offer文件",
+    "Copy Offer File": "拷贝offer文件",
     "Last": "末",
     "Best Price": "最优价格",
     "New": "新",
@@ -145,15 +148,12 @@
     "Combine Offers": "Combine Offers",
     "Collapse NFTs": "折叠NFT",
     "Expand NFTs": "扩展NFT",
-    "You Offer": "提供",
+    "You Pay": "",
     "You Receive": "请求",
     "Price": "价格",
     "Combined": "已合并",
     "Cancel": "取消",
-    "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
-    "Accept": "接受",
-    "Download Offer File": "下载Offer文件",
-    "Copy Offer File": "拷贝offer文件"
+    "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加"
   },
   "ribbon": {
     "Yours": "你的"
@@ -282,6 +282,17 @@
     "Offer at most": "最多提供",
     "Receive at least": "最少请求",
     "Receive at most": "最多请求"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "举报内容",

@@ -41,13 +41,13 @@
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "Requested": "요청",
     "Offered": "제안",
     "Price": "",
     "loading": "",
     "{{count}} more_other": "",
     "Inspect": "추가정보",
-    "Accept in {{provider}}": "{{provider}}를 사용해 열기",
     "No Results": "",
     "Current Price": "",
     "Loading": "",
@@ -72,7 +72,6 @@
     "Rank by": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Select Asset": "",
     "NFT Collection": "",
     "Everything": "",
     "NFT Collections": "",
@@ -90,6 +89,7 @@
   },
   "footer": {
     "Public API": "",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "",
     "synced": "동기화",
@@ -134,10 +134,13 @@
     "Trade": "거래",
     "Recent Trades": "신규 거래",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "오퍼 파일 등록"
   },
   "offersTable": {
+    "Accept": "받기",
+    "Download Offer File": "오퍼 파일 다운로드",
+    "Copy Offer File": "오퍼 파일 복사",
     "Last": "",
     "Best Price": "최저가",
     "New": "신규",
@@ -145,15 +148,12 @@
     "Combine Offers": "",
     "Collapse NFTs": "",
     "Expand NFTs": "",
-    "You Offer": "제안하기",
+    "You Pay": "",
     "You Receive": "수락하기",
     "Price": "가격",
     "Combined": "",
     "Cancel": "",
-    "This offer contains overlapping inputs and can not be added": "",
-    "Accept": "받기",
-    "Download Offer File": "오퍼 파일 다운로드",
-    "Copy Offer File": "오퍼 파일 복사"
+    "This offer contains overlapping inputs and can not be added": ""
   },
   "ribbon": {
     "Yours": ""
@@ -282,6 +282,17 @@
     "Offer at most": "최고 제안",
     "Receive at least": "최저 수락",
     "Receive at most": "최고 수락"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "",
