@@ -290,13 +290,10 @@
   "autoCombine": {
     "Combining Best Offer": "",
     "Auto-Combined": "",
-    "Includes {{fee}}% Fee": "",
     "Bonus!": "",
-    "{{impact}}% Price Impact": "",
-    "{{count}} Coin-Spends_one": "",
-    "{{count}} Coin-Spends_other": "",
-    "Updating": "",
-    "New Quote in": "",
+    "Best Combined": "",
+    "{{fee}}% Combination Fee included": "",
+    "Fees": "",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
