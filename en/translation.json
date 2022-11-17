@@ -90,7 +90,7 @@
   },
   "footer": {
     "Public API": "Public API",
-    "Combined Offers": "",
+    "Combined Offers": "Combined Offers",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synced",
