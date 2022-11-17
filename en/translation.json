@@ -41,6 +41,7 @@
     "Report NFT": "Report NFT",
     "Show on Mintgarden": "Show on Mintgarden",
     "Show on Spacescan": "Show on Spacescan",
+    "Accept in {{provider}}": "Accept in {{provider}}",
     "Requested": "Requested",
     "Offered": "Offered",
     "Price": "Price",
@@ -48,7 +49,6 @@
     "{{count}} more_one": "{{count}} more",
     "{{count}} more_other": "{{count}} more",
     "Inspect": "Inspect",
-    "Accept in {{provider}}": "Accept in {{provider}}",
     "No Results": "No Results",
     "Current Price": "Current Price",
     "Loading": "Loading ...",
@@ -73,7 +73,6 @@
     "Rank by": "Rank by",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
     "Any Asset": "Any Asset",
-    "Select Asset": "Select Asset",
     "NFT Collection": "NFT Collection",
     "Everything": "Everything",
     "NFT Collections": "NFT Collections",
@@ -91,6 +90,7 @@
   },
   "footer": {
     "Public API": "Public API",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synced",
@@ -136,10 +136,13 @@
     "Trade": "Trade",
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "We've launched <a class='font-bold' href='/dbx'>dexie bucks</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to stay up to date!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Add Offer"
   },
   "offersTable": {
+    "Accept": "Accept",
+    "Download Offer File": "Download Offer File",
+    "Copy Offer File": "Copy Offer File",
     "Last": "Last",
     "Best Price": "Best Price",
     "New": "New",
@@ -147,15 +150,12 @@
     "Combine Offers": "Combine Offers",
     "Collapse NFTs": "Collapse NFTs",
     "Expand NFTs": "Expand NFTs",
-    "You Offer": "You Offer",
+    "You Pay": "You Pay",
     "You Receive": "You Receive",
     "Price": "Price",
     "Combined": "Combined",
     "Cancel": "Cancel",
-    "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added.",
-    "Accept": "Accept",
-    "Download Offer File": "Download Offer File",
-    "Copy Offer File": "Copy Offer File"
+    "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added."
   },
   "ribbon": {
     "Yours": "Yours"
@@ -286,6 +286,18 @@
     "Offer at most": "Offer at most",
     "Receive at least": "Receive at least",
     "Receive at most": "Receive at most"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "Combining Best Offer",
+    "Auto-Combined": "Auto-Combined",
+    "Includes {{fee}}% Fee": "Includes {{fee}}% Fee",
+    "Bonus!": "Bonus!",
+    "{{impact}}% Price Impact": "{{impact}}% Price Impact",
+    "{{count}} Coin-Spends_one": "{{count}} Coin-Spend",
+    "{{count}} Coin-Spends_other": "{{count}} Coin-Spends",
+    "Updating": "Updating",
+    "New Quote in": "New Quote in",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No offers to auto-combine, try a larger amount or choose the best offer from below"
   },
   "report": {
     "Report Content": "Report Content",

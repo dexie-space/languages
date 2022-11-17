@@ -41,13 +41,13 @@
     "Report NFT": "Laporkan NFT",
     "Show on Mintgarden": "Tampilkan di Mintgarden",
     "Show on Spacescan": "Tampilkan di Spacescan",
+    "Accept in {{provider}}": "Terima di {{provider}}",
     "Requested": "Diminta",
     "Offered": "Ditawarkan",
     "Price": "Harga",
     "loading": "Memuat",
     "{{count}} more_other": "{{count}} lebih banyak_lagi lainnya",
     "Inspect": "Periksa",
-    "Accept in {{provider}}": "Terima di {{provider}}",
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
     "Loading": "Memuat ...",
@@ -72,7 +72,6 @@
     "Rank by": "Peringkat menurut",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
-    "Select Asset": "Pilih Aset",
     "NFT Collection": "Koleksi NFT",
     "Everything": "Semuanya",
     "NFT Collections": "Koleksi NFT",
@@ -90,6 +89,7 @@
   },
   "footer": {
     "Public API": "Publik API",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
@@ -135,10 +135,13 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "Kami telah meluncurkan <a class='font-bold' href='/dbx'>dexie bucks</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mendapatkan informasi terbaru!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
+    "Accept": "Menerima",
+    "Download Offer File": "Unduh file penawaran",
+    "Copy Offer File": "Salin file penawaran",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
     "New": "Baru",
@@ -146,15 +149,12 @@
     "Combine Offers": "Menggabungkan penawaran",
     "Collapse NFTs": "",
     "Expand NFTs": "",
-    "You Offer": "Anda menawarkan",
+    "You Pay": "",
     "You Receive": "Anda menerima",
     "Price": "Harga",
     "Combined": "Digabungkan",
     "Cancel": "Batalkan",
-    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
-    "Accept": "Menerima",
-    "Download Offer File": "Unduh file penawaran",
-    "Copy Offer File": "Salin file penawaran"
+    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan."
   },
   "ribbon": {
     "Yours": "Milikmu"
@@ -283,6 +283,17 @@
     "Offer at most": "Penawaran paling banyak",
     "Receive at least": "Terima setidaknya",
     "Receive at most": "Terima paling banyak"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "Laporkan konten",

@@ -41,6 +41,7 @@
     "Report NFT": "Поскаржитись на НФТ",
     "Show on Mintgarden": "Показати на Mintgarden",
     "Show on Spacescan": "Показати на Spacescan",
+    "Accept in {{provider}}": "Прийняти в {{provider}}",
     "Requested": "Отримано",
     "Offered": "Запропоновано",
     "Price": "Ціна",
@@ -50,7 +51,6 @@
     "{{count}} more_many": "більше {{count}}",
     "{{count}} more_other": "більше {{count}}",
     "Inspect": "Перегляд",
-    "Accept in {{provider}}": "Прийняти в {{provider}}",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
     "Loading": "Завантаження...",
@@ -75,7 +75,6 @@
     "Rank by": "Ранжувати за",
     "Suspicious trading activity (inflated volume)": "Підозріла торгова діяльність (завищений обсяг)",
     "Any Asset": "Будь-який актив",
-    "Select Asset": "Виберіть Актив",
     "NFT Collection": "НФТ колекція",
     "Everything": "Усі",
     "NFT Collections": "НФТ колекції",
@@ -93,6 +92,7 @@
   },
   "footer": {
     "Public API": "Загальнодоступний API",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронізовано",
@@ -140,10 +140,13 @@
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
     "FAQ": "Поширені запитання",
-    "bannerMessageDBX": "Ми запустили <a class='font-bold' href='/dbx'>dexie bucks</a> токен! Слідкуйте за нами у твіттері <a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб бути в курсі подій!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Додати пропозицію"
   },
   "offersTable": {
+    "Accept": "Прийняти",
+    "Download Offer File": "Завантажити пропозицію",
+    "Copy Offer File": "Копіювати пропозицію",
     "Last": "Остання",
     "Best Price": "Найкраща ціна",
     "New": "Нова",
@@ -151,15 +154,12 @@
     "Combine Offers": "Комбінована пропозиція",
     "Collapse NFTs": "Згорнути НФТ",
     "Expand NFTs": "Розгорнути НФТ",
-    "You Offer": "Запропонувати",
+    "You Pay": "",
     "You Receive": "Отримати",
     "Price": "Ціна",
     "Combined": "Комбінована",
     "Cancel": "Скасувати",
-    "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
-    "Accept": "Прийняти",
-    "Download Offer File": "Завантажити пропозицію",
-    "Copy Offer File": "Копіювати пропозицію"
+    "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати"
   },
   "ribbon": {
     "Yours": "Твої"
@@ -294,6 +294,20 @@
     "Offer at most": "Максимальна пропозиція",
     "Receive at least": "Отримати",
     "Receive at most": "Максимум отримати"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_one": "",
+    "{{count}} Coin-Spends_few": "",
+    "{{count}} Coin-Spends_many": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "Скарга на контент",

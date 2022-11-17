@@ -41,13 +41,13 @@
     "Report NFT": "",
     "Show on Mintgarden": "",
     "Show on Spacescan": "",
+    "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "Requested": "ร้องขอ",
     "Offered": "นำเสนอ",
     "Price": "",
     "loading": "",
     "{{count}} more_other": "",
     "Inspect": "ตรวจสอบ",
-    "Accept in {{provider}}": "ตอบรับข้อเสนอทาง {{provider}}",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
     "Loading": "กำลังโหลด",
@@ -72,7 +72,6 @@
     "Rank by": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Select Asset": "",
     "NFT Collection": "",
     "Everything": "",
     "NFT Collections": "",
@@ -90,6 +89,7 @@
   },
   "footer": {
     "Public API": "",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "สถานะ",
     "synced": "เชื่อมต่อ",
@@ -134,10 +134,13 @@
     "Trade": "ซื้อขาย",
     "Recent Trades": "ซื้อขายล่าสุด",
     "FAQ": "คำถามที่พบบ่อย",
-    "bannerMessageDBX": "",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "เพิ่มข้อเสนอ"
   },
   "offersTable": {
+    "Accept": "ตอบรับ",
+    "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
+    "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ",
     "Last": "",
     "Best Price": "ราคาที่ดีที่สุด",
     "New": "ใหม่",
@@ -145,15 +148,12 @@
     "Combine Offers": "รวมข้อเสนอ",
     "Collapse NFTs": "",
     "Expand NFTs": "",
-    "You Offer": "คุณเสนอ",
+    "You Pay": "",
     "You Receive": "คุณได้รับ",
     "Price": "ราคา",
     "Combined": "รวบรวมแล้ว",
     "Cancel": "ยกเลิก",
-    "This offer contains overlapping inputs and can not be added": "",
-    "Accept": "ตอบรับ",
-    "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
-    "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ"
+    "This offer contains overlapping inputs and can not be added": ""
   },
   "ribbon": {
     "Yours": ""
@@ -282,6 +282,17 @@
     "Offer at most": "เสนออย่างมาก",
     "Receive at least": "ตอบรับอย่างน้อย",
     "Receive at most": "ตอบรับอย่างมาก"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "",

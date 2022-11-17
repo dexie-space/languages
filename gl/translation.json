@@ -41,6 +41,7 @@
     "Report NFT": "Informar NFT",
     "Show on Mintgarden": "Mostrar en Mintgarden",
     "Show on Spacescan": "Mostrar en Spacescan",
+    "Accept in {{provider}}": "Aceptar en {{provider}}",
     "Requested": "Solicitado",
     "Offered": "Ofrecido",
     "Price": "Prezo",
@@ -48,7 +49,6 @@
     "{{count}} more_one": "{{count}} máis",
     "{{count}} more_other": "{{count}} máis",
     "Inspect": "Inspeccionar",
-    "Accept in {{provider}}": "Aceptar en {{provider}}",
     "No Results": "Sen resultados",
     "Current Price": "Prezo actual",
     "Loading": "Cargando...",
@@ -73,7 +73,6 @@
     "Rank by": "Clasificar por",
     "Suspicious trading activity (inflated volume)": "Actividade comercial sospeitosa (inflated volume)",
     "Any Asset": "Calquera activo",
-    "Select Asset": "Seleccionar activo",
     "NFT Collection": "Colección NFT",
     "Everything": "Todo",
     "NFT Collections": "Coleccións NFT",
@@ -91,6 +90,7 @@
   },
   "footer": {
     "Public API": "API Pública",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Os bloques están totalmente utilizados, recomendado taxa de transacción: {{fee}} {{xch}}",
     "Status": "Estado",
     "synced": "sincronizado",
@@ -136,10 +136,13 @@
     "Trade": "Comercio",
     "Recent Trades": "Comercios recentes",
     "FAQ": "FAQ",
-    "bannerMessageDBX": "Lanzamos <a class='font-bold' href='/dbx'>dexie bucks</a>! Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para estar ao día!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Engadir oferta"
   },
   "offersTable": {
+    "Accept": "Aceptar",
+    "Download Offer File": "Descargar ficheiro de oferta",
+    "Copy Offer File": "Copiar ficheiro de oferta",
     "Last": "Última",
     "Best Price": "Mellor prezo",
     "New": "Novo",
@@ -147,15 +150,12 @@
     "Combine Offers": "Combinar ofertas",
     "Collapse NFTs": "Contraer NFTs",
     "Expand NFTs": "Ampliar NFTs",
-    "You Offer": "Vostede ofrece",
+    "You Pay": "",
     "You Receive": "Ti recibes",
     "Price": "Prezo",
     "Combined": "Combinado",
     "Cancel": "Cancelar",
-    "This offer contains overlapping inputs and can not be added": "Esta oferta contén entradas superpostas e non se pode engadir.",
-    "Accept": "Aceptar",
-    "Download Offer File": "Descargar ficheiro de oferta",
-    "Copy Offer File": "Copiar ficheiro de oferta"
+    "This offer contains overlapping inputs and can not be added": "Esta oferta contén entradas superpostas e non se pode engadir."
   },
   "ribbon": {
     "Yours": "Teu"
@@ -286,6 +286,18 @@
     "Offer at most": "Ofrecer polo máximo",
     "Receive at least": "Recibir polo menos",
     "Receive at most": "Recibir polo máximo"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_one": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "Informar contido",

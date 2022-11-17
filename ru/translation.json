@@ -41,6 +41,7 @@
     "Report NFT": "Пожаловаться на НФТ",
     "Show on Mintgarden": "Показать на Mintgarden",
     "Show on Spacescan": "Показать на Spacescan",
+    "Accept in {{provider}}": "Принять в {{provider}}",
     "Requested": "Получено",
     "Offered": "Предложено",
     "Price": "Цена",
@@ -50,7 +51,6 @@
     "{{count}} more_many": "больше {{count}}",
     "{{count}} more_other": "больше {{count}}",
     "Inspect": "Просмотр",
-    "Accept in {{provider}}": "Принять в {{provider}}",
     "No Results": "Нет результатов",
     "Current Price": "Текущая цена",
     "Loading": "Загрузка...",
@@ -75,7 +75,6 @@
     "Rank by": "Ранжировать за",
     "Suspicious trading activity (inflated volume)": "Подозрительная торговая деятельность (завышенный объем)",
     "Any Asset": "Любой актив",
-    "Select Asset": "Выберите Актив",
     "NFT Collection": "НФТ колекция",
     "Everything": "Все",
     "NFT Collections": "НФТ колекции",
@@ -93,6 +92,7 @@
   },
   "footer": {
     "Public API": "Общедоступный API",
+    "Combined Offers": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронизировано",
@@ -140,10 +140,13 @@
     "Trade": "Торговля",
     "Recent Trades": "Последние торги",
     "FAQ": "Часто задаваемые вопросы",
-    "bannerMessageDBX": "Мы запустили <a class='font-bold' href='/dbx'>dexie bucks</a> токен! Следите за нами в твиттере <a class='font-bold mx-1' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы быть в курсе событий!",
+    "bannerMessageCombinedOffers": "",
     "Add Offer": "Добавить предложение"
   },
   "offersTable": {
+    "Accept": "Принять",
+    "Download Offer File": "Загрузить предложение",
+    "Copy Offer File": "Копировать предложение",
     "Last": "Последнее",
     "Best Price": "Лучшая цена",
     "New": "Новое",
@@ -151,15 +154,12 @@
     "Combine Offers": "Комбинированное предложение",
     "Collapse NFTs": "Свернуть НФТ",
     "Expand NFTs": "Развернуть НФТ",
-    "You Offer": "Предложить",
+    "You Pay": "",
     "You Receive": "Получить",
     "Price": "Цена",
     "Combined": "Комбинированная",
     "Cancel": "Отменить",
-    "This offer contains overlapping inputs and can not be added": "Это предложение содержит совпадающие данные и его нельзя добавить",
-    "Accept": "Принять",
-    "Download Offer File": "Загрузить предложение",
-    "Copy Offer File": "Копировать предложение"
+    "This offer contains overlapping inputs and can not be added": "Это предложение содержит совпадающие данные и его нельзя добавить"
   },
   "ribbon": {
     "Yours": "Твои"
@@ -294,6 +294,20 @@
     "Offer at most": "Максимальное предложение",
     "Receive at least": "Получить",
     "Receive at most": "Максимум получить"
+  },
+  "autoCombine": {
+    "Combining Best Offer": "",
+    "Auto-Combined": "",
+    "Includes {{fee}}% Fee": "",
+    "Bonus!": "",
+    "{{impact}}% Price Impact": "",
+    "{{count}} Coin-Spends_one": "",
+    "{{count}} Coin-Spends_few": "",
+    "{{count}} Coin-Spends_many": "",
+    "{{count}} Coin-Spends_other": "",
+    "Updating": "",
+    "New Quote in": "",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
   },
   "report": {
     "Report Content": "Жалоба на содержание",
