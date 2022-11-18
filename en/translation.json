@@ -290,7 +290,8 @@
   "autoCombine": {
     "Combining Best Offer": "Combining Best Offer ...",
     "Auto-Combined": "Auto-Combined",
-    "Bonus!": "Bonus!",
+    "Bonus": "Bonus",
+    "High Price Derivation": "High Price Derivation",
     "Best Combined": "Best Combined",
     "{{fee}}% Combination Fee included": "{{fee}}% Combination Fee included",
     "Fees": "Fees",
