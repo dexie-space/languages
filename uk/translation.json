@@ -300,7 +300,7 @@
     "Auto-Combined": "Автокомбінований",
     "Bonus!": "Бонус!",
     "Best Combined": "Найкраще поєднане",
-    "{{fee}}% Combination Fee included": "",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
     "Fees": "Комісії",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Немає пропозицій щодо автоматичного об’єднання, спробуйте більшу суму або виберіть найкращу пропозицію знизу"
   },
