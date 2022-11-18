@@ -296,13 +296,13 @@
     "Receive at most": "Максимум отримати"
   },
   "autoCombine": {
-    "Combining Best Offer": "",
-    "Auto-Combined": "",
-    "Bonus!": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included": "",
-    "Fees": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Best Offer": "Комбінація кращої пропозиції",
+    "Auto-Combined": "Автокомбінований",
+    "Bonus!": "Бонус!",
+    "Best Combined": "Найкраще поєднане",
+    "{{fee}}% Combination Fee included": "{{fee}}% комісії за поєднання включено",
+    "Fees": "Комісії",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Немає пропозицій щодо автоматичного об’єднання, спробуйте більшу суму або виберіть найкращу пропозицію знизу"
   },
   "report": {
     "Report Content": "Скарга на контент",
