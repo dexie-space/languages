@@ -296,14 +296,13 @@
     "Receive at most": "Максимум отримати"
   },
   "autoCombine": {
-    "Combining Best Offer": "",
-    "Auto-Combined": "",
-    "Bonus!": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fees": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
-  },
+    "Combining Best Offer": "Комбінація кращої пропозиції",
+    "Auto-Combined": "Автокомбінований",
+    "Bonus!": "Бонус!",
+    "Best Combined": "Найкраще поєднане",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% комісії за комбінацію включено ({{spends}} Coin-Spends)",
+   "Fees": "Комісії",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Немає пропозицій щодо автоматичного об’єднання, спробуйте більшу суму або виберіть найкращу пропозицію знизу"
   "report": {
     "Report Content": "Скарга на контент",
     "Use this form to report NFTs or Tokens for rule violations": "Використовуйте цю форму, щоб повідомити про НФТ або токени про порушення правил",
