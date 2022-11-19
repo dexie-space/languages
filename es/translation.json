@@ -290,10 +290,12 @@
     "Receive at most": "Recibir al máximo"
   },
   "autoCombine": {
+    "Combining Selected Offers": "",
     "Combining Best Offer": "",
+    "Combined Offer": "",
     "Auto-Combined": "",
     "Bonus": "",
-    "High Price Derivation": "",
+    "High Slippage": "",
     "Best Combined": "",
     "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
     "Fees": "",

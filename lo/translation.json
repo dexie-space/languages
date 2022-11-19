@@ -282,10 +282,12 @@
     "Receive at most": "ຕອບສະຫນອງຫຼາຍ"
   },
   "autoCombine": {
+    "Combining Selected Offers": "",
     "Combining Best Offer": "",
+    "Combined Offer": "",
     "Auto-Combined": "",
     "Bonus": "",
-    "High Price Derivation": "",
+    "High Slippage": "",
     "Best Combined": "",
     "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
     "Fees": "",
