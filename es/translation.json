@@ -298,8 +298,8 @@
     "High Slippage": "Alta variación",
     "Best Combined": "Mejor combinada",
     "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Tarifa de combinación incluida ({{spends}} Coin-Spends)",
-    "Fees": "Tarifa",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hay ofertas para combinar automáticamente, pruebe una cantidad mayor o elija la mejor oferta de abajo"
+    "Fee": "Tarifa",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hay ofertas para combinar automáticamente, pruebe una cantidad mayor o elija la mejor oferta de abajo."
   },
   "report": {
     "Report Content": "Reportar Contenido",
