@@ -141,9 +141,6 @@
     "Accept": "받기",
     "Download Offer File": "오퍼 파일 다운로드",
     "Copy Offer File": "오퍼 파일 복사",
-    "Last": "",
-    "Best Price": "최저가",
-    "New": "신규",
     "No Offers Found": "제안을 찾을 수 없습니다",
     "Combine Offers": "",
     "Collapse NFTs": "",
@@ -151,9 +148,10 @@
     "You Pay": "",
     "You Receive": "수락하기",
     "Price": "가격",
-    "Combined": "",
-    "Cancel": "",
-    "This offer contains overlapping inputs and can not be added": ""
+    "This offer contains overlapping inputs and can not be added": "",
+    "Last": "",
+    "Best Price": "최저가",
+    "New": "신규"
   },
   "ribbon": {
     "Yours": ""

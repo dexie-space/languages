@@ -147,9 +147,6 @@
     "Accept": "Прыняць",
     "Download Offer File": "Спампаваць прапанову",
     "Copy Offer File": "Капіяваць прапанову",
-    "Last": "Апошні",
-    "Best Price": "Лепшая цана",
-    "New": "Новы",
     "No Offers Found": "Прапанова не знойдзена",
     "Combine Offers": "Камбінаваная прапанова",
     "Collapse NFTs": "Згарнуць NFT",
@@ -157,9 +154,10 @@
     "You Pay": "",
     "You Receive": "Атрымаць",
     "Price": "Кошт",
-    "Combined": "Камбінаваны",
-    "Cancel": "Адмена",
-    "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена"
+    "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена",
+    "Last": "Апошні",
+    "Best Price": "Лепшая цана",
+    "New": "Новы"
   },
   "ribbon": {
     "Yours": "Твой"

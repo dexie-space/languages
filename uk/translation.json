@@ -147,9 +147,6 @@
     "Accept": "Прийняти",
     "Download Offer File": "Завантажити пропозицію",
     "Copy Offer File": "Копіювати пропозицію",
-    "Last": "Остання",
-    "Best Price": "Найкраща ціна",
-    "New": "Нова",
     "No Offers Found": "Пропозицію не знайдено",
     "Combine Offers": "Комбінована пропозиція",
     "Collapse NFTs": "Згорнути НФТ",
@@ -157,9 +154,10 @@
     "You Pay": "",
     "You Receive": "Отримати",
     "Price": "Ціна",
-    "Combined": "Комбінована",
-    "Cancel": "Скасувати",
-    "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати"
+    "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
+    "Last": "Остання",
+    "Best Price": "Найкраща ціна",
+    "New": "Нова"
   },
   "ribbon": {
     "Yours": "Твої"

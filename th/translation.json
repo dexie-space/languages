@@ -141,9 +141,6 @@
     "Accept": "ตอบรับ",
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",
     "Copy Offer File": "ทำสำเนาไฟล์ข้อเสนอ",
-    "Last": "",
-    "Best Price": "ราคาที่ดีที่สุด",
-    "New": "ใหม่",
     "No Offers Found": "ไม่พบข้อเสนอ",
     "Combine Offers": "รวมข้อเสนอ",
     "Collapse NFTs": "",
@@ -151,9 +148,10 @@
     "You Pay": "",
     "You Receive": "คุณได้รับ",
     "Price": "ราคา",
-    "Combined": "รวบรวมแล้ว",
-    "Cancel": "ยกเลิก",
-    "This offer contains overlapping inputs and can not be added": ""
+    "This offer contains overlapping inputs and can not be added": "",
+    "Last": "",
+    "Best Price": "ราคาที่ดีที่สุด",
+    "New": "ใหม่"
   },
   "ribbon": {
     "Yours": ""

@@ -142,9 +142,6 @@
     "Accept": "Menerima",
     "Download Offer File": "Unduh file penawaran",
     "Copy Offer File": "Salin file penawaran",
-    "Last": "Terakhir",
-    "Best Price": "Harga terbaik",
-    "New": "Baru",
     "No Offers Found": "Tidak ada penawaran yang ditemukan",
     "Combine Offers": "Menggabungkan penawaran",
     "Collapse NFTs": "",
@@ -152,9 +149,10 @@
     "You Pay": "",
     "You Receive": "Anda menerima",
     "Price": "Harga",
-    "Combined": "Digabungkan",
-    "Cancel": "Batalkan",
-    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan."
+    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
+    "Last": "Terakhir",
+    "Best Price": "Harga terbaik",
+    "New": "Baru"
   },
   "ribbon": {
     "Yours": "Milikmu"

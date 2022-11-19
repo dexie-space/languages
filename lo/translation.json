@@ -141,9 +141,6 @@
     "Accept": "ຄໍາຕອບ",
     "Download Offer File": "ດາວໂຫຼດໄຟລ໌ຂໍ້ສະເໜີ",
     "Copy Offer File": "ເຮັດສໍາເນົາເອກະສານສະເຫນີ",
-    "Last": "ຫຼ້າສຸດ",
-    "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
-    "New": "ໃຫມ່",
     "No Offers Found": "ບໍ່ພົບຂໍ້ສະເໜີ",
     "Combine Offers": "ສົມທົບການສະເຫນີ",
     "Collapse NFTs": "ຍຸບ NFTs",
@@ -151,9 +148,10 @@
     "You Pay": "",
     "You Receive": "ທ່ານໄດ້ຮັບ",
     "Price": "ລາຄາ",
-    "Combined": "ເກັບກໍາ",
-    "Cancel": "ຍົກເລີກ",
-    "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້"
+    "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
+    "Last": "ຫຼ້າສຸດ",
+    "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
+    "New": "ໃຫມ່"
   },
   "ribbon": {
     "Yours": "ຂອງເຈົ້າ"

@@ -143,9 +143,6 @@
     "Accept": "Acceptar",
     "Download Offer File": "Baixa el fitxer d'oferta",
     "Copy Offer File": "Copia el fitxer d'oferta",
-    "Last": "Últim",
-    "Best Price": "El millor preu",
-    "New": "Nou",
     "No Offers Found": "No s'han trobat ofertes",
     "Combine Offers": "Combina ofertes",
     "Collapse NFTs": "Col·lapse NFTs",
@@ -153,9 +150,10 @@
     "You Pay": "",
     "You Receive": "Vostè rep",
     "Price": "Preu",
-    "Combined": "Combinat",
-    "Cancel": "Cancel·lar",
-    "This offer contains overlapping inputs and can not be added": "Aquesta oferta conté entrades superposades i no es pot afegir"
+    "This offer contains overlapping inputs and can not be added": "Aquesta oferta conté entrades superposades i no es pot afegir",
+    "Last": "Últim",
+    "Best Price": "El millor preu",
+    "New": "Nou"
   },
   "ribbon": {
     "Yours": "El teu"

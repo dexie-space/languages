@@ -147,9 +147,6 @@
     "Accept": "Akceptuj",
     "Download Offer File": "Pobierz plik oferty",
     "Copy Offer File": "Skopiuj ofertę",
-    "Last": "Poprzednia cena",
-    "Best Price": "Najlepsza cena",
-    "New": "Nowa",
     "No Offers Found": "Brak ofert",
     "Combine Offers": "Połącz oferty",
     "Collapse NFTs": "Pomniejsz NFT",
@@ -157,9 +154,10 @@
     "You Pay": "",
     "You Receive": "Otrzymujesz",
     "Price": "Cena",
-    "Combined": "Zsumowane",
-    "Cancel": "Anuluj",
-    "This offer contains overlapping inputs and can not be added": "Ta oferta zawiera nakładające się środki i nie może zostać dodana."
+    "This offer contains overlapping inputs and can not be added": "Ta oferta zawiera nakładające się środki i nie może zostać dodana.",
+    "Last": "Poprzednia cena",
+    "Best Price": "Najlepsza cena",
+    "New": "Nowa"
   },
   "ribbon": {
     "Yours": "Twoja"
