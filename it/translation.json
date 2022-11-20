@@ -290,8 +290,7 @@
     "Receive at most": "Ricevi al massimo"
   },
   "autoCombine": {
-    "Combining Selected Offers": "Fusione offerte selezionate",
-    "Combining Best Offer": "Fusione migliore offerta ",
+    "Combining Offers": "",
     "Combined Offer": "Offerta fusa",
     "Auto-Combined": "Fusione automatica",
     "Bonus": "Regalo",

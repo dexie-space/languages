@@ -282,8 +282,7 @@
     "Receive at most": "最多请求"
   },
   "autoCombine": {
-    "Combining Selected Offers": "合并选定的优惠",
-    "Combining Best Offer": "结合最佳报价",
+    "Combining Offers": "",
     "Combined Offer": "合并报价",
     "Auto-Combined": "自动组合",
     "Bonus": "奖金",
