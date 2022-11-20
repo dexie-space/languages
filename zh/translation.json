@@ -89,7 +89,7 @@
   },
   "footer": {
     "Public API": "公共 API",
-    "Combined Offers": "",
+    "Combined Offers": "合并优惠",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",
     "synced": "已同步",
@@ -134,7 +134,7 @@
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "引入<a class='font-bold' href='/combined'>自动组合优惠</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们，了解接下来会发生什么！",
     "Add Offer": "添加Offer"
   },
   "offersTable": {
@@ -145,7 +145,7 @@
     "Combine Offers": "Combine Offers",
     "Collapse NFTs": "折叠NFT",
     "Expand NFTs": "扩展NFT",
-    "You Pay": "",
+    "You Pay": "你付钱",
     "You Receive": "请求",
     "Price": "价格",
     "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
@@ -282,16 +282,16 @@
     "Receive at most": "最多请求"
   },
   "autoCombine": {
-    "Combining Selected Offers": "",
-    "Combining Best Offer": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Selected Offers": "合并选定的优惠",
+    "Combining Best Offer": "结合最佳报价",
+    "Combined Offer": "合并报价",
+    "Auto-Combined": "自动组合",
+    "Bonus": "奖金",
+    "High Slippage": "高滑点",
+    "Best Combined": "最佳组合",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "包含 {{fee}}% 组合费用（{{spends}} 硬币花费）",
+    "Fee": "费用",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "没有要自动合并的报价，尝试更大的数量或从下面选择最好的报价"
   },
   "report": {
     "Report Content": "举报内容",
