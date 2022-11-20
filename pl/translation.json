@@ -300,8 +300,8 @@
     "Bonus": "Gratis",
     "High Slippage": "Wysoki poślizg cenowy",
     "Best Combined": "Najlepsza łączona cena",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Wliczona opłata za łączenie {{fee}}% ({{spends}} wydanych monet [Coin-Spends])",
-    "Fee": "Opłata",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Wliczona opłata za łączenie {{fee}}% ({{spends}} wydanych monet)",
+    "Fee": "opłata",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Brak ofert do połączenia, wpisz większą kwotę lub ręcznie wybierz ofertę poniżej."
   },
   "report": {
