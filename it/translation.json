@@ -91,7 +91,7 @@
   },
   "footer": {
     "Public API": "Public API",
-    "Combined Offers": "",
+    "Combined Offers": "Offerta Fusa",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
     "synced": "Sincronizzato",
@@ -149,7 +149,7 @@
     "Combine Offers": "Unisci offerte",
     "Collapse NFTs": "Comprimi NFT",
     "Expand NFTs": "Espandi NFT",
-    "You Pay": "",
+    "You Pay": "Pagherai",
     "You Receive": "Riceverai",
     "Price": "Prezzo",
     "This offer contains overlapping inputs and can not be added": "Questa offerta contiene input sovrapposti e non può essere aggiunta.",
@@ -290,16 +290,16 @@
     "Receive at most": "Ricevi al massimo"
   },
   "autoCombine": {
-    "Combining Selected Offers": "",
-    "Combining Best Offer": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Selected Offers": "Fusione offerte selezionate",
+    "Combining Best Offer": "Fusione migliore offerta ",
+    "Combined Offer": "Offerta fusa",
+    "Auto-Combined": "Fusione automatica",
+    "Bonus": "Regalo",
+    "High Slippage": "Slittamento Elevato",
+    "Best Combined": "Fusione Migliore",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Commissione di combinazione al {{fee}}% inclusa. ({{spends}} Monete Spese)",
+    "Fee": "Commissione",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Nessuna offerta da fondere, prova un importo più alto oppure scegli la migliore offerta qui sotto"
   },
   "report": {
     "Report Content": "Fai delle segnalazioni",
