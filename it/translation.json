@@ -91,7 +91,7 @@
   },
   "footer": {
     "Public API": "Public API",
-    "Combined Offers": "Offerta Fusa",
+    "Combined Offers": "Auto-Fusione Offerte",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
     "synced": "Sincronizzato",
@@ -138,7 +138,7 @@
     "Trade": "Compravendite",
     "Recent Trades": "Vendite Recenti",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Ti presentiamo le <a class='font-bold' href='/combined'>offerte fuse automaticamente</a>! Seguici su <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per scoprire cosa succederà dopo!",
     "Add Offer": "Aggiungi Offerta"
   },
   "offersTable": {
@@ -290,7 +290,7 @@
     "Receive at most": "Ricevi al massimo"
   },
   "autoCombine": {
-    "Combining Offers": "",
+    "Combining Offers": "Fusione offerte in corso",
     "Combined Offer": "Offerta fusa",
     "Auto-Combined": "Fusione automatica",
     "Bonus": "Regalo",
