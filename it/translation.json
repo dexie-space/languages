@@ -91,7 +91,7 @@
   },
   "footer": {
     "Public API": "Public API",
-    "Combined Offers": "Offerta Fusa",
+    "Combined Offers": "Auto-Fusione Offerte",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
     "synced": "Sincronizzato",
