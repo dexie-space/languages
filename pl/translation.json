@@ -92,7 +92,7 @@
   },
   "footer": {
     "Public API": "Publiczne API",
-    "Combined Offers": "",
+    "Combined Offers": "Oferty łączone",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Bloki są zapełnione, zalecana opłata transakcyjna: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "zsynchronizowano",
@@ -140,7 +140,7 @@
     "Trade": "Handluj",
     "Recent Trades": "Ostatnie transakcje",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Wprowadzamy <a class='font-bold' href='/combined'>oferty łączone automatycznie</a>! Obserwuj nas na Twitterze <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, aby być na bieżąco z wprowadzanymi nowymi funkcjami!",
     "Add Offer": "Dodaj ofertę"
   },
   "offersTable": {
@@ -151,7 +151,7 @@
     "Combine Offers": "Połącz oferty",
     "Collapse NFTs": "Pomniejsz NFT",
     "Expand NFTs": "Powiększ NFT",
-    "You Pay": "",
+    "You Pay": "Płacisz",
     "You Receive": "Otrzymujesz",
     "Price": "Cena",
     "This offer contains overlapping inputs and can not be added": "Ta oferta zawiera nakładające się środki i nie może zostać dodana.",
@@ -294,15 +294,15 @@
     "Receive at most": "Otrzymaj co najwyżej"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Łączenie ofert",
+    "Combined Offer": "Oferta łączona",
+    "Auto-Combined": "Oferta łączona automatycznie",
+    "Bonus": "Gratis",
+    "High Slippage": "Wysoki poślizg cenowy",
+    "Best Combined": "Najlepsza łączona cena",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Wliczona opłata za łączenie {{fee}}% ({{spends}} wydanych monet [Coin-Spends])",
+    "Fee": "Opłata",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Brak ofert do połączenia, wpisz większą kwotę lub ręcznie wybierz ofertę poniżej."
   },
   "report": {
     "Report Content": "Zgłoś treść",
