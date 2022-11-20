@@ -90,7 +90,7 @@
   },
   "footer": {
     "Public API": "API Pública",
-    "Combined Offers": "",
+    "Combined Offers": "Ofertas combinadas",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Os bloques están totalmente utilizados, recomendado taxa de transacción: {{fee}} {{xch}}",
     "Status": "Estado",
     "synced": "sincronizado",
@@ -136,7 +136,7 @@
     "Trade": "Comercio",
     "Recent Trades": "Comercios recentes",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Presentamos as <a class='font-bold' href='/combined'>Ofertas combinadas automaticamente</a>. Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para descubrir o que vén!",
     "Add Offer": "Engadir oferta"
   },
   "offersTable": {
@@ -147,8 +147,8 @@
     "Combine Offers": "Combinar ofertas",
     "Collapse NFTs": "Contraer NFTs",
     "Expand NFTs": "Ampliar NFTs",
-    "You Pay": "",
-    "You Receive": "Ti recibes",
+    "You Pay": "Vostede paga",
+    "You Receive": "Vostede Recibe",
     "Price": "Prezo",
     "This offer contains overlapping inputs and can not be added": "Esta oferta contén entradas superpostas e non se pode engadir.",
     "Last": "Última",
@@ -286,15 +286,15 @@
     "Receive at most": "Recibir polo máximo"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Combinando ofertas",
+    "Combined Offer": "Oferta combinada",
+    "Auto-Combined": "Combinación automática",
+    "Bonus": "Bono",
+    "High Slippage": "Alta variación",
+    "Best Combined": "Mellor Combinado",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% de comisión combinada incluída ({{spends}} moedas-gastos)",
+    "Fee": "Taxa",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Non hai ofertas para combinar automaticamente, probar unha cantidade maior ou escoller a mellor oferta a continuación"
   },
   "report": {
     "Report Content": "Informar contido",
