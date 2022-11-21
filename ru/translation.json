@@ -300,7 +300,7 @@
     "Bonus": "Бонус",
     "High Slippage": "Высокое проскальзывание",
     "Best Combined": "Лучшее комбинированое",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": " Комиссия {{fee}}% за комбинацию включена ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Комиссия {{fee}}% за комбинацию включена ({{spends}} Coin-Spends)",
     "Fee": "Комиссия",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Нет предложений по автообъединению, попробуйте большую сумму или выберите лучшее предложение снизу"
   },
