@@ -294,15 +294,15 @@
     "Receive at most": "Максимум отримати"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Комбіновані пропозиції",
+    "Combined Offer": "Комбінована пропозиція",
+    "Auto-Combined": "Автокомбіновані",
+    "Bonus": "Бонус",
+    "High Slippage": "Високе ковзання",
+    "Best Combined": "Найкраще поєднане",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Комісія в розмірі {{fee}}% включена ({{spends}} Coin-Spends)",
+    "Fee": "Комісія",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Немає пропозицій для автоматичного об’єднання, спробуйте більшу суму або виберіть найкращу пропозицію знизу"
   },
   "report": {
     "Report Content": "Скарга на контент",
