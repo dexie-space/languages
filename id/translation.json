@@ -283,15 +283,15 @@
     "Receive at most": "Terima paling banyak"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Menggabungkan Penawaran",
+    "Combined Offer": "Penawaran Gabungan",
+    "Auto-Combined": "Gabungan Otomatis",
+    "Bonus": "Bonus",
+    "High Slippage": "Selip Tinggi",
+    "Best Combined": "Gabungan Terbaik",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Biaya Kombinasi sudah termasuk ({{spends}} Koin dikeluarkan)",
+    "Fee": "Biaya",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Tidak ada penawaran untuk digabungkan secara otomatis, coba jumlah yang lebih besar atau pilih penawaran terbaik dari bawah"
   },
   "report": {
     "Report Content": "Laporkan konten",
