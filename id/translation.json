@@ -89,7 +89,7 @@
   },
   "footer": {
     "Public API": "Publik API",
-    "Combined Offers": "",
+    "Combined Offers": "Penawaran Gabungan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
@@ -135,7 +135,7 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Memperkenalkan <a class='font-bold' href='/combined'>Penawaran Gabungan-Otomatis</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mencari tahu apa yang akan terjadi selanjutnya!",
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
@@ -144,9 +144,9 @@
     "Copy Offer File": "Salin file penawaran",
     "No Offers Found": "Tidak ada penawaran yang ditemukan",
     "Combine Offers": "Menggabungkan penawaran",
-    "Collapse NFTs": "",
-    "Expand NFTs": "",
-    "You Pay": "",
+    "Collapse NFTs": "Ciutkan NFT",
+    "Expand NFTs": "Perluas NFT",
+    "You Pay": "Anda Membayar",
     "You Receive": "Anda menerima",
     "Price": "Harga",
     "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
@@ -283,15 +283,15 @@
     "Receive at most": "Terima paling banyak"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Menggabungkan Penawaran",
+    "Combined Offer": "Penawaran Gabungan",
+    "Auto-Combined": "Gabungan Otomatis",
+    "Bonus": "Bonus",
+    "High Slippage": "Selip Tinggi",
+    "Best Combined": "Gabungan Terbaik",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Biaya Kombinasi sudah termasuk ({{spends}} Koin dikeluarkan)",
+    "Fee": "Biaya",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Tidak ada penawaran untuk digabungkan secara otomatis, coba jumlah yang lebih besar atau pilih penawaran terbaik dari bawah"
   },
   "report": {
     "Report Content": "Laporkan konten",
