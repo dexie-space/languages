@@ -89,7 +89,7 @@
   },
   "footer": {
     "Public API": "API ສາທາລະນະ",
-    "Combined Offers": "",
+    "Combined Offers": "ຂໍ້ສະເໜີລວມ",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "ບລັອກຖືກນຳໃຊ້ຢ່າງເຕັມທີ່, ຄ່າທຳນຽມທຸລະກຳທີ່ແນະນຳ {{fee}} {{xch}}",
     "Status": "ສະຖານະ",
     "synced": "ເຊື່ອມຕໍ່",
@@ -134,7 +134,7 @@
     "Trade": "ການຄ້າ",
     "Recent Trades": "ການຄ້າຄັ້ງສຸດທ້າຍ",
     "FAQ": "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "ຂໍແນະນຳ <a class='font-bold' href='/combined'>ຂໍ້ສະເໜີລວມອັດຕະໂນມັດ</a>! ຕິດຕາມພວກເຮົາໄດ້ທີ່ <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ເພື່ອຊອກຫາສິ່ງທີ່ຈະມາຕໍ່ໄປ!",
     "Add Offer": "ເພີ່ມຂໍ້ສະເໜີ"
   },
   "offersTable": {
@@ -145,7 +145,7 @@
     "Combine Offers": "ສົມທົບການສະເຫນີ",
     "Collapse NFTs": "ຍຸບ NFTs",
     "Expand NFTs": "ຂະຫຍາຍ NFTs",
-    "You Pay": "",
+    "You Pay": "ເຈົ້າຈ່າຍ",
     "You Receive": "ທ່ານໄດ້ຮັບ",
     "Price": "ລາຄາ",
     "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
@@ -282,15 +282,15 @@
     "Receive at most": "ຕອບສະຫນອງຫຼາຍ"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "ການລວມຂໍ້ສະເຫນີ",
+    "Combined Offer": "ຂໍ້ສະເໜີລວມ",
+    "Auto-Combined": "ອັດຕະໂນມັດປະສົມ",
+    "Bonus": "ໂບນັດ",
+    "High Slippage": "ເລື່ອນສູງ",
+    "Best Combined": "ປະສົມປະສານທີ່ດີທີ່ສຸດ",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "ຮວມ {{fee}}% ຄ່າທຳນຽມລວມ ({{spends}} Coin-Spends)",
+    "Fee": "ຄ່າທຳນຽມ",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "ບໍ່ມີຂໍ້ສະເຫນີທີ່ຈະປະສົມປະສານອັດຕະໂນມັດ, ລອງຈໍານວນທີ່ໃຫຍ່ກວ່າຫຼືເລືອກການສະເຫນີທີ່ດີທີ່ສຸດຈາກຂ້າງລຸ່ມນີ້"
   },
   "report": {
     "Report Content": "ລາຍງານເນື້ອຫາ",
