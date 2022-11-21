@@ -89,7 +89,7 @@
   },
   "footer": {
     "Public API": "Publik API",
-    "Combined Offers": "",
+    "Combined Offers": "Penawaran Gabungan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
@@ -135,7 +135,7 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Memperkenalkan <a class='font-bold' href='/combined'>Penawaran Gabungan-Otomatis</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mencari tahu apa yang akan terjadi selanjutnya!",
     "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
