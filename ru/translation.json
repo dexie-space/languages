@@ -294,15 +294,15 @@
     "Receive at most": "Максимум получить"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Объединение предложений",
+    "Combined Offer": "Комбинированное предложение",
+    "Auto-Combined": "Авто-комбинированое",
+    "Bonus": "Бонус",
+    "High Slippage": "Высокое проскальзывание",
+    "Best Combined": "Лучшее комбинированое",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": " Комиссия {{fee}}% за комбинацию включена ({{spends}} Coin-Spends)",
+    "Fee": "Комиссия",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Нет предложений по автообъединению, попробуйте большую сумму или выберите лучшее предложение снизу"
   },
   "report": {
     "Report Content": "Жалоба на содержание",
