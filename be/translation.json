@@ -92,7 +92,7 @@
   },
   "footer": {
     "Public API": "Грамадскі API",
-    "Combined Offers": "",
+    "Combined Offers": "Камбінаваныя прапановы",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блокі поўнасцю выкарыстаны, рэкамендаваная плата за транзакцыю: {{fee}} {{xch}}",
     "Status": "Стан",
     "synced": "сінхранізаваны",
@@ -140,7 +140,7 @@
     "Trade": "Гандаль",
     "Recent Trades": "Апошнія здзелкі",
     "FAQ": "Часта задаюць пытанні",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "Прадстаўляем <a class='font-bold' href='/combined'>аўтаматычна аб'яднаныя прапановы</a>! Сачыце за намі на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, каб даведацца, што будзе далей!",
     "Add Offer": "Дадаць прапанову"
   },
   "offersTable": {
@@ -151,8 +151,8 @@
     "Combine Offers": "Камбінаваная прапанова",
     "Collapse NFTs": "Згарнуць NFT",
     "Expand NFTs": "Разгарнуць NFT",
-    "You Pay": "",
-    "You Receive": "Атрымаць",
+    "You Pay": "Вы плаціце",
+    "You Receive": "Вы атрымліваеце",
     "Price": "Кошт",
     "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена",
     "Last": "Апошні",
@@ -294,15 +294,15 @@
     "Receive at most": "Атрымаць не больш"
   },
   "autoCombine": {
-    "Combining Offers": "",
-    "Combined Offer": "",
-    "Auto-Combined": "",
-    "Bonus": "",
-    "High Slippage": "",
-    "Best Combined": "",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "",
-    "Fee": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Combining Offers": "Спалучэнне прапаноў",
+    "Combined Offer": "Камбінаваная прапанова",
+    "Auto-Combined": "Аўтакамбінаваны",
+    "Bonus": "Бонус!",
+    "High Slippage": "Высокае слізгаценне",
+    "Best Combined": "Лепшы камбінаваны",
+    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Камісія ў памеры {{fee}}% уключана ({{spends}} Coin-Spends)",
+    "Fee": "Камісія",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Ніжэй няма прапаноў для аўтаматычнага аб'яднання, спробы большай сумы або выбару лепшай прапановы"
   },
   "report": {
     "Report Content": "Скарга на змест",
