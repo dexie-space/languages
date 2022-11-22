@@ -1,0 +1,58 @@
+[
+  {
+    "value": "en",
+    "name": "English"
+  },
+  {
+    "value": "zh",
+    "name": "简体中文"
+  },
+  {
+    "value": "es",
+    "name": "español"
+  },
+  {
+    "value": "fr",
+    "name": "français"
+  },
+  {
+    "value": "pt",
+    "name": "português"
+  },
+  {
+    "value": "id",
+    "name": "bahasa Indonesia"
+  },
+  {
+    "value": "xde",
+    "name": "Deutsch"
+  },
+  {
+    "value": "it",
+    "name": "italiano"
+  },
+  {
+    "value": "pl",
+    "name": "polski"
+  },
+  {
+    "value": "uk",
+    "name": "украї́нська мо́ва"
+  },
+  {
+    "value": "be",
+    "name": "беларуская мова"
+  },
+  {
+    "value": "ca",
+    "name": "català"
+  },
+  {
+    "value": "gl",
+    "name": "galego"
+  },
+  {
+    "value": "lo",
+    "name": "ລາວ"
+  }
+]
