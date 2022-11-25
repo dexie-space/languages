@@ -298,11 +298,14 @@
     "Combined Offer": "Oferta łączona",
     "Auto-Combined": "Oferta łączona automatycznie",
     "Bonus": "Gratis",
-    "High Slippage": "Wysoki poślizg cenowy",
-    "Best Combined": "Najlepsza łączona cena",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Wliczona opłata za łączenie {{fee}}% ({{spends}} wydanych monet)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_few": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "opłata",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Brak ofert do połączenia, wpisz większą kwotę lub ręcznie wybierz ofertę poniżej."
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Brak ofert do połączenia, wpisz większą kwotę lub ręcznie wybierz ofertę\u00a0poniżej.",
+    "High Slippage": "Wysoki poślizg cenowy",
+    "Best Combined": "Najlepsza łączona cena"
   },
   "report": {
     "Report Content": "Zgłoś treść",

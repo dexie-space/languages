@@ -294,11 +294,13 @@
     "Combined Offer": "Oferta combinada",
     "Auto-Combined": "Combinada automáticamente",
     "Bonus": "Bono",
-    "High Slippage": "Alta variación",
-    "Best Combined": "Mejor combinada",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Tarifa de combinación incluida ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "Tarifa",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hay ofertas para combinar automáticamente, pruebe una cantidad mayor o elija la mejor oferta de abajo."
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hay ofertas para combinar automáticamente, pruebe una cantidad mayor o elija la mejor oferta de abajo.",
+    "High Slippage": "Alta variación",
+    "Best Combined": "Mejor combinada"
   },
   "report": {
     "Report Content": "Reportar Contenido",

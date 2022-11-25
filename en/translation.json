@@ -290,11 +290,12 @@
     "Combined Offer": "Combined Offer",
     "Auto-Combined": "Auto-Combined",
     "Bonus": "Bonus",
-    "High Slippage": "High Slippage",
-    "Best Combined": "Best Combined",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% Combination Fee included ({{count}} Coin-Spend)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Combination Fee included ({{count}} Coin-Spends)",
     "Fee": "Fee",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No offers to auto-combine, try a larger amount or choose the best offer from below."
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No offers to auto-combine, try a larger amount or choose the best offer from below.",
+    "High Slippage": "High Slippage",
+    "Best Combined": "Best Combined"
   },
   "report": {
     "Report Content": "Report Content",

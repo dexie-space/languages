@@ -298,11 +298,14 @@
     "Combined Offer": "Камбінаваная прапанова",
     "Auto-Combined": "Аўтакамбінаваны",
     "Bonus": "Бонус!",
-    "High Slippage": "Высокае слізгаценне",
-    "Best Combined": "Лепшы камбінаваны",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Камісія ў памеры {{fee}}% уключана ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_few": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "Камісія",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Ніжэй няма прапаноў для аўтаматычнага аб'яднання, спробы большай сумы або выбару лепшай прапановы"
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Ніжэй няма прапаноў для аўтаматычнага аб'яднання, спробы большай сумы або выбару лепшай прапановы",
+    "High Slippage": "Высокае слізгаценне",
+    "Best Combined": "Лепшы камбінаваны"
   },
   "report": {
     "Report Content": "Скарга на змест",

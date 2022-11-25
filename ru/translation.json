@@ -298,11 +298,14 @@
     "Combined Offer": "Комбинированное предложение",
     "Auto-Combined": "Авто-комбинированое",
     "Bonus": "Бонус",
-    "High Slippage": "Высокое проскальзывание",
-    "Best Combined": "Лучшее комбинированое",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Комиссия {{fee}}% за комбинацию включена ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_few": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "Комиссия",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Нет предложений по автообъединению, попробуйте большую сумму или выберите лучшее предложение снизу"
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Нет предложений по автообъединению, попробуйте большую сумму или выберите лучшее предложение снизу",
+    "High Slippage": "Высокое проскальзывание",
+    "Best Combined": "Лучшее комбинированое"
   },
   "report": {
     "Report Content": "Жалоба на содержание",

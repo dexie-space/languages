@@ -294,11 +294,13 @@
     "Combined Offer": "Offerta fusa",
     "Auto-Combined": "Fusione automatica",
     "Bonus": "Regalo",
-    "High Slippage": "Slittamento Elevato",
-    "Best Combined": "Fusione Migliore",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "Commissione di combinazione al {{fee}}% inclusa. ({{spends}} Monete Spese)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "Commissione",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Nessuna offerta da fondere, prova un importo più alto oppure scegli la migliore offerta qui sotto"
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Nessuna offerta da fondere, prova un importo più alto oppure scegli la migliore offerta qui sotto",
+    "High Slippage": "Slittamento Elevato",
+    "Best Combined": "Fusione Migliore"
   },
   "report": {
     "Report Content": "Fai delle segnalazioni",

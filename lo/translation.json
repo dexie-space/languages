@@ -286,11 +286,11 @@
     "Combined Offer": "ຂໍ້ສະເໜີລວມ",
     "Auto-Combined": "ອັດຕະໂນມັດປະສົມ",
     "Bonus": "ໂບນັດ",
-    "High Slippage": "ເລື່ອນສູງ",
-    "Best Combined": "ປະສົມປະສານທີ່ດີທີ່ສຸດ",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "ຮວມ {{fee}}% ຄ່າທຳນຽມລວມ ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "ຄ່າທຳນຽມ",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "ບໍ່ມີຂໍ້ສະເຫນີທີ່ຈະປະສົມປະສານອັດຕະໂນມັດ, ລອງຈໍານວນທີ່ໃຫຍ່ກວ່າຫຼືເລືອກການສະເຫນີທີ່ດີທີ່ສຸດຈາກຂ້າງລຸ່ມນີ້"
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "ບໍ່ມີຂໍ້ສະເຫນີທີ່ຈະປະສົມປະສານອັດຕະໂນມັດ, ລອງຈໍານວນທີ່ໃຫຍ່ກວ່າຫຼືເລືອກການສະເຫນີທີ່ດີທີ່ສຸດຈາກຂ້າງລຸ່ມນີ້",
+    "High Slippage": "ເລື່ອນສູງ",
+    "Best Combined": "ປະສົມປະສານທີ່ດີທີ່ສຸດ"
   },
   "report": {
     "Report Content": "ລາຍງານເນື້ອຫາ",

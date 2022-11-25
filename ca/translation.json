@@ -290,11 +290,12 @@
     "Combined Offer": "Oferta combinada",
     "Auto-Combined": "Autocombinat",
     "Bonus": "Bonificació",
-    "High Slippage": "Alt lliscament",
-    "Best Combined": "Millor combinat",
-    "{{fee}}% Combination Fee included ({{spends}} Coin-Spends)": "{{fee}}% Comissió combinada inclosa ({{spends}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Fee": "Comissió",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hi ha ofertes per combinar automàticament, provar una quantitat més gran o triar la millor oferta a continuació"
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hi ha ofertes per combinar automàticament, provar una quantitat més gran o triar la millor oferta a continuació",
+    "High Slippage": "Alt lliscament",
+    "Best Combined": "Millor combinat"
   },
   "report": {
     "Report Content": "Reportar contingut",
