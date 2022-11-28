@@ -294,7 +294,7 @@
     "Combined Offer": "Oferta Combinada",
     "Auto-Combined": "Combinado automaticamente",
     "Bonus": "Bônus",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% de taxa de combinação incluída ({{count}} gasto com moedas",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% de taxa de combinação incluída ({{count}} gasto com moedas)",
     "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}}% de taxa de combinação incluída ({{count}} gastos com moedas)",
     "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% de taxa de combinação incluída ({{count}} gastos com moedas)",
     "Fee": "Taxa",
