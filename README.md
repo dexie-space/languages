@@ -44,4 +44,4 @@ All translations are automatically updated after merging on [dexie Testnet](http
 Translations will usually go live on Mainnet in the next weekly update.
 
 ## Questions?
-Head over to our [dexie discord](https://discord.gg/3xUrkAxUmd) and join the channel #translators. If you are not familiar with Github, you can also submit translations or suggestions there.
+Head over to our [dexie discord](https://discord.gg/3xUrkAxUmd) and join the channel #translators. If you are not familiar with Github, you can ask for help over there and our Community Manager will try to address all questions you might have, as well as send you detailed instructions on how to get started with Github.
