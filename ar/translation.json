@@ -145,7 +145,7 @@
     "Trade": "تجارة",
     "Recent Trades": "التداولات الحديثة",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space </a> لمعرفة ما هو قادم!",
+    "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> لمعرفة ما هو قادم!",
     "Add Offer": "أضف عرض"
   },
   "offersTable": {
@@ -259,9 +259,9 @@
   },
   "faq": {
     "question1": "ما هو dexie؟",
-    "answer1": "<p class = 'my-5'> dexie هو تبادل نظير إلى نظير لملفات عرض Chia. ملفات العروض لا مركزية تمامًا وغير موثوقة. </ p> <p class = 'my-5'> لا تحتفظ dexie بأي عملات معدنية ، فهي تظل دائمًا في محفظة الشركة المصنعة حتى يتم قبول العرض ، وعند هذه النقطة تصبح الأصول نقلها بشكل آمن بين المُصنِّع والمتلقي خلال معاملة واحدة على blockchain دون أي وسيط. </ p> <p class = 'my-5'> تعرف على المزيد حول ملفات العروض في <a class = 'text-nice underline' الرسمية href = 'https: //chialisp.com/offers' target = '_ blank' rel = 'noreferrer'> وثائق Chia </a>. </p>",
+    "answer1": "<p class='my-5'> dexie هو تبادل نظير إلى نظير لملفات عرض Chia. ملفات العروض لا مركزية تمامًا وغير موثوقة. </p> <p class='my-5'> لا تحتفظ dexie بأي عملات معدنية ، فهي تظل دائمًا في محفظة الشركة المصنعة حتى يتم قبول العرض ، وعند هذه النقطة تصبح الأصول نقلها بشكل آمن بين المُصنِّع والمتلقي خلال معاملة واحدة على blockchain دون أي وسيط. </p> <p class='my-5'> تعرف على المزيد حول ملفات العروض في <a class='text-nice underline' الرسمية href='https://chialisp.com/offers' target='_ blank' rel='noreferrer'> وثائق Chia </a>. </p>",
     "question2": "دعم أم أسئلة؟",
-    "answer2": "<p class = 'my-5'> اتصل بنا على Twitter على <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'> @ dexie_space </a> أو تحقق من <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'> قناة الخلاف </a> ، نحن يسعدنا دائمًا تقديم المساعدة. </ p>"
+    "answer2": "<p class='my-5'> اتصل بنا على Twitter على <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> أو تحقق من <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'> قناة الخلاف </a> ، نحن يسعدنا دائمًا تقديم المساعدة. </p>"
   },
   "markets": {
     "{{market}} subheading": "جميع الأصول المعروفة بسيولة شراء وبيع واحدة من {{market}} على الأقل.",
