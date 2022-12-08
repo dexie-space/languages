@@ -275,53 +275,53 @@
   },
   "notFound": {
     "404 Error": "Virhe 404",
-    "Page not found": "Page not found",
-    "Sorry, we couldn't find the page you're looking for": "Sorry, we couldn't find the page you're looking for.",
-    "Go back home": "Go back home"
+    "Page not found": "Sivua ei löydetty",
+    "Sorry, we couldn't find the page you're looking for": "Valitettavasti emme löytäneet etsimääsi sivua.",
+    "Go back home": "Mene takaisin kotiin"
   },
   "offers": {
-    "Offer at least": "Offer at least",
-    "Offer at most": "Offer at most",
-    "Receive at least": "Receive at least",
-    "Receive at most": "Receive at most"
+    "Offer at least": "Tarjoa ainakin",
+    "Offer at most": "Tarjoa korkeintaan",
+    "Receive at least": "Vastaanota ainakin",
+    "Receive at most": "Vastaanota enintään"
   },
   "autoCombine": {
-    "Combining Offers": "Combining Offers",
-    "Combined Offer": "Combined Offer",
-    "Auto-Combined": "Auto-Combined",
+    "Combining Offers": "Tarjousten yhdistäminen",
+    "Combined Offer": "Yhdistetty tarjous",
+    "Auto-Combined": "Auto-yhdistetty",
     "Bonus": "Bonus",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% Combination Fee included ({{count}} Coin-Spend)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Combination Fee included ({{count}} Coin-Spends)",
-    "Fee": "Fee",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No offers to auto-combine, try a larger amount or choose the best offer from below.",
-    "High Slippage": "High Slippage",
-    "Best Combined": "Best Combined"
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "Sisältää {{fee}} % yhdistelmämaksun ({{count}} Coin-Spend)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "Sisältää {{fee}} % yhdistelmämaksun ({{count}} Coin-Spends)",
+    "Fee": "Maksu",
+    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Ei tarjouksia automaattiseen yhdistämiseen, kokeile suurempaa summaa tai valitse paras tarjous alta.",
+    "High Slippage": "Korkea lipsahdus",
+    "Best Combined": "Paras yhdistetty"
   },
   "report": {
-    "Report Content": "Report Content",
-    "Use this form to report NFTs or Tokens for rule violations": "Use this form to report NFTs or Tokens for rule violations.",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Every report becomes a public pull request in the <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Community Blocklist</a> repository, where it will be reviewed by a maintainer.",
+    "Report Content": "Ilmoita sisällöstä",
+    "Use this form to report NFTs or Tokens for rule violations": "Käytä tätä lomaketta ilmoittaaksesi NFT:istä tai Tokeneista sääntörikkomuksista.",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "EJokaisesta raportista tulee julkinen vetopyyntö <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>yhteisön estoluettelossa<. /a> arkisto, jossa ylläpitäjä tarkistaa sen.",
     "NFT": "NFT",
-    "CAT reporting is not available right now": "CAT reporting is not available right now",
+    "CAT reporting is not available right now": "CAT-raportointi ei ole tällä hetkellä saatavilla",
     "Token (CAT)": "Token (CAT)",
-    "Impersonation": "Impersonation",
-    "Spam": "Spam",
-    "Illegal Content": "Illegal Content",
-    "Other": "Other",
-    "Enter additional notes (notes are public)": "Enter additional notes (notes are public)",
-    "Thank you, a new report has been generated": "Thank you, a new report has been generated",
-    "Report {{id}}": "Report {{id}}",
-    "Generating Report": "Generating Report ...",
-    "Submit Report": "Submit Report"
+    "Impersonation": "Toisena henkilönä esiintyminen",
+    "Spam": "Roskaposti",
+    "Illegal Content": "Laiton sisältö",
+    "Other": "Muut",
+    "Enter additional notes (notes are public)": "Kirjoita lisähuomautuksia (huomautukset ovat julkisia)",
+    "Thank you, a new report has been generated": "Kiitos, uusi raportti on luotu",
+    "Report {{id}}": "Ilmoita {{id}}",
+    "Generating Report": "Raporttia luodaan...",
+    "Submit Report": "Lähetä raportti"
   },
   "trades": {
-    "Recommended Transaction Fee": "Recommended Transaction Fee",
-    "Tx Fee": "Tx Fee",
-    "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
+    "Recommended Transaction Fee": "Suositeltu tapahtumamaksu",
+    "Tx Fee": "Tx maksu",
+    "mempoolExplanation": "Tapahtumat, jotka odottavat sisällyttämistä lohkoon.",
     "mempoolSize": "Mempool",
-    "no filters selected": "no filters selected",
-    "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
-    "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
-    "Low Fee": "Low Fee"
+    "no filters selected": "suodattimia ei ole valittu",
+    "Transaction Fee (higher fee = higher priority)": "Tapahtumamaksu (korkeampi maksu = korkeampi prioriteetti)",
+    "Low Transaction Fee (low priority) {{fee}}": "Pieni tapahtumamaksu (alhainen prioriteetti): {{maksu}}",
+    "Low Fee": "Matala maksu"
   }
 }
