@@ -19,7 +19,7 @@
     "NFT Minter copied": "NFT Minter kopioitu",
     "NFT Minter": "NFT Minter",
     "Created at Height": "Luotu korkeudessa",
-    "Data URIs": "Data URIs",
+    "Data URIs": "Data URI:t",
     "Data Hash": "Data Hash",
     "Metadata URIs": "Metadata URI:t",
     "Metadata Hash": "Metadata Hash",
@@ -197,7 +197,7 @@
     "Week": "Viikko",
     "Month": "Kuukausi",
     "3 Month": "3 kuukautta",
-    "Year": "vuosi",
+    "Year": "Vuosi",
     "Linear": "Lineaarinen",
     "Log": "Loki",
     "activeOffers": "Aktiiviset tarjoukset",
@@ -222,7 +222,7 @@
   },
   "Assets": {
     "Search {{count}} assets_one": "Hae {{count}} omaisuus",
-    "Search {{count}} assets_other": "Search {{count}} omaisuutta",
+    "Search {{count}} assets_other": "Hae {{count}} omaisuutta",
     "Powered by Taildatabase": "Voimanlähteenä Taildatabase",
     "Code": "Koodi",
     "Asset ID": "Omaisuuden tunnus",
@@ -321,7 +321,7 @@
     "mempoolSize": "Mempool",
     "no filters selected": "suodattimia ei ole valittu",
     "Transaction Fee (higher fee = higher priority)": "Tapahtumamaksu (korkeampi maksu = korkeampi prioriteetti)",
-    "Low Transaction Fee (low priority) {{fee}}": "Pieni tapahtumamaksu (alhainen prioriteetti): {{maksu}}",
+    "Low Transaction Fee (low priority) {{fee}}": "Pieni tapahtumamaksu (alhainen prioriteetti): {{fee}}",
     "Low Fee": "Matala maksu"
   }
 }
