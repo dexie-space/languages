@@ -62,5 +62,9 @@
   {
     "value": "fi",
     "name": "suomi"
+  },
+  {
+    "value": "is",
+    "name": "íslenska"
   }
 ]
