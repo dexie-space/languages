@@ -5,7 +5,7 @@
 ## Participate
 To participate, simply fork (clone) this repository, make the changes, and create a pull request. Alternatively, you can also edit the file directly on Github, without having to fork the repository first.
 
-Each language has its own directory, containing a single translation.json, which is a JSON File containing all words of dexie. The left side (green text) contains the pointer and should not be changed, the right side (blue text) is the text displayed to the user, this is the translation that can be edited. Be careful to keep the quotes and variables in curly brackets, e.g. `{{count}}`.
+Each language has its own directory, containing a single translation.json, which is a JSON File containing all words of dexie. The left side (green text) contains the pointer and should not be changed, the right side (blue text) is the text displayed to the user, this is the translation that can be edited. Be careful to keep the quotes and variables in curly brackets, e.g. `{{count}}`, as well as HTML tags, e.g.`<a href='https://twitter.com/dexie_space'></a>`.
 
 Example:
 ```json
