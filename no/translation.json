@@ -221,8 +221,8 @@
     "Offer accepted": "Tilbud akseptert"
   },
   "Assets": {
-    "Search {{count}} assets_one": "Søk i {{count}} ressurs"",
-    "Search {{count}} assets_other": "Søk etter {{count}} ressurser"",
+    "Search {{count}} assets_one": "Søk i {{count}} ressurs",
+    "Search {{count}} assets_other": "Søk etter {{count}} ressurser",
     "Powered by Taildatabase": "Drevet av Taildatabase",
     "Code": "Kode",
     "Asset ID": "Eiendels-ID",
