@@ -92,7 +92,7 @@
   "footer": {
     "Public API": "Offentlig API",
     "Combined Offers": "Kombinerte tilbud",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkeringene er fullt utnyttet, anbefalt transaksjonsgebyr {{fee}} {{xch}}"
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkeringene er fullt utnyttet, anbefalt transaksjonsgebyr {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synkronisert",
     "disconnected": "frakoblet",
@@ -118,7 +118,7 @@
     "Successfully queued {{count}} offers for submission_other": "Sett {{count}} tilbud i kø for innsending.",
     "Select and Upload ZIP file": "Velg og last opp ZIP-fil",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Tilbud fra masseopplasting vises ikke i dine lagt til tilbud.",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "De tilførte tilbudene dine lagres privat i nettleseren din, ta en sikkerhetskopi før du sletter den lokale lagringen."
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "De tilførte tilbudene dine lagres privat i nettleseren din, ta en sikkerhetskopi før du sletter den lokale lagringen.",
     "Backup Your Offers": "Sikkerhetskopier tilbudene dine",
     "Restore Your Offers": "Gjenopprett tilbudene dine",
     "Duplicate offers will be merged": "Dupliserte tilbud vil bli slått sammen.",
@@ -300,7 +300,7 @@
   "report": {
     "Report Content": "Rapporter innhold",
     "Use this form to report NFTs or Tokens for rule violations": "Bruk dette skjemaet til å rapportere NFT-er eller tokens for regelbrudd.",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Hver rapport blir en offentlig pull-forespørsel i <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Blokkeringslisten for fellesskap< /a> repository, hvor det vil bli vurdert av en vedlikeholder."
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Hver rapport blir en offentlig pull-forespørsel i <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Blokkeringslisten for fellesskap< /a> repository, hvor det vil bli vurdert av en vedlikeholder.",
     "NFT": "NFT",
     "CAT reporting is not available right now": "CAT-rapportering er ikke tilgjengelig akkurat nå",
     "Token (CAT)": "Token (CAT)",
