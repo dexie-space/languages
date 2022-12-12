@@ -139,7 +139,7 @@
     "Trade": "Echanger",
     "Recent Trades": "Transactions récentes",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>\u00a0! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient\u00a0!",
+    "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient!",
     "Add Offer": "Ajouter une Offre"
   },
   "offersTable": {
@@ -224,9 +224,9 @@
     "Offer accepted": "Offre acceptée"
   },
   "Assets": {
-    "Search {{count}} assets_one": "Rechercher {{count}}\u00a0actif",
-    "Search {{count}} assets_many": "Rechercher {{count}}\u00a0actifs",
-    "Search {{count}} assets_other": "Rechercher {{count}}\u00a0actifs",
+    "Search {{count}} assets_one": "Rechercher {{count}} actif",
+    "Search {{count}} assets_many": "Rechercher {{count}} actifs",
+    "Search {{count}} assets_other": "Rechercher {{count}} actifs",
     "Powered by Taildatabase": "Propulsé par Taildatabase",
     "Code": "Code",
     "Asset ID": "ID d'actif",
@@ -294,9 +294,9 @@
     "Combined Offer": "Offre combinée",
     "Auto-Combined": "Combiné automatiquement",
     "Bonus": "Prime",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}} % de frais de combinaison inclus ({{count}} Coin-Spends)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}} % de frais de combinaison inclus ({{count}} Coin-Spends)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}} % de frais de combinaison inclus ({{count}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% de frais de combinaison inclus ({{count}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}}% de frais de combinaison inclus ({{count}} Coin-Spends)",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% de frais de combinaison inclus ({{count}} Coin-Spends)",
     "Fee": "Frais",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Aucune offre à combiner automatiquement, essayez une plus grande quantité ou choisissez la meilleure offre ci-dessous",
     "High Slippage": "Haut glissement",
