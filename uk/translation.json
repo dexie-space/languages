@@ -142,7 +142,7 @@
     "Recent Trades": "Останні торги",
     "FAQ": "Поширені запитання",
     "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
-    "Get USDS": "",
+    "Get USDS": "Отримайте USDS",
     "Add Offer": "Додати пропозицію"
   },
   "offersTable": {
@@ -173,9 +173,9 @@
     "dexie link": "dexie посилання",
     "Loading": "Завантаження...",
     "offer not found": "пропозицію не знайдено",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "Вашу пропозицію надіслано, додайте її до ваших пропозицій, щоб створити закладку",
     "Add to Your Offers": "Додати свої пропозиції",
-    "Go to Trade": "",
+    "Go to Trade": "Перейдіть до Торгівлі",
     "Requested": "Отримати",
     "Offered": "Запропоновано",
     "Download Offer": "Завантажити пропозицію",
