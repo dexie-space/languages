@@ -142,7 +142,7 @@
     "Recent Trades": "Последние торги",
     "FAQ": "Часто задаваемые вопросы",
     "bannerMessageCombinedOffers": "Представляем <a class='font-bold' href='/combined'>Автоматически объединяемые предложения</a>! Следите за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы узнать, что будет дальше !",
-    "Get USDS": "",
+    "Get USDS": "Получить USDS",
     "Add Offer": "Добавить предложение"
   },
   "offersTable": {
@@ -173,9 +173,9 @@
     "dexie link": "dexie ссылка",
     "Loading": "Загрузка...",
     "offer not found": "предложение не найдено",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "Ваше предложение было отправлено, добавьте его в Ваши предложения, чтобы добавить в закладки.",
     "Add to Your Offers": "Добавить свои предложения",
-    "Go to Trade": "",
+    "Go to Trade": "Перейти к торговле",
     "Requested": "Получить",
     "Offered": "Предложено",
     "Download Offer": "Загрузить предложение",
