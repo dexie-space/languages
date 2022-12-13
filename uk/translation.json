@@ -142,6 +142,7 @@
     "Recent Trades": "Останні торги",
     "FAQ": "Поширені запитання",
     "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
+    "Get USDS": "",
     "Add Offer": "Додати пропозицію"
   },
   "offersTable": {

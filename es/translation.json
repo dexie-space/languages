@@ -140,6 +140,7 @@
     "Recent Trades": "Operaciones recientes",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "¡Presentamos las <a class='font-bold' href='/combined'>ofertas combinadas automáticamente</a>! ¡Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para enterarte de lo que sigue!",
+    "Get USDS": "",
     "Add Offer": "Agregar oferta"
   },
   "offersTable": {

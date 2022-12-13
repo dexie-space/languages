@@ -138,6 +138,7 @@
     "Recent Trades": "Viimeaikaiset kaupat",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Esittelyssä <a class='font-bold' href='/combined'>automaattisesti yhdistetyt tarjoukset</a>! Seuraa meitä osoitteessa <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, niin saat tietää, mitä on tulossa!",
+    "Get USDS": "",
     "Add Offer": "Lisää tarjous"
   },
   "offersTable": {

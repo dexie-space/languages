@@ -138,6 +138,7 @@
     "Recent Trades": "Nýleg viðskipti",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Við kynnum <a class='font-bold' href='/combined'>Sjálfvirkt samsett tilboð</a>! Fylgdu okkur á <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> til að komast að því hvað er í vændum!",
+    "Get USDS": "",
     "Add Offer": "Bæta við tilboði"
   },
   "offersTable": {

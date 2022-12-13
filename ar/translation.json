@@ -146,6 +146,7 @@
     "Recent Trades": "التداولات الحديثة",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> لمعرفة ما هو قادم!",
+    "Get USDS": "",
     "Add Offer": "أضف عرض"
   },
   "offersTable": {
