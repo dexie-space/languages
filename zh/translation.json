@@ -136,7 +136,7 @@
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
     "bannerMessageCombinedOffers": "引入<a class='font-bold' href='/combined'>自动组合优惠</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们，了解接下来会发生什么！",
-    "Get USDS": "",
+    "Get USDS": "获取 USDS",
     "Add Offer": "添加Offer"
   },
   "offersTable": {
@@ -167,9 +167,9 @@
     "dexie link": "dexie链接",
     "Loading": "加载中...",
     "offer not found": "Offer未找到",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "您的报价已提交，将其添加到您的报价中以将其添加为书签",
     "Add to Your Offers": "添加到您的报价",
-    "Go to Trade": "",
+    "Go to Trade": "前往贸易",
     "Requested": "请求",
     "Offered": "提供",
     "Download Offer": "下载优惠",
