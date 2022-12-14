@@ -138,7 +138,7 @@
     "Recent Trades": "Nýleg viðskipti",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Við kynnum <a class='font-bold' href='/combined'>Sjálfvirkt samsett tilboð</a>! Fylgdu okkur á <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> til að komast að því hvað er í vændum!",
-    "Get USDS": "",
+    "Get USDS": "Fáðu USDS",
     "Add Offer": "Bæta við tilboði"
   },
   "offersTable": {
@@ -169,9 +169,9 @@
     "dexie link": "dexie link",
     "Loading": "Hleður...",
     "offer not found": "Tilboð fannst ekki",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "Tilboðið þitt hefur verið sent inn, bættu því við tilboðin þín til að bókamerkja það",
     "Add to Your Offers": "Bættu við tilboðin þín",
-    "Go to Trade": "",
+    "Go to Trade": "Farðu í Verslun",
     "Requested": "Óskað eftir",
     "Offered": "Boðið upp",
     "Download Offer": "Hlaða niður tilboði",
