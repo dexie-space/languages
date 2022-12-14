@@ -138,7 +138,7 @@
     "Recent Trades": "Oficis recents",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Us presentem les <a class='font-bold' href='/combined'>Ofertes combinades automàticament</a>! Segueix-nos a <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per saber què vindrà!",
-    "Get USDS": "",
+    "Get USDS": "Obteniu USDS",
     "Add Offer": "Afegeix una oferta"
   },
   "offersTable": {
@@ -169,9 +169,9 @@
     "dexie link": "enllaç dexie",
     "Loading": "Carregant...",
     "offer not found": "No s'ha trobat l'oferta",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "La vostra oferta s'ha enviat, afegiu-la a Les vostres ofertes per afegir-la a les adreces d'interès",
     "Add to Your Offers": "Afegeix a les teves ofertes",
-    "Go to Trade": "",
+    "Go to Trade": "Vés a Comerç",
     "Requested": "Demanat",
     "Offered": "Oferit",
     "Download Offer": "Descarrega l'oferta",
