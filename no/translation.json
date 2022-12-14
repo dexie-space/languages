@@ -138,7 +138,7 @@
     "Recent Trades": "Nylige handler",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Vi introduserer <a class='font-bold' href='/combined'>Autokombinerte tilbud</a>! Følg oss på <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> for å finne ut hva som kommer neste gang!",
-    "Get USDS": "",
+    "Get USDS": "Få USDS",
     "Add Offer": "Legg til tilbud"
   },
   "offersTable": {
@@ -169,9 +169,9 @@
     "dexie link": "dexie link",
     "Loading": "Laster ...",
     "offer not found": "Tilbudet ble ikke funnet",
-    "Your Offer has been submitted, add it to Your Offers to bookmark it": "",
+    "Your Offer has been submitted, add it to Your Offers to bookmark it": "Tilbudet ditt er sendt inn, legg det til i tilbudene dine for å bokmerke det",
     "Add to Your Offers": "Legg til tilbudene dine",
-    "Go to Trade": "",
+    "Go to Trade": "Gå til handel",
     "Requested": "Forespurt",
     "Offered": "Tilbys",
     "Download Offer": "Last ned tilbud",
