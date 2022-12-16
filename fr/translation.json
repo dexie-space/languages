@@ -140,7 +140,7 @@
     "Recent Trades": "Transactions récentes",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient!",
-    "Get USDS": "Obtenez des USD",
+    "Get USDS": "Obtenez des USDS",
     "Add Offer": "Ajouter une Offre"
   },
   "offersTable": {
@@ -173,7 +173,7 @@
     "offer not found": "offre non trouvée",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Votre offre a été soumise, ajoutez-la à vos offres pour la mettre en signet",
     "Add to Your Offers": "Ajouter à vos Offres",
-    "Go to Trade": "Aller au Commerce",
+    "Go to Trade": "Aller au Echanger",
     "Requested": "A demandé",
     "Offered": "A offert",
     "Download Offer": "Télécharger l'Offre",
