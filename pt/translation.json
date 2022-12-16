@@ -136,11 +136,11 @@
   "header": {
     "Markets": "Mercados",
     "NFT": "NFT",
-    "Trade": "Operar",
+    "Trade": "Negociação",
     "Recent Trades": "Negociações recentes",
     "FAQ": "FAQ",
     "bannerMessageCombinedOffers": "Apresentando <a class='font-bold' href='/combined'>Ofertas combinadas automaticamente</a>! Siga-nos em <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para saber o que vem a seguir!",
-    "Get USDS": "Obter USD",
+    "Get USDS": "Obter USDS",
     "Add Offer": "Adicionar oferta"
   },
   "offersTable": {
@@ -173,7 +173,7 @@
     "offer not found": "Oferta não encontrada",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Sua oferta foi enviada, adicione-a a Suas ofertas para marcá-la",
     "Add to Your Offers": "Adicionar às suas ofertas",
-    "Go to Trade": "Ir para o comércio",
+    "Go to Trade": "Ir para o Negociação",
     "Requested": "Requerido",
     "Offered": "Ofrecido",
     "Download Offer": "Baixar oferta",
