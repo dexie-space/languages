@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "未命名的NFT",
     "No Preview Available": "预览不可用",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "关闭元数据",
     "Inspect Metadata": "检查元数据",
     "Blocked for violating community rules": "因违反社区规则而被屏蔽",
@@ -175,6 +177,7 @@
     "Download Offer": "下载优惠",
     "Offer file copied": "Offer文件已拷贝",
     "Copy to Clipboard": "复制到剪贴板",
+    "Share Offer": "",
     "Status": "地位",
     "Offer ID (Hash)": "优惠 ID（哈希）",
     "Date Collected": "日期已搜集",

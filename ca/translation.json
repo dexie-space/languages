@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "NFT sense nom",
     "No Preview Available": "No hi ha vista prèvia disponible",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Tancar les metadades",
     "Inspect Metadata": "Inspeccionar les metadades",
     "Blocked for violating community rules": "Bloquejat per infringir les regles de la comunitat",
@@ -177,6 +179,7 @@
     "Download Offer": "Descarrega l'oferta",
     "Offer file copied": "Fitxer d'oferta copiat",
     "Copy to Clipboard": "Copiar al portapapers",
+    "Share Offer": "",
     "Status": "Estat",
     "Offer ID (Hash)": "Identificador de l'oferta (hash)",
     "Date Collected": "Data de recollida",

@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "Unavngitt NFT",
     "No Preview Available": "Ingen forhåndsvisning tilgjengelig",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Lukk metadata",
     "Inspect Metadata": "Inspiser metadata",
     "Blocked for violating community rules": "Blokkert for brudd på fellesskapets regler",
@@ -177,6 +179,7 @@
     "Download Offer": "Last ned tilbud",
     "Offer file copied": "Tilbudsfil kopiert",
     "Copy to Clipboard": "Kopiere til utklippstavle",
+    "Share Offer": "",
     "Status": "Status",
     "Offer ID (Hash)": "Tilbuds-ID (hash)",
     "Date Collected": "Dato samlet inn",

@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "НФТ без назви",
     "No Preview Available": "Попередній перегляд недоступний",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Закрити метадані",
     "Inspect Metadata": "Переглянути метадані",
     "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
@@ -181,6 +183,7 @@
     "Download Offer": "Завантажити пропозицію",
     "Offer file copied": "Файл пропозиції скопійовано",
     "Copy to Clipboard": "Копіювати в буфер",
+    "Share Offer": "",
     "Status": "Статус",
     "Offer ID (Hash)": "ІД пропозиції (хеш)",
     "Date Collected": "Дата створення",

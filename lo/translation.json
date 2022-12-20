@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "NFT ບໍ່ມີຊື່",
     "No Preview Available": "ບໍ່ມີຕົວຢ່າງທີ່ສາມາດໃຊ້ໄດ້",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "ປິດ Metadata",
     "Inspect Metadata": "ກວດເບິ່ງ Metadata",
     "Blocked for violating community rules": "ຖືກບລັອກຍ້ອນລະເມີດກົດລະບຽບຊຸມຊົນ",
@@ -175,6 +177,7 @@
     "Download Offer": "ດາວໂຫຼດຂໍ້ສະເໜີ",
     "Offer file copied": "ໄຟລ໌ຂໍ້ສະເໜີໄດ້ຖືກສຳເນົາແລ້ວ",
     "Copy to Clipboard": "ສຳເນົາໃສ່ຄລິບບອດ",
+    "Share Offer": "",
     "Status": "ສະຖານະ",
     "Offer ID (Hash)": "ID ຂໍ້ສະເໜີ (Hash)",
     "Date Collected": "ວັນທີສະເຫນີ",

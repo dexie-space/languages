@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "Nimetön NFT",
     "No Preview Available": "Esikatselua ei ole saatavilla",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Sulje Metadata",
     "Inspect Metadata": "Tarkista Metadata",
     "Blocked for violating community rules": "Estetty yhteisön sääntöjen rikkomisen vuoksi",
@@ -177,6 +179,7 @@
     "Download Offer": "Lataa tarjous",
     "Offer file copied": "Tarjoustiedosto kopioitu",
     "Copy to Clipboard": "Kopioi leikepöydälle",
+    "Share Offer": "",
     "Status": "Tila",
     "Offer ID (Hash)": "Tarjoustunnus (Hash)",
     "Date Collected": "Keräyspäivämäärä",

@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "NFT без назвы",
     "No Preview Available": "Папярэдні прагляд недаступны",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Зачыніць метаданыя",
     "Inspect Metadata": "Прагляд метададзеных",
     "Blocked for violating community rules": "Забанены за парушэнне правілаў супольнасці",
@@ -181,6 +183,7 @@
     "Download Offer": "Спампаваць прапанову",
     "Offer file copied": "Файл прапановы скапіраваны",
     "Copy to Clipboard": "Капіяваць у буфер абмену",
+    "Share Offer": "",
     "Status": "Стан",
     "Offer ID (Hash)": "Ідэнтыфікатар прапановы (хэш)",
     "Date Collected": "Дата збору",

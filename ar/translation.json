@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "NFT غير مسمى",
     "No Preview Available": "لا تتوفر معاينة",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "إغلاق البيانات الوصفية",
     "Inspect Metadata": "فحص البيانات الوصفيةa",
     "Blocked for violating community rules": "محظور بسبب انتهاك قواعد المجتمع",
@@ -185,6 +187,7 @@
     "Download Offer": "تحميل العرض",
     "Offer file copied": "تم نسخ ملف العرض",
     "Copy to Clipboard": "نسخ إلى الحافظة",
+    "Share Offer": "",
     "Status": "حالة",
     "Offer ID (Hash)": "معرف العرض (تجزئة)",
     "Date Collected": "تاريخ الجمع",

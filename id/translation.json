@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "NFT tanpa nama",
     "No Preview Available": "Pra-tinjau tidak tersedia",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Tutup Metadata",
     "Inspect Metadata": "Periksa Metadata",
     "Blocked for violating community rules": "Diblokir karena melanggar aturan komunitas",
@@ -176,6 +178,7 @@
     "Download Offer": "Unduh Penawaran",
     "Offer file copied": "Penawaran file yang disalin",
     "Copy to Clipboard": "Salin ke papan klip",
+    "Share Offer": "",
     "Status": "Status",
     "Offer ID (Hash)": "ID penawaran (Hash)",
     "Date Collected": "Tanggal dikumpulkan",

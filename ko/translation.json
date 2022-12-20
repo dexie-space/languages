@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "",
     "No Preview Available": "",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "",
     "Inspect Metadata": "",
     "Blocked for violating community rules": "",
@@ -175,6 +177,7 @@
     "Download Offer": "",
     "Offer file copied": "오퍼 파일이 복사되었습니다",
     "Copy to Clipboard": "",
+    "Share Offer": "",
     "Status": "",
     "Offer ID (Hash)": "",
     "Date Collected": "수집일",

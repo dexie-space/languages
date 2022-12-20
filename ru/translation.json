@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "НФТ без названия",
     "No Preview Available": "Предварительный просмотр недоступен",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Закрыть метаданные",
     "Inspect Metadata": "Проверить метаданные",
     "Blocked for violating community rules": "Заблокирован за нарушение правил сообщества",
@@ -181,6 +183,7 @@
     "Download Offer": "Загрузить предложение",
     "Offer file copied": "Файл предложения скопирован",
     "Copy to Clipboard": "Копировать в буфер",
+    "Share Offer": "",
     "Status": "Статус",
     "Offer ID (Hash)": "ИД предложения (хэш)",
     "Date Collected": "Дата создания",

@@ -2,6 +2,8 @@
   "nft": {
     "Unnamed NFT": "Unbenanntes NFT",
     "No Preview Available": "Keine Vorschau verfügbar",
+    "Sensitive Content": "",
+    "Click to always enable": "",
     "Close Metadata": "Metadaten schließen",
     "Inspect Metadata": "Metadaten anzeigen",
     "Blocked for violating community rules": "Blockiert aufgrund eines Regelverstoßes",
@@ -177,6 +179,7 @@
     "Download Offer": "Angebot herunterladen",
     "Offer file copied": "Angebot kopiert",
     "Copy to Clipboard": "Ins Clipboard kopieren",
+    "Share Offer": "",
     "Status": "Status",
     "Offer ID (Hash)": "Angebots-ID (Hash)",
     "Date Collected": "Aufgenommen am",
