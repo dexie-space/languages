@@ -2,8 +2,8 @@
   "nft": {
     "Unnamed NFT": "НФТ без названия",
     "No Preview Available": "Предварительный просмотр недоступен",
-    "Sensitive Content": "",
-    "Click to always enable": "",
+    "Sensitive Content": "Чувствительный контент",
+    "Click to always enable": "Нажмите, чтобы всегда включать",
     "Close Metadata": "Закрыть метаданные",
     "Inspect Metadata": "Проверить метаданные",
     "Blocked for violating community rules": "Заблокирован за нарушение правил сообщества",
@@ -94,7 +94,7 @@
     "Create Offer with Goby": "Создать предложение с помощью Goby"
   },
   "footer": {
-    "Public API": "Общедоступный API",
+    "Public API": "API",
     "Combined Offers": "Комбинированные предложения",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
@@ -142,7 +142,7 @@
     "NFT": "НФТ",
     "Trade": "Торговля",
     "Recent Trades": "Последние торги",
-    "FAQ": "Часто задаваемые вопросы",
+    "FAQ": "ЧАВО",
     "bannerMessageCombinedOffers": "Представляем <a class='font-bold' href='/combined'>Автоматически объединяемые предложения</a>! Следите за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы узнать, что будет дальше !",
     "Get USDS": "Получить USDS",
     "Add Offer": "Добавить предложение"
@@ -183,7 +183,7 @@
     "Download Offer": "Загрузить предложение",
     "Offer file copied": "Файл предложения скопирован",
     "Copy to Clipboard": "Копировать в буфер",
-    "Share Offer": "",
+    "Share Offer": "Поделиться предложением",
     "Status": "Статус",
     "Offer ID (Hash)": "ИД предложения (хэш)",
     "Date Collected": "Дата создания",
