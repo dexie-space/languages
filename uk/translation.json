@@ -2,8 +2,8 @@
   "nft": {
     "Unnamed NFT": "НФТ без назви",
     "No Preview Available": "Попередній перегляд недоступний",
-    "Sensitive Content": "",
-    "Click to always enable": "",
+    "Sensitive Content": "Чутливий вміст",
+    "Click to always enable": "Натисніть, щоб завжди вмикати",
     "Close Metadata": "Закрити метадані",
     "Inspect Metadata": "Переглянути метадані",
     "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
@@ -94,7 +94,7 @@
     "Create Offer with Goby": "Створити пропозицію з допомогою Goby"
   },
   "footer": {
-    "Public API": "Загальнодоступний API",
+    "Public API": "API",
     "Combined Offers": "Комбіновані пропозиції",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",
@@ -142,7 +142,7 @@
     "NFT": "НФТ",
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
-    "FAQ": "Поширені запитання",
+    "FAQ": "ЧаПи",
     "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
     "Get USDS": "Отримайте USDS",
     "Add Offer": "Додати пропозицію"
@@ -183,7 +183,7 @@
     "Download Offer": "Завантажити пропозицію",
     "Offer file copied": "Файл пропозиції скопійовано",
     "Copy to Clipboard": "Копіювати в буфер",
-    "Share Offer": "",
+    "Share Offer": "Поділитися пропозицією",
     "Status": "Статус",
     "Offer ID (Hash)": "ІД пропозиції (хеш)",
     "Date Collected": "Дата створення",
