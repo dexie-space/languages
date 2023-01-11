@@ -88,7 +88,7 @@
     "Actions": "Дії",
     "Hide": "Сховати"
   },
-  "Connect Wallet": "Підключіть гаманець",
+  "Connect Wallet": "Підключи гаманець",
   "createOffer": {
     "Please wait": "Будь ласка, зачекайте",
     "Create Offer with Goby": "Створити пропозицію з допомогою Goby"
@@ -112,7 +112,7 @@
     "Paste Offer": "Вставити пропозицію",
     "Bulk Upload": "Масове завантаження",
     "Backup / Restore": "Резервне копіювання / Відновлення",
-    "Add Offer": "Додати пропозицію",
+    "Add Offer": "Додай пропозицію",
     "subheading": "Виберіть, як додати свою пропозицію. Усі пропозиції автоматично надаються через IPFS",
     "#dragHint": "Перетягніть файл пропозиції сюди або натисніть, щоб вибрати",
     "Raw Offer here": "Сирі дані пропозиції",
@@ -144,7 +144,7 @@
     "Recent Trades": "Останні торги",
     "FAQ": "ЧаПи",
     "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
-    "Get USDS": "Отримайте USDS",
+    "Get USDS": "Отримай USDS",
     "Add Offer": "Додати пропозицію"
   },
   "offersTable": {
