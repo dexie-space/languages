@@ -88,6 +88,29 @@
     "Hide": "Nascondi"
   },
   "Connect Wallet": "Connetti il tuo wallet",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Mercati",
+    "NFT": "NFT",
+    "Trade": "Compravendite",
+    "Recent Trades": "Vendite Recenti",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Ti presentiamo le <a class='font-bold' href='/combined'>offerte fuse automaticamente</a>! Seguici su <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per scoprire cosa succederà dopo!",
+    "Get USDS": "Ottieni USDS",
+    "Add Offer": "Aggiungi Offerta"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Cortesemente attendi...",
     "Create Offer with Goby": "Crea un offerta con Goby"
@@ -134,16 +157,6 @@
     "notice": "Non hai installato alcun portafoglio.",
     "Try Goby": "Prova Goby",
     "gobyInfo": "Goby è un portafoglio opensource tramite browser"
-  },
-  "header": {
-    "Markets": "Mercati",
-    "NFT": "NFT",
-    "Trade": "Compravendite",
-    "Recent Trades": "Vendite Recenti",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Ti presentiamo le <a class='font-bold' href='/combined'>offerte fuse automaticamente</a>! Seguici su <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per scoprire cosa succederà dopo!",
-    "Get USDS": "Ottieni USDS",
-    "Add Offer": "Aggiungi Offerta"
   },
   "offersTable": {
     "Accept": "Accetta",
@@ -247,8 +260,8 @@
   "contributors": {
     "Core Contributor": "Collaboratori principali",
     "Advisor/Strategy": "Consulenti/Strategia",
-    "Data Cruncher": "Data Cruncher",
     "Community Manager": "Community Manager",
+    "Data Cruncher": "Data Cruncher",
     "Translator": "Traduttore",
     "DBX Holders": "Possessori di DBX",
     "The Community": "Community",

@@ -86,6 +86,29 @@
     "Hide": "Sembunyikan"
   },
   "Connect Wallet": "Hubungkan Dompet",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Pasar",
+    "NFT": "NFT",
+    "Trade": "Berdagang",
+    "Recent Trades": "Perdagangan Terbaru",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Memperkenalkan <a class='font-bold' href='/combined'>Penawaran Gabungan-Otomatis</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mencari tahu apa yang akan terjadi selanjutnya!",
+    "Get USDS": "",
+    "Add Offer": "Tambahkan Penawaran"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Mohon tunggu...",
     "Create Offer with Goby": "Buat Penawaran dengan Goby"
@@ -131,16 +154,6 @@
     "notice": "Anda belum menginstal dompet browser apa pun.",
     "Try Goby": "Coba Goby",
     "gobyInfo": "Goby adalah dompet browser sumber terbuka untuk Chia."
-  },
-  "header": {
-    "Markets": "Pasar",
-    "NFT": "NFT",
-    "Trade": "Berdagang",
-    "Recent Trades": "Perdagangan Terbaru",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Memperkenalkan <a class='font-bold' href='/combined'>Penawaran Gabungan-Otomatis</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mencari tahu apa yang akan terjadi selanjutnya!",
-    "Get USDS": "",
-    "Add Offer": "Tambahkan Penawaran"
   },
   "offersTable": {
     "Accept": "Menerima",
@@ -238,8 +251,8 @@
   "contributors": {
     "Core Contributor": "Kontributor Inti",
     "Advisor/Strategy": "Penasihat/Strategi",
-    "Data Cruncher": "Cruncher Data",
     "Community Manager": "Manajer komunitas",
+    "Data Cruncher": "Cruncher Data",
     "Translator": "Penerjemah",
     "DBX Holders": "Pemegang DBX",
     "The Community": "Komunitas",

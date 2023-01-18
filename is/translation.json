@@ -87,6 +87,29 @@
     "Hide": "Fela"
   },
   "Connect Wallet": "Tengdu veski",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Markaðir",
+    "NFT": "NFT",
+    "Trade": "Verslun",
+    "Recent Trades": "Nýleg viðskipti",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Við kynnum <a class='font-bold' href='/combined'>Sjálfvirkt samsett tilboð</a>! Fylgdu okkur á <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> til að komast að því hvað er í vændum!",
+    "Get USDS": "Fáðu USDS",
+    "Add Offer": "Bæta við tilboði"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Vinsamlegast bíðið...",
     "Create Offer with Goby": "Búðu til tilboð með Goby"
@@ -132,16 +155,6 @@
     "notice": "Þú hefur ekki sett upp nein vafraveski.",
     "Try Goby": "Prófaðu Goby",
     "gobyInfo": "Goby er opinn vafraveski fyrir Chia."
-  },
-  "header": {
-    "Markets": "Markaðir",
-    "NFT": "NFT",
-    "Trade": "Verslun",
-    "Recent Trades": "Nýleg viðskipti",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Við kynnum <a class='font-bold' href='/combined'>Sjálfvirkt samsett tilboð</a>! Fylgdu okkur á <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> til að komast að því hvað er í vændum!",
-    "Get USDS": "Fáðu USDS",
-    "Add Offer": "Bæta við tilboði"
   },
   "offersTable": {
     "Accept": "Taka",
@@ -242,8 +255,8 @@
   "contributors": {
     "Core Contributor": "Kjarnaþátttakandi",
     "Advisor/Strategy": "Ráðgjafi/Stefna",
-    "Data Cruncher": "Data Cruncher",
     "Community Manager": "Samfélagsstjóri",
+    "Data Cruncher": "Data Cruncher",
     "Translator": "Þýðandi",
     "DBX Holders": "DBX handhafar",
     "The Community": "Samfélagið",

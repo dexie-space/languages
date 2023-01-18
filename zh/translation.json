@@ -86,6 +86,29 @@
     "Hide": "隐藏"
   },
   "Connect Wallet": "链接钱包",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "市场",
+    "NFT": "NFT",
+    "Trade": "交易",
+    "Recent Trades": "近期交易",
+    "FAQ": "常见问题",
+    "bannerMessageCombinedOffers": "引入<a class='font-bold' href='/combined'>自动组合优惠</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们，了解接下来会发生什么！",
+    "Get USDS": "获取 USDS",
+    "Add Offer": "添加Offer"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "请等待",
     "Create Offer with Goby": "用Goby生成Offer"
@@ -130,16 +153,6 @@
     "notice": "需要Goby浏览器扩展插件",
     "Try Goby": "试用Goby",
     "gobyInfo": "Goby是Chia的开源浏览器钱包。"
-  },
-  "header": {
-    "Markets": "市场",
-    "NFT": "NFT",
-    "Trade": "交易",
-    "Recent Trades": "近期交易",
-    "FAQ": "常见问题",
-    "bannerMessageCombinedOffers": "引入<a class='font-bold' href='/combined'>自动组合优惠</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们，了解接下来会发生什么！",
-    "Get USDS": "获取 USDS",
-    "Add Offer": "添加Offer"
   },
   "offersTable": {
     "Accept": "接受",
@@ -237,8 +250,8 @@
   "contributors": {
     "Core Contributor": "核心贡献者",
     "Advisor/Strategy": "顾问/策略",
-    "Data Cruncher": "数据粉碎机",
     "Community Manager": "社区管理员",
+    "Data Cruncher": "数据粉碎机",
     "Translator": "译者",
     "DBX Holders": "DBX 持有人",
     "The Community": "社区",

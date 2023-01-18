@@ -87,6 +87,29 @@
     "Hide": "Ausblenden"
   },
   "Connect Wallet": "Wallet verbinden",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Märkte",
+    "NFT": "NFT",
+    "Trade": "Handel",
+    "Recent Trades": "Zuletzt gehandelt",
+    "FAQ": "F&A",
+    "bannerMessageCombinedOffers": "",
+    "Get USDS": "",
+    "Add Offer": "Angebot hochladen"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Bitte warten ...",
     "Create Offer with Goby": "Angebot mit Goby erstellen"
@@ -132,16 +155,6 @@
     "notice": "Du hast keine Browser Wallet installiert.",
     "Try Goby": "Goby installieren",
     "gobyInfo": "Goby ist eine Open-Source Browser Wallet für die Chia Blockchain."
-  },
-  "header": {
-    "Markets": "Märkte",
-    "NFT": "NFT",
-    "Trade": "Handel",
-    "Recent Trades": "Zuletzt gehandelt",
-    "FAQ": "F&A",
-    "bannerMessageCombinedOffers": "",
-    "Get USDS": "",
-    "Add Offer": "Angebot hochladen"
   },
   "offersTable": {
     "Accept": "Annehmen",
@@ -242,8 +255,8 @@
   "contributors": {
     "Core Contributor": "Hauptmitwirkender",
     "Advisor/Strategy": "Berater/Strategie",
-    "Data Cruncher": "Data Cruncher",
     "Community Manager": "Community Manager",
+    "Data Cruncher": "Data Cruncher",
     "Translator": "Übersetzer",
     "DBX Holders": "DBX-Inhaber",
     "The Community": "Die Community",

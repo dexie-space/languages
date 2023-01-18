@@ -91,6 +91,29 @@
     "Hide": "يخفي"
   },
   "Connect Wallet": "ربط المحفظة",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "الأسواق",
+    "NFT": "NFT",
+    "Trade": "تجارة",
+    "Recent Trades": "التداولات الحديثة",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> لمعرفة ما هو قادم!",
+    "Get USDS": "احصل على USDS",
+    "Add Offer": "أضف عرض"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "أرجو الإنتظار...",
     "Create Offer with Goby": "أنشئ عرضًا مع Goby"
@@ -140,16 +163,6 @@
     "notice": "لم تقم بتثبيت أي محفظة متصفح.",
     "Try Goby": "جرب Goby",
     "gobyInfo": "Goby هي محفظة متصفح مفتوحة المصدر لـ Chia."
-  },
-  "header": {
-    "Markets": "الأسواق",
-    "NFT": "NFT",
-    "Trade": "تجارة",
-    "Recent Trades": "التداولات الحديثة",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> لمعرفة ما هو قادم!",
-    "Get USDS": "احصل على USDS",
-    "Add Offer": "أضف عرض"
   },
   "offersTable": {
     "Accept": "قبول",
@@ -262,8 +275,8 @@
   "contributors": {
     "Core Contributor": "مساهم أساسي",
     "Advisor/Strategy": "مستشار / إستراتيجية",
-    "Data Cruncher": "Data Cruncher",
     "Community Manager": "مدير المجتمع",
+    "Data Cruncher": "Data Cruncher",
     "Translator": "مترجم",
     "DBX Holders": "حاملي DBX",
     "The Community": "الجماعة",

@@ -89,6 +89,29 @@
     "Hide": "Схаваць"
   },
   "Connect Wallet": "Падключыць кашалёк",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Рынак",
+    "NFT": "NFT",
+    "Trade": "Гандаль",
+    "Recent Trades": "Апошнія здзелкі",
+    "FAQ": "Часта задаюць пытанні",
+    "bannerMessageCombinedOffers": "Прадстаўляем <a class='font-bold' href='/combined'>аўтаматычна аб'яднаныя прапановы</a>! Сачыце за намі на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, каб даведацца, што будзе далей!",
+    "Get USDS": "Атрымаць USDS",
+    "Add Offer": "Дадаць прапанову"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Калі ласка, пачакайце",
     "Create Offer with Goby": "Стварыце прапанову з Goby"
@@ -136,16 +159,6 @@
     "notice": "Патрабуецца пашырэнне браўзера Goby",
     "Try Goby": "Паспрабуйце Goby",
     "gobyInfo": "Goby інфармацыя"
-  },
-  "header": {
-    "Markets": "Рынак",
-    "NFT": "NFT",
-    "Trade": "Гандаль",
-    "Recent Trades": "Апошнія здзелкі",
-    "FAQ": "Часта задаюць пытанні",
-    "bannerMessageCombinedOffers": "Прадстаўляем <a class='font-bold' href='/combined'>аўтаматычна аб'яднаныя прапановы</a>! Сачыце за намі на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, каб даведацца, што будзе далей!",
-    "Get USDS": "Атрымаць USDS",
-    "Add Offer": "Дадаць прапанову"
   },
   "offersTable": {
     "Accept": "Прыняць",
@@ -252,8 +265,8 @@
   "contributors": {
     "Core Contributor": "Асноўны распрацоўшчык",
     "Advisor/Strategy": "Дарадца/стратэгія",
-    "Data Cruncher": "Апрацоўшчык дадзеных",
     "Community Manager": "Менеджэр супольнасці",
+    "Data Cruncher": "Апрацоўшчык дадзеных",
     "Translator": "Перакладчык",
     "DBX Holders": "Трымальнікі DBX",
     "The Community": "Супольнасць",

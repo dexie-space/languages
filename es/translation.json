@@ -88,6 +88,29 @@
     "Hide": "Ocultar"
   },
   "Connect Wallet": "Conectar monedero",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Mercados",
+    "NFT": "NFT",
+    "Trade": "Operar",
+    "Recent Trades": "Operaciones recientes",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "¡Presentamos las <a class='font-bold' href='/combined'>ofertas combinadas automáticamente</a>! ¡Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para enterarte de lo que sigue!",
+    "Get USDS": "Obtenga USDS",
+    "Add Offer": "Agregar oferta"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Por favor, espere...",
     "Create Offer with Goby": "Crear oferta con Goby"
@@ -134,16 +157,6 @@
     "notice": "No tiene instalado ningún monedero en su navegador.",
     "Try Goby": "Pruebe Goby",
     "gobyInfo": "Goby es un monedero de navegador de código abierto para Chia."
-  },
-  "header": {
-    "Markets": "Mercados",
-    "NFT": "NFT",
-    "Trade": "Operar",
-    "Recent Trades": "Operaciones recientes",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "¡Presentamos las <a class='font-bold' href='/combined'>ofertas combinadas automáticamente</a>! ¡Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para enterarte de lo que sigue!",
-    "Get USDS": "Obtenga USDS",
-    "Add Offer": "Agregar oferta"
   },
   "offersTable": {
     "Accept": "Aceptar",
@@ -247,8 +260,8 @@
   "contributors": {
     "Core Contributor": "Colaborador principal",
     "Advisor/Strategy": "Asesor / Estrategia",
-    "Data Cruncher": "Triturador de datos",
     "Community Manager": "Administrador de redes",
+    "Data Cruncher": "Triturador de datos",
     "Translator": "Traductor",
     "DBX Holders": "Tenedores de DBX",
     "The Community": "La comunidad",

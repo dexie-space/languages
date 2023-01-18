@@ -89,6 +89,29 @@
     "Hide": "Скрыть"
   },
   "Connect Wallet": "Подключите кошелек",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Рынок",
+    "NFT": "НФТ",
+    "Trade": "Торговля",
+    "Recent Trades": "Последние торги",
+    "FAQ": "ЧАВО",
+    "bannerMessageCombinedOffers": "Представляем <a class='font-bold' href='/combined'>Автоматически объединяемые предложения</a>! Следите за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы узнать, что будет дальше !",
+    "Get USDS": "Получить USDS",
+    "Add Offer": "Добавить предложение"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Пожалуйста, подождите",
     "Create Offer with Goby": "Создать предложение с помощью Goby"
@@ -136,16 +159,6 @@
     "notice": "Требуется расширение для браузера Goby",
     "Try Goby": "Попробовать Goby",
     "gobyInfo": "Goby информация"
-  },
-  "header": {
-    "Markets": "Рынок",
-    "NFT": "НФТ",
-    "Trade": "Торговля",
-    "Recent Trades": "Последние торги",
-    "FAQ": "ЧАВО",
-    "bannerMessageCombinedOffers": "Представляем <a class='font-bold' href='/combined'>Автоматически объединяемые предложения</a>! Следите за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы узнать, что будет дальше !",
-    "Get USDS": "Получить USDS",
-    "Add Offer": "Добавить предложение"
   },
   "offersTable": {
     "Accept": "Принять",
@@ -252,8 +265,8 @@
   "contributors": {
     "Core Contributor": "Core разработчик",
     "Advisor/Strategy": "Советник/Стратег",
-    "Data Cruncher": "Обработчик данных",
     "Community Manager": "Менеджер сообщества",
+    "Data Cruncher": "Обработчик данных",
     "Translator": "Переводчик",
     "DBX Holders": "DBX Холдеры",
     "The Community": "Сообщество",

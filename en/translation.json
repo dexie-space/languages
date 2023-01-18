@@ -87,6 +87,29 @@
     "Hide": "Hide"
   },
   "Connect Wallet": "Connect Wallet",
+  "header": {
+    "Connect Wallet": "Connect Wallet",
+    "Markets": "Markets",
+    "NFT": "NFT",
+    "Trade": "Trade",
+    "Recent Trades": "Recent Trades",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Introducing <a class='font-bold' href='/combined'>Auto-Combined Offers</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to find out what's coming next!",
+    "Get USDS": "Get USDS",
+    "Add Offer": "Add Offer"
+  },
+  "connectModal": {
+    "Not Installed": "Not Installed",
+    "Copy WalletConnect Link": "Copy WalletConnect Link",
+    "Cancel WalletConnect": "Cancel WalletConnect",
+    "Add with WalletConnect": "Add with WalletConnect",
+    "Connect": "Connect",
+    "Connected": "Connected",
+    "Disconnected": "Disconnected",
+    "Remove": "Remove",
+    "Disconnect": "Disconnect",
+    "Waiting for confirmation in your wallet": "Waiting for confirmation in your wallet"
+  },
   "createOffer": {
     "Please wait": "Please wait...",
     "Create Offer with Goby": "Create Offer with Goby"
@@ -132,16 +155,6 @@
     "notice": "You haven't installed any browser wallet.",
     "Try Goby": "Try Goby",
     "gobyInfo": "Goby is an open-source browser wallet for Chia."
-  },
-  "header": {
-    "Markets": "Markets",
-    "NFT": "NFT",
-    "Trade": "Trade",
-    "Recent Trades": "Recent Trades",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Introducing <a class='font-bold' href='/combined'>Auto-Combined Offers</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to find out what's coming next!",
-    "Get USDS": "Get USDS",
-    "Add Offer": "Add Offer"
   },
   "offersTable": {
     "Accept": "Accept",
@@ -242,8 +255,8 @@
   "contributors": {
     "Core Contributor": "Core Contributor",
     "Advisor/Strategy": "Advisor/Strategy",
-    "Data Cruncher": "Data Cruncher",
     "Community Manager": "Community Manager",
+    "Data Cruncher": "Data Cruncher",
     "Translator": "Translator",
     "DBX Holders": "DBX Holders",
     "The Community": "The Community",

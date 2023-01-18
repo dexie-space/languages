@@ -89,6 +89,29 @@
     "Hide": "Ukryj"
   },
   "Connect Wallet": "Połącz portfel",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Rynki",
+    "NFT": "NFT",
+    "Trade": "Handluj",
+    "Recent Trades": "Ostatnie transakcje",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Wprowadzamy <a class='font-bold' href='/combined'>oferty łączone automatycznie</a>! Obserwuj nas na Twitterze <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, aby być na bieżąco z wprowadzanymi nowymi funkcjami!",
+    "Get USDS": "Kup USDS",
+    "Add Offer": "Dodaj ofertę"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Proszę czekać...",
     "Create Offer with Goby": "Stwórz ofertę w Goby"
@@ -136,16 +159,6 @@
     "notice": "Nie wykryto zainstalowanego portfela w przeglądarce.",
     "Try Goby": "Wypróbuj Goby",
     "gobyInfo": "Goby to portfel przeglądarkowy open-source dla kryptowaluty Chia."
-  },
-  "header": {
-    "Markets": "Rynki",
-    "NFT": "NFT",
-    "Trade": "Handluj",
-    "Recent Trades": "Ostatnie transakcje",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Wprowadzamy <a class='font-bold' href='/combined'>oferty łączone automatycznie</a>! Obserwuj nas na Twitterze <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, aby być na bieżąco z wprowadzanymi nowymi funkcjami!",
-    "Get USDS": "Kup USDS",
-    "Add Offer": "Dodaj ofertę"
   },
   "offersTable": {
     "Accept": "Akceptuj",
@@ -252,8 +265,8 @@
   "contributors": {
     "Core Contributor": "Zespół dexie",
     "Advisor/Strategy": "Doradztwo/Strategia",
-    "Data Cruncher": "Przetwarzanie danych",
     "Community Manager": "Menedżer społeczności",
+    "Data Cruncher": "Przetwarzanie danych",
     "Translator": "Tłumaczenie",
     "DBX Holders": "Holderzy DBX",
     "The Community": "Społeczność",

@@ -88,6 +88,29 @@
     "Hide": "Cacher"
   },
   "Connect Wallet": "Connecter votre Portefeuille",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Marchés",
+    "NFT": "NFT",
+    "Trade": "Echanger",
+    "Recent Trades": "Transactions récentes",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient!",
+    "Get USDS": "Obtenez des USDS",
+    "Add Offer": "Ajouter une Offre"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Veuillez patienter",
     "Create Offer with Goby": "Créer une Offre dans Goby"
@@ -134,16 +157,6 @@
     "notice": "Extension navigateur nécessaire",
     "Try Goby": "Essayer Goby",
     "gobyInfo": "Goby est une extension portefeuille open-source pour Chia"
-  },
-  "header": {
-    "Markets": "Marchés",
-    "NFT": "NFT",
-    "Trade": "Echanger",
-    "Recent Trades": "Transactions récentes",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient!",
-    "Get USDS": "Obtenez des USDS",
-    "Add Offer": "Ajouter une Offre"
   },
   "offersTable": {
     "Accept": "Accepter",
@@ -247,8 +260,8 @@
   "contributors": {
     "Core Contributor": "Contributeur principal",
     "Advisor/Strategy": "Conseiller/Stratégie",
-    "Data Cruncher": "Cruncheur de données",
     "Community Manager": "Gestionnaire de communauté",
+    "Data Cruncher": "Cruncheur de données",
     "Translator": "Traducteur",
     "DBX Holders": "Titulaires DBX",
     "The Community": "La communauté",

@@ -86,6 +86,29 @@
     "Hide": "ซ่อน"
   },
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "ตลาด",
+    "NFT": "",
+    "Trade": "ซื้อขาย",
+    "Recent Trades": "ซื้อขายล่าสุด",
+    "FAQ": "คำถามที่พบบ่อย",
+    "bannerMessageCombinedOffers": "",
+    "Get USDS": "",
+    "Add Offer": "เพิ่มข้อเสนอ"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "โปรดรอสักครู่",
     "Create Offer with Goby": "สร้างข้อเสนอด้วย Goby"
@@ -130,16 +153,6 @@
     "notice": "คุณไม่มีกระเป๋าสตางค์บนบราวเซอร์",
     "Try Goby": "ืทดลอง Goby",
     "gobyInfo": "Goby เป็นกระเป๋าสตางค์โอเพ่นซอร์สบนบราวเซอร์สำหรับ Chia"
-  },
-  "header": {
-    "Markets": "ตลาด",
-    "NFT": "",
-    "Trade": "ซื้อขาย",
-    "Recent Trades": "ซื้อขายล่าสุด",
-    "FAQ": "คำถามที่พบบ่อย",
-    "bannerMessageCombinedOffers": "",
-    "Get USDS": "",
-    "Add Offer": "เพิ่มข้อเสนอ"
   },
   "offersTable": {
     "Accept": "ตอบรับ",
@@ -237,8 +250,8 @@
   "contributors": {
     "Core Contributor": "",
     "Advisor/Strategy": "",
-    "Data Cruncher": "",
     "Community Manager": "",
+    "Data Cruncher": "",
     "Translator": "",
     "DBX Holders": "",
     "The Community": "",

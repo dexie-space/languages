@@ -86,6 +86,29 @@
     "Hide": "숨김"
   },
   "Connect Wallet": "지갑 연동",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "마켓",
+    "NFT": "",
+    "Trade": "거래",
+    "Recent Trades": "신규 거래",
+    "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "",
+    "Get USDS": "",
+    "Add Offer": "오퍼 파일 등록"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "",
     "Create Offer with Goby": ""
@@ -130,16 +153,6 @@
     "notice": "Goby 확장 브라우저가 필요합니다",
     "Try Goby": "",
     "gobyInfo": ""
-  },
-  "header": {
-    "Markets": "마켓",
-    "NFT": "",
-    "Trade": "거래",
-    "Recent Trades": "신규 거래",
-    "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
-    "Get USDS": "",
-    "Add Offer": "오퍼 파일 등록"
   },
   "offersTable": {
     "Accept": "받기",
@@ -237,8 +250,8 @@
   "contributors": {
     "Core Contributor": "",
     "Advisor/Strategy": "",
-    "Data Cruncher": "",
     "Community Manager": "",
+    "Data Cruncher": "",
     "Translator": "",
     "DBX Holders": "",
     "The Community": "",

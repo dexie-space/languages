@@ -89,6 +89,29 @@
     "Hide": "Сховати"
   },
   "Connect Wallet": "Підключи гаманець",
+  "header": {
+    "Connect Wallet": "",
+    "Markets": "Ринок",
+    "NFT": "НФТ",
+    "Trade": "Торгівля",
+    "Recent Trades": "Останні торги",
+    "FAQ": "ЧаПи",
+    "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
+    "Get USDS": "Отримай USDS",
+    "Add Offer": "Додати пропозицію"
+  },
+  "connectModal": {
+    "Not Installed": "",
+    "Copy WalletConnect Link": "",
+    "Cancel WalletConnect": "",
+    "Add with WalletConnect": "",
+    "Connect": "",
+    "Connected": "",
+    "Disconnected": "",
+    "Remove": "",
+    "Disconnect": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "createOffer": {
     "Please wait": "Будь ласка, зачекайте",
     "Create Offer with Goby": "Створити пропозицію з допомогою Goby"
@@ -136,16 +159,6 @@
     "notice": "Потрібне розширення для браузера Goby",
     "Try Goby": "Спробувати Goby",
     "gobyInfo": "Goby інформація"
-  },
-  "header": {
-    "Markets": "Ринок",
-    "NFT": "НФТ",
-    "Trade": "Торгівля",
-    "Recent Trades": "Останні торги",
-    "FAQ": "ЧаПи",
-    "bannerMessageCombinedOffers": "Представляємо <a class='font-bold' href='/combined'>Автоматично об'єднувані пропозиції</a>! Слідкуйте за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, щоб дізнатися, що буде далі!",
-    "Get USDS": "Отримай USDS",
-    "Add Offer": "Додати пропозицію"
   },
   "offersTable": {
     "Accept": "Прийняти",
@@ -252,8 +265,8 @@
   "contributors": {
     "Core Contributor": "Core розробник",
     "Advisor/Strategy": "Радник/Стратег",
-    "Data Cruncher": "Обробник даних",
     "Community Manager": "Менеджер спільноти",
+    "Data Cruncher": "Обробник даних",
     "Translator": "Перекладач",
     "DBX Holders": "DBX Холдери",
     "The Community": "Спільнота",
