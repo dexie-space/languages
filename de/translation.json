@@ -94,6 +94,7 @@
     "Trade": "Handel",
     "Recent Trades": "Zuletzt gehandelt",
     "FAQ": "F&A",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "",
     "Get USDS": "",
     "Add Offer": "Angebot hochladen"
@@ -151,11 +152,6 @@
     "No matching offers": "Keine passenden Angebote gefunden"
   },
   "invalid offer file": "Ungültiges Offer File",
-  "gobyModal": {
-    "notice": "Du hast keine Browser Wallet installiert.",
-    "Try Goby": "Goby installieren",
-    "gobyInfo": "Goby ist eine Open-Source Browser Wallet für die Chia Blockchain."
-  },
   "offersTable": {
     "Accept": "Annehmen",
     "Download Offer File": "Angebot herunterladen",

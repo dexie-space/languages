@@ -96,6 +96,7 @@
     "Trade": "Handluj",
     "Recent Trades": "Ostatnie transakcje",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Wprowadzamy <a class='font-bold' href='/combined'>oferty łączone automatycznie</a>! Obserwuj nas na Twitterze <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, aby być na bieżąco z wprowadzanymi nowymi funkcjami!",
     "Get USDS": "Kup USDS",
     "Add Offer": "Dodaj ofertę"
@@ -155,11 +156,6 @@
     "No matching offers": "Brak pasujących ofert"
   },
   "invalid offer file": "Nieprawidłowy plik oferty",
-  "gobyModal": {
-    "notice": "Nie wykryto zainstalowanego portfela w przeglądarce.",
-    "Try Goby": "Wypróbuj Goby",
-    "gobyInfo": "Goby to portfel przeglądarkowy open-source dla kryptowaluty Chia."
-  },
   "offersTable": {
     "Accept": "Akceptuj",
     "Download Offer File": "Pobierz plik oferty",

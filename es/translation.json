@@ -95,6 +95,7 @@
     "Trade": "Operar",
     "Recent Trades": "Operaciones recientes",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "¡Presentamos las <a class='font-bold' href='/combined'>ofertas combinadas automáticamente</a>! ¡Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para enterarte de lo que sigue!",
     "Get USDS": "Obtenga USDS",
     "Add Offer": "Agregar oferta"
@@ -153,11 +154,6 @@
     "No matching offers": "No hay ofertas coincidentes"
   },
   "invalid offer file": "Archivo de oferta no válido",
-  "gobyModal": {
-    "notice": "No tiene instalado ningún monedero en su navegador.",
-    "Try Goby": "Pruebe Goby",
-    "gobyInfo": "Goby es un monedero de navegador de código abierto para Chia."
-  },
   "offersTable": {
     "Accept": "Aceptar",
     "Download Offer File": "Descargar archivo de oferta",

@@ -93,6 +93,7 @@
     "Trade": "交易",
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "引入<a class='font-bold' href='/combined'>自动组合优惠</a>！ 在 <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 关注我们，了解接下来会发生什么！",
     "Get USDS": "获取 USDS",
     "Add Offer": "添加Offer"
@@ -149,11 +150,6 @@
     "No matching offers": "没有匹配的Offer"
   },
   "invalid offer file": "Offer文件无效",
-  "gobyModal": {
-    "notice": "需要Goby浏览器扩展插件",
-    "Try Goby": "试用Goby",
-    "gobyInfo": "Goby是Chia的开源浏览器钱包。"
-  },
   "offersTable": {
     "Accept": "接受",
     "Download Offer File": "下载Offer文件",

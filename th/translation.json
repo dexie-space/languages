@@ -93,6 +93,7 @@
     "Trade": "ซื้อขาย",
     "Recent Trades": "ซื้อขายล่าสุด",
     "FAQ": "คำถามที่พบบ่อย",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "",
     "Get USDS": "",
     "Add Offer": "เพิ่มข้อเสนอ"
@@ -149,11 +150,6 @@
     "No matching offers": "ข้อเสนอไม่ได้ถูกจับคู่"
   },
   "invalid offer file": "ไฟล์ข้อเสนอไม่ถูกต้อง",
-  "gobyModal": {
-    "notice": "คุณไม่มีกระเป๋าสตางค์บนบราวเซอร์",
-    "Try Goby": "ืทดลอง Goby",
-    "gobyInfo": "Goby เป็นกระเป๋าสตางค์โอเพ่นซอร์สบนบราวเซอร์สำหรับ Chia"
-  },
   "offersTable": {
     "Accept": "ตอบรับ",
     "Download Offer File": "ดาวน์โหลดไฟล์ข้อเสนอ",

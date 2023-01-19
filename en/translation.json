@@ -94,6 +94,7 @@
     "Trade": "Trade",
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
+    "Wallet": "Wallet",
     "bannerMessageCombinedOffers": "Introducing <a class='font-bold' href='/combined'>Auto-Combined Offers</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to find out what's coming next!",
     "Get USDS": "Get USDS",
     "Add Offer": "Add Offer"
@@ -151,11 +152,6 @@
     "No matching offers": "No matching offers"
   },
   "invalid offer file": "Invalid Offer File",
-  "gobyModal": {
-    "notice": "You haven't installed any browser wallet.",
-    "Try Goby": "Try Goby",
-    "gobyInfo": "Goby is an open-source browser wallet for Chia."
-  },
   "offersTable": {
     "Accept": "Accept",
     "Download Offer File": "Download Offer File",

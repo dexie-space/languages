@@ -93,6 +93,7 @@
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Memperkenalkan <a class='font-bold' href='/combined'>Penawaran Gabungan-Otomatis</a>! Ikuti kami di <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> untuk mencari tahu apa yang akan terjadi selanjutnya!",
     "Get USDS": "",
     "Add Offer": "Tambahkan Penawaran"
@@ -150,11 +151,6 @@
     "Successfully queued {{count}} offers for submission_one": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan"
   },
   "invalid offer file": "File Penawaran Tidak Valid",
-  "gobyModal": {
-    "notice": "Anda belum menginstal dompet browser apa pun.",
-    "Try Goby": "Coba Goby",
-    "gobyInfo": "Goby adalah dompet browser sumber terbuka untuk Chia."
-  },
   "offersTable": {
     "Accept": "Menerima",
     "Download Offer File": "Unduh file penawaran",

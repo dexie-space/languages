@@ -94,6 +94,7 @@
     "Trade": "Verslun",
     "Recent Trades": "Nýleg viðskipti",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Við kynnum <a class='font-bold' href='/combined'>Sjálfvirkt samsett tilboð</a>! Fylgdu okkur á <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> til að komast að því hvað er í vændum!",
     "Get USDS": "Fáðu USDS",
     "Add Offer": "Bæta við tilboði"
@@ -151,11 +152,6 @@
     "No matching offers": "Engin samsvarandi tilboð"
   },
   "invalid offer file": "Ógild tilboðsskrá",
-  "gobyModal": {
-    "notice": "Þú hefur ekki sett upp nein vafraveski.",
-    "Try Goby": "Prófaðu Goby",
-    "gobyInfo": "Goby er opinn vafraveski fyrir Chia."
-  },
   "offersTable": {
     "Accept": "Taka",
     "Download Offer File": "Sæktu tilboðsskrá",

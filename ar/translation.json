@@ -98,6 +98,7 @@
     "Trade": "تجارة",
     "Recent Trades": "التداولات الحديثة",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "تقديم <a class='font-bold' href='/combined'> العروض المجمعة تلقائيًا </a>! تابعنا على <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> لمعرفة ما هو قادم!",
     "Get USDS": "احصل على USDS",
     "Add Offer": "أضف عرض"
@@ -159,11 +160,6 @@
     "No matching offers": "لا عروض مطابقة"
   },
   "invalid offer file": "ملف عرض غير صالح",
-  "gobyModal": {
-    "notice": "لم تقم بتثبيت أي محفظة متصفح.",
-    "Try Goby": "جرب Goby",
-    "gobyInfo": "Goby هي محفظة متصفح مفتوحة المصدر لـ Chia."
-  },
   "offersTable": {
     "Accept": "قبول",
     "Download Offer File": "تنزيل ملف العرض",

@@ -93,6 +93,7 @@
     "Trade": "ການຄ້າ",
     "Recent Trades": "ການຄ້າຄັ້ງສຸດທ້າຍ",
     "FAQ": "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "ຂໍແນະນຳ <a class='font-bold' href='/combined'>ຂໍ້ສະເໜີລວມອັດຕະໂນມັດ</a>! ຕິດຕາມພວກເຮົາໄດ້ທີ່ <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ເພື່ອຊອກຫາສິ່ງທີ່ຈະມາຕໍ່ໄປ!",
     "Get USDS": "ຮັບ USDS",
     "Add Offer": "ເພີ່ມຂໍ້ສະເໜີ"
@@ -149,11 +150,6 @@
     "No matching offers": "ຂໍ້ສະເໜີບໍ່ກົງກັນ"
   },
   "invalid offer file": "ໄຟລ໌ຂໍ້ສະເໜີບໍ່ຖືກຕ້ອງ.",
-  "gobyModal": {
-    "notice": "ທ່ານບໍ່ມີກະເປົາເງິນຢູ່ໃນຕົວທ່ອງເວັບຂອງທ່ານ",
-    "Try Goby": "ການທົດສອບ Goby",
-    "gobyInfo": "Goby เເປັນກະເປົາເງິນຂອງຕົວທ່ອງເວັບທີ່ເປີດແຫຼ່ງສໍາລັບ Chia"
-  },
   "offersTable": {
     "Accept": "ຄໍາຕອບ",
     "Download Offer File": "ດາວໂຫຼດໄຟລ໌ຂໍ້ສະເໜີ",

@@ -95,6 +95,7 @@
     "Trade": "Compravendite",
     "Recent Trades": "Vendite Recenti",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Ti presentiamo le <a class='font-bold' href='/combined'>offerte fuse automaticamente</a>! Seguici su <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per scoprire cosa succederà dopo!",
     "Get USDS": "Ottieni USDS",
     "Add Offer": "Aggiungi Offerta"
@@ -153,11 +154,6 @@
     "No matching offers": "Offerte senza corrispondenza"
   },
   "invalid offer file": "File di offerta non valido",
-  "gobyModal": {
-    "notice": "Non hai installato alcun portafoglio.",
-    "Try Goby": "Prova Goby",
-    "gobyInfo": "Goby è un portafoglio opensource tramite browser"
-  },
   "offersTable": {
     "Accept": "Accetta",
     "Download Offer File": "Scarica il file di offerta",

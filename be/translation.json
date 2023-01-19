@@ -96,6 +96,7 @@
     "Trade": "Гандаль",
     "Recent Trades": "Апошнія здзелкі",
     "FAQ": "Часта задаюць пытанні",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Прадстаўляем <a class='font-bold' href='/combined'>аўтаматычна аб'яднаныя прапановы</a>! Сачыце за намі на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, каб даведацца, што будзе далей!",
     "Get USDS": "Атрымаць USDS",
     "Add Offer": "Дадаць прапанову"
@@ -155,11 +156,6 @@
     "No matching offers": "Няма адпаведных прапаноў"
   },
   "invalid offer file": "Няправільны файл прапановы",
-  "gobyModal": {
-    "notice": "Патрабуецца пашырэнне браўзера Goby",
-    "Try Goby": "Паспрабуйце Goby",
-    "gobyInfo": "Goby інфармацыя"
-  },
   "offersTable": {
     "Accept": "Прыняць",
     "Download Offer File": "Спампаваць прапанову",

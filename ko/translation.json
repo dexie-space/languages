@@ -93,6 +93,7 @@
     "Trade": "거래",
     "Recent Trades": "신규 거래",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "",
     "Get USDS": "",
     "Add Offer": "오퍼 파일 등록"
@@ -149,11 +150,6 @@
     "No matching offers": ""
   },
   "invalid offer file": "유효하지 않은 오퍼파일",
-  "gobyModal": {
-    "notice": "Goby 확장 브라우저가 필요합니다",
-    "Try Goby": "",
-    "gobyInfo": ""
-  },
   "offersTable": {
     "Accept": "받기",
     "Download Offer File": "오퍼 파일 다운로드",

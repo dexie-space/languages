@@ -94,6 +94,7 @@
     "Trade": "Handel",
     "Recent Trades": "Nylige handler",
     "FAQ": "FAQ",
+    "Wallet": "",
     "bannerMessageCombinedOffers": "Vi introduserer <a class='font-bold' href='/combined'>Autokombinerte tilbud</a>! Følg oss på <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> for å finne ut hva som kommer neste gang!",
     "Get USDS": "Få USDS",
     "Add Offer": "Legg til tilbud"
@@ -151,11 +152,6 @@
     "No matching offers": "Ingen matchende tilbud"
   },
   "invalid offer file": "Ugyldig tilbudsfil",
-  "gobyModal": {
-    "notice": "Du har ikke installert noen nettleserlommebok.",
-    "Try Goby": "Prøv Goby",
-    "gobyInfo": "Goby er en åpen kildekode-nettleserlommebok for Chia."
-  },
   "offersTable": {
     "Accept": "Aksepterer",
     "Download Offer File": "Last ned tilbudsfil",
