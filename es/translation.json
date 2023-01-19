@@ -110,8 +110,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "Por favor, espere...",
@@ -239,6 +238,12 @@
     "completed": "Completada",
     "unknown": "Desconocido",
     "expired": "expirada"
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Primero termine de configurar Goby.",

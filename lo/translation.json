@@ -108,8 +108,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "ກະລຸນາລໍຖ້າ",
@@ -231,6 +230,12 @@
     "completed": "ສໍາເລັດ",
     "unknown": "ບໍ່ມີຂໍ້ມູນ",
     "expired": ""
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "ກະລຸນາສຳເລັດການຕິດຕັ້ງ Goby ກ່ອນ",

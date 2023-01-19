@@ -108,8 +108,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "โปรดรอสักครู่",
@@ -231,6 +230,12 @@
     "completed": "เสร็จสมบรูณ์",
     "unknown": "ีไม่มีข้อมูล",
     "expired": ""
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",

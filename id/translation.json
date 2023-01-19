@@ -108,8 +108,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "Mohon tunggu...",
@@ -232,6 +231,12 @@
     "completed": "Lengkap",
     "unknown": "Tidak dikenal",
     "expired": ""
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",

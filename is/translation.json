@@ -109,8 +109,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "Vinsamlegast bíðið...",
@@ -235,6 +234,12 @@
     "completed": "Lokið",
     "unknown": "Óþekktur",
     "expired": "útrunninn"
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",

@@ -113,8 +113,7 @@
     "Connected": "",
     "Disconnected": "",
     "Remove": "",
-    "Disconnect": "",
-    "Waiting for confirmation in your wallet": ""
+    "Disconnect": ""
   },
   "createOffer": {
     "Please wait": "أرجو الإنتظار...",
@@ -251,6 +250,12 @@
     "completed": "اكتمل",
     "unknown": "مجهول",
     "expired": "منتهية الصلاحية"
+  },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
