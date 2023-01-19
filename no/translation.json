@@ -94,13 +94,13 @@
     "Trade": "Handel",
     "Recent Trades": "Nylige handler",
     "FAQ": "FAQ",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "Vi introduserer <a class='font-bold' href='/combined'>Autokombinerte tilbud</a>! Følg oss på <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> for å finne ut hva som kommer neste gang!",
     "Get USDS": "Få USDS",
     "Add Offer": "Legg til tilbud"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",

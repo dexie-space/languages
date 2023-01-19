@@ -93,13 +93,13 @@
     "Trade": "ซื้อขาย",
     "Recent Trades": "ซื้อขายล่าสุด",
     "FAQ": "คำถามที่พบบ่อย",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "",
     "Get USDS": "",
     "Add Offer": "เพิ่มข้อเสนอ"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",

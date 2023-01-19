@@ -96,13 +96,13 @@
     "Trade": "Торговля",
     "Recent Trades": "Последние торги",
     "FAQ": "ЧАВО",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "Представляем <a class='font-bold' href='/combined'>Автоматически объединяемые предложения</a>! Следите за нами на <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>, чтобы узнать, что будет дальше !",
     "Get USDS": "Получить USDS",
     "Add Offer": "Добавить предложение"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",

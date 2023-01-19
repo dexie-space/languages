@@ -93,13 +93,13 @@
     "Trade": "ການຄ້າ",
     "Recent Trades": "ການຄ້າຄັ້ງສຸດທ້າຍ",
     "FAQ": "ຄຳຖາມທີ່ຖືກຖາມເລື້ອຍໆ",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "ຂໍແນະນຳ <a class='font-bold' href='/combined'>ຂໍ້ສະເໜີລວມອັດຕະໂນມັດ</a>! ຕິດຕາມພວກເຮົາໄດ້ທີ່ <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> ເພື່ອຊອກຫາສິ່ງທີ່ຈະມາຕໍ່ໄປ!",
     "Get USDS": "ຮັບ USDS",
     "Add Offer": "ເພີ່ມຂໍ້ສະເໜີ"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",

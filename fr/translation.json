@@ -95,13 +95,13 @@
     "Trade": "Echanger",
     "Recent Trades": "Transactions récentes",
     "FAQ": "FAQ",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "Présentation des <a class='font-bold' href='/combined'>offres combinées automatiquement</a>! Suivez-nous sur <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> pour découvrir ce qui s'en vient!",
     "Get USDS": "Obtenez des USDS",
     "Add Offer": "Ajouter une Offre"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",

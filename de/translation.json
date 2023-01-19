@@ -94,13 +94,13 @@
     "Trade": "Handel",
     "Recent Trades": "Zuletzt gehandelt",
     "FAQ": "F&A",
-    "Wallet": "",
     "bannerMessageCombinedOffers": "",
     "Get USDS": "",
     "Add Offer": "Angebot hochladen"
   },
   "connectModal": {
     "Not Installed": "",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",
