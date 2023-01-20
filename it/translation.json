@@ -44,7 +44,7 @@
     "Report NFT": "Segnala NFT",
     "Show on Mintgarden": "Mostra su Mintgarden",
     "Show on Spacescan": "Mostra su Spacescan",
-    "Accept in Wallet": "",
+    "Accept in Wallet": "Accetta nel Portafogli",
     "Accept in {{provider}}": "Accetta in {{provider}}",
     "Loading": "Caricamento in corso ...",
     "Price": "Prezzo",
@@ -90,7 +90,7 @@
   },
   "Connect Wallet": "Connetti il tuo wallet",
   "header": {
-    "Connect Wallet": "",
+    "Connect Wallet": "Connetti il Portafogli",
     "Markets": "Mercati",
     "NFT": "NFT",
     "Trade": "Compravendite",
@@ -101,16 +101,16 @@
     "Add Offer": "Aggiungi Offerta"
   },
   "connectModal": {
-    "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
-    "Copy WalletConnect Link": "",
-    "Cancel WalletConnect": "",
-    "Add with WalletConnect": "",
-    "Connect": "",
-    "Connected": "",
-    "Disconnected": "",
-    "Remove": "",
-    "Disconnect": ""
+    "Not Installed": "Non installato",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Per attivare il WalletConnect con il tuo Portafogli Desktop, Clicca il codice sotto per copiare il link di connessione",
+    "Copy WalletConnect Link": "Copia il link di connessione WalletConnect",
+    "Cancel WalletConnect": "Cancella WalletConnect",
+    "Add with WalletConnect": "Aggiungi con WalletConnect",
+    "Connect": "Connetti",
+    "Connected": "Connesso",
+    "Disconnected": "Disconnesso",
+    "Remove": "Rimuovi",
+    "Disconnect": "Disconnetti"
   },
   "createOffer": {
     "Please wait": "Cortesemente attendi...",
@@ -240,10 +240,10 @@
     "expired": "Scaduta"
   },
   "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
+    "Confirm Transaction": "Conferma la transazione",
+    "You Pay": "Paghi",
+    "You Receive": "Ricevi",
+    "Waiting for confirmation in your wallet": "In attesa di conferma dal Portafogli"
   },
   "toast": {
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
