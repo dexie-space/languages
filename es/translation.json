@@ -44,7 +44,7 @@
     "Report NFT": "Reportar NFT",
     "Show on Mintgarden": "Mostrar en Mintgarden",
     "Show on Spacescan": "Mostrar en Spacescan",
-    "Accept in Wallet": "",
+    "Accept in Wallet": "Aceptar en monedero",
     "Accept in {{provider}}": "Aceptar en {{provider}}",
     "Loading": "Cargando ...",
     "Price": "Precio",
@@ -90,7 +90,7 @@
   },
   "Connect Wallet": "Conectar monedero",
   "header": {
-    "Connect Wallet": "",
+    "Connect Wallet": "Conectar monedero",
     "Markets": "Mercados",
     "NFT": "NFT",
     "Trade": "Operar",
@@ -101,16 +101,16 @@
     "Add Offer": "Agregar oferta"
   },
   "connectModal": {
-    "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
-    "Copy WalletConnect Link": "",
-    "Cancel WalletConnect": "",
-    "Add with WalletConnect": "",
-    "Connect": "",
-    "Connected": "",
-    "Disconnected": "",
-    "Remove": "",
-    "Disconnect": ""
+    "Not Installed": "No instalada",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Para configurar WalletConnect con el monedero de escritorio de Chia, haga clic en el código a continuación para copiar el enlace de conexión",
+    "Copy WalletConnect Link": "Copia el enlace de WalletConnect",
+    "Cancel WalletConnect": "Cancelar WalletConnect",
+    "Add with WalletConnect": "Añadir con WalletConnect",
+    "Connect": "Conectar",
+    "Connected": "Conectado",
+    "Disconnected": "Desconectado",
+    "Remove": "Remover",
+    "Disconnect": "Desconectar"
   },
   "createOffer": {
     "Please wait": "Por favor, espere...",
@@ -240,10 +240,10 @@
     "expired": "expirada"
   },
   "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
+    "Confirm Transaction": "Confirmar transacción",
+    "You Pay": "Usted paga",
+    "You Receive": "Usted Recibe",
+    "Waiting for confirmation in your wallet": "Esperando por las confirmaciones en su monedero"
   },
   "toast": {
     "gobyError4001": "Primero termine de configurar Goby.",
