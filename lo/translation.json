@@ -86,6 +86,12 @@
     "Actions": "ການກະທຳ",
     "Hide": "ເຊື່ອງ"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "ເຊື່ອມຕໍ່ກັບກະເປົາເງິນ",
   "header": {
     "Connect Wallet": "",
@@ -160,6 +166,7 @@
     "Expand NFTs": "ຂະຫຍາຍ NFTs",
     "You Pay": "ເຈົ້າຈ່າຍ",
     "You Receive": "ທ່ານໄດ້ຮັບ",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
     "Last": "ຫຼ້າສຸດ",
     "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
@@ -230,12 +237,6 @@
     "completed": "ສໍາເລັດ",
     "unknown": "ບໍ່ມີຂໍ້ມູນ",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "ກະລຸນາສຳເລັດການຕິດຕັ້ງ Goby ກ່ອນ",

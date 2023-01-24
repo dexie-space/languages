@@ -86,6 +86,12 @@
     "Actions": "动作",
     "Hide": "隐藏"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "链接钱包",
   "header": {
     "Connect Wallet": "",
@@ -160,6 +166,7 @@
     "Expand NFTs": "扩展NFT",
     "You Pay": "你付钱",
     "You Receive": "请求",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
     "Last": "末",
     "Best Price": "最优价格",
@@ -230,12 +237,6 @@
     "completed": "已完成",
     "unknown": "未知",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "请先完成Goby钱包设置。",

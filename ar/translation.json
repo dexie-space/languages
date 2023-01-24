@@ -91,6 +91,12 @@
     "Actions": "أفعال",
     "Hide": "يخفي"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "ربط المحفظة",
   "header": {
     "Connect Wallet": "",
@@ -170,6 +176,12 @@
     "Expand NFTs": "قم بتوسيع NFTs",
     "You Pay": "انت تدفع",
     "You Receive": "انت تستقبل",
+    "resultsCount_zero": "<0>{{count}}</0> Results",
+    "resultsCount_one": "<0>{{count}}</0> Results",
+    "resultsCount_two": "<0>{{count}}</0> Results",
+    "resultsCount_few": "<0>{{count}}</0> Results",
+    "resultsCount_many": "<0>{{count}}</0> Results",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "هذا العرض يحتوي على مدخلات متداخلة ولا يمكن إضافتها.",
     "Last": "أخير",
     "Best Price": "افضل سعر",
@@ -250,12 +262,6 @@
     "completed": "اكتمل",
     "unknown": "مجهول",
     "expired": "منتهية الصلاحية"
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",

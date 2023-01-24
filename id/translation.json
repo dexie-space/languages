@@ -86,6 +86,12 @@
     "Actions": "Tindakan",
     "Hide": "Sembunyikan"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "Hubungkan Dompet",
   "header": {
     "Connect Wallet": "",
@@ -161,6 +167,7 @@
     "Expand NFTs": "Perluas NFT",
     "You Pay": "Anda Membayar",
     "You Receive": "Anda menerima",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
@@ -231,12 +238,6 @@
     "completed": "Lengkap",
     "unknown": "Tidak dikenal",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",

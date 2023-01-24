@@ -86,6 +86,12 @@
     "Actions": "Actions",
     "Hide": "숨김"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "지갑 연동",
   "header": {
     "Connect Wallet": "",
@@ -160,6 +166,7 @@
     "Expand NFTs": "",
     "You Pay": "",
     "You Receive": "수락하기",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "",
     "Last": "",
     "Best Price": "최저가",
@@ -230,12 +237,6 @@
     "completed": "완료",
     "unknown": "알 수 없음",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "",

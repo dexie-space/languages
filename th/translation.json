@@ -86,6 +86,12 @@
     "Actions": "การกระทำ",
     "Hide": "ซ่อน"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
   "header": {
     "Connect Wallet": "",
@@ -160,6 +166,7 @@
     "Expand NFTs": "",
     "You Pay": "",
     "You Receive": "คุณได้รับ",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "",
     "Last": "",
     "Best Price": "ราคาที่ดีที่สุด",
@@ -230,12 +237,6 @@
     "completed": "เสร็จสมบรูณ์",
     "unknown": "ีไม่มีข้อมูล",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",

@@ -89,6 +89,12 @@
     "Actions": "Дії",
     "Hide": "Сховати"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "Підключи гаманець",
   "header": {
     "Connect Wallet": "",
@@ -166,6 +172,10 @@
     "Expand NFTs": "Розгорнути НФТ",
     "You Pay": "Запропонувати",
     "You Receive": "Отримати",
+    "resultsCount_one": "<0>{{count}}</0> Results",
+    "resultsCount_few": "<0>{{count}}</0> Results",
+    "resultsCount_many": "<0>{{count}}</0> Results",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
     "Last": "Остання",
     "Best Price": "Найкраща ціна",
@@ -242,12 +252,6 @@
     "completed": "виконано",
     "unknown": "невідомо",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Goby помилка 4001",

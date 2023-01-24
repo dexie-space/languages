@@ -88,6 +88,12 @@
     "Actions": "Actions",
     "Hide": "Cacher"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "Connecter votre Portefeuille",
   "header": {
     "Connect Wallet": "",
@@ -164,6 +170,9 @@
     "Expand NFTs": "Dérouler NFTs",
     "You Pay": "Vous payez",
     "You Receive": "Vous Recevez",
+    "resultsCount_one": "<0>{{count}}</0> Results",
+    "resultsCount_many": "<0>{{count}}</0> Results",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "Cette offre contient des entrées dupliquées et ne peut être ajoutée",
     "Last": "Dernier",
     "Best Price": "Meilleur Prix",
@@ -238,12 +247,6 @@
     "completed": "Complétée",
     "unknown": "Inconnue",
     "expired": ""
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Merci de finaliser la configuration de Goby",

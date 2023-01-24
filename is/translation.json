@@ -87,6 +87,12 @@
     "Actions": "Aðgerðir",
     "Hide": "Fela"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "Tengdu veski",
   "header": {
     "Connect Wallet": "",
@@ -162,6 +168,8 @@
     "Expand NFTs": "Stækka NFTs",
     "You Pay": "Þú borgar",
     "You Receive": "Þú tekur á móti",
+    "resultsCount_one": "<0>{{count}}</0> Results",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "Þetta tilboð inniheldur inntak sem skarast og ekki er hægt að bæta því við.",
     "Last": "Síðast",
     "Best Price": "Besta verðið",
@@ -234,12 +242,6 @@
     "completed": "Lokið",
     "unknown": "Óþekktur",
     "expired": "útrunninn"
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",

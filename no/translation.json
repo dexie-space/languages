@@ -87,6 +87,12 @@
     "Actions": "Handlinger",
     "Hide": "Gjemme seg"
   },
+  "confirmTransactionModal": {
+    "Confirm Transaction": "",
+    "You Pay": "",
+    "You Receive": "",
+    "Waiting for confirmation in your wallet": ""
+  },
   "Connect Wallet": "Koble til Wallet",
   "header": {
     "Connect Wallet": "",
@@ -162,6 +168,8 @@
     "Expand NFTs": "Utvid NFT-er",
     "You Pay": "Du betaler",
     "You Receive": "Du mottar",
+    "resultsCount_one": "<0>{{count}}</0> Results",
+    "resultsCount_other": "<0>{{count}}</0> Results",
     "This offer contains overlapping inputs and can not be added": "Dette tilbudet inneholder overlappende innganger og kan ikke legges til.",
     "Last": "Siste",
     "Best Price": "Beste pris",
@@ -234,12 +242,6 @@
     "completed": "Fullført",
     "unknown": "Ukjent",
     "expired": "utløpt"
-  },
-  "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
   },
   "toast": {
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
