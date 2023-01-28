@@ -252,8 +252,8 @@
   },
   "contributors": {
     "Core Contributor": "核心贡献者",
-    "Advisor/Strategy": "顾问/策略",
     "Community Manager": "社区管理员",
+    "Advisor/Strategy": "顾问/策略",
     "Data Cruncher": "数据粉碎机",
     "Translator": "译者",
     "DBX Holders": "DBX 持有人",
@@ -279,8 +279,6 @@
     "Buy Price": "买入价格",
     "#sellPriceHint{{depth}}": "售出单价{{depth}} {{market}}总量\n以及每个{{market}}花掉多少",
     "Sell Price": "卖出价格",
-    "#priceChangeHint{{depth}}": "平均价格变化(买卖{{depth}} {{market}}深度)\n在过去24小时内。",
-    "24h Change": "24小时变化",
     "Currently Offered": "目前提供",
     "Buy": "买",
     "Sell": "卖",

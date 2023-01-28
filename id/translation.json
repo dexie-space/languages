@@ -253,8 +253,8 @@
   },
   "contributors": {
     "Core Contributor": "Kontributor Inti",
-    "Advisor/Strategy": "Penasihat/Strategi",
     "Community Manager": "Manajer komunitas",
+    "Advisor/Strategy": "Penasihat/Strategi",
     "Data Cruncher": "Cruncher Data",
     "Translator": "Penerjemah",
     "DBX Holders": "Pemegang DBX",
@@ -280,8 +280,6 @@
     "Buy Price": "Harga beli",
     "#sellPriceHint{{depth}}": "Harga unit untuk penjualan {{depth}} {{market}} volume\ndan berapa masing -masing {{market}} akan menghabiskan.",
     "Sell Price": "Harga jual",
-    "#priceChangeHint{{depth}}": "Perubahan harga rata -rata (beli dan jual dengan {{depth}} {{market}} depth)\nSelama 24 jam terakhir.",
-    "24h Change": "24h",
     "Currently Offered": "Saat ini ditawarkan",
     "Buy": "Membeli",
     "Sell": "Menjual",

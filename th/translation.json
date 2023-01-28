@@ -252,8 +252,8 @@
   },
   "contributors": {
     "Core Contributor": "",
-    "Advisor/Strategy": "",
     "Community Manager": "",
+    "Advisor/Strategy": "",
     "Data Cruncher": "",
     "Translator": "",
     "DBX Holders": "",
@@ -279,8 +279,6 @@
     "Buy Price": "ราคารับซื้อ",
     "#sellPriceHint{{depth}}": "ราคาต่อหน่วยสำหรับการขาย {{depth}} {{market}} \nและราคาของแต่ละ {{market}}",
     "Sell Price": "ราคาขาย",
-    "#priceChangeHint{{depth}}": "การเปลี่ยนแปลงของราคาเฉลี่ย (ซื้อและขายด้วยความลึก {{depth}} {{market}})\nใน 24 ชั่วโมงล่าสุด",
-    "24h Change": "24h",
     "Currently Offered": "",
     "Buy": "ซื้อ",
     "Sell": "ขาย",
