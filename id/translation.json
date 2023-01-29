@@ -167,7 +167,7 @@
     "Expand NFTs": "Perluas NFT",
     "You Pay": "Anda Membayar",
     "You Receive": "Anda menerima",
-    "offersCount_other": "<0>{{formatedCount}}</0> Offers",
+    "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
