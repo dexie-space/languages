@@ -166,7 +166,7 @@
     "Expand NFTs": "",
     "You Pay": "",
     "You Receive": "수락하기",
-    "offersCount_other": "<0>{{count}}</0> Offer",
+    "offersCount_other": "<0>{{formatedCount}}</0> Offers",
     "This offer contains overlapping inputs and can not be added": "",
     "Last": "",
     "Best Price": "최저가",
