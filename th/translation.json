@@ -54,6 +54,7 @@
     "Inspect": "ตรวจสอบ",
     "No Results": "ไม่มีผลการค้นหา",
     "Current Price": "ราคาปัจจุบัน",
+    "Add to Wallet": "",
     "Trade": "ซื้อขาย",
     "Description": "",
     "Category": "",
@@ -239,7 +240,8 @@
   "toast": {
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
-    "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว"
+    "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "",

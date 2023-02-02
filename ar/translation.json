@@ -59,6 +59,7 @@
     "Inspect": "فحص",
     "No Results": "لا نتائج",
     "Current Price": "السعر الحالي",
+    "Add to Wallet": "",
     "Trade": "تجارة",
     "Description": "الوصف",
     "Category": "فئة",
@@ -264,7 +265,8 @@
   "toast": {
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
     "gobyError4900": "لم يتم توصيل Gobyd",
-    "Offer accepted": "عرض قبول"
+    "Offer accepted": "عرض قبول",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_zero": "البحث {{count}} الصفر",

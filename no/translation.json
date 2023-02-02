@@ -55,6 +55,7 @@
     "Inspect": "Undersøke",
     "No Results": "Ingen resultater",
     "Current Price": "Gjeldende pris",
+    "Add to Wallet": "",
     "Trade": "Handel",
     "Description": "Beskrivelse",
     "Category": "Kategori",
@@ -244,7 +245,8 @@
   "toast": {
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
     "gobyError4900": "Goby er ikke tilkoblet",
-    "Offer accepted": "Tilbud akseptert"
+    "Offer accepted": "Tilbud akseptert",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Søk i {{count}} ressurs",

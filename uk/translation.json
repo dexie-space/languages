@@ -57,6 +57,7 @@
     "Inspect": "Перегляд",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
+    "Add to Wallet": "",
     "Trade": "Торгівля",
     "Description": "Опис",
     "Category": "Категорія",
@@ -254,7 +255,8 @@
   "toast": {
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
-    "Offer accepted": "Пропозиція прийнята"
+    "Offer accepted": "Пропозиція прийнята",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Пошук {{count}} активу",

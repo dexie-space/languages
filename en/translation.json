@@ -55,6 +55,7 @@
     "Inspect": "Inspect",
     "No Results": "No Results",
     "Current Price": "Current Price",
+    "Add to Wallet": "Add to Wallet",
     "Trade": "Trade",
     "Description": "Description",
     "Category": "Category",
@@ -244,7 +245,8 @@
   "toast": {
     "gobyError4001": "Please finish setting up Goby first.",
     "gobyError4900": "Goby is not connected",
-    "Offer accepted": "Offer accepted"
+    "Offer accepted": "Offer accepted",
+    "The connected wallet does not support this": "The connected wallet does not support this"
   },
   "Assets": {
     "Search {{count}} assets_one": "Search {{count}} asset",

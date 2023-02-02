@@ -56,6 +56,7 @@
     "Inspect": "Vedi dettagli",
     "No Results": "Nessun risultato",
     "Current Price": "Prezzo Corrente",
+    "Add to Wallet": "",
     "Trade": "Compravendite",
     "Description": "Descrizione",
     "Category": "Categoria",
@@ -249,7 +250,8 @@
   "toast": {
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
-    "Offer accepted": "Offerta Accettata"
+    "Offer accepted": "Offerta Accettata",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Trova Asset Attivo",

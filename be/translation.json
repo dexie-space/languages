@@ -57,6 +57,7 @@
     "Inspect": "Прагляд",
     "No Results": "Няма вынікаў",
     "Current Price": "Бягучая цана",
+    "Add to Wallet": "",
     "Trade": "Гандаль",
     "Description": "Апісанне",
     "Category": "Катэгорыя",
@@ -254,7 +255,8 @@
   "toast": {
     "gobyError4001": "Памылка Goby 4001",
     "gobyError4900": "Памылка Goby 4900",
-    "Offer accepted": "Прапанова прынята"
+    "Offer accepted": "Прапанова прынята",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Шукаць {{count}} актыў",

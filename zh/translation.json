@@ -54,6 +54,7 @@
     "Inspect": "检查",
     "No Results": "没有结果",
     "Current Price": "时价",
+    "Add to Wallet": "",
     "Trade": "交易",
     "Description": "描述",
     "Category": "类别",
@@ -239,7 +240,8 @@
   "toast": {
     "gobyError4001": "请先完成Goby钱包设置。",
     "gobyError4900": "Goby钱包未链接",
-    "Offer accepted": "Offer已被接受"
+    "Offer accepted": "Offer已被接受",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "搜索 {{count}} 项资产",

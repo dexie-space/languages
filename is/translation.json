@@ -55,6 +55,7 @@
     "Inspect": "Athugaðu",
     "No Results": "Engar niðurstöður",
     "Current Price": "Núverandi verð",
+    "Add to Wallet": "",
     "Trade": "Verslun",
     "Description": "Lýsing",
     "Category": "Flokkur",
@@ -244,7 +245,8 @@
   "toast": {
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",
     "gobyError4900": "Goby er ekki tengdur",
-    "Offer accepted": "Tilboði tekið"
+    "Offer accepted": "Tilboði tekið",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",

@@ -56,6 +56,7 @@
     "Inspect": "Inspeccionar",
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
+    "Add to Wallet": "",
     "Trade": "Operación",
     "Description": "Descripción",
     "Category": "Categoría",
@@ -249,7 +250,8 @@
   "toast": {
     "gobyError4001": "Primero termine de configurar Goby.",
     "gobyError4900": "Goby no está conectado",
-    "Offer accepted": "Oferta aceptada"
+    "Offer accepted": "Oferta aceptada",
+    "The connected wallet does not support this": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Buscar {{count}} activo",
