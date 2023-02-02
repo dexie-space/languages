@@ -246,7 +246,7 @@
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
     "gobyError4900": "Goby er ikke tilkoblet",
     "Offer accepted": "Tilbud akseptert",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Søk i {{count}} ressurs",

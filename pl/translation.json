@@ -256,7 +256,7 @@
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Portfel Goby nie jest połączony",
     "Offer accepted": "Oferta zaakceptowana",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Wyszukaj {{count}} token",

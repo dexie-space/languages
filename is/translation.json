@@ -246,7 +246,7 @@
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",
     "gobyError4900": "Goby er ekki tengdur",
     "Offer accepted": "Tilboði tekið",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",

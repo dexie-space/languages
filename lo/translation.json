@@ -241,7 +241,7 @@
     "gobyError4001": "ກະລຸນາສຳເລັດການຕິດຕັ້ງ Goby ກ່ອນ",
     "gobyError4900": "ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Goby",
     "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "ຊອກຫາຊັບສິນ {{count}}",

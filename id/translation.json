@@ -242,7 +242,7 @@
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
     "gobyError4900": "Goby tidak terhubung",
     "Offer accepted": "Penawaran diterima",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "Cari {{count}} Aset_lainnya",

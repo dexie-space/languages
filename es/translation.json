@@ -251,7 +251,7 @@
     "gobyError4001": "Primero termine de configurar Goby.",
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Buscar {{count}} activo",

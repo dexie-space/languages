@@ -246,7 +246,7 @@
     "gobyError4001": "Bitte richte erst Goby ein",
     "gobyError4900": "Goby ist nicht verbunden",
     "Offer accepted": "Angebot angenommen",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Suche {{count}} Währung",

@@ -241,7 +241,7 @@
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
-    "The connected wallet does not support this": ""
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "",
