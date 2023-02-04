@@ -167,7 +167,7 @@
     "Expand NFTs": "Expand NFTs",
     "You Pay": "You Pay",
     "You Receive": "You Receive",
-    "offersCount_one": "<0>{{formattedCount}}</0> Offers",
+    "offersCount_one": "<0>{{formattedCount}}</0> Offer",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added.",
     "Last": "Last",
