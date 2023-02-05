@@ -8,16 +8,16 @@
     "Inspect Metadata": "Analizza Metadata",
     "Blocked for violating community rules": "Bloccato per violazione delle regole della comunità",
     "Blocked": "Bloccato",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "",
-    "Unknown Creator": "",
-    "Creator DID claimed by {{name}} on {{via}}": "",
-    "{{platform}} verified": "",
-    "{{platform}} unverified": "",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "Chiunque può creare una collezione NFT, assicurati che l'artista sia autentico",
+    "Unknown Creator": "Artista Sconosciuto",
+    "Creator DID claimed by {{name}} on {{via}}": "DID dell'artista richiesto da {{name}} attraverso {{via}}",
+    "{{platform}} verified": "{{platform}} verificata",
+    "{{platform}} unverified": "{{platform}} non verificata",
     "NFT Address copied": "Indirizzo NFT copiato",
     "NFT Address": "Indirizzo NFT",
     "Royalty": "Diritti d'autore",
-    "NFT Creator copied": "",
-    "NFT Creator": "",
+    "NFT Creator copied": "Artista NFT copiato",
+    "NFT Creator": "Artista NFT",
     "Created at Height": "Creato all'altezza",
     "Data URIs": "Data URIs",
     "Data Hash": "Data Hash",
@@ -40,7 +40,7 @@
     "Light Mode": "Chiaro",
     "Trade History": "Lista degli scambi avvenuti",
     "Report NFT": "Segnala NFT",
-    "Show on MintGarden": "",
+    "Show on MintGarden": "Mostra su MintGarden",
     "Show on Spacescan": "Mostra su Spacescan",
     "Accept in Wallet": "Accetta nel Portafogli",
     "Accept in {{provider}}": "Accetta in {{provider}}",
@@ -56,7 +56,7 @@
     "Inspect": "Vedi dettagli",
     "No Results": "Nessun risultato",
     "Current Price": "Prezzo Corrente",
-    "Add to Wallet": "",
+    "Add to Wallet": "Aggiungi al portafogli",
     "Trade": "Compravendite",
     "Description": "Descrizione",
     "Category": "Categoria",
@@ -181,9 +181,9 @@
     "Yours": "Le tue"
   },
   "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Scansione il QR Code con il portafoglio Ozone per accettare",
-    "Try Ozone Wallet": "Prova il portafoglio Ozone",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Il portafoglio Ozone è studiato per effettuare transazioni con XCH e CATs in modo sicuro e affidabile"
+    "Scan QR Code with Ozone Wallet to accept": "Scansione il QR Code con il portafogli Ozone per accettare",
+    "Try Ozone Wallet": "Prova il portafogli Ozone",
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Il portafogli Ozone è studiato per effettuare transazioni con XCH e CATs in modo sicuro e affidabile"
   },
   "inspect": {
     "dexie link": "Link a Dexie",
@@ -251,7 +251,7 @@
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
     "Offer accepted": "Offerta Accettata",
-    "The connected wallet does not support this action": ""
+    "The connected wallet does not support this action": "Il portafogli connesso non accetta questa azione"
   },
   "Assets": {
     "Search {{count}} assets_one": "Trova Asset Attivo",
@@ -277,7 +277,7 @@
   },
   "faq": {
     "question1": "Che cosa è Dexie?",
-    "answer1": "<p class='my-5'>Dexie è un Exchange peer-to-peer per i file delle offerte Chia. I file delle offerte sono completamente decentralizzati e affidabili.</p><p class='my-5'>Dexie non detiene in custodia alcuna moneta, queste rimangono sempre nel portafoglio dell'utente fino a quando l'offerta non viene accettata, a quel punto le risorse vengono trasferite in modo sicuro tra il venditore e l'acquirente all'interno di un'unica transazione sulla blockchain senza alcun intermediario.</p><p class='my-5'>Scopri i vantaggi dei file offerta sul sito ufficiale della <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>documentazione di Chia Network</a>.</p>",
+    "answer1": "<p class='my-5'>Dexie è un Exchange peer-to-peer per i file delle offerte Chia. I file delle offerte sono completamente decentralizzati e affidabili.</p><p class='my-5'>Dexie non detiene in custodia alcuna moneta, queste rimangono sempre nel portafogli dell'utente fino a quando l'offerta non viene accettata, a quel punto le risorse vengono trasferite in modo sicuro tra il venditore e l'acquirente all'interno di un'unica transazione sulla blockchain senza alcun intermediario.</p><p class='my-5'>Scopri i vantaggi dei file offerta sul sito ufficiale della <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>documentazione di Chia Network</a>.</p>",
     "question2": "Supporto o domande?",
     "answer2": "<p class='my-5'>Contattaci su Twitter a <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> o raggiungici su <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, siamo felici di poterti aiutare.</p>"
   },
