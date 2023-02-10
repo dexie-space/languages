@@ -77,6 +77,7 @@
     "Yearly Trades": "Årlige handler",
     "Suspicious trading activity (inflated volume)": "Mistenkelig handelsaktivitet (oppblåst volum)",
     "Any Asset": "Enhver eiendel",
+    "Showing Newest": "",
     "NFT Collection": "NFT-samling",
     "Everything": "Alt",
     "NFT Collections": "NFT-samlinger",
@@ -246,6 +247,7 @@
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
     "gobyError4900": "Goby er ikke tilkoblet",
     "Offer accepted": "Tilbud akseptert",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {

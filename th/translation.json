@@ -76,6 +76,7 @@
     "Yearly Trades": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
+    "Showing Newest": "",
     "NFT Collection": "",
     "Everything": "",
     "NFT Collections": "",
@@ -241,6 +242,7 @@
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {

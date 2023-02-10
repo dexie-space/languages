@@ -76,6 +76,7 @@
     "Yearly Trades": "Perdagangan Tahunan",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
+    "Showing Newest": "",
     "NFT Collection": "Koleksi NFT",
     "Everything": "Semuanya",
     "NFT Collections": "Koleksi NFT",
@@ -242,6 +243,7 @@
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
     "gobyError4900": "Goby tidak terhubung",
     "Offer accepted": "Penawaran diterima",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {

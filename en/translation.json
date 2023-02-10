@@ -77,6 +77,7 @@
     "Yearly Trades": "Yearly Trades",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
     "Any Asset": "Any Asset",
+    "Showing Newest": "Showing Newest",
     "NFT Collection": "NFT Collection",
     "Everything": "Everything",
     "NFT Collections": "NFT Collections",
@@ -246,6 +247,7 @@
     "gobyError4001": "Please finish setting up Goby first.",
     "gobyError4900": "Goby is not connected",
     "Offer accepted": "Offer accepted",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": "The connected wallet does not support this action."
   },
   "Assets": {

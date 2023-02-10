@@ -79,6 +79,7 @@
     "Yearly Trades": "Roczna liczba transakcji",
     "Suspicious trading activity (inflated volume)": "Podejrzane transakcje (sztuczny obrót)",
     "Any Asset": "Dowolne",
+    "Showing Newest": "",
     "NFT Collection": "Kolekcja NFT",
     "Everything": "Wszystko",
     "NFT Collections": "Kolekcje NFT",
@@ -256,6 +257,7 @@
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Portfel Goby nie jest połączony",
     "Offer accepted": "Oferta zaakceptowana",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {

@@ -81,6 +81,7 @@
     "Yearly Trades": "الصفقات السنوية",
     "Suspicious trading activity (inflated volume)": "نشاط تداول مشبوه (حجم مضخم)",
     "Any Asset": "أي الأصول",
+    "Showing Newest": "",
     "NFT Collection": "مجموعة NFT",
     "Everything": "كل شىء",
     "NFT Collections": "مجموعات NFT",
@@ -266,6 +267,7 @@
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
     "gobyError4900": "لم يتم توصيل Gobyd",
     "Offer accepted": "عرض قبول",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {

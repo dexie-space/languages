@@ -77,6 +77,7 @@
     "Yearly Trades": "Árleg viðskipti",
     "Suspicious trading activity (inflated volume)": "Grunsamleg viðskipti (uppblásið magn)",
     "Any Asset": "Hvaða eign sem er",
+    "Showing Newest": "",
     "NFT Collection": "NFT safn",
     "Everything": "Allt",
     "NFT Collections": "NFT söfn",
@@ -246,6 +247,7 @@
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",
     "gobyError4900": "Goby er ekki tengdur",
     "Offer accepted": "Tilboði tekið",
+    "Please reconnect your wallet in order to perform this action": "",
     "The connected wallet does not support this action": ""
   },
   "Assets": {
