@@ -257,8 +257,8 @@
     "gobyError4001": "Памылка Goby 4001",
     "gobyError4900": "Памылка Goby 4900",
     "Offer accepted": "Прапанова прынята",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Шукаць {{count}} актыў",

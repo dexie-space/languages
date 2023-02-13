@@ -267,8 +267,8 @@
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
     "gobyError4900": "لم يتم توصيل Gobyd",
     "Offer accepted": "عرض قبول",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_zero": "البحث {{count}} الصفر",

@@ -247,8 +247,8 @@
     "gobyError4001": "Bitte richte erst Goby ein",
     "gobyError4900": "Goby ist nicht verbunden",
     "Offer accepted": "Angebot angenommen",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Suche {{count}} Währung",

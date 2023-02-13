@@ -252,8 +252,8 @@
     "gobyError4001": "Primero termine de configurar Goby.",
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": "La billetera conectada no admite esta acción"
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Buscar {{count}} activo",

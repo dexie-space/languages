@@ -252,8 +252,8 @@
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
     "Offer accepted": "Offerta Accettata",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": "Il portafogli connesso non accetta questa azione"
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Trova Asset Attivo",
