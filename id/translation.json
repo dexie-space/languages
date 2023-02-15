@@ -336,7 +336,7 @@
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
     "no filters selected": "Tidak ada filter yang dipilih",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "Biaya transaksi (biaya yang lebih tinggi = prioritas yang lebih tinggi)",
     "Low Transaction Fee (low priority) {{fee}}": "Biaya transaksi rendah (prioritas rendah) {{fee}}",
     "Low Fee": "Biaya rendah"

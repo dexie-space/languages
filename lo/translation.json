@@ -335,7 +335,7 @@
     "mempoolExplanation": "ຈໍານວນການເຮັດທຸລະກໍາທີ່ລໍຖ້າຖືກລວມເຂົ້າໃນບລັອກ",
     "mempoolSize": "Mempool",
     "no filters selected": "ບໍ່ໄດ້ເລືອກການກັ່ນຕອງ",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "ຄ່າທຳນຽມທຸລະກຳ (ຄ່າທຳນຽມສູງກວ່າ = ບຸລິມະສິດສູງກວ່າ)",
     "Low Transaction Fee (low priority) {{fee}}": "ຄ່າທຳນຽມທຸລະກຳຕ່ຳ (ບຸລິມະສິດຕໍ່າ) {{fee}}",
     "Low Fee": "ຄ່າທຳນຽມຕໍ່າ"

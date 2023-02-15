@@ -342,7 +342,7 @@
     "mempoolExplanation": "Transaksjoner som for øyeblikket venter på å bli inkludert i en blokk.",
     "mempoolSize": "Mempool",
     "no filters selected": "ingen filtre er valgt",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "Transaksjonsgebyr (høyere gebyr = høyere prioritet)",
     "Low Transaction Fee (low priority) {{fee}}": "Lavt transaksjonsgebyr (lav prioritet): {{fee}}",
     "Low Fee": "Lav avgift"

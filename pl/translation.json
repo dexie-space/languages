@@ -77,7 +77,7 @@
     "Yearly Trades": "Roczna liczba transakcji",
     "Suspicious trading activity (inflated volume)": "Podejrzane transakcje (sztuczny obrót)",
     "Any Asset": "Dowolne",
-    "Showing Newest": "",
+    "Showing Newest": "Najnowsze oferty",
     "NFT Collection": "Kolekcja NFT",
     "Everything": "Wszystko",
     "NFT Collections": "Kolekcje NFT",
@@ -256,8 +256,8 @@
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Portfel Goby nie jest połączony",
     "Offer accepted": "Oferta zaakceptowana",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Asset added": "Dodano token",
+    "Please reconnect your wallet to perform this action": "Połącz portfel ponownie, aby wykonać tę czynność."
   },
   "Assets": {
     "Search {{count}} assets_one": "Wyszukaj {{count}} token",
@@ -267,7 +267,7 @@
     "Powered by Taildatabase": "Dane dostarczane przez Taildatabase",
     "Code": "Symbol",
     "Asset ID": "ID tokenu",
-    "Current Average Price": "",
+    "Current Average Price": "Aktualna średnia cena",
     "{{code}} Liquidity": "Płynność {{code}}"
   },
   "contributors": {
@@ -356,7 +356,7 @@
     "mempoolExplanation": "Transakcje, które aktualnie oczekują na zatwierdzenie w bloku.",
     "mempoolSize": "Mempool",
     "no filters selected": "Nie wybrano żadnych filtrów",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "Opłata transakcyjna (wyższa opłata = krótszy czas oczekiwania)",
     "Low Transaction Fee (low priority) {{fee}}": "Niska opłata transakcyjna (niski priorytet): {{fee}}",
     "Low Fee": "Niska opłata"

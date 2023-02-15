@@ -335,7 +335,7 @@
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "필터가 선택되지 않았습니다",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
     "Low Fee": ""

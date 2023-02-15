@@ -335,7 +335,7 @@
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
     "no filters selected": "未选择过滤条件",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "交易费用（更高的费用=更高的优先级）",
     "Low Transaction Fee (low priority) {{fee}}": "低交易费（低优先级）{{fee}}",
     "Low Fee": "低费用"

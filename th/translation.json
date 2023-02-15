@@ -335,7 +335,7 @@
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
     "no filters selected": "ไม่ได้เลือกตัวคัดกรอง",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
     "Low Fee": ""

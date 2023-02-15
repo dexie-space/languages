@@ -349,7 +349,7 @@
     "mempoolExplanation": "Transactions en attente d'être inclues dans un bloc",
     "mempoolSize": "Mempool",
     "no filters selected": "Pas de filtre sélectionné",
-    "Toggle offers with suspicious trading activity": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "Frais de transaction (frais plus élevés = priorité plus élevée)",
     "Low Transaction Fee (low priority) {{fee}}": "Frais de transaction faibles (faible priorité) {{fee}}",
     "Low Fee": "Faibles frais"
