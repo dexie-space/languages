@@ -76,7 +76,7 @@
     "Yearly Trades": "Operaciones anuales",
     "Suspicious trading activity (inflated volume)": "Operación sospechosa (volumen inflado)",
     "Any Asset": "Cualquier activo",
-    "Showing Newest": "",
+    "Showing Newest": "Mostrando el mas nuevo",
     "NFT Collection": "Colección NFT",
     "Everything": "Todo",
     "NFT Collections": "Colecciones NFT",
@@ -251,8 +251,8 @@
     "gobyError4001": "Primero termine de configurar Goby.",
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Asset added": "Activo agregado",
+    "Please reconnect your wallet to perform this action": "Vuelva a conectar su billetera para realizar esta acción"
   },
   "Assets": {
     "Search {{count}} assets_one": "Buscar {{count}} activo",
@@ -261,7 +261,7 @@
     "Powered by Taildatabase": "Conectado con Taildatabase",
     "Code": "Código",
     "Asset ID": "ID del Activo",
-    "Current Average Price": "",
+    "Current Average Price": "Precio promedio actual",
     "{{code}} Liquidity": "{{code}} Liquidez"
   },
   "contributors": {
