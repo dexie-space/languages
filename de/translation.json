@@ -122,12 +122,13 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "",
+    "Help translate": "Hilf übersetzen",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Alle Blöcke sind voll ausgelastet, empfohlene Transaktionsgebühr: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synchronisiert",
     "disconnected": "getrennt",
     "connecting": "verbinde",
-    "Help translate": "Hilf übersetzen"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",

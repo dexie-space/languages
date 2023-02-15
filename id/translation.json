@@ -121,12 +121,13 @@
   "footer": {
     "Public API": "Publik API",
     "Combined Offers": "Penawaran Gabungan",
+    "Help translate": "Membantu menerjemahkan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
     "disconnected": "terputus",
     "connecting": "menghubungkan",
-    "Help translate": "Membantu menerjemahkan"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Penawaran File berhasil diindeks",

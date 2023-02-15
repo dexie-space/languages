@@ -124,12 +124,13 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "Комбинированные предложения",
+    "Help translate": "Помогите перевести",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронизировано",
     "disconnected": "отключено",
     "connecting": "подключено",
-    "Help translate": "Помогите перевести"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл предложения проиндексирован успешно",

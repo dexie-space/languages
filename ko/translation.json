@@ -121,12 +121,13 @@
   "footer": {
     "Public API": "",
     "Combined Offers": "",
+    "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "",
     "synced": "동기화",
     "disconnected": "",
     "connecting": "",
-    "Help translate": ""
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",

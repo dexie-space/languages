@@ -122,12 +122,13 @@
   "footer": {
     "Public API": "Offentlig API",
     "Combined Offers": "Kombinerte tilbud",
+    "Help translate": "Hjelp til å oversette",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkeringene er fullt utnyttet, anbefalt transaksjonsgebyr {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synkronisert",
     "disconnected": "frakoblet",
     "connecting": "kobler til",
-    "Help translate": "Hjelp til å oversette"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Tilbudsfilen er vellykket indeksert.",

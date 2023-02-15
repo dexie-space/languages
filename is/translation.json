@@ -122,12 +122,13 @@
   "footer": {
     "Public API": "Opinber API",
     "Combined Offers": "Samsett tilboð",
+    "Help translate": "Hjálpaðu til við að þýða",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkir eru fullnýttir, ráðlagt viðskiptagjald: {{fee}} {{xch}}",
     "Status": "Staða",
     "synced": "samstillt",
     "disconnected": "aftengt",
     "connecting": "tengja",
-    "Help translate": "Hjálpaðu til við að þýða"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Tilboðsskrá var skráð.",

@@ -121,12 +121,13 @@
   "footer": {
     "Public API": "",
     "Combined Offers": "",
+    "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "สถานะ",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
     "connecting": "กำลังเชื่อมต่อ",
-    "Help translate": ""
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",

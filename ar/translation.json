@@ -126,12 +126,13 @@
   "footer": {
     "Public API": "API العامة",
     "Combined Offers": "عروض مجتمعة",
+    "Help translate": "مساعدة في الترجمة",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "يتم استخدام الكتل بالكامل ، ويوصى برسوم المعاملات: {{fee}} {{xch}}",
     "Status": "حالة",
     "synced": "تمت مزامنتها",
     "disconnected": "انقطع الاتصال",
     "connecting": "توصيل",
-    "Help translate": "مساعدة في الترجمة"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "عرض ملف الفهرسة بنجاح.",

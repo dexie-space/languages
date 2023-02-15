@@ -124,12 +124,13 @@
   "footer": {
     "Public API": "Грамадскі API",
     "Combined Offers": "Камбінаваныя прапановы",
+    "Help translate": "Дапамажыце перакласці",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блокі поўнасцю выкарыстаны, рэкамендаваная плата за транзакцыю: {{fee}} {{xch}}",
     "Status": "Стан",
     "synced": "сінхранізаваны",
     "disconnected": "адключаны",
     "connecting": "падключэнне",
-    "Help translate": "Дапамажыце перакласці"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл прапановы паспяхова праіндэксаваны",

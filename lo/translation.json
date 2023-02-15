@@ -121,12 +121,13 @@
   "footer": {
     "Public API": "API ສາທາລະນະ",
     "Combined Offers": "ຂໍ້ສະເໜີລວມ",
+    "Help translate": "ຊ່ວຍແປ",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "ບລັອກຖືກນຳໃຊ້ຢ່າງເຕັມທີ່, ຄ່າທຳນຽມທຸລະກຳທີ່ແນະນຳ {{fee}} {{xch}}",
     "Status": "ສະຖານະ",
     "synced": "ເຊື່ອມຕໍ່",
     "disconnected": "ສູນເສຍການເຊື່ອມຕໍ່",
     "connecting": "ເຊື່ອມຕໍ່",
-    "Help translate": "ຊ່ວຍແປ"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ໄຟລ໌ຂໍ້ສະເໜີໄດ້ຖືກບັນທຶກແລ້ວ",
