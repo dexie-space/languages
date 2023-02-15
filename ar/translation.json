@@ -126,13 +126,12 @@
   "footer": {
     "Public API": "API العامة",
     "Combined Offers": "عروض مجتمعة",
-    "Help translate": "مساعدة في الترجمة",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "يتم استخدام الكتل بالكامل ، ويوصى برسوم المعاملات: {{fee}} {{xch}}",
     "Status": "حالة",
     "synced": "تمت مزامنتها",
     "disconnected": "انقطع الاتصال",
     "connecting": "توصيل",
-    "More": ""
+    "Help translate": "مساعدة في الترجمة"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "عرض ملف الفهرسة بنجاح.",
@@ -370,6 +369,7 @@
     "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
     "mempoolSize": "Mempool",
     "no filters selected": "لم يتم تحديد أي عوامل تصفية",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "رسوم المعاملات (رسوم أعلى = أولوية أعلى)",
     "Low Transaction Fee (low priority) {{fee}}": "رسوم معاملات منخفضة (أولوية منخفضة): {{fee}}",
     "Low Fee": "رسوم منخفضة"

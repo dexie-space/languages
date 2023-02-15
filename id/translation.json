@@ -121,13 +121,12 @@
   "footer": {
     "Public API": "Publik API",
     "Combined Offers": "Penawaran Gabungan",
-    "Help translate": "Membantu menerjemahkan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
     "disconnected": "terputus",
     "connecting": "menghubungkan",
-    "More": ""
+    "Help translate": "Membantu menerjemahkan"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Penawaran File berhasil diindeks",
@@ -336,6 +335,7 @@
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
     "no filters selected": "Tidak ada filter yang dipilih",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "Biaya transaksi (biaya yang lebih tinggi = prioritas yang lebih tinggi)",
     "Low Transaction Fee (low priority) {{fee}}": "Biaya transaksi rendah (prioritas rendah) {{fee}}",
     "Low Fee": "Biaya rendah"

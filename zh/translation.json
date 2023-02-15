@@ -121,13 +121,12 @@
   "footer": {
     "Public API": "公共 API",
     "Combined Offers": "合并优惠",
-    "Help translate": "帮助翻译",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",
     "synced": "已同步",
     "disconnected": "已断开连接",
     "connecting": "链接中",
-    "More": ""
+    "Help translate": "帮助翻译"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
@@ -335,6 +334,7 @@
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
     "no filters selected": "未选择过滤条件",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "交易费用（更高的费用=更高的优先级）",
     "Low Transaction Fee (low priority) {{fee}}": "低交易费（低优先级）{{fee}}",
     "Low Fee": "低费用"

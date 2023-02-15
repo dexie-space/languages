@@ -121,13 +121,12 @@
   "footer": {
     "Public API": "API ສາທາລະນະ",
     "Combined Offers": "ຂໍ້ສະເໜີລວມ",
-    "Help translate": "ຊ່ວຍແປ",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "ບລັອກຖືກນຳໃຊ້ຢ່າງເຕັມທີ່, ຄ່າທຳນຽມທຸລະກຳທີ່ແນະນຳ {{fee}} {{xch}}",
     "Status": "ສະຖານະ",
     "synced": "ເຊື່ອມຕໍ່",
     "disconnected": "ສູນເສຍການເຊື່ອມຕໍ່",
     "connecting": "ເຊື່ອມຕໍ່",
-    "More": ""
+    "Help translate": "ຊ່ວຍແປ"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ໄຟລ໌ຂໍ້ສະເໜີໄດ້ຖືກບັນທຶກແລ້ວ",
@@ -335,6 +334,7 @@
     "mempoolExplanation": "ຈໍານວນການເຮັດທຸລະກໍາທີ່ລໍຖ້າຖືກລວມເຂົ້າໃນບລັອກ",
     "mempoolSize": "Mempool",
     "no filters selected": "ບໍ່ໄດ້ເລືອກການກັ່ນຕອງ",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "ຄ່າທຳນຽມທຸລະກຳ (ຄ່າທຳນຽມສູງກວ່າ = ບຸລິມະສິດສູງກວ່າ)",
     "Low Transaction Fee (low priority) {{fee}}": "ຄ່າທຳນຽມທຸລະກຳຕ່ຳ (ບຸລິມະສິດຕໍ່າ) {{fee}}",
     "Low Fee": "ຄ່າທຳນຽມຕໍ່າ"

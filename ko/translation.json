@@ -121,13 +121,12 @@
   "footer": {
     "Public API": "",
     "Combined Offers": "",
-    "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "",
     "synced": "동기화",
     "disconnected": "",
     "connecting": "",
-    "More": ""
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",
@@ -335,6 +334,7 @@
     "mempoolExplanation": "",
     "mempoolSize": "",
     "no filters selected": "필터가 선택되지 않았습니다",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
     "Low Fee": ""

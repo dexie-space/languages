@@ -123,13 +123,12 @@
   "footer": {
     "Public API": "API Publique",
     "Combined Offers": "Offres combinées",
-    "Help translate": "Aider à traduire",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Les Blocs sont remplis, frais de transaction recommandés {{fee}} {{xch}}",
     "Status": "Statut",
     "synced": "synchronisé",
     "disconnected": "déconnecté",
     "connecting": "en cours de connection",
-    "More": ""
+    "Help translate": "Aider à traduire"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès",
@@ -349,6 +348,7 @@
     "mempoolExplanation": "Transactions en attente d'être inclues dans un bloc",
     "mempoolSize": "Mempool",
     "no filters selected": "Pas de filtre sélectionné",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "Frais de transaction (frais plus élevés = priorité plus élevée)",
     "Low Transaction Fee (low priority) {{fee}}": "Frais de transaction faibles (faible priorité) {{fee}}",
     "Low Fee": "Faibles frais"

@@ -124,13 +124,12 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "Комбіновані пропозиції",
-    "Help translate": "Допоможіть перекласти",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронізовано",
     "disconnected": "відключено",
     "connecting": "підключено",
-    "More": ""
+    "Help translate": "Допоможіть перекласти"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
@@ -356,6 +355,7 @@
     "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
     "mempoolSize": "розмір мемпулу",
     "no filters selected": "фільтрів не вибрано",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "Комісія за транзакцію (вища комісія = вищий пріоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низька комісія за транзакцію (низький пріоритет) {{fee}}",
     "Low Fee": "Низька комісія"

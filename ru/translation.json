@@ -124,13 +124,12 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "Комбинированные предложения",
-    "Help translate": "Помогите перевести",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронизировано",
     "disconnected": "отключено",
     "connecting": "подключено",
-    "More": ""
+    "Help translate": "Помогите перевести"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл предложения проиндексирован успешно",
@@ -356,6 +355,7 @@
     "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
     "mempoolSize": "размер мемпула",
     "no filters selected": "не выбрано фильтров",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
     "Low Fee": "Низкая комиссия"

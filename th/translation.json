@@ -121,13 +121,12 @@
   "footer": {
     "Public API": "",
     "Combined Offers": "",
-    "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "สถานะ",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
     "connecting": "กำลังเชื่อมต่อ",
-    "More": ""
+    "Help translate": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
@@ -335,6 +334,7 @@
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
     "no filters selected": "ไม่ได้เลือกตัวคัดกรอง",
+    "Toggle offers with suspicious trading activity": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
     "Low Fee": ""
