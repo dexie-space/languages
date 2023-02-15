@@ -60,15 +60,13 @@
     "Add to Wallet": "Додати до гаманця",
     "Trade": "Торгівля",
     "Description": "Опис",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "Денним об'ємом",
     "Website": "Веб-сайт",
     "Friends": "Друзі",
     "Transaction Fee": "Комісія за транзакцію",
     "Mempool Transaction ID": "Ідентифікатор транзакції Мемпулу",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Пропозицією",
-    "Daily Volume": "Денним об'ємом",
     "Weekly Volume": "Тижневим об'ємом",
     "Monthly Volume": "Місячним об'ємом",
     "Yearly Volume": "Річним об'ємом",
@@ -79,6 +77,7 @@
     "Yearly Trades": "Річною торгівлею",
     "Suspicious trading activity (inflated volume)": "Підозріла торгова діяльність (завищений обсяг)",
     "Any Asset": "Будь-який актив",
+    "Showing Newest": "",
     "NFT Collection": "НФТ колекція",
     "Everything": "Усі",
     "NFT Collections": "НФТ колекції",
@@ -257,8 +256,8 @@
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
     "Offer accepted": "Пропозиція прийнята",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Пошук {{count}} активу",
@@ -268,6 +267,7 @@
     "Powered by Taildatabase": "На базі Taildatabase",
     "Code": "Код",
     "Asset ID": "Ідентифікатор активу",
+    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Ліквідність"
   },
   "contributors": {

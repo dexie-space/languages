@@ -57,15 +57,13 @@
     "Add to Wallet": "",
     "Trade": "거래",
     "Description": "",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "",
     "Website": "",
     "Friends": "",
     "Transaction Fee": "",
     "Mempool Transaction ID": "",
     "Uploading": "업로딩...",
     "Currently Offered": "",
-    "Daily Volume": "",
     "Weekly Volume": "",
     "Monthly Volume": "",
     "Yearly Volume": "",
@@ -76,6 +74,7 @@
     "Yearly Trades": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
+    "Showing Newest": "",
     "NFT Collection": "",
     "Everything": "",
     "NFT Collections": "",
@@ -242,14 +241,15 @@
     "gobyError4001": "",
     "gobyError4900": "",
     "Offer accepted": "제안 수락되었습니다",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": "",
     "Code": "",
     "Asset ID": "",
+    "Current Average Price": "",
     "{{code}} Liquidity": ""
   },
   "contributors": {

@@ -60,15 +60,13 @@
     "Add to Wallet": "Dodaj do portfela",
     "Trade": "Handluj",
     "Description": "Opis",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "Dzienny obrót",
     "Website": "Strona",
     "Friends": "Przyjaciele",
     "Transaction Fee": "Opłata transakcyjna",
     "Mempool Transaction ID": "ID transakcji w mempoolu",
     "Uploading": "Wysyłanie...",
     "Currently Offered": "Suma ofert",
-    "Daily Volume": "Dzienny obrót",
     "Weekly Volume": "Tygodniowy obrót",
     "Monthly Volume": "Miesięczny obrót",
     "Yearly Volume": "Roczny obrót",
@@ -79,6 +77,7 @@
     "Yearly Trades": "Roczna liczba transakcji",
     "Suspicious trading activity (inflated volume)": "Podejrzane transakcje (sztuczny obrót)",
     "Any Asset": "Dowolne",
+    "Showing Newest": "",
     "NFT Collection": "Kolekcja NFT",
     "Everything": "Wszystko",
     "NFT Collections": "Kolekcje NFT",
@@ -257,8 +256,8 @@
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Portfel Goby nie jest połączony",
     "Offer accepted": "Oferta zaakceptowana",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Wyszukaj {{count}} token",
@@ -268,6 +267,7 @@
     "Powered by Taildatabase": "Dane dostarczane przez Taildatabase",
     "Code": "Symbol",
     "Asset ID": "ID tokenu",
+    "Current Average Price": "",
     "{{code}} Liquidity": "Płynność {{code}}"
   },
   "contributors": {

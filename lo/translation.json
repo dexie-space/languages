@@ -57,15 +57,13 @@
     "Add to Wallet": "",
     "Trade": "ການຄ້າ",
     "Description": "ລາຍລະອຽດ",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "ປະລິມານປະຈໍາວັນ",
     "Website": "ເວັບໄຊທ໌",
     "Friends": "ເພື່ອນ",
     "Transaction Fee": "ຄ່າທຳນຽມທຸລະກຳ",
     "Mempool Transaction ID": "ລະຫັດທຸລະກໍາ Mempool",
     "Uploading": "ກຳລັງອັບໂຫລດ...",
     "Currently Offered": "ປະຈຸບັນສະເຫນີ",
-    "Daily Volume": "ປະລິມານປະຈໍາວັນ",
     "Weekly Volume": "ປະລິມານປະຈໍາອາທິດ",
     "Monthly Volume": "ປະລິມານປະຈໍາເດືອນ",
     "Yearly Volume": "ປະລິມານປະຈໍາປີ",
@@ -76,6 +74,7 @@
     "Yearly Trades": "ການຄ້າປະຈໍາປີ",
     "Suspicious trading activity (inflated volume)": "ການເຄື່ອນໄຫວການຊື້ຂາຍທີ່ໜ້າສົງໄສ (ປະລິມານທີ່ເພີ່ມຂຶ້ນ)",
     "Any Asset": "ຊັບສິນໃດນຶ່ງ",
+    "Showing Newest": "",
     "NFT Collection": "ການເກັບ NFT",
     "Everything": "ທຸກຢ່າງ",
     "NFT Collections": "ຄໍເລັກຊັນ NFT",
@@ -242,14 +241,15 @@
     "gobyError4001": "ກະລຸນາສຳເລັດການຕິດຕັ້ງ Goby ກ່ອນ",
     "gobyError4900": "ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Goby",
     "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "ຊອກຫາຊັບສິນ {{count}}",
     "Powered by Taildatabase": "ຂັບເຄື່ອນໂດຍ Taidatabase",
     "Code": "ລະຫັດ",
     "Asset ID": "ID ຊັບສິນ",
+    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} ສະພາບຄ່ອງ"
   },
   "contributors": {

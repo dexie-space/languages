@@ -58,15 +58,13 @@
     "Add to Wallet": "",
     "Trade": "Verslun",
     "Description": "Lýsing",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "Daglegt bindi",
     "Website": "Vefsíða",
     "Friends": "Vinir",
     "Transaction Fee": "Færslugjald",
     "Mempool Transaction ID": "Mempool færslukenni",
     "Uploading": "Hleður upp...",
     "Currently Offered": "Núna í boði",
-    "Daily Volume": "Daglegt bindi",
     "Weekly Volume": "Vikulegt bindi",
     "Monthly Volume": "Mánaðarlegt bindi",
     "Yearly Volume": "Árlegt bindi",
@@ -77,6 +75,7 @@
     "Yearly Trades": "Árleg viðskipti",
     "Suspicious trading activity (inflated volume)": "Grunsamleg viðskipti (uppblásið magn)",
     "Any Asset": "Hvaða eign sem er",
+    "Showing Newest": "",
     "NFT Collection": "NFT safn",
     "Everything": "Allt",
     "NFT Collections": "NFT söfn",
@@ -247,8 +246,8 @@
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",
     "gobyError4900": "Goby er ekki tengdur",
     "Offer accepted": "Tilboði tekið",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",
@@ -256,6 +255,7 @@
     "Powered by Taildatabase": "Keyrt af Taildatabase",
     "Code": "Kóði",
     "Asset ID": "Eignakenni",
+    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Lausafjárstaða"
   },
   "contributors": {

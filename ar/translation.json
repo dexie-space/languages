@@ -62,15 +62,13 @@
     "Add to Wallet": "",
     "Trade": "تجارة",
     "Description": "الوصف",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "الحجم اليومي",
     "Website": "موقع الكتروني",
     "Friends": "أصدقاء",
     "Transaction Fee": "رسوم المعاملة",
     "Mempool Transaction ID": "معرف معاملة Mempool",
     "Uploading": "ذاهبين للأعلى...",
     "Currently Offered": "عرضت حاليا",
-    "Daily Volume": "الحجم اليومي",
     "Weekly Volume": "الحجم الأسبوعي",
     "Monthly Volume": "الحجم الشهري",
     "Yearly Volume": "الحجم السنوي",
@@ -81,6 +79,7 @@
     "Yearly Trades": "الصفقات السنوية",
     "Suspicious trading activity (inflated volume)": "نشاط تداول مشبوه (حجم مضخم)",
     "Any Asset": "أي الأصول",
+    "Showing Newest": "",
     "NFT Collection": "مجموعة NFT",
     "Everything": "كل شىء",
     "NFT Collections": "مجموعات NFT",
@@ -267,8 +266,8 @@
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
     "gobyError4900": "لم يتم توصيل Gobyd",
     "Offer accepted": "عرض قبول",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_zero": "البحث {{count}} الصفر",
@@ -280,6 +279,7 @@
     "Powered by Taildatabase": "مدعوم من Taildatabase",
     "Code": "شفرة",
     "Asset ID": "معرف الأصول",
+    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} السيولة"
   },
   "contributors": {

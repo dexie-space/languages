@@ -58,15 +58,13 @@
     "Add to Wallet": "Add to Wallet",
     "Trade": "Trade",
     "Description": "Description",
-    "Category": "",
-    "Total supply": "",
+    "Daily Volume": "Daily Volume",
     "Website": "Website",
     "Friends": "Friends",
     "Transaction Fee": "Transaction Fee",
     "Mempool Transaction ID": "Mempool Transaction ID",
     "Uploading": "Uploading...",
     "Currently Offered": "Currently Offered",
-    "Daily Volume": "Daily Volume",
     "Weekly Volume": "Weekly Volume",
     "Monthly Volume": "Monthly Volume",
     "Yearly Volume": "Yearly Volume",
@@ -77,6 +75,7 @@
     "Yearly Trades": "Yearly Trades",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
     "Any Asset": "Any Asset",
+    "Showing Newest": "",
     "NFT Collection": "NFT Collection",
     "Everything": "Everything",
     "NFT Collections": "NFT Collections",
@@ -247,8 +246,8 @@
     "gobyError4001": "Please finish setting up Goby first.",
     "gobyError4900": "Goby is not connected",
     "Offer accepted": "Offer accepted",
-    "Please reconnect your wallet in order to perform this action": "",
-    "The connected wallet does not support this action": ""
+    "Asset added": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Search {{count}} asset",
@@ -256,6 +255,7 @@
     "Powered by Taildatabase": "Powered by Taildatabase",
     "Code": "Code",
     "Asset ID": "Asset ID",
+    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Liquidity"
   },
   "contributors": {
