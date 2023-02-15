@@ -57,13 +57,15 @@
     "Add to Wallet": "",
     "Trade": "ซื้อขาย",
     "Description": "",
-    "Daily Volume": "",
+    "Category": "",
+    "Total supply": "",
     "Website": "",
     "Friends": "",
     "Transaction Fee": "",
     "Mempool Transaction ID": "",
     "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
+    "Daily Volume": "",
     "Weekly Volume": "",
     "Monthly Volume": "",
     "Yearly Volume": "",
@@ -74,7 +76,6 @@
     "Yearly Trades": "",
     "Suspicious trading activity (inflated volume)": "",
     "Any Asset": "",
-    "Showing Newest": "",
     "NFT Collection": "",
     "Everything": "",
     "NFT Collections": "",
@@ -121,12 +122,13 @@
   "footer": {
     "Public API": "",
     "Combined Offers": "",
+    "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "สถานะ",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
     "connecting": "กำลังเชื่อมต่อ",
-    "Help translate": ""
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
@@ -240,15 +242,14 @@
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "",
     "Powered by Taildatabase": "",
     "Code": "",
     "Asset ID": "",
-    "Current Average Price": "",
     "{{code}} Liquidity": ""
   },
   "contributors": {

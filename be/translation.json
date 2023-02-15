@@ -60,13 +60,15 @@
     "Add to Wallet": "",
     "Trade": "Гандаль",
     "Description": "Апісанне",
-    "Daily Volume": "Штодзённы аб'ём",
+    "Category": "",
+    "Total supply": "",
     "Website": "Вэб-сайт",
     "Friends": "Сябры",
     "Transaction Fee": "Збор за транзакцыю",
     "Mempool Transaction ID": "Ідэнтыфікатар транзакцыі Мемпула",
     "Uploading": "Загрузка...",
     "Currently Offered": "Актуальная прапанова",
+    "Daily Volume": "Штодзённы аб'ём",
     "Weekly Volume": "Тыднёвы аб'ём",
     "Monthly Volume": "Месячны аб'ём",
     "Yearly Volume": "Гадавы аб'ём",
@@ -77,7 +79,6 @@
     "Yearly Trades": "Гадавы гандаль",
     "Suspicious trading activity (inflated volume)": "Падазроная гандлёвая дзейнасць (завышаны аб'ём)",
     "Any Asset": "Любы актыў",
-    "Showing Newest": "",
     "NFT Collection": "Калекцыя NFT",
     "Everything": "Усе",
     "NFT Collections": "Калекцыі NFT",
@@ -124,12 +125,13 @@
   "footer": {
     "Public API": "Грамадскі API",
     "Combined Offers": "Камбінаваныя прапановы",
+    "Help translate": "Дапамажыце перакласці",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блокі поўнасцю выкарыстаны, рэкамендаваная плата за транзакцыю: {{fee}} {{xch}}",
     "Status": "Стан",
     "synced": "сінхранізаваны",
     "disconnected": "адключаны",
     "connecting": "падключэнне",
-    "Help translate": "Дапамажыце перакласці"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл прапановы паспяхова праіндэксаваны",
@@ -255,8 +257,8 @@
     "gobyError4001": "Памылка Goby 4001",
     "gobyError4900": "Памылка Goby 4900",
     "Offer accepted": "Прапанова прынята",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Шукаць {{count}} актыў",
@@ -266,7 +268,6 @@
     "Powered by Taildatabase": "Працуе на Taildatabase",
     "Code": "Код",
     "Asset ID": "Ідэнтыфікатар актыву",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Ліквіднасць"
   },
   "contributors": {

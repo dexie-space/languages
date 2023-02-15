@@ -58,13 +58,15 @@
     "Add to Wallet": "",
     "Trade": "Verslun",
     "Description": "Lýsing",
-    "Daily Volume": "Daglegt bindi",
+    "Category": "",
+    "Total supply": "",
     "Website": "Vefsíða",
     "Friends": "Vinir",
     "Transaction Fee": "Færslugjald",
     "Mempool Transaction ID": "Mempool færslukenni",
     "Uploading": "Hleður upp...",
     "Currently Offered": "Núna í boði",
+    "Daily Volume": "Daglegt bindi",
     "Weekly Volume": "Vikulegt bindi",
     "Monthly Volume": "Mánaðarlegt bindi",
     "Yearly Volume": "Árlegt bindi",
@@ -75,7 +77,6 @@
     "Yearly Trades": "Árleg viðskipti",
     "Suspicious trading activity (inflated volume)": "Grunsamleg viðskipti (uppblásið magn)",
     "Any Asset": "Hvaða eign sem er",
-    "Showing Newest": "",
     "NFT Collection": "NFT safn",
     "Everything": "Allt",
     "NFT Collections": "NFT söfn",
@@ -122,12 +123,13 @@
   "footer": {
     "Public API": "Opinber API",
     "Combined Offers": "Samsett tilboð",
+    "Help translate": "Hjálpaðu til við að þýða",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkir eru fullnýttir, ráðlagt viðskiptagjald: {{fee}} {{xch}}",
     "Status": "Staða",
     "synced": "samstillt",
     "disconnected": "aftengt",
     "connecting": "tengja",
-    "Help translate": "Hjálpaðu til við að þýða"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Tilboðsskrá var skráð.",
@@ -245,8 +247,8 @@
     "gobyError4001": "Vinsamlega kláraðu að setja upp Goby fyrst.",
     "gobyError4900": "Goby er ekki tengdur",
     "Offer accepted": "Tilboði tekið",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",
@@ -254,7 +256,6 @@
     "Powered by Taildatabase": "Keyrt af Taildatabase",
     "Code": "Kóði",
     "Asset ID": "Eignakenni",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Lausafjárstaða"
   },
   "contributors": {

@@ -57,13 +57,15 @@
     "Add to Wallet": "",
     "Trade": "交易",
     "Description": "描述",
-    "Daily Volume": "每日交易量",
+    "Category": "",
+    "Total supply": "",
     "Website": "网站",
     "Friends": "朋友们",
     "Transaction Fee": "手续费",
     "Mempool Transaction ID": "内存池交易 ID",
     "Uploading": "上传中...",
     "Currently Offered": "当前提供的",
+    "Daily Volume": "每日交易量",
     "Weekly Volume": "每周交易量",
     "Monthly Volume": "每月交易量",
     "Yearly Volume": "年度交易量",
@@ -74,7 +76,6 @@
     "Yearly Trades": "年度交易",
     "Suspicious trading activity (inflated volume)": "可疑的交易活动（膨胀的交易量",
     "Any Asset": "任何资产",
-    "Showing Newest": "",
     "NFT Collection": "NFT 集合",
     "Everything": "万事",
     "NFT Collections": "NFT 集合",
@@ -121,12 +122,13 @@
   "footer": {
     "Public API": "公共 API",
     "Combined Offers": "合并优惠",
+    "Help translate": "帮助翻译",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",
     "synced": "已同步",
     "disconnected": "已断开连接",
     "connecting": "链接中",
-    "Help translate": "帮助翻译"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
@@ -240,15 +242,14 @@
     "gobyError4001": "请先完成Goby钱包设置。",
     "gobyError4900": "Goby钱包未链接",
     "Offer accepted": "Offer已被接受",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "搜索 {{count}} 项资产",
     "Powered by Taildatabase": "由 Taildatabase 提供支持",
     "Code": "代码",
     "Asset ID": "资产 ID",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} 流动性"
   },
   "contributors": {

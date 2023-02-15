@@ -57,13 +57,15 @@
     "Add to Wallet": "",
     "Trade": "Berdagang",
     "Description": "Keterangan",
-    "Daily Volume": "Volume Harian",
+    "Category": "",
+    "Total supply": "",
     "Website": "Situs Web",
     "Friends": "Teman",
     "Transaction Fee": "Biaya transaksi",
     "Mempool Transaction ID": "Mempool ID Transaksi",
     "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
+    "Daily Volume": "Volume Harian",
     "Weekly Volume": "Volume Mingguan",
     "Monthly Volume": "Volume Bulanan",
     "Yearly Volume": "Volume Tahunan",
@@ -74,7 +76,6 @@
     "Yearly Trades": "Perdagangan Tahunan",
     "Suspicious trading activity (inflated volume)": "Aktivitas perdagangan yang mencurigakan (volume yang meningkat)",
     "Any Asset": "Aset Apa Pun",
-    "Showing Newest": "",
     "NFT Collection": "Koleksi NFT",
     "Everything": "Semuanya",
     "NFT Collections": "Koleksi NFT",
@@ -121,12 +122,13 @@
   "footer": {
     "Public API": "Publik API",
     "Combined Offers": "Penawaran Gabungan",
+    "Help translate": "Membantu menerjemahkan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "disinkronkan",
     "disconnected": "terputus",
     "connecting": "menghubungkan",
-    "Help translate": "Membantu menerjemahkan"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Penawaran File berhasil diindeks",
@@ -241,15 +243,14 @@
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
     "gobyError4900": "Goby tidak terhubung",
     "Offer accepted": "Penawaran diterima",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_other": "Cari {{count}} Aset_lainnya",
     "Powered by Taildatabase": "Didukung oleh taildatabase",
     "Code": "Kode",
     "Asset ID": "ID Aset",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Likuiditas"
   },
   "contributors": {

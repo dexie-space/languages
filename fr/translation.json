@@ -59,13 +59,15 @@
     "Add to Wallet": "",
     "Trade": "Echanger",
     "Description": "Description",
-    "Daily Volume": "Volume Journalier",
+    "Category": "",
+    "Total supply": "",
     "Website": "Site Web",
     "Friends": "Amis",
     "Transaction Fee": "Frais de transaction",
     "Mempool Transaction ID": "ID de transaction Mempool",
     "Uploading": "Chargement en cours",
     "Currently Offered": "Offert Actuellement",
+    "Daily Volume": "Volume Journalier",
     "Weekly Volume": "Volume Hebdomadaire",
     "Monthly Volume": "Volume Mensuel",
     "Yearly Volume": "Volume Annuel",
@@ -76,7 +78,6 @@
     "Yearly Trades": "Echanges Annuels",
     "Suspicious trading activity (inflated volume)": "Activité d'échange suspicieuse (volume gonflé artificiellement)",
     "Any Asset": "N'importe quel Actif",
-    "Showing Newest": "",
     "NFT Collection": "Collection NFT",
     "Everything": "Tout",
     "NFT Collections": "Collections NFT",
@@ -123,12 +124,13 @@
   "footer": {
     "Public API": "API Publique",
     "Combined Offers": "Offres combinées",
+    "Help translate": "Aider à traduire",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Les Blocs sont remplis, frais de transaction recommandés {{fee}} {{xch}}",
     "Status": "Statut",
     "synced": "synchronisé",
     "disconnected": "déconnecté",
     "connecting": "en cours de connection",
-    "Help translate": "Aider à traduire"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offre indexée avec succès",
@@ -250,8 +252,8 @@
     "gobyError4001": "Merci de finaliser la configuration de Goby",
     "gobyError4900": "Goby n'est pas connecté",
     "Offer accepted": "Offre acceptée",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Rechercher {{count}} actif",
@@ -260,7 +262,6 @@
     "Powered by Taildatabase": "Propulsé par Taildatabase",
     "Code": "Code",
     "Asset ID": "ID d'actif",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Liquidité"
   },
   "contributors": {

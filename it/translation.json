@@ -59,13 +59,15 @@
     "Add to Wallet": "Aggiungi al portafogli",
     "Trade": "Compravendite",
     "Description": "Descrizione",
-    "Daily Volume": "Volume giornaliero",
+    "Category": "",
+    "Total supply": "",
     "Website": "Sito Web",
     "Friends": "Amici",
     "Transaction Fee": "Commissione di transazione",
     "Mempool Transaction ID": "ID di transazione nella Mempool",
     "Uploading": "Caricamento in corso...",
     "Currently Offered": "Offerte Correnti",
+    "Daily Volume": "Volume giornaliero",
     "Weekly Volume": "Volume settimanale",
     "Monthly Volume": "Volume mensile",
     "Yearly Volume": "Volume annuale",
@@ -76,7 +78,6 @@
     "Yearly Trades": "Vendite annuali",
     "Suspicious trading activity (inflated volume)": "Attività sospetta (Volume elevato)",
     "Any Asset": "Ogni Asset",
-    "Showing Newest": "Mostra recenti",
     "NFT Collection": "Collezione NFT",
     "Everything": "Tutto",
     "NFT Collections": "Collezioni NFT",
@@ -123,12 +124,13 @@
   "footer": {
     "Public API": "Public API",
     "Combined Offers": "Auto-Fusione Offerte",
+    "Help translate": "Help translate",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
     "synced": "Sincronizzato",
     "disconnected": "Disconnesso",
     "connecting": "Connessione in corso:",
-    "Help translate": "Help translate"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
@@ -250,8 +252,8 @@
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
     "Offer accepted": "Offerta Accettata",
-    "Asset added": "Asset aggiunto",
-    "Please reconnect your wallet to perform this action": "Cortesemente riconnetti il tuo portafogli per effettuare questa attività"
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Trova Asset Attivo",
@@ -260,7 +262,6 @@
     "Powered by Taildatabase": "Connesso con Taildatabase",
     "Code": "Codice Moneta",
     "Asset ID": "Asset ID",
-    "Current Average Price": "Prezzo medio corrente",
     "{{code}} Liquidity": "Liquidità in {{code}}"
   },
   "contributors": {

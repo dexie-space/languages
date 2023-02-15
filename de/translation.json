@@ -58,13 +58,15 @@
     "Add to Wallet": "",
     "Trade": "Handel",
     "Description": "Beschreibung",
-    "Daily Volume": "Tägliches Volumen",
+    "Category": "",
+    "Total supply": "",
     "Website": "Website",
     "Friends": "Freunde",
     "Transaction Fee": "Transaktionsgebühr",
     "Mempool Transaction ID": "Mempool Transaktions-ID",
     "Uploading": "Hochladen...",
     "Currently Offered": "Derzeit Angeboten",
+    "Daily Volume": "Tägliches Volumen",
     "Weekly Volume": "Wöchentliches Volumen",
     "Monthly Volume": "Monatliches Volumen",
     "Yearly Volume": "Jährliches Volumen",
@@ -75,7 +77,6 @@
     "Yearly Trades": "Jährliche Trades",
     "Suspicious trading activity (inflated volume)": "Fragwürdige Handelsaktivität (erhöhtes Volumen)",
     "Any Asset": "Jedes Asset",
-    "Showing Newest": "",
     "NFT Collection": "NFT Sammlung",
     "Everything": "Alles",
     "NFT Collections": "NFT Sammlungen",
@@ -122,12 +123,13 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "",
+    "Help translate": "Hilf übersetzen",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Alle Blöcke sind voll ausgelastet, empfohlene Transaktionsgebühr: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synchronisiert",
     "disconnected": "getrennt",
     "connecting": "verbinde",
-    "Help translate": "Hilf übersetzen"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Angebot erfolgreich indexiert.",
@@ -245,8 +247,8 @@
     "gobyError4001": "Bitte richte erst Goby ein",
     "gobyError4900": "Goby ist nicht verbunden",
     "Offer accepted": "Angebot angenommen",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Suche {{count}} Währung",
@@ -254,7 +256,6 @@
     "Powered by Taildatabase": "Bereitgestellt von Taildatabase",
     "Code": "Code",
     "Asset ID": "Asset ID",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Liquidität"
   },
   "contributors": {

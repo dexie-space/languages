@@ -58,13 +58,15 @@
     "Add to Wallet": "",
     "Trade": "Handel",
     "Description": "Beskrivelse",
-    "Daily Volume": "Daglig volum",
+    "Category": "",
+    "Total supply": "",
     "Website": "Nettsted",
     "Friends": "Venner",
     "Transaction Fee": "Transaksjonsgebyr",
     "Mempool Transaction ID": "Mempool-transaksjons-ID",
     "Uploading": "Laster opp ...",
     "Currently Offered": "For tiden tilbys",
+    "Daily Volume": "Daglig volum",
     "Weekly Volume": "Ukentlig volum",
     "Monthly Volume": "Månedlig volum",
     "Yearly Volume": "Årlig volum",
@@ -75,7 +77,6 @@
     "Yearly Trades": "Årlige handler",
     "Suspicious trading activity (inflated volume)": "Mistenkelig handelsaktivitet (oppblåst volum)",
     "Any Asset": "Enhver eiendel",
-    "Showing Newest": "",
     "NFT Collection": "NFT-samling",
     "Everything": "Alt",
     "NFT Collections": "NFT-samlinger",
@@ -122,12 +123,13 @@
   "footer": {
     "Public API": "Offentlig API",
     "Combined Offers": "Kombinerte tilbud",
+    "Help translate": "Hjelp til å oversette",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blokkeringene er fullt utnyttet, anbefalt transaksjonsgebyr {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synkronisert",
     "disconnected": "frakoblet",
     "connecting": "kobler til",
-    "Help translate": "Hjelp til å oversette"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Tilbudsfilen er vellykket indeksert.",
@@ -245,8 +247,8 @@
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
     "gobyError4900": "Goby er ikke tilkoblet",
     "Offer accepted": "Tilbud akseptert",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Søk i {{count}} ressurs",
@@ -254,7 +256,6 @@
     "Powered by Taildatabase": "Drevet av Taildatabase",
     "Code": "Kode",
     "Asset ID": "Eiendels-ID",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Likviditet"
   },
   "contributors": {

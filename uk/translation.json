@@ -60,13 +60,15 @@
     "Add to Wallet": "Додати до гаманця",
     "Trade": "Торгівля",
     "Description": "Опис",
-    "Daily Volume": "Денним об'ємом",
+    "Category": "",
+    "Total supply": "",
     "Website": "Веб-сайт",
     "Friends": "Друзі",
     "Transaction Fee": "Комісія за транзакцію",
     "Mempool Transaction ID": "Ідентифікатор транзакції Мемпулу",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Пропозицією",
+    "Daily Volume": "Денним об'ємом",
     "Weekly Volume": "Тижневим об'ємом",
     "Monthly Volume": "Місячним об'ємом",
     "Yearly Volume": "Річним об'ємом",
@@ -77,7 +79,6 @@
     "Yearly Trades": "Річною торгівлею",
     "Suspicious trading activity (inflated volume)": "Підозріла торгова діяльність (завищений обсяг)",
     "Any Asset": "Будь-який актив",
-    "Showing Newest": "",
     "NFT Collection": "НФТ колекція",
     "Everything": "Усі",
     "NFT Collections": "НФТ колекції",
@@ -124,12 +125,13 @@
   "footer": {
     "Public API": "API",
     "Combined Offers": "Комбіновані пропозиції",
+    "Help translate": "Допоможіть перекласти",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронізовано",
     "disconnected": "відключено",
     "connecting": "підключено",
-    "Help translate": "Допоможіть перекласти"
+    "More": ""
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
@@ -255,8 +257,8 @@
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
     "Offer accepted": "Пропозиція прийнята",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet in order to perform this action": "",
+    "The connected wallet does not support this action": ""
   },
   "Assets": {
     "Search {{count}} assets_one": "Пошук {{count}} активу",
@@ -266,7 +268,6 @@
     "Powered by Taildatabase": "На базі Taildatabase",
     "Code": "Код",
     "Asset ID": "Ідентифікатор активу",
-    "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Ліквідність"
   },
   "contributors": {
