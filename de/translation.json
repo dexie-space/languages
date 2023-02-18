@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "NFT Adresse kopiert",
     "NFT Address": "NFT Adresse",
     "Royalty": "Lizenzgebühren",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Erstellt in Block",
     "Data URIs": "",
@@ -29,6 +27,7 @@
     "Newcomers": "Newcomer"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Suche nach Tokens, NFTs oder Adresse",
     "You Offer": "Du Bietest",
     "Tokens (CATs)": "Token (CATs)",

@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "تم نسخ عنوان NFT",
     "NFT Address": "عنوان NFT",
     "Royalty": "ملكية",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "تم إنشاؤها على ارتفاع",
     "Data URIs": "معرّفات URIs للبيانات",
@@ -29,6 +27,7 @@
     "Newcomers": "الوافدون الجدد"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "ابحث في الرموز أو NFTs أو أدخل العنوان",
     "You Offer": "انت تعرض",
     "Tokens (CATs)": "التوكينز (CAT)",

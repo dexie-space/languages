@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "Alamat NFT disalin",
     "NFT Address": "Alamat NFT",
     "Royalty": "Royalti",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Dibuat di Ketinggian",
     "Data URIs": "",
@@ -29,6 +27,7 @@
     "Newcomers": "Pendatang baru"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Cari Token, NFT atau masukkan Alamat",
     "You Offer": "Anda Menawarkan",
     "Tokens (CATs)": "Token (CATs)",

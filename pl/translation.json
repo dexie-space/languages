@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "DID twórcy zarejestrowany przez {{name}} przez {{via}}",
     "{{platform}} verified": "{{platform}} zweryfikowano",
     "{{platform}} unverified": "{{platform}} niezweryfikowano",
-    "NFT Address copied": "Skopiowano adres NFT",
     "NFT Address": "Adres NFT",
     "Royalty": "Tantiemy",
-    "NFT Creator copied": "Skopiowano twórcę NFT",
     "NFT Creator": "Twórca NFT",
     "Created at Height": "Stworzony w bloku",
     "Data URIs": "URI danych",
@@ -29,6 +27,7 @@
     "Newcomers": "Nowe kolekcje"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Wyszukaj tokeny, NFT lub wprowadź adres",
     "You Offer": "Oferujesz",
     "Tokens (CATs)": "Tokeny (CAT)",

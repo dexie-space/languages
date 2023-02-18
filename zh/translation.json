@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "NFT 地址已复制",
     "NFT Address": "NFT 地址",
     "Royalty": "版税",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "在高度创建",
     "Data URIs": "数据 URIs",
@@ -29,6 +27,7 @@
     "Newcomers": "新人"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "搜索Tokens、NFT 或输入地址",
     "You Offer": "提供",
     "Tokens (CATs)": "Tokens (CATs)",

@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "Adresse du NFT copiée",
     "NFT Address": "Adresse du NFT",
     "Royalty": "Royalties",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Confirmé à Hauteur",
     "Data URIs": "URIs des Données",
@@ -29,6 +27,7 @@
     "Newcomers": "Nouveaux arrivants"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Rechercher des jetons, NFTs ou entrer une Adresse",
     "You Offer": "Votre Offre",
     "Tokens (CATs)": "Jetons (CATs)",

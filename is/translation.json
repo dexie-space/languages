@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "NFT heimilisfang afritað",
     "NFT Address": "NFT heimilisfang",
     "Royalty": "Royalty",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Búið til á Hæð",
     "Data URIs": "Gögn URIs",
@@ -29,6 +27,7 @@
     "Newcomers": "Nýkomnar"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Leitaðu að táknum, NFT eða sláðu inn heimilisfang",
     "You Offer": "Þú býður",
     "Tokens (CATs)": "Tákn (CATs)",

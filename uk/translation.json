@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "{{name}} створено на {{via}}",
     "{{platform}} verified": "верифіковано на {{platform}}",
     "{{platform}} unverified": "не верифіковано на {{platform}}",
-    "NFT Address copied": "Адресу НФТ скопійовано",
     "NFT Address": "НФТ адреса",
     "Royalty": "Роялті",
-    "NFT Creator copied": "NFT автора скопійовано",
     "NFT Creator": "НФТ автор",
     "Created at Height": "Створений на висоті",
     "Data URIs": "Дані URI",
@@ -29,6 +27,7 @@
     "Newcomers": "Новинки"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Шукайте токени, НФТ або введіть адресу",
     "You Offer": "Ти пропонуєш",
     "Tokens (CATs)": "Токени (CAT)",

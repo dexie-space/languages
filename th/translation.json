@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "",
     "NFT Address": "",
     "Royalty": "ส่วนแบ่ง",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "สร้างที่ความสูง",
     "Data URIs": "",
@@ -29,6 +27,7 @@
     "Newcomers": ""
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
     "You Offer": "คุณเสนอ",
     "Tokens (CATs)": "",

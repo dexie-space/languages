@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "",
     "NFT Address": "",
     "Royalty": "",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "",
     "Data URIs": "",
@@ -29,6 +27,7 @@
     "Newcomers": ""
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
     "You Offer": "",
     "Tokens (CATs)": "",

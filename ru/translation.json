@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "Адрес НФТ скопирован",
     "NFT Address": "НФТ адрес",
     "Royalty": "Роялти",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Созданный на высоте",
     "Data URIs": "Данные URI",
@@ -29,6 +27,7 @@
     "Newcomers": "Новинки"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Ищите токены, НФТ или введите адрес",
     "You Offer": "Ты предлагаешь",
     "Tokens (CATs)": "Токены (CAT)",

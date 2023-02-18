@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "NFT-adresse kopiert",
     "NFT Address": "NFT-adresse",
     "Royalty": "Royalty",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "Opprettet i høyden",
     "Data URIs": "Data URIer",
@@ -29,6 +27,7 @@
     "Newcomers": "Nykommere"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Søk etter tokens, NFT-er eller skriv inn adresse",
     "You Offer": "Du tilbyr",
     "Tokens (CATs)": "Tokens (CATs)",

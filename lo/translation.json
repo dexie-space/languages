@@ -13,10 +13,8 @@
     "Creator DID claimed by {{name}} on {{via}}": "",
     "{{platform}} verified": "",
     "{{platform}} unverified": "",
-    "NFT Address copied": "ສຳເນົາທີ່ຢູ່ NFT ແລ້ວ",
     "NFT Address": "ທີ່ຢູ່ NFT",
     "Royalty": "ແບ່ງປັນ",
-    "NFT Creator copied": "",
     "NFT Creator": "",
     "Created at Height": "ກໍ່ສ້າງຢູ່ໃນຄວາມສູງ",
     "Data URIs": "Data URIs",
@@ -29,6 +27,7 @@
     "Newcomers": "ຜູ້ມາໃໝ່"
   },
   "common": {
+    "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "ຊອກຫາ Tokens, NFTs ຫຼືໃສ່ທີ່ຢູ່",
     "You Offer": "ທ່ານສະເຫນີ",
     "Tokens (CATs)": "Tokens (CATs)",
