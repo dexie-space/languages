@@ -27,7 +27,7 @@
     "Newcomers": "Nuovi arrivi"
   },
   "common": {
-    "CLIPPED": "",
+    "CLIPPED": "CLIPPED",
     "Search Tokens, NFTs or enter Address": "Trova i Tokens,gli NFTs o inserisci l'indirizzo",
     "You Offer": "La tua offerta",
     "Tokens (CATs)": "Tokens (CATs)",
@@ -74,7 +74,7 @@
     "Monthly Trades": "Vendite mensili",
     "Yearly Trades": "Vendite annuali",
     "Suspicious trading activity (inflated volume)": "Attività sospetta (Volume elevato)",
-    "NFTs for sale": "",
+    "NFTs for sale": "NFT in vendita",
     "Any Asset": "Ogni Asset",
     "Showing Newest": "Mostra recenti",
     "NFT Collection": "Collezione NFT",
@@ -129,7 +129,7 @@
     "synced": "Sincronizzato",
     "disconnected": "Disconnesso",
     "connecting": "Connessione in corso:",
-    "More": ""
+    "More": "Di più"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
@@ -349,7 +349,7 @@
     "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
     "mempoolSize": "Mempool",
     "no filters selected": "Nessun filtro selezionato",
-    "Toggle suspicious trades (wash trading, spam)": "",
+    "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
     "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
     "Low Fee": "Commissione bassa"
