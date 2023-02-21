@@ -27,7 +27,7 @@
     "Newcomers": "Новинки"
   },
   "common": {
-    "CLIPPED": "",
+    "CLIPPED": "ЗАКРІПЛЕНО",
     "Search Tokens, NFTs or enter Address": "Шукайте токени, НФТ або введіть адресу",
     "You Offer": "Ти пропонуєш",
     "Tokens (CATs)": "Токени (CAT)",
@@ -75,9 +75,9 @@
     "Monthly Trades": "Місячною торгівлею",
     "Yearly Trades": "Річною торгівлею",
     "Suspicious trading activity (inflated volume)": "Підозріла торгова діяльність (завищений обсяг)",
-    "NFTs for sale": "",
+    "NFTs for sale": "NFT для продажу",
     "Any Asset": "Будь-який актив",
-    "Showing Newest": "",
+    "Showing Newest": "Показати найновіші",
     "NFT Collection": "НФТ колекція",
     "Everything": "Усі",
     "NFT Collections": "НФТ колекції",
@@ -130,7 +130,7 @@
     "synced": "синхронізовано",
     "disconnected": "відключено",
     "connecting": "підключено",
-    "More": ""
+    "More": "більше"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
@@ -256,8 +256,8 @@
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
     "Offer accepted": "Пропозиція прийнята",
-    "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Asset added": "Актив додано",
+    "Please reconnect your wallet to perform this action": "Будь ласка, перепідключіть ваш гаманець, щоб виконати цю дію"
   },
   "Assets": {
     "Search {{count}} assets_one": "Пошук {{count}} активу",
@@ -267,7 +267,7 @@
     "Powered by Taildatabase": "На базі Taildatabase",
     "Code": "Код",
     "Asset ID": "Ідентифікатор активу",
-    "Current Average Price": "",
+    "Current Average Price": "Поточна середня вартість",
     "{{code}} Liquidity": "{{code}} Ліквідність"
   },
   "contributors": {
@@ -356,7 +356,7 @@
     "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
     "mempoolSize": "розмір мемпулу",
     "no filters selected": "фільтрів не вибрано",
-    "Toggle suspicious trades (wash trading, spam)": "",
+    "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",
     "Transaction Fee (higher fee = higher priority)": "Комісія за транзакцію (вища комісія = вищий пріоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низька комісія за транзакцію (низький пріоритет) {{fee}}",
     "Low Fee": "Низька комісія"
