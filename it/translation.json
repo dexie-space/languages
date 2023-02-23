@@ -257,10 +257,17 @@
     "Please reconnect your wallet to perform this action": "Cortesemente riconnetti il tuo portafogli per effettuare questa attività"
   },
   "Assets": {
+    "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Trova Asset Attivo",
     "Search {{count}} assets_many": "Trova {{count}} Asset Attivi",
     "Search {{count}} assets_other": "Trova {{count}} Asset Attivi",
-    "Powered by Taildatabase": "Connesso con Taildatabase",
+    "Show All": "",
+    "Show Muted": "",
+    "No Muted Assets": "",
+    "Asset Not Found": "",
+    "Mute assets to prevent them from showing up on dexie": "",
+    "Unmute": "",
+    "Mute": "",
     "Code": "Codice Moneta",
     "Asset ID": "Asset ID",
     "Current Average Price": "Prezzo medio corrente",

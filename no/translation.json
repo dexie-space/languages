@@ -252,9 +252,16 @@
     "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
+    "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Søk i {{count}} ressurs",
     "Search {{count}} assets_other": "Søk etter {{count}} ressurser",
-    "Powered by Taildatabase": "Drevet av Taildatabase",
+    "Show All": "",
+    "Show Muted": "",
+    "No Muted Assets": "",
+    "Asset Not Found": "",
+    "Mute assets to prevent them from showing up on dexie": "",
+    "Unmute": "",
+    "Mute": "",
     "Code": "Kode",
     "Asset ID": "Eiendels-ID",
     "Current Average Price": "",

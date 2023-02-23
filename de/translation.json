@@ -252,9 +252,16 @@
     "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
+    "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Suche {{count}} Währung",
     "Search {{count}} assets_other": "Suche {{count}} Währungen",
-    "Powered by Taildatabase": "Bereitgestellt von Taildatabase",
+    "Show All": "",
+    "Show Muted": "",
+    "No Muted Assets": "",
+    "Asset Not Found": "",
+    "Mute assets to prevent them from showing up on dexie": "",
+    "Unmute": "",
+    "Mute": "",
     "Code": "Code",
     "Asset ID": "Asset ID",
     "Current Average Price": "",

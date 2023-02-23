@@ -252,9 +252,16 @@
     "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
+    "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",
     "Search {{count}} assets_other": "Leitaðu að {{count}} eignum",
-    "Powered by Taildatabase": "Keyrt af Taildatabase",
+    "Show All": "",
+    "Show Muted": "",
+    "No Muted Assets": "",
+    "Asset Not Found": "",
+    "Mute assets to prevent them from showing up on dexie": "",
+    "Unmute": "",
+    "Mute": "",
     "Code": "Kóði",
     "Asset ID": "Eignakenni",
     "Current Average Price": "",

@@ -247,8 +247,15 @@
     "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
+    "Powered by Tail Database": "",
     "Search {{count}} assets_other": "ຊອກຫາຊັບສິນ {{count}}",
-    "Powered by Taildatabase": "ຂັບເຄື່ອນໂດຍ Taidatabase",
+    "Show All": "",
+    "Show Muted": "",
+    "No Muted Assets": "",
+    "Asset Not Found": "",
+    "Mute assets to prevent them from showing up on dexie": "",
+    "Unmute": "",
+    "Mute": "",
     "Code": "ລະຫັດ",
     "Asset ID": "ID ຊັບສິນ",
     "Current Average Price": "",
