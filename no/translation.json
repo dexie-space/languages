@@ -162,6 +162,8 @@
     "Download Offer File": "Last ned tilbudsfil",
     "Copy Offer File": "Kopier tilbudsfil",
     "No Offers Found": "Ingen tilbud funnet",
+    "{{count}} Muted Assets_one": "",
+    "{{count}} Muted Assets_other": "",
     "Combine Offers": "Kombiner tilbud",
     "Collapse NFTs": "Skjul NFT-er",
     "Expand NFTs": "Utvid NFT-er",

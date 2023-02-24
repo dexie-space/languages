@@ -162,6 +162,8 @@
     "Download Offer File": "Sæktu tilboðsskrá",
     "Copy Offer File": "Afritaðu tilboðsskrá",
     "No Offers Found": "Engin tilboð fundust",
+    "{{count}} Muted Assets_one": "",
+    "{{count}} Muted Assets_other": "",
     "Combine Offers": "Sameina tilboð",
     "Collapse NFTs": "Dragðu saman NFTs",
     "Expand NFTs": "Stækka NFTs",

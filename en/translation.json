@@ -162,6 +162,8 @@
     "Download Offer File": "Download Offer File",
     "Copy Offer File": "Copy Offer File",
     "No Offers Found": "No Offers Found",
+    "{{count}} Muted Assets_one": "{{count}} Muted Asset",
+    "{{count}} Muted Assets_other": "{{count}} Muted Assets",
     "Combine Offers": "Combine Offers",
     "Collapse NFTs": "Collapse NFTs",
     "Expand NFTs": "Expand NFTs",
