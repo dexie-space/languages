@@ -275,7 +275,8 @@
     "gobyError4900": "لم يتم توصيل Gobyd",
     "Offer accepted": "عرض قبول",
     "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet to perform this action": "",
+    "This feature is not supported by {{walletName}}": ""
   },
   "Assets": {
     "Powered by Tail Database": "",
@@ -373,7 +374,7 @@
     "Spam": "بريد مؤذي",
     "Illegal Content": "محتوى غير قانوني",
     "Other": "آخر",
-    "Enter additional notes (notes are public)": "أدخل ملاحظات إضافية (الملاحظات عامة)",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "شكرا لك ، تم إنشاء تقرير جديد",
     "Report {{id}}": "الإبلاغ عن {{id}}",
     "Generating Report": "جاري إنشاء التقرير ...",

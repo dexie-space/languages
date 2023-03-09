@@ -251,7 +251,8 @@
     "gobyError4900": "Goby is not connected",
     "Offer accepted": "Offer accepted",
     "Asset added": "Asset added",
-    "Please reconnect your wallet to perform this action": "Please reconnect your wallet to perform this action"
+    "Please reconnect your wallet to perform this action": "Please reconnect your wallet to perform this action",
+    "This feature is not supported by {{walletName}}": "This feature is not supported by {{walletName}}"
   },
   "Assets": {
     "Powered by Tail Database": "Powered by Tail Database",
@@ -341,7 +342,7 @@
     "Spam": "Spam",
     "Illegal Content": "Illegal Content",
     "Other": "Other",
-    "Enter additional notes (notes are public)": "Enter additional notes (notes are public)",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Please enter as much additional information as possible that can be used to review this report, e.g. links to the original collection in case of an impersonation report (all notes are public).",
     "Thank you, a new report has been generated": "Thank you, a new report has been generated",
     "Report {{id}}": "Report {{id}}",
     "Generating Report": "Generating Report ...",

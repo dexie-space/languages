@@ -245,7 +245,8 @@
     "gobyError4900": "Goby钱包未链接",
     "Offer accepted": "Offer已被接受",
     "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet to perform this action": "",
+    "This feature is not supported by {{walletName}}": ""
   },
   "Assets": {
     "Powered by Tail Database": "",
@@ -333,7 +334,7 @@
     "Spam": "垃圾邮件",
     "Illegal Content": "非法内容",
     "Other": "其他",
-    "Enter additional notes (notes are public)": "输入附加注释（注释是公开的）",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "谢谢，已生成新报告",
     "Report {{id}}": "举报{{id}}",
     "Generating Report": "生成报告",

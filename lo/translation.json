@@ -245,7 +245,8 @@
     "gobyError4900": "ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Goby",
     "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
     "Asset added": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Please reconnect your wallet to perform this action": "",
+    "This feature is not supported by {{walletName}}": ""
   },
   "Assets": {
     "Powered by Tail Database": "",
@@ -333,7 +334,7 @@
     "Spam": "ຂີ້ເຫຍື້ອ",
     "Illegal Content": "ເນື້ອໃນທີ່ຜິດກົດໝາຍ",
     "Other": "ອື່ນໆ",
-    "Enter additional notes (notes are public)": "ໃສ່ບັນທຶກເພີ່ມເຕີມ (ບັນທຶກແມ່ນສາທາລະນະ)",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "ຂໍຂອບໃຈທ່ານ, ບົດລາຍງານໃຫມ່ໄດ້ຖືກສ້າງຂຶ້ນ",
     "Report {{id}}": "ລາຍງານ {{id}}",
     "Generating Report": "ການສ້າງບົດລາຍງານ",

@@ -263,7 +263,8 @@
     "gobyError4900": "Goby ошибка 4900",
     "Offer accepted": "Предложение принято",
     "Asset added": "Добавление активов",
-    "Please reconnect your wallet to perform this action": "Чтобы выполнить это действие, переподключите кошелек."
+    "Please reconnect your wallet to perform this action": "Чтобы выполнить это действие, переподключите кошелек.",
+    "This feature is not supported by {{walletName}}": ""
   },
   "Assets": {
     "Powered by Tail Database": "",
@@ -357,7 +358,7 @@
     "Spam": "Спам",
     "Illegal Content": "Нелегальний Контент",
     "Other": "Другое",
-    "Enter additional notes (notes are public)": "Введите дополнительные заметки (примечания общедоступны)",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "Спасибо, создан новый отчет",
     "Report {{id}}": "Жалоба {{id}}",
     "Generating Report": "Создать жалобу",
