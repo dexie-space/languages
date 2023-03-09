@@ -61,7 +61,7 @@
     "Daily Volume": "Volume giornaliero",
     "Website": "Sito Web",
     "Friends": "Amici",
-    "Transaction Fee": "Commissione di transazione",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "ID di transazione nella Mempool",
     "Uploading": "Caricamento in corso...",
     "Currently Offered": "Offerte Correnti",
@@ -178,7 +178,10 @@
     "This offer contains overlapping inputs and can not be added": "Questa offerta contiene input sovrapposti e non può essere aggiunta.",
     "Last": "Ultima",
     "Best Price": "Miglior Prezzo",
-    "New": "Nuova"
+    "New": "Nuova",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Le tue"
@@ -216,8 +219,19 @@
     "Go to Trade": "Vai alle compravendite",
     "Completed before collection date": "Completata prima della data di pubblicazione",
     "Cancelled before collection date": "Completata prima della data di pubblicazione",
-    "Attached Fee": "Costi di commissione",
-    "Input Coins": "Moneta in input",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Offerta corrente",
     "Make Bid": "Fai un offerta",
     "Requested price is too high? The seller might accept your bid!": "Il prezzo richiesto è troppo alto! Il venditore potrebbe accettare la tua offerta!",
@@ -226,7 +240,8 @@
     "{{count}} offers_other": "{{count}} offerte",
     "Bid with Goby": "Offri con Goby",
     "Upload Offer": "Carica offerte",
-    "Create a new offer which requests this NFT": "Crea una nuova offerta che richiede questo NFT"
+    "Create a new offer which requests this NFT": "Crea una nuova offerta che richiede questo NFT",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Giorno",

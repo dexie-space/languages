@@ -60,7 +60,7 @@
     "Daily Volume": "Tägliches Volumen",
     "Website": "Website",
     "Friends": "Freunde",
-    "Transaction Fee": "Transaktionsgebühr",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Mempool Transaktions-ID",
     "Uploading": "Hochladen...",
     "Currently Offered": "Derzeit Angeboten",
@@ -174,7 +174,9 @@
     "This offer contains overlapping inputs and can not be added": "Dieses Angebot beinhaltet überlappende Inputs und kann nicht hinzugefügt werden.",
     "Last": "Letzte",
     "Best Price": "Bester Preis",
-    "New": "Neu"
+    "New": "Neu",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Deins"
@@ -211,8 +213,19 @@
     "Go to Trade": "",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "Angehangene Transaktionsgebühr",
-    "Input Coins": "Input Coins",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Aktuelles Gebot",
     "Make Bid": "Gebot abgeben",
     "Requested price is too high? The seller might accept your bid!": "Angefragter Preis ist zu hoch? Der Verkäufer könnte dein Gebot annehmen.",
@@ -220,7 +233,8 @@
     "{{count}} offers_other": "{{count}} Angebote",
     "Bid with Goby": "Mit Goby bieten",
     "Upload Offer": "Angebot hochladen",
-    "Create a new offer which requests this NFT": "Erstelle ein neues Angebot, welches dieses NFT anfordert:"
+    "Create a new offer which requests this NFT": "Erstelle ein neues Angebot, welches dieses NFT anfordert:",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Tag",

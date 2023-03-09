@@ -62,7 +62,7 @@
     "Daily Volume": "Дневным объемом",
     "Website": "Веб-сайт",
     "Friends": "Друзья",
-    "Transaction Fee": "Комиссия за транзакцию",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Идентификатор транзакции Мемпула",
     "Uploading": "Выгрузка...",
     "Currently Offered": "предложением",
@@ -182,7 +182,11 @@
     "This offer contains overlapping inputs and can not be added": "Это предложение содержит совпадающие данные и его нельзя добавить",
     "Last": "Последнее",
     "Best Price": "Лучшая цена",
-    "New": "Новое"
+    "New": "Новое",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_few": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Твои"
@@ -221,8 +225,19 @@
     "Go to Trade": "Перейти к торговле",
     "Completed before collection date": "Завершено до даты сбора",
     "Cancelled before collection date": "Отменено до даты сбора",
-    "Attached Fee": "Дополнительная комиссия",
-    "Input Coins": "Ввести монеты",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Текущая ставка",
     "Make Bid": "Сделать ставку",
     "Requested price is too high? The seller might accept your bid!": "Запрошенная цена слишком высока? Продавец может принять вашу ставку!",
@@ -232,7 +247,8 @@
     "{{count}} offers_other": "{{count}} предложений",
     "Bid with Goby": "Ставка с помощью Goby",
     "Upload Offer": "Ставка с помощью Goby",
-    "Create a new offer which requests this NFT": "Создайте новое предложение, которое запрашивает этот НФТ"
+    "Create a new offer which requests this NFT": "Создайте новое предложение, которое запрашивает этот НФТ",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Суточный",

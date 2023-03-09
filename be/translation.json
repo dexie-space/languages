@@ -62,7 +62,7 @@
     "Daily Volume": "Штодзённы аб'ём",
     "Website": "Вэб-сайт",
     "Friends": "Сябры",
-    "Transaction Fee": "Збор за транзакцыю",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Ідэнтыфікатар транзакцыі Мемпула",
     "Uploading": "Загрузка...",
     "Currently Offered": "Актуальная прапанова",
@@ -182,7 +182,11 @@
     "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена",
     "Last": "Апошні",
     "Best Price": "Лепшая цана",
-    "New": "Новы"
+    "New": "Новы",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_few": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Твой"
@@ -221,8 +225,19 @@
     "Go to Trade": "Перайсці да гандлю",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "Дадатковая плата",
-    "Input Coins": "Увесці манеты",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Бягучая стаўка",
     "Make Bid": "Зрабіце стаўку",
     "Requested price is too high? The seller might accept your bid!": "Запытаная цана занадта высокая? Прадавец можа прыняць вашу стаўку!",
@@ -232,7 +247,8 @@
     "{{count}} offers_other": "{{count}} прапаноў",
     "Bid with Goby": "Стаўка з Goby",
     "Upload Offer": "Прапанова загрузкі",
-    "Create a new offer which requests this NFT": "Стварыць новую прапанову, якая запытвае гэты NFT"
+    "Create a new offer which requests this NFT": "Стварыць новую прапанову, якая запытвае гэты NFT",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Дзень",

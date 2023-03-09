@@ -59,7 +59,7 @@
     "Daily Volume": "每日交易量",
     "Website": "网站",
     "Friends": "朋友们",
-    "Transaction Fee": "手续费",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "内存池交易 ID",
     "Uploading": "上传中...",
     "Currently Offered": "当前提供的",
@@ -170,7 +170,8 @@
     "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
     "Last": "末",
     "Best Price": "最优价格",
-    "New": "新"
+    "New": "新",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "你的"
@@ -206,15 +207,27 @@
     "Go to Trade": "前往贸易",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "附加费",
-    "Input Coins": "输入硬币",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "当前出价",
     "Make Bid": "出价",
     "Requested price is too high? The seller might accept your bid!": "要求的价格太高？ 卖家可能会接受您的出价！",
     "{{count}} offers_other": "{{count}} 个优惠",
     "Bid with Goby": "以Goby出价",
     "Upload Offer": "上传优惠",
-    "Create a new offer which requests this NFT": "创建一个请求此 NFT 的新报价"
+    "Create a new offer which requests this NFT": "创建一个请求此 NFT 的新报价",
+    "Unknown": ""
   },
   "chart": {
     "Day": "日",

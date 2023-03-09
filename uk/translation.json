@@ -62,7 +62,7 @@
     "Daily Volume": "Денним об'ємом",
     "Website": "Веб-сайт",
     "Friends": "Друзі",
-    "Transaction Fee": "Комісія за транзакцію",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Ідентифікатор транзакції Мемпулу",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Пропозицією",
@@ -182,7 +182,11 @@
     "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
     "Last": "Остання",
     "Best Price": "Найкраща ціна",
-    "New": "Нова"
+    "New": "Нова",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_few": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Твої"
@@ -221,8 +225,19 @@
     "Go to Trade": "Перейдіть до Торгівлі",
     "Completed before collection date": "Завершено до дата отримання",
     "Cancelled before collection date": "Скасовано до дати отримання",
-    "Attached Fee": "Додаткова комісія",
-    "Input Coins": "Ввести монети",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Поточна ставка",
     "Make Bid": "Зробити ставку",
     "Requested price is too high? The seller might accept your bid!": "Запитана ціна зависока? Продавець може прийняти вашу ставку!",
@@ -232,7 +247,8 @@
     "{{count}} offers_other": "{{count}} пропозиції",
     "Bid with Goby": "Ставка за допомогою Goby",
     "Upload Offer": "Вивантажити пропозицію",
-    "Create a new offer which requests this NFT": "Створіть нову пропозицію, яка запитує цей НФТ"
+    "Create a new offer which requests this NFT": "Створіть нову пропозицію, яка запитує цей НФТ",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Добова",

@@ -59,7 +59,7 @@
     "Daily Volume": "",
     "Website": "",
     "Friends": "",
-    "Transaction Fee": "",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "",
     "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
@@ -170,7 +170,8 @@
     "This offer contains overlapping inputs and can not be added": "",
     "Last": "",
     "Best Price": "ราคาที่ดีที่สุด",
-    "New": "ใหม่"
+    "New": "ใหม่",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": ""
@@ -206,15 +207,27 @@
     "Go to Trade": "",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "",
-    "Input Coins": "เหรียญ",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "",
     "Make Bid": "",
     "Requested price is too high? The seller might accept your bid!": "",
     "{{count}} offers_other": "",
     "Bid with Goby": "",
     "Upload Offer": "",
-    "Create a new offer which requests this NFT": ""
+    "Create a new offer which requests this NFT": "",
+    "Unknown": ""
   },
   "chart": {
     "Day": "วัน",

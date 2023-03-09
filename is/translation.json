@@ -60,7 +60,7 @@
     "Daily Volume": "Daglegt bindi",
     "Website": "Vefsíða",
     "Friends": "Vinir",
-    "Transaction Fee": "Færslugjald",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Mempool færslukenni",
     "Uploading": "Hleður upp...",
     "Currently Offered": "Núna í boði",
@@ -174,7 +174,9 @@
     "This offer contains overlapping inputs and can not be added": "Þetta tilboð inniheldur inntak sem skarast og ekki er hægt að bæta því við.",
     "Last": "Síðast",
     "Best Price": "Besta verðið",
-    "New": "Nýtt"
+    "New": "Nýtt",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Nýtt"
@@ -211,8 +213,19 @@
     "Go to Trade": "Farðu í Verslun",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "Meðfylgjandi gjald",
-    "Input Coins": "Inntak Mynt",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Núverandi tilboð",
     "Make Bid": "Gerðu tilboð",
     "Requested price is too high? The seller might accept your bid!": "Umbeðið verð er of hátt? Seljandinn gæti samþykkt tilboð þitt!",
@@ -220,7 +233,8 @@
     "{{count}} offers_other": "{{count}} tilboð",
     "Bid with Goby": "Bjóða með Goby",
     "Upload Offer": "Hladdu upp tilboði",
-    "Create a new offer which requests this NFT": "Búðu til nýtt tilboð sem biður um þessa NFT"
+    "Create a new offer which requests this NFT": "Búðu til nýtt tilboð sem biður um þessa NFT",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Dagur",

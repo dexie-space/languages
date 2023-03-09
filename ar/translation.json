@@ -64,7 +64,7 @@
     "Daily Volume": "الحجم اليومي",
     "Website": "موقع الكتروني",
     "Friends": "أصدقاء",
-    "Transaction Fee": "رسوم المعاملة",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "معرف معاملة Mempool",
     "Uploading": "ذاهبين للأعلى...",
     "Currently Offered": "عرضت حاليا",
@@ -190,7 +190,13 @@
     "This offer contains overlapping inputs and can not be added": "هذا العرض يحتوي على مدخلات متداخلة ولا يمكن إضافتها.",
     "Last": "أخير",
     "Best Price": "افضل سعر",
-    "New": "جديد"
+    "New": "جديد",
+    "Blocks ago_zero": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_two": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_few": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "خاصة بك"
@@ -231,8 +237,19 @@
     "Go to Trade": "انتقل إلى تجارة",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "الرسوم المرفقة",
-    "Input Coins": "عملات المدخلات",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "العطاء الحالي",
     "Make Bid": "قدم مناقصة",
     "Requested price is too high? The seller might accept your bid!": "السعر المطلوب مرتفع جدا؟ قد يقبل البائع مزايدتك!",
@@ -244,7 +261,8 @@
     "{{count}} offers_other": "عرض {{count}}",
     "Bid with Goby": "قم بالمزايدة مع Goby",
     "Upload Offer": "رفع العرض",
-    "Create a new offer which requests this NFT": "قم بإنشاء عرض جديد يطلب هذا NFT"
+    "Create a new offer which requests this NFT": "قم بإنشاء عرض جديد يطلب هذا NFT",
+    "Unknown": ""
   },
   "chart": {
     "Day": "يوم",

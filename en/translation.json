@@ -60,7 +60,7 @@
     "Daily Volume": "Daily Volume",
     "Website": "Website",
     "Friends": "Friends",
-    "Transaction Fee": "Transaction Fee",
+    "Transaction Fees": "Transaction Fees",
     "Mempool Transaction ID": "Mempool Transaction ID",
     "Uploading": "Uploading...",
     "Currently Offered": "Currently Offered",
@@ -174,7 +174,9 @@
     "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added.",
     "Last": "Last",
     "Best Price": "Best Price",
-    "New": "New"
+    "New": "New",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Yours"
@@ -211,8 +213,19 @@
     "Go to Trade": "Go to Trade",
     "Completed before collection date": "Completed before collection date",
     "Cancelled before collection date": "Cancelled before collection date",
-    "Attached Fee": "Attached Fee",
-    "Input Coins": "Input Coins",
+    "Confirmed at Block": "Confirmed at Block",
+    "Number of confirmations": "Number of confirmations",
+    "Cancelled Maker Inputs": "Cancelled Maker Inputs",
+    "Maker Inputs": "Maker Inputs",
+    "Taker Inputs": "Taker Inputs",
+    "Offer successfully executed": "Offer successfully executed",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "Inputs may be larger than outputs, any excess amount was returned as change.",
+    "Larger outputs indicate that this offer was combined with other offers": "Larger outputs indicate that this offer was combined with other offers.",
+    "Pending Maker Outputs": "Pending Maker Outputs",
+    "Cancelled Maker Outputs": "Cancelled Maker Outputs",
+    "Maker Outputs": "Maker Outputs",
+    "Taker Outputs": "Taker Outputs",
+    "Royalties": "Royalties",
     "Current Bid": "Current Bid",
     "Make Bid": "Make a Bid",
     "Requested price is too high? The seller might accept your bid!": "Requested price is too high? The seller might accept your bid!",
@@ -220,7 +233,8 @@
     "{{count}} offers_other": "{{count}} offers",
     "Bid with Goby": "Bid with Goby",
     "Upload Offer": "Upload Offer",
-    "Create a new offer which requests this NFT": "Create a new offer which requests this NFT"
+    "Create a new offer which requests this NFT": "Create a new offer which requests this NFT",
+    "Unknown": "Unknown"
   },
   "chart": {
     "Day": "Day",

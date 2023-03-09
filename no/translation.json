@@ -60,7 +60,7 @@
     "Daily Volume": "Daglig volum",
     "Website": "Nettsted",
     "Friends": "Venner",
-    "Transaction Fee": "Transaksjonsgebyr",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Mempool-transaksjons-ID",
     "Uploading": "Laster opp ...",
     "Currently Offered": "For tiden tilbys",
@@ -174,7 +174,9 @@
     "This offer contains overlapping inputs and can not be added": "Dette tilbudet inneholder overlappende innganger og kan ikke legges til.",
     "Last": "Siste",
     "Best Price": "Beste pris",
-    "New": "Ny"
+    "New": "Ny",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Dine"
@@ -211,8 +213,19 @@
     "Go to Trade": "Gå til handel",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "Vedlagt gebyr",
-    "Input Coins": "Legg inn mynter",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Nåværende bud",
     "Make Bid": "Gi et bud",
     "Requested price is too high? The seller might accept your bid!": "Forespurt pris er for høy? Selgeren kan godta budet ditt!",
@@ -220,7 +233,8 @@
     "{{count}} offers_other": "{{count}} tilbud",
     "Bid with Goby": "By med Goby",
     "Upload Offer": "Last opp tilbud",
-    "Create a new offer which requests this NFT": "Opprett et nytt tilbud som ber om denne NFT"
+    "Create a new offer which requests this NFT": "Opprett et nytt tilbud som ber om denne NFT",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Dag",

@@ -59,7 +59,7 @@
     "Daily Volume": "ປະລິມານປະຈໍາວັນ",
     "Website": "ເວັບໄຊທ໌",
     "Friends": "ເພື່ອນ",
-    "Transaction Fee": "ຄ່າທຳນຽມທຸລະກຳ",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "ລະຫັດທຸລະກໍາ Mempool",
     "Uploading": "ກຳລັງອັບໂຫລດ...",
     "Currently Offered": "ປະຈຸບັນສະເຫນີ",
@@ -170,7 +170,8 @@
     "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
     "Last": "ຫຼ້າສຸດ",
     "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
-    "New": "ໃຫມ່"
+    "New": "ໃຫມ່",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "ຂອງເຈົ້າ"
@@ -206,15 +207,27 @@
     "Go to Trade": "ໄປການຄ້າ",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "ຄ່າທຳນຽມທີ່ຕິດຄັດມາ",
-    "Input Coins": "ຫຼຽນ",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "ການສະເຫນີລາຄາປະຈຸບັນ",
     "Make Bid": "ເຮັດການປະມູນ",
     "Requested price is too high? The seller might accept your bid!": "ລາຄາທີ່ຮ້ອງຂໍແມ່ນສູງເກີນໄປບໍ? ຜູ້ຂາຍອາດຈະຍອມຮັບການສະເຫນີລາຄາຂອງທ່ານ!",
     "{{count}} offers_other": "{{count}} ຂໍ້ສະເໜີ",
     "Bid with Goby": "ປະມູນກັບ Goby",
     "Upload Offer": "ອັບໂຫຼດຂໍ້ສະເໜີ",
-    "Create a new offer which requests this NFT": "ສ້າງການສະເຫນີໃຫມ່ທີ່ຮ້ອງຂໍ NFT ນີ້"
+    "Create a new offer which requests this NFT": "ສ້າງການສະເຫນີໃຫມ່ທີ່ຮ້ອງຂໍ NFT ນີ້",
+    "Unknown": ""
   },
   "chart": {
     "Day": "ມື້",

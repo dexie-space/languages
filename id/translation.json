@@ -59,7 +59,7 @@
     "Daily Volume": "Volume Harian",
     "Website": "Situs Web",
     "Friends": "Teman",
-    "Transaction Fee": "Biaya transaksi",
+    "Transaction Fees": "",
     "Mempool Transaction ID": "Mempool ID Transaksi",
     "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
@@ -171,7 +171,8 @@
     "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
-    "New": "Baru"
+    "New": "Baru",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
     "Yours": "Milikmu"
@@ -207,15 +208,27 @@
     "Go to Trade": "",
     "Completed before collection date": "",
     "Cancelled before collection date": "",
-    "Attached Fee": "Biaya terlampir",
-    "Input Coins": "Input Koin",
+    "Confirmed at Block": "",
+    "Number of confirmations": "",
+    "Cancelled Maker Inputs": "",
+    "Maker Inputs": "",
+    "Taker Inputs": "",
+    "Offer successfully executed": "",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "",
+    "Larger outputs indicate that this offer was combined with other offers": "",
+    "Pending Maker Outputs": "",
+    "Cancelled Maker Outputs": "",
+    "Maker Outputs": "",
+    "Taker Outputs": "",
+    "Royalties": "",
     "Current Bid": "Tawaran saat ini",
     "Make Bid": "Buat tawaran",
     "Requested price is too high? The seller might accept your bid!": "Harga yang diminta terlalu tinggi? Penjual mungkin menerima tawaran Anda!",
     "{{count}} offers_other": "{{count}} menawarkan_lainnya",
     "Bid with Goby": "Tawaran dengan Goby",
     "Upload Offer": "Unggah penawaran",
-    "Create a new offer which requests this NFT": "Buat penawaran baru yang meminta NFT ini"
+    "Create a new offer which requests this NFT": "Buat penawaran baru yang meminta NFT ini",
+    "Unknown": ""
   },
   "chart": {
     "Day": "Hari",
