@@ -218,7 +218,7 @@
     "Cancelled Maker Inputs": "Cancelled Maker Inputs",
     "Maker Inputs": "Maker Inputs",
     "Taker Inputs": "Taker Inputs",
-    "Offer successfully executed": "Offer successfully executed",
+    "Offer successfully executed": "Offer successfully executed.",
     "Inputs may be larger than outputs, any excess amount was returned as change": "Inputs may be larger than outputs, any excess amount was returned as change.",
     "Larger outputs indicate that this offer was combined with other offers": "Larger outputs indicate that this offer was combined with other offers.",
     "Pending Maker Outputs": "Pending Maker Outputs",
