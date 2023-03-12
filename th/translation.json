@@ -167,6 +167,7 @@
     "You Pay": "",
     "You Receive": "คุณได้รับ",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "",
     "Last": "",
     "Best Price": "ราคาที่ดีที่สุด",

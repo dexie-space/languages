@@ -171,6 +171,7 @@
     "You Receive": "Þú tekur á móti",
     "offersCount_one": "<0>{{formattedCount}}</0> Offers",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "Þetta tilboð inniheldur inntak sem skarast og ekki er hægt að bæta því við.",
     "Last": "Síðast",
     "Best Price": "Besta verðið",

@@ -167,6 +167,7 @@
     "You Pay": "你付钱",
     "You Receive": "请求",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "该Offer文件有重叠，无法增加",
     "Last": "末",
     "Best Price": "最优价格",

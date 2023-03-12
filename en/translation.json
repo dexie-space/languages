@@ -171,6 +171,7 @@
     "You Receive": "You Receive",
     "offersCount_one": "<0>{{formattedCount}}</0> Offer",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
+    "Legacy offer, combination not supported": "Legacy offer, combination not supported.",
     "This offer contains overlapping inputs and can not be added": "This offer contains overlapping inputs and can not be added.",
     "Last": "Last",
     "Best Price": "Best Price",

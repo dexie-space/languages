@@ -179,6 +179,7 @@
     "offersCount_few": "<0>{{formattedCount}}</0> oferty",
     "offersCount_many": "<0>{{formattedCount}}</0> ofert",
     "offersCount_other": "<0>{{formattedCount}}</0> ofert",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "Ta oferta zawiera nakładające się środki i nie może zostać dodana.",
     "Last": "Poprzednia cena",
     "Best Price": "Najlepsza cena",

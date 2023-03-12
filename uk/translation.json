@@ -179,6 +179,7 @@
     "offersCount_few": "<0>{{formattedCount}}</0> пропозиції",
     "offersCount_many": "<0>{{formattedCount}}</0> пропозицій",
     "offersCount_other": "<0>{{formattedCount}}</0> пропозиції",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "Ця пропозиція містить дані, що збігаються, і її не можна додати",
     "Last": "Остання",
     "Best Price": "Найкраща ціна",

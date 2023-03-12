@@ -179,6 +179,7 @@
     "offersCount_few": "<0>{{formattedCount}}</0> предложений",
     "offersCount_many": "<0>{{formattedCount}}</0> предложений",
     "offersCount_other": "<0>{{formattedCount}}</0> предложения",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "Это предложение содержит совпадающие данные и его нельзя добавить",
     "Last": "Последнее",
     "Best Price": "Лучшая цена",

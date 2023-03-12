@@ -171,6 +171,7 @@
     "You Receive": "Du mottar",
     "offersCount_one": "<0>{{formattedCount}}</0> Offers",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
+    "Legacy offer, combination not supported": "",
     "This offer contains overlapping inputs and can not be added": "Dette tilbudet inneholder overlappende innganger og kan ikke legges til.",
     "Last": "Siste",
     "Best Price": "Beste pris",
