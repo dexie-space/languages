@@ -172,7 +172,7 @@
     "offersCount_one": "<0>{{formattedCount}}</0> Offers",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs and can not be added": "Dieses Angebot beinhaltet überlappende Inputs und kann nicht hinzugefügt werden.",
+    "This offer contains overlapping inputs or outputs and can not be added": "",
     "Last": "Letzte",
     "Best Price": "Bester Preis",
     "New": "Neu",

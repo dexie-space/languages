@@ -180,7 +180,7 @@
     "offersCount_many": "<0>{{formattedCount}}</0> Offers",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs and can not be added": "Гэта прапанова змяшчае перакрываючыя ўваходы і не можа быць дададзена",
+    "This offer contains overlapping inputs or outputs and can not be added": "",
     "Last": "Апошні",
     "Best Price": "Лепшая цана",
     "New": "Новы",

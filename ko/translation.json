@@ -168,7 +168,7 @@
     "You Receive": "수락하기",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs and can not be added": "",
+    "This offer contains overlapping inputs or outputs and can not be added": "",
     "Last": "",
     "Best Price": "최저가",
     "New": "신규",

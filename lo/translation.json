@@ -168,7 +168,7 @@
     "You Receive": "ທ່ານໄດ້ຮັບ",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs and can not be added": "ຂໍ້ສະເໜີນີ້ມີຂໍ້ມູນທີ່ທັບຊ້ອນກັນ ແລະບໍ່ສາມາດເພີ່ມໄດ້",
+    "This offer contains overlapping inputs or outputs and can not be added": "",
     "Last": "ຫຼ້າສຸດ",
     "Best Price": "ລາຄາທີ່ດີທີ່ສຸດ",
     "New": "ໃຫມ່",

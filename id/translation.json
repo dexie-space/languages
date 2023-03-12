@@ -169,7 +169,7 @@
     "You Receive": "Anda menerima",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs and can not be added": "Penawaran ini berisi input yang tumpang tindih dan tidak dapat ditambahkan.",
+    "This offer contains overlapping inputs or outputs and can not be added": "",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
     "New": "Baru",
