@@ -282,8 +282,9 @@
     "gobyError4900": "Goby ошибка 4900",
     "Offer accepted": "Предложение принято",
     "Asset added": "Добавление активов",
-    "Please reconnect your wallet to perform this action": "Чтобы выполнить это действие, переподключите кошелек.",
-    "This feature is not supported by {{walletName}}": ""
+    "Request rejected": "",
+    "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": "Чтобы выполнить это действие, переподключите кошелек."
   },
   "Assets": {
     "Powered by Tail Database": "",

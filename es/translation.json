@@ -275,8 +275,9 @@
     "gobyError4900": "Goby no está conectado",
     "Offer accepted": "Oferta aceptada",
     "Asset added": "Activo agregado",
-    "Please reconnect your wallet to perform this action": "Vuelva a conectar su billetera para realizar esta acción",
-    "This feature is not supported by {{walletName}}": "Esta función no es compatible con {{walletName}}"
+    "Request rejected": "",
+    "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": "Vuelva a conectar su billetera para realizar esta acción"
   },
   "Assets": {
     "Powered by Tail Database": "Alimentado por Tail Database",

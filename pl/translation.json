@@ -282,8 +282,9 @@
     "gobyError4900": "Brak połączenia z portfelem Goby",
     "Offer accepted": "Oferta zaakceptowana",
     "Asset added": "Dodano token",
-    "Please reconnect your wallet to perform this action": "Połącz portfel ponownie, aby wykonać tę czynność.",
-    "This feature is not supported by {{walletName}}": ""
+    "Request rejected": "",
+    "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": "Połącz portfel ponownie, aby wykonać tę czynność."
   },
   "Assets": {
     "Powered by Tail Database": "Dane pochodzą z Tail Database",

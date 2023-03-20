@@ -268,8 +268,9 @@
     "gobyError4900": "Goby er ikke tilkoblet",
     "Offer accepted": "Tilbud akseptert",
     "Asset added": "",
-    "Please reconnect your wallet to perform this action": "",
-    "This feature is not supported by {{walletName}}": ""
+    "Request rejected": "",
+    "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Powered by Tail Database": "",

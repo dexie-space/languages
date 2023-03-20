@@ -261,8 +261,9 @@
     "gobyError4900": "ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Goby",
     "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
     "Asset added": "",
-    "Please reconnect your wallet to perform this action": "",
-    "This feature is not supported by {{walletName}}": ""
+    "Request rejected": "",
+    "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": ""
   },
   "Assets": {
     "Powered by Tail Database": "",
