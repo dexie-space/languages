@@ -275,8 +275,8 @@
     "gobyError4900": "Goby non è connesso",
     "Offer accepted": "Offerta Accettata",
     "Asset added": "Asset aggiunto",
-    "Request rejected": "",
-    "Offer rejected": "",
+    "Request rejected": "Richiesta rigettata",
+    "Offer rejected": "Offerta rigettata",
     "Please reconnect your wallet to perform this action": "Cortesemente riconnetti il tuo portafogli per effettuare questa attività"
   },
   "Assets": {
