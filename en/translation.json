@@ -176,7 +176,7 @@
     "Last": "Last",
     "Best Price": "Best Price",
     "New": "New",
-    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Block ago",
     "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
   },
   "ribbon": {
