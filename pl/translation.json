@@ -280,12 +280,16 @@
   "toast": {
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Brak połączenia z portfelem Goby",
-    "Offer accepted": "Oferta zaakceptowana",
-    "Asset added": "Dodano token",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": "Połącz portfel ponownie, aby wykonać tę czynność."
+    "Offer accepted": "Oferta zaakceptowana",
+    "Asset added": "Dodano token"
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "Dane pochodzą z Tail Database",
     "Search {{count}} assets_one": "Wyszukaj {{count}} token",

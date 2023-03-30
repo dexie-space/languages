@@ -259,12 +259,16 @@
   "toast": {
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
-    "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_other": "",

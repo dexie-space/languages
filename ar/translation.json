@@ -294,12 +294,16 @@
   "toast": {
     "gobyError4001": "يُرجى إنهاء إعداد Goby أولاً.",
     "gobyError4900": "لم يتم توصيل Gobyd",
-    "Offer accepted": "عرض قبول",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "عرض قبول",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_zero": "البحث {{count}} الصفر",

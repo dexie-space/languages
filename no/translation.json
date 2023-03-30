@@ -266,12 +266,16 @@
   "toast": {
     "gobyError4001": "Fullfør konfigureringen av Goby først.",
     "gobyError4900": "Goby er ikke tilkoblet",
-    "Offer accepted": "Tilbud akseptert",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "Tilbud akseptert",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Søk i {{count}} ressurs",

@@ -260,12 +260,16 @@
   "toast": {
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
     "gobyError4900": "Goby tidak terhubung",
-    "Offer accepted": "Penawaran diterima",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "Penawaran diterima",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_other": "Cari {{count}} Aset_lainnya",

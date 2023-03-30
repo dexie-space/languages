@@ -273,12 +273,16 @@
   "toast": {
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
-    "Offer accepted": "Offerta Accettata",
-    "Asset added": "Asset aggiunto",
     "Request rejected": "Richiesta rigettata",
     "Offer rejected": "Offerta rigettata",
-    "Please reconnect your wallet to perform this action": "Cortesemente riconnetti il tuo portafogli per effettuare questa attività"
+    "Offer accepted": "Offerta Accettata",
+    "Asset added": "Asset aggiunto"
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "Fonte Tail Database",
     "Search {{count}} assets_one": "Trova Asset Attivo",

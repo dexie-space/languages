@@ -259,12 +259,16 @@
   "toast": {
     "gobyError4001": "请先完成Goby钱包设置。",
     "gobyError4900": "Goby钱包未链接",
-    "Offer accepted": "Offer已被接受",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "Offer已被接受",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_other": "搜索 {{count}} 项资产",

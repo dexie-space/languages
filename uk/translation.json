@@ -280,12 +280,16 @@
   "toast": {
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
-    "Offer accepted": "Пропозиція прийнята",
-    "Asset added": "Актив додано",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": "Будь ласка, перепідключіть ваш гаманець, щоб виконати цю дію"
+    "Offer accepted": "Пропозиція прийнята",
+    "Asset added": "Актив додано"
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Пошук {{count}} активу",

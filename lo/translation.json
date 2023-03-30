@@ -259,12 +259,16 @@
   "toast": {
     "gobyError4001": "ກະລຸນາສຳເລັດການຕິດຕັ້ງ Goby ກ່ອນ",
     "gobyError4900": "ບໍ່ໄດ້ເຊື່ອມຕໍ່ກັບ Goby",
-    "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
-    "Asset added": "",
     "Request rejected": "",
     "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": ""
+    "Offer accepted": "ຂໍ້ສະເໜີໄດ້ຮັບການຍອມຮັບແລ້ວ",
+    "Asset added": ""
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "",
+    "Message signed": ""
+  },
+  "This feature is not supported by {{wallet}}": "",
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_other": "ຊອກຫາຊັບສິນ {{count}}",

@@ -266,12 +266,16 @@
   "toast": {
     "gobyError4001": "Please finish setting up Goby first.",
     "gobyError4900": "Goby is not connected",
-    "Offer accepted": "Offer accepted",
-    "Asset added": "Asset added",
     "Request rejected": "Request rejected",
     "Offer rejected": "Offer rejected",
-    "Please reconnect your wallet to perform this action": "Please reconnect your wallet to perform this action."
+    "Offer accepted": "Offer accepted",
+    "Asset added": "Asset added"
   },
+  "signMessage": {
+    "Address not found in {{walletName}}": "Address not found in {{walletName}}",
+    "Message signed": "Message signed"
+  },
+  "This feature is not supported by {{wallet}}": "This feature is not supported by {{wallet}}",
   "Assets": {
     "Powered by Tail Database": "Powered by Tail Database",
     "Search {{count}} assets_one": "Search {{count}} asset",
