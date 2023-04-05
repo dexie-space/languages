@@ -55,7 +55,7 @@
     "Inspect": "Vedi dettagli",
     "No Results": "Nessun risultato",
     "Current Price": "Prezzo Corrente",
-    "New": "",
+    "New": "Nuovo",
     "Add to Wallet": "Aggiungi al portafogli",
     "Trade": "Compravendite",
     "Description": "Descrizione",
@@ -79,7 +79,7 @@
     "Any Asset": "Ogni Asset",
     "Showing Newest": "Mostra recenti",
     "NFT Collection": "Collezione NFT",
-    "Classic Chart": "",
+    "Classic Chart": "Diagramma Classico",
     "Everything": "Tutto",
     "NFT Collections": "Collezioni NFT",
     "Select Reason": "Seleziona un motivo",
@@ -281,10 +281,10 @@
     "Asset added": "Asset aggiunto"
   },
   "signMessage": {
-    "Address not found in {{walletName}}": "",
-    "Message signed": ""
+    "Address not found in {{walletName}}": "Indirizzo non trovato in {{walletName}}",
+    "Message signed": "Messaggio firmato"
   },
-  "This feature is not supported by {{wallet}}": "",
+  "This feature is not supported by {{wallet}}": "Quasta funzionalità non è supportata da {{wallet}}",
   "Assets": {
     "Powered by Tail Database": "Fonte Tail Database",
     "Search {{count}} assets_one": "Trova Asset Attivo",
