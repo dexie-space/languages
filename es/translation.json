@@ -224,6 +224,7 @@
     "Cancelled before collection date": "Cancelada antes de la fecha de recogida",
     "Confirmed at Block": "Confirmado en el bloque",
     "Number of confirmations": "Número de confirmaciones",
+    "attached": "",
     "Cancelled Maker Inputs": "Entradas del hacedor canceladas",
     "Maker Inputs": "Entradas del hacedor",
     "Taker Inputs": "Entradas del toamdor",

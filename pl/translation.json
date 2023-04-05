@@ -230,6 +230,7 @@
     "Cancelled before collection date": "Oferta anulowana przed dodaniem",
     "Confirmed at Block": "Zatwierdzone w bloku",
     "Number of confirmations": "Liczba potwierdzeń",
+    "attached": "",
     "Cancelled Maker Inputs": "Wycofane środki wejściowe oferenta",
     "Maker Inputs": "Środki wejściowe oferenta",
     "Taker Inputs": "Środki wejściowe osoby przyjmującej",
