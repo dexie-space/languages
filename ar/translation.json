@@ -376,6 +376,10 @@
     "Sorry, we couldn't find the page you're looking for": "معذرةً ، لم نتمكن من العثور على الصفحة التي تبحث عنها.",
     "Go back home": "ارجع الى البيت"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "الجمع بين العروض",
     "Combined Offer": "العرض المشترك",

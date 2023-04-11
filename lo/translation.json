@@ -336,6 +336,10 @@
     "Sorry, we couldn't find the page you're looking for": "ຂໍອະໄພ, ພວກເຮົາບໍ່ສາມາດຊອກຫາໜ້າເວັບທີ່ທ່ານຊອກຫາໄດ້.",
     "Go back home": "ກັບບ້ານ"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "ການລວມຂໍ້ສະເຫນີ",
     "Combined Offer": "ຂໍ້ສະເໜີລວມ",

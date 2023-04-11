@@ -360,6 +360,10 @@
     "Sorry, we couldn't find the page you're looking for": "Niestety, strona, której szukasz, nie istnieje.",
     "Go back home": "Wróć na stronę główną"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "Łączenie ofert",
     "Combined Offer": "Oferta łączona",

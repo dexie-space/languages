@@ -336,6 +336,10 @@
     "Sorry, we couldn't find the page you're looking for": "对不起，我们没找到您查找的页面。",
     "Go back home": "回到首页"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "结合优惠",
     "Combined Offer": "合并报价",

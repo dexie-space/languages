@@ -344,6 +344,10 @@
     "Sorry, we couldn't find the page you're looking for": "Því miður, við fundum ekki síðuna sem þú ert að leita að.",
     "Go back home": "Farðu aftur heim"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "Sameining tilboða",
     "Combined Offer": "Samsett tilboð",

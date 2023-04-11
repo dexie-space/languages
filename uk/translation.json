@@ -360,6 +360,10 @@
     "Sorry, we couldn't find the page you're looking for": "На жаль, нам не вдалося знайти сторінку, яку ви шукаєте",
     "Go back home": "Повернутись додому"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "Комбіновані пропозиції",
     "Combined Offer": "Комбінована пропозиція",

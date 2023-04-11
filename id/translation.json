@@ -337,6 +337,10 @@
     "Sorry, we couldn't find the page you're looking for": "Maaf, kami tidak dapat menemukan halaman yang Anda cari.",
     "Go back home": "Kembali ke Halaman Depan"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "Menggabungkan Penawaran",
     "Combined Offer": "Penawaran Gabungan",

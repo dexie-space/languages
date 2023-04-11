@@ -352,6 +352,10 @@
     "Sorry, we couldn't find the page you're looking for": "Mi spiace, non troviamo la pagina che stai cercando",
     "Go back home": "Torna alla Home"
   },
+  "offers": {
+    "Sell": "",
+    "Buy": ""
+  },
   "autoCombine": {
     "Combining Offers": "Fusione offerte in corso",
     "Combined Offer": "Offerta fusa",
