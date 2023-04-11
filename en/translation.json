@@ -345,8 +345,8 @@
     "Go back home": "Go back home"
   },
   "offers": {
-    "Sell": "Enter sell amount",
-    "Buy": "Enter buy amount"
+    "Sell": "Sell",
+    "Buy": "Buy"
   },
   "autoCombine": {
     "Combining Offers": "Combining Offers",
