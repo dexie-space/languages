@@ -224,7 +224,7 @@
     "Cancelled before collection date": "Completata prima della data di pubblicazione",
     "Confirmed at Block": "Confermato al blocco",
     "Number of confirmations": "Numero di conferma",
-    "attached": "",
+    "attached": "allegato",
     "Cancelled Maker Inputs": "Maker Inputs Cancellati",
     "Maker Inputs": "Maker Inputs",
     "Taker Inputs": "Taker Inputs",
@@ -353,8 +353,8 @@
     "Go back home": "Torna alla Home"
   },
   "offers": {
-    "Sell": "",
-    "Buy": ""
+    "Sell": "Vendi",
+    "Buy": "Compra"
   },
   "autoCombine": {
     "Combining Offers": "Fusione offerte in corso",
