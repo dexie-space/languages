@@ -6,7 +6,6 @@
     "Click to always enable": "Натисніть, щоб завжди вмикати",
     "Close Metadata": "Закрити метадані",
     "Inspect Metadata": "Переглянути метадані",
-    "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
     "Blocked": "Заблоковано",
     "Anyone can create an NFT collection, make sure the creator is authentic": "Будь-хто може створити колекцію NFT, переконайтеся, що автор справжній",
     "Unknown Creator": "Невідомий автор",
@@ -56,7 +55,7 @@
     "Inspect": "Перегляд",
     "No Results": "Немає результатів",
     "Current Price": "Поточна ціна",
-    "New": "",
+    "New": "Нове",
     "Add to Wallet": "Додати до гаманця",
     "Trade": "Торгівля",
     "Description": "Опис",
@@ -80,7 +79,7 @@
     "Any Asset": "Будь-який актив",
     "Showing Newest": "Показати найновіші",
     "NFT Collection": "НФТ колекція",
-    "Classic Chart": "",
+    "Classic Chart": "Класична діаграма",
     "Everything": "Усі",
     "NFT Collections": "НФТ колекції",
     "Select Reason": "Виберіть Причину",
@@ -230,7 +229,7 @@
     "Cancelled before collection date": "Скасовано до дати отримання",
     "Confirmed at Block": "Підтверджено в блоку",
     "Number of confirmations": "Кількість підтверджень",
-    "attached": "",
+    "attached": "додається",
     "Cancelled Maker Inputs": "Скасовані вхідні пропозиції творцем",
     "Maker Inputs": "Вхідні того хто створив",
     "Taker Inputs": "Вхідні того хто приймає",
@@ -283,29 +282,29 @@
   "toast": {
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
-    "Request rejected": "",
-    "Offer rejected": "",
+    "Request rejected": "Запит відхилено",
+    "Offer rejected": "Пропозицію відхилено",
     "Offer accepted": "Пропозиція прийнята",
     "Asset added": "Актив додано"
   },
   "signMessage": {
-    "Address not found in {{walletName}}": "",
-    "Message signed": ""
+    "Address not found in {{walletName}}": "Адресу не знайдено в {{walletName}}",
+    "Message signed": "Повідомлення підписано"
   },
-  "This feature is not supported by {{wallet}}": "",
+  "This feature is not supported by {{wallet}}": "Ця функція не підтримується {{wallet}}",
   "Assets": {
-    "Powered by Tail Database": "",
+    "Powered by Tail Database": "На основі бази даних Tail Database",
     "Search {{count}} assets_one": "Пошук {{count}} активу",
     "Search {{count}} assets_few": "Пошук {{count}} активів",
     "Search {{count}} assets_many": "Пошук {{count}} активів",
     "Search {{count}} assets_other": "Пошук {{count}} активів",
-    "Show All": "",
-    "Show Muted": "",
-    "No Muted Assets": "",
-    "Asset Not Found": "",
-    "Mute assets to prevent them from showing up for you": "",
-    "Unmute": "",
-    "Mute": "",
+    "Show All": "Покажи всі",
+    "Show Muted": "Показати вимкнені",
+    "No Muted Assets": "Немає вимкнених активів",
+    "Asset Not Found": "Актив не знайдено",
+    "Mute assets to prevent them from showing up for you": "Вимкнути активии, щоб вони не відображалися",
+    "Unmute": "Увімкнути",
+    "Mute": "Вимкнути",
     "Code": "Код",
     "Asset ID": "Ідентифікатор активу",
     "Current Average Price": "Поточна середня вартість",
@@ -361,8 +360,8 @@
     "Go back home": "Повернутись додому"
   },
   "offers": {
-    "Sell": "",
-    "Buy": ""
+    "Sell": "Продати",
+    "Buy": "Купити"
   },
   "autoCombine": {
     "Combining Offers": "Комбіновані пропозиції",
