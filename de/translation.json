@@ -64,11 +64,12 @@
     "Transaction Fees": "Transaktionsgebühr",
     "Mempool Transaction ID": "Mempool Transaktions-ID",
     "Uploading": "Hochladen...",
-    "Currently Offered": "Derzeit Angeboten",
+    "Liquidity": "",
     "Weekly Volume": "Wöchentliches Volumen",
     "Monthly Volume": "Monatliches Volumen",
     "Yearly Volume": "Jährliches Volumen",
     "Rank by": "Sortieren nach",
+    "Currently Offered": "Derzeit Angeboten",
     "Daily Trades": "Tägliche Trades",
     "Weekly Trades": "Wöchentliche Trades",
     "Monthly Trades": "Monatliche Trades",
@@ -101,7 +102,7 @@
     "Trade": "Handel",
     "Recent Trades": "Zuletzt gehandelt",
     "FAQ": "F&A",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageLiquidityRewards": "",
     "Get USDS": "USDS",
     "Add Offer": "Angebot hochladen"
   },
@@ -116,14 +117,13 @@
     "Disconnected": "Getrennt",
     "Remove": "Entfernen",
     "Disconnect": "Trennen"
-    },
+  },
   "createOffer": {
     "Please wait": "Bitte warten ...",
     "Create Offer with Goby": "Angebot mit Goby erstellen"
   },
   "footer": {
     "Public API": "API",
-    "Combined Offers": "Kombination",
     "Help translate": "Hilf übersetzen",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Alle Blöcke sind voll ausgelastet, empfohlene Transaktionsgebühr: {{fee}} {{xch}}",
     "Status": "Status",
@@ -140,9 +140,8 @@
     "Create with Goby": "Mit Goby erstellen",
     "Paste Offer": "Angebot einfügen",
     "Bulk Upload": "Bulk Upload",
+    "API": "",
     "Backup / Restore": "Sichern / Wiederherstellen",
-    "Add Offer": "Angebot hinzufügen",
-    "subheading": "Wähle wie du dein Angebot erstellen möchtest. Alle Angebote werden automatisch über IPFS geteilt.",
     "#dragHint": "Offer Files hier ablegen",
     "Raw Offer here": "Offer File",
     "No Offer entered": "Kein Angebot eingegeben",
@@ -151,12 +150,15 @@
     "Successfully queued {{count}} offers for submission_other": "{{count}} Angebote erfolgreich hochgeladen",
     "Select and Upload ZIP file": "ZIP-Datei auswählen und hochladen",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Angebote, die über das Bulk Upload Tool hochgeladen werden, erscheinen nicht deinen hinzugefügten Angeboten.",
+    "See the API documentation for more information and examples": "",
     "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Deine hinzugefügten Angebote werden in deinem Browser gespeichert, erstelle daher eine Sicherungskopie bevor du deinen Browser zurücksetzt.",
     "Backup Your Offers": "Angebote sichern",
     "Restore Your Offers": "Angebote wiederherstellen",
     "Duplicate offers will be merged": "Doppelte Angebote werden zusammengeführt.",
     "Your Added Offers": "Deine Angebote",
-    "No matching offers": "Keine passenden Angebote gefunden"
+    "No matching offers": "Keine passenden Angebote gefunden",
+    "Liquidity Rewards": "",
+    "Claim": ""
   },
   "invalid offer file": "Ungültiges Offer File",
   "offersTable": {
@@ -317,14 +319,15 @@
   "markets": {
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
     "{{market}} heading": "{{market}} Märkte",
-    "Depth": "Tiefe",
+    "Price Depth": "",
     "Rank": "Rang",
     "Asset": "Währung",
     "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} {{market}} \nund Ertrag eines {{market}}.",
     "Buy Price": "Kaufpreis",
     "#sellPriceHint{{depth}}": "Der Stückpreis für den Verkauf von {{depth}} {{market}}\n und wie viel jeder {{market}} kosten würde.",
     "Sell Price": "Verkaufspreis",
-    "Currently Offered": "Derzeit Angeboten",
+    "Provide liquidity to earn DBX rewards": "",
+    "Incentives": "",
     "Buy": "Kauf",
     "Sell": "Verkauf",
     "no liquidity": "keine Liquidität",
@@ -359,7 +362,7 @@
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Keine Angebote zum automatischen Kombinieren, versuche einen größeren Betrag oder wähle das beste Angebot von unten",
     "High Slippage": "Hohe Slippage",
     "Best Combined": "Beste Kombination"
-    },
+  },
   "report": {
     "Report Content": "Inhalt Melden",
     "Use this form to report NFTs or Tokens for rule violations": "Benutze dieses Formular um NFTs oder Tokens zu melden.",
