@@ -182,9 +182,9 @@
     "Last": "Ultima",
     "Best Price": "Miglior Prezzo",
     "New": "Nuova",
-    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocks ago",
-    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocks ago",
-    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
+    "Blocks ago_one": "<0>{{formattedCount}}</0> Blocco fa",
+    "Blocks ago_many": "<0>{{formattedCount}}</0> Blocchi fa",
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocchi fa"
   },
   "ribbon": {
     "Yours": "Le tue"
