@@ -101,6 +101,7 @@
     "Trade": "Trade",
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
+    "bannerMessageCombinedOffers": "Introducing <a class='font-bold' href='/combined'>Auto-Combined Offers</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to find out what's coming next!",
     "bannerMessageLiquidityRewards": "Now with <b>Liquidity Rewards</b>! Earn <b>dexie bucks</b> by adding offers for incentivized trading pairs.",
     "Get USDS": "Get USDS",
     "Add Offer": "Add Offer"
