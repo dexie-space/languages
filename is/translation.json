@@ -63,12 +63,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "Mempool færslukenni",
     "Uploading": "Hleður upp...",
-    "Liquidity": "",
+    "Currently Offered": "Núna í boði",
     "Weekly Volume": "Vikulegt bindi",
     "Monthly Volume": "Mánaðarlegt bindi",
     "Yearly Volume": "Árlegt bindi",
     "Rank by": "Raðað eftir",
-    "Currently Offered": "Núna í boði",
     "Daily Trades": "Daglegar viðskipti",
     "Weekly Trades": "Vikuleg viðskipti",
     "Monthly Trades": "Mánaðarleg viðskipti",
@@ -104,7 +103,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "Fáðu USDS",
-    "Add Offer": "Bæta við tilboði"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "",

@@ -63,12 +63,11 @@
     "Transaction Fees": "Transaction Fees",
     "Mempool Transaction ID": "Mempool Transaction ID",
     "Uploading": "Uploading...",
-    "Liquidity": "Liquidity",
+    "Currently Offered": "Currently Offered",
     "Weekly Volume": "Weekly Volume",
     "Monthly Volume": "Monthly Volume",
     "Yearly Volume": "Yearly Volume",
     "Rank by": "Rank by",
-    "Currently Offered": "Currently Offered",
     "Daily Trades": "Daily Trades",
     "Weekly Trades": "Weekly Trades",
     "Monthly Trades": "Monthly Trades",
@@ -104,7 +103,7 @@
     "bannerMessageCombinedOffers": "Introducing <a class='font-bold' href='/combined'>Auto-Combined Offers</a>! Follow us at <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> to find out what's coming next!",
     "bannerMessageLiquidityRewards": "Now with <b>Liquidity Rewards</b>! Earn <b>dexie bucks</b> by adding offers for incentivized trading pairs.",
     "Get USDS": "Get USDS",
-    "Add Offer": "Add Offer"
+    "Offers": "Offers"
   },
   "connectModal": {
     "Not Installed": "Not Installed",

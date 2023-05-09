@@ -62,12 +62,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "",
     "Uploading": "กำลังอัพโหลด...",
-    "Liquidity": "",
+    "Currently Offered": "",
     "Weekly Volume": "",
     "Monthly Volume": "",
     "Yearly Volume": "",
     "Rank by": "",
-    "Currently Offered": "",
     "Daily Trades": "",
     "Weekly Trades": "",
     "Monthly Trades": "",
@@ -103,7 +102,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "",
-    "Add Offer": "เพิ่มข้อเสนอ"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "",

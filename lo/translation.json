@@ -62,12 +62,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "ລະຫັດທຸລະກໍາ Mempool",
     "Uploading": "ກຳລັງອັບໂຫລດ...",
-    "Liquidity": "",
+    "Currently Offered": "ປະຈຸບັນສະເຫນີ",
     "Weekly Volume": "ປະລິມານປະຈໍາອາທິດ",
     "Monthly Volume": "ປະລິມານປະຈໍາເດືອນ",
     "Yearly Volume": "ປະລິມານປະຈໍາປີ",
     "Rank by": "ອັນດັບໂດຍ",
-    "Currently Offered": "ປະຈຸບັນສະເຫນີ",
     "Daily Trades": "ການຊື້ຂາຍປະຈໍາວັນ",
     "Weekly Trades": "ການຊື້ຂາຍປະຈໍາອາທິດ",
     "Monthly Trades": "ການຄ້າລາຍເດືອນ",
@@ -103,7 +102,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "ຮັບ USDS",
-    "Add Offer": "ເພີ່ມຂໍ້ສະເໜີ"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "",

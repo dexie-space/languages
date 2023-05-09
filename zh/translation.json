@@ -62,12 +62,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "内存池交易 ID",
     "Uploading": "上传中...",
-    "Liquidity": "",
+    "Currently Offered": "当前提供的",
     "Weekly Volume": "每周交易量",
     "Monthly Volume": "每月交易量",
     "Yearly Volume": "年度交易量",
     "Rank by": "排名依据",
-    "Currently Offered": "当前提供的",
     "Daily Trades": "每日交易",
     "Weekly Trades": "每周交易",
     "Monthly Trades": "每月交易",
@@ -103,7 +102,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "获取 USDS",
-    "Add Offer": "添加Offer"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "",

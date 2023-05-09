@@ -65,12 +65,11 @@
     "Transaction Fees": "Opłaty transakcyjne",
     "Mempool Transaction ID": "ID transakcji w mempoolu",
     "Uploading": "Wysyłanie...",
-    "Liquidity": "",
+    "Currently Offered": "Suma ofert",
     "Weekly Volume": "Tygodniowy obrót",
     "Monthly Volume": "Miesięczny obrót",
     "Yearly Volume": "Roczny obrót",
     "Rank by": "Sortuj wg",
-    "Currently Offered": "Suma ofert",
     "Daily Trades": "Dzienna liczba transakcji",
     "Weekly Trades": "Tygodniowa liczba transakcji",
     "Monthly Trades": "Miesięczna liczba transakcji",
@@ -106,7 +105,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "Kup USDS",
-    "Add Offer": "Dodaj ofertę"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "Niezainstalowano",

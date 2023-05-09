@@ -65,12 +65,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "Идентификатор транзакции Мемпула",
     "Uploading": "Выгрузка...",
-    "Liquidity": "",
+    "Currently Offered": "предложением",
     "Weekly Volume": "Недельным объемом",
     "Monthly Volume": "Месячным объемом",
     "Yearly Volume": "Годовым объемом",
     "Rank by": "Ранжировать за",
-    "Currently Offered": "предложением",
     "Daily Trades": "Суточной торговлей",
     "Weekly Trades": "Недельной торговлей",
     "Monthly Trades": "Месячной торговлей",
@@ -106,7 +105,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "Получить USDS",
-    "Add Offer": "Добавить предложение"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "Не установлено",

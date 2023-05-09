@@ -64,12 +64,11 @@
     "Transaction Fees": "",
     "Mempool Transaction ID": "ID de transaction Mempool",
     "Uploading": "Chargement en cours",
-    "Liquidity": "",
+    "Currently Offered": "Offert Actuellement",
     "Weekly Volume": "Volume Hebdomadaire",
     "Monthly Volume": "Volume Mensuel",
     "Yearly Volume": "Volume Annuel",
     "Rank by": "Classer par",
-    "Currently Offered": "Offert Actuellement",
     "Daily Trades": "Echanges Journaliers",
     "Weekly Trades": "Echanges Hebdomadaires",
     "Monthly Trades": "Echanges Mensuels",
@@ -105,7 +104,7 @@
     "bannerMessageCombinedOffers": "",
     "bannerMessageLiquidityRewards": "",
     "Get USDS": "Obtenez des USDS",
-    "Add Offer": "Ajouter une Offre"
+    "Offers": ""
   },
   "connectModal": {
     "Not Installed": "",
