@@ -101,10 +101,10 @@
     "Trade": "Operar",
     "Recent Trades": "Operaciones recientes",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "",
+    "bannerMessageCombinedOffers": "¡Presentamos las <a class='font-bold' href='/combined'>ofertas combinadas automáticamente</a>! ¡Síguenos en <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> para enterarte de lo que sigue!",
     "bannerMessageLiquidityRewards": "¡Presentamos <b>Recompensas de Liquidez</b>!  Gane <b>dexie bucks</b> agregando ofertas para pares comerciales incentivados.",
     "Get USDS": "Obtenga USDS",
-    "Your Offers": ""
+    "Your Offers": "Tus ofertas"
   },
   "connectModal": {
     "Not Installed": "No instalada",
@@ -223,7 +223,7 @@
     "Go to Trade": "Ir a operaciones",
     "Completed before collection date": "Completado antes de la fecha de recogida",
     "Cancelled before collection date": "Cancelada antes de la fecha de recogida",
-    "Trade ID": "",
+    "Trade ID": "Identificación de la transacción",
     "Confirmed at Block": "Confirmado en el bloque",
     "Number of confirmations": "Número de confirmaciones",
     "attached": "adjuntado",
