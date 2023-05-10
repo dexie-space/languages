@@ -102,8 +102,8 @@
     "Trade": "Compravendite",
     "Recent Trades": "Vendite Recenti",
     "FAQ": "FAQ",
-    "bannerMessageCombinedOffers": "bannerMessageCombinedOffers",
-    "bannerMessageLiquidityRewards": "bannerMessageLiquidityRewards",
+    "bannerMessageCombinedOffers": "Introdotte <a class='font-bold' href='/combined'>Offerte Fuse automaticamente</a>! Seguici su <a class='font-bold' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> per capire cosa sta per arrivare prossimamente!"",
+    "bannerMessageLiquidityRewards": "Ora con i <b>Liquidity Rewards</b>! ottieni <b>dexie bucks</b> fondendo le offerte",
     "Get USDS": "Ottieni USDS",
     "Add Offer": "Aggiungi Offerta"
   },
