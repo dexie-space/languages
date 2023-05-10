@@ -334,7 +334,7 @@
     "Buy Price": "Prezzo di acquisto",
     "#sellPriceHint{{depth}}": "Il prezzo unitario per l'acquisto di {{depth}} {{market}} \n e quanto costerebbe ogni {{market}}.",
     "Sell Price": "Prezzo di vendita",
-    "Provide liquidity to earn DBX rewards": "aggiungi liquidità per ottenere DBX",
+    "Provide liquidity to earn DBX rewards": "Aggiungi liquidità per ottenere DBX",
     "Incentives": "Incentivi",
     "Buy": "Compra",
     "Sell": "Vendi",
