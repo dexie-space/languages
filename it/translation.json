@@ -327,7 +327,7 @@
   "markets": {
     "{{market}} subheading": "Tutti gli asset conosciuti con almeno un {{market}} di liquidità in vendita",
     "{{market}} heading": "Mercati in {{market}}",
-    "Price Depth": "Profindità del prezzo",
+    "Price Depth": "Profondità del prezzo",
     "Rank": "Classifica",
     "Asset": "Asset",
     "#buyPriceHint{{depth}}": "Il prezzo unitario per l'acquisto di {{depth}} {{market}} \n e quanto otterrebbe ogni {{market}}.",
