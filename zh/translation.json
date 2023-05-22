@@ -134,6 +134,7 @@
     "offerFileSuccessfullyIndexed": "Offer 文件成功分类.",
     "Submit Offer": "提交Offer",
     "Paste from Clipboard": "从粘贴板粘贴",
+    "Rewards": "",
     "Upload Offer Files": "上传Offer文件",
     "Create with Goby": "用Goby钱包生成",
     "Paste Offer": "粘贴Offer文件",
@@ -155,8 +156,11 @@
     "Your Added Offers": "你增加的Offer文件",
     "Your added offers appear here": "",
     "No matching offers": "没有匹配的Offer",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "Offer文件无效",
   "offersTable": {
@@ -289,6 +293,23 @@
     "Asset ID": "资产 ID",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} 流动性"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "核心贡献者",

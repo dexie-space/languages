@@ -139,6 +139,7 @@
     "offerFileSuccessfullyIndexed": "عرض ملف الفهرسة بنجاح.",
     "Submit Offer": "إرسال العرض",
     "Paste from Clipboard": "لصق من الحافظة",
+    "Rewards": "",
     "Upload Offer Files": "رفع ملفات العرض",
     "Create with Goby": "ابتكر مع Goby",
     "Paste Offer": "لصق العرض",
@@ -165,8 +166,11 @@
     "Your Added Offers": "العروض المضافة",
     "Your added offers appear here": "",
     "No matching offers": "لا عروض مطابقة",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "ملف عرض غير صالح",
   "offersTable": {
@@ -329,6 +333,23 @@
     "Asset ID": "معرف الأصول",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} السيولة"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "مساهم أساسي",

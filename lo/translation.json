@@ -134,6 +134,7 @@
     "offerFileSuccessfullyIndexed": "ໄຟລ໌ຂໍ້ສະເໜີໄດ້ຖືກບັນທຶກແລ້ວ",
     "Submit Offer": "ສົ່ງຂໍ້ສະເໜີ",
     "Paste from Clipboard": "ວາງຂໍ້ສະເໜີຈາກຄລິບບອດ",
+    "Rewards": "",
     "Upload Offer Files": "ອັບໂຫຼດໄຟລ໌ຂໍ້ສະເໜີ",
     "Create with Goby": "ສ້າງດ້ວຍ Goby",
     "Paste Offer": "ວາງຂໍ້ສະເໜີ",
@@ -155,8 +156,11 @@
     "Your Added Offers": "ຂໍ້ສະເໜີຂອງເຈົ້າ",
     "Your added offers appear here": "",
     "No matching offers": "ຂໍ້ສະເໜີບໍ່ກົງກັນ",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "ໄຟລ໌ຂໍ້ສະເໜີບໍ່ຖືກຕ້ອງ.",
   "offersTable": {
@@ -289,6 +293,23 @@
     "Asset ID": "ID ຊັບສິນ",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} ສະພາບຄ່ອງ"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "ຜູ້ປະກອບສ່ວນຫຼັກ",

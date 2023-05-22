@@ -134,6 +134,7 @@
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
     "Submit Offer": "ส่งข้อเสนอ",
     "Paste from Clipboard": "แปะข้อเสนอจากคลิปบอร์ด",
+    "Rewards": "",
     "Upload Offer Files": "อัพโหลดไฟล์ข้อเสนอ",
     "Create with Goby": "สร้างด้วย Goby",
     "Paste Offer": "แปะข้อเสนอ",
@@ -155,8 +156,11 @@
     "Your Added Offers": "ข้อเสนอของคุณ",
     "Your added offers appear here": "",
     "No matching offers": "ข้อเสนอไม่ได้ถูกจับคู่",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "ไฟล์ข้อเสนอไม่ถูกต้อง",
   "offersTable": {
@@ -289,6 +293,23 @@
     "Asset ID": "",
     "Current Average Price": "",
     "{{code}} Liquidity": ""
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "",

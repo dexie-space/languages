@@ -136,6 +136,7 @@
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
     "Submit Offer": "Presenta offerta",
     "Paste from Clipboard": "Incolla dal Clipboard",
+    "Rewards": "",
     "Upload Offer Files": "Carica file di offerta",
     "Create with Goby": "Crea con Goby",
     "Paste Offer": "Incolla offerta",
@@ -159,8 +160,11 @@
     "Your Added Offers": "Le tue offerte aggiunte",
     "Your added offers appear here": "",
     "No matching offers": "Offerte senza corrispondenza",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "Liquidity Rewards",
-    "Claim": "Ottieni"
+    "Reward Claimed": "",
+    "Claim": "Ottieni",
+    "Eligible": ""
   },
   "invalid offer file": "File di offerta non valido",
   "offersTable": {
@@ -305,6 +309,23 @@
     "Asset ID": "Asset ID",
     "Current Average Price": "Prezzo medio corrente",
     "{{code}} Liquidity": "Liquidità in {{code}}"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Collaboratori principali",

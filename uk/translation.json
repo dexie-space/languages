@@ -137,6 +137,7 @@
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
     "Submit Offer": "Надіслати пропозицію",
     "Paste from Clipboard": "Вставити з буфера обміну",
+    "Rewards": "",
     "Upload Offer Files": "Завантажити файли пропозицій",
     "Create with Goby": "Створити пропозицію за допомогою Goby",
     "Paste Offer": "Вставити пропозицію",
@@ -161,8 +162,11 @@
     "Your Added Offers": "Твої додані пропозиції",
     "Your added offers appear here": "",
     "No matching offers": "Немає відповідних пропозицій",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "Недійсний файл пропозиції",
   "offersTable": {
@@ -313,6 +317,23 @@
     "Asset ID": "Ідентифікатор активу",
     "Current Average Price": "Поточна середня вартість",
     "{{code}} Liquidity": "{{code}} Ліквідність"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Core розробник",

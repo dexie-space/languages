@@ -137,6 +137,7 @@
     "offerFileSuccessfullyIndexed": "файл прапановы паспяхова праіндэксаваны",
     "Submit Offer": "Адправіць прапанову",
     "Paste from Clipboard": "Уставіць з буфера абмену",
+    "Rewards": "",
     "Upload Offer Files": "Загрузіць файлы прапановы",
     "Create with Goby": "Стварыце прапанову з Goby",
     "Paste Offer": "Уставіць прапанову",
@@ -161,8 +162,11 @@
     "Your Added Offers": "Вашы дададзеныя прапановы",
     "Your added offers appear here": "",
     "No matching offers": "Няма адпаведных прапаноў",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "Няправільны файл прапановы",
   "offersTable": {
@@ -313,6 +317,23 @@
     "Asset ID": "Ідэнтыфікатар актыву",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Ліквіднасць"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Асноўны распрацоўшчык",

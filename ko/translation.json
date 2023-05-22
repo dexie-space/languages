@@ -134,6 +134,7 @@
     "offerFileSuccessfullyIndexed": "오퍼파일이 조정되었습니다",
     "Submit Offer": "",
     "Paste from Clipboard": "",
+    "Rewards": "",
     "Upload Offer Files": "",
     "Create with Goby": "",
     "Paste Offer": "",
@@ -155,8 +156,11 @@
     "Your Added Offers": "",
     "Your added offers appear here": "",
     "No matching offers": "",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "유효하지 않은 오퍼파일",
   "offersTable": {
@@ -289,6 +293,23 @@
     "Asset ID": "",
     "Current Average Price": "",
     "{{code}} Liquidity": ""
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "",

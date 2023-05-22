@@ -137,6 +137,7 @@
     "offerFileSuccessfullyIndexed": "файл предложения проиндексирован успешно",
     "Submit Offer": "Отправить предложение",
     "Paste from Clipboard": "Вставить из буфера обмена",
+    "Rewards": "",
     "Upload Offer Files": "Загрузить файлы предложений",
     "Create with Goby": "Создать предложение с помощью Goby",
     "Paste Offer": "Вставить предложение",
@@ -161,8 +162,11 @@
     "Your Added Offers": "Твои добавленные предложения",
     "Your added offers appear here": "",
     "No matching offers": "Нет соответствующих предложений",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "Недействительный файл предложения",
   "offersTable": {
@@ -313,6 +317,23 @@
     "Asset ID": "Идентификатор актива",
     "Current Average Price": "Текущая средняя цена",
     "{{code}} Liquidity": "{{code}} Ликвидность"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Core разработчик",

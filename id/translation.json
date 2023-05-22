@@ -134,6 +134,7 @@
     "offerFileSuccessfullyIndexed": "Penawaran File berhasil diindeks",
     "Submit Offer": "Kirim Penawaran",
     "Paste from Clipboard": "Tempel dari Papan Klip",
+    "Rewards": "",
     "Upload Offer Files": "Unggah Penawaran File",
     "Create with Goby": "Buat dengan Goby",
     "Paste Offer": "Tempel Penawaran",
@@ -155,8 +156,11 @@
     "Your Added Offers": "Penawaran Anda Ditambahkan",
     "Your added offers appear here": "",
     "No matching offers": "Tidak ada penawaran yang cocok",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
+    "Reward Claimed": "",
     "Claim": "",
+    "Eligible": "",
     "Successfully queued {{count}} offers for submission_one": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan"
   },
   "invalid offer file": "File Penawaran Tidak Valid",
@@ -290,6 +294,23 @@
     "Asset ID": "ID Aset",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Likuiditas"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Kontributor Inti",

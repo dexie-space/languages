@@ -135,6 +135,7 @@
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
     "Submit Offer": "Submit Offer",
     "Paste from Clipboard": "Paste from Clipboard",
+    "Rewards": "Rewards",
     "Upload Offer Files": "Upload Offer Files",
     "Create with Goby": "Create with Goby",
     "Paste Offer": "Paste Offer",
@@ -157,8 +158,11 @@
     "Your Added Offers": "Your Added Offers",
     "Your added offers appear here": "Your added offers appear here",
     "No matching offers": "No matching offers",
+    "Offers close to the market price may receive rewards (click for more)": "Offers close to the market price may receive rewards (click for more)",
     "Liquidity Rewards": "Liquidity Rewards",
-    "Claim": "Claim"
+    "Reward Claimed": "Reward Claimed",
+    "Claim": "Claim",
+    "Eligible": "Eligible"
   },
   "invalid offer file": "Invalid Offer File",
   "offersTable": {
@@ -297,6 +301,23 @@
     "Asset ID": "Asset ID",
     "Current Average Price": "Current Average Price",
     "{{code}} Liquidity": "{{code}} Liquidity"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "Claimed Rewards History",
+    "Learn more about the Liquidity Incentive Program": "Learn more about the Liquidity Incentive Program",
+    "Total Rewards Claimed": "Total Rewards Claimed",
+    "Last Month Claimed": "Last Month Claimed",
+    "Outstanding Claims": "Outstanding Claims",
+    "Daily Reward Rate": "Daily Reward Rate",
+    "Claimed Reward": "Claimed Reward",
+    "Claimed By": "Claimed By",
+    "Date": "Date",
+    "Queued": "Queued",
+    "Sent": "Sent",
+    "Offer": "Offer",
+    "Transaction ID": "Transaction ID",
+    "Public Key": "Public Key",
+    "Signature": "Signature"
   },
   "contributors": {
     "Core Contributor": "Core Contributor",

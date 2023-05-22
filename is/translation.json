@@ -135,6 +135,7 @@
     "offerFileSuccessfullyIndexed": "Tilboðsskrá var skráð.",
     "Submit Offer": "Sendu tilboð",
     "Paste from Clipboard": "Límdu frá klemmuspjald",
+    "Rewards": "",
     "Upload Offer Files": "Hladdu upp tilboðsskrám",
     "Create with Goby": "Búðu til með Goby",
     "Paste Offer": "Límdu tilboð",
@@ -157,8 +158,11 @@
     "Your Added Offers": "Viðbótartilboðin þín",
     "Your added offers appear here": "",
     "No matching offers": "Engin samsvarandi tilboð",
+    "Offers close to the market price may receive rewards (click for more)": "",
     "Liquidity Rewards": "",
-    "Claim": ""
+    "Reward Claimed": "",
+    "Claim": "",
+    "Eligible": ""
   },
   "invalid offer file": "Ógild tilboðsskrá",
   "offersTable": {
@@ -297,6 +301,23 @@
     "Asset ID": "Eignakenni",
     "Current Average Price": "",
     "{{code}} Liquidity": "{{code}} Lausafjárstaða"
+  },
+  "claimHistory": {
+    "Claimed Rewards History": "",
+    "Learn more about the Liquidity Incentive Program": "",
+    "Total Rewards Claimed": "",
+    "Last Month Claimed": "",
+    "Outstanding Claims": "",
+    "Daily Reward Rate": "",
+    "Claimed Reward": "",
+    "Claimed By": "",
+    "Date": "",
+    "Queued": "",
+    "Sent": "",
+    "Offer": "",
+    "Transaction ID": "",
+    "Public Key": "",
+    "Signature": ""
   },
   "contributors": {
     "Core Contributor": "Kjarnaþátttakandi",
