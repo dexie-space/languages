@@ -243,6 +243,7 @@
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
     "Request rejected": "",
     "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": "",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
     "Asset added": ""
   },
@@ -251,6 +252,10 @@
     "Message signed": ""
   },
   "This feature is not supported by {{wallet}}": "",
+  "signAddress": {
+    "No key for this address": "",
+    "Invalid address": ""
+  },
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_other": "",

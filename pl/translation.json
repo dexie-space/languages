@@ -261,6 +261,7 @@
     "gobyError4900": "Brak połączenia z portfelem Goby",
     "Request rejected": "Odrzucono żądanie połączenia",
     "Offer rejected": "Odrzucono ofertę",
+    "Please reconnect your wallet to perform this action": "",
     "Offer accepted": "Zaakceptowano ofertę",
     "Asset added": "Dodano token"
   },
@@ -269,6 +270,10 @@
     "Message signed": "Wiadomość podpisana"
   },
   "This feature is not supported by {{wallet}}": "Funkcja nieobsługiwana przez {{wallet}}",
+  "signAddress": {
+    "No key for this address": "",
+    "Invalid address": ""
+  },
   "Assets": {
     "Powered by Tail Database": "Dane pochodzą z Tail Database",
     "Search {{count}} assets_one": "Wyszukaj {{count}} token",

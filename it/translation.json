@@ -255,6 +255,7 @@
     "gobyError4900": "Goby non è connesso",
     "Request rejected": "Richiesta rigettata",
     "Offer rejected": "Offerta rigettata",
+    "Please reconnect your wallet to perform this action": "",
     "Offer accepted": "Offerta Accettata",
     "Asset added": "Asset aggiunto"
   },
@@ -263,6 +264,10 @@
     "Message signed": "Messaggio firmato"
   },
   "This feature is not supported by {{wallet}}": "Quasta funzionalità non è supportata da {{wallet}}",
+  "signAddress": {
+    "No key for this address": "",
+    "Invalid address": ""
+  },
   "Assets": {
     "Powered by Tail Database": "Fonte Tail Database",
     "Search {{count}} assets_one": "Trova Asset Attivo",

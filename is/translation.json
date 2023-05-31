@@ -249,6 +249,7 @@
     "gobyError4900": "Goby er ekki tengdur",
     "Request rejected": "",
     "Offer rejected": "",
+    "Please reconnect your wallet to perform this action": "",
     "Offer accepted": "Tilboði tekið",
     "Asset added": ""
   },
@@ -257,6 +258,10 @@
     "Message signed": ""
   },
   "This feature is not supported by {{wallet}}": "",
+  "signAddress": {
+    "No key for this address": "",
+    "Invalid address": ""
+  },
   "Assets": {
     "Powered by Tail Database": "",
     "Search {{count}} assets_one": "Leitaðu að {{count}} eign",

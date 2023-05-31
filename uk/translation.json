@@ -261,6 +261,7 @@
     "gobyError4900": "Goby помилка 4900",
     "Request rejected": "Запит відхилено",
     "Offer rejected": "Пропозицію відхилено",
+    "Please reconnect your wallet to perform this action": "",
     "Offer accepted": "Пропозиція прийнята",
     "Asset added": "Актив додано"
   },
@@ -269,6 +270,10 @@
     "Message signed": "Повідомлення підписано"
   },
   "This feature is not supported by {{wallet}}": "Ця функція не підтримується {{wallet}}",
+  "signAddress": {
+    "No key for this address": "",
+    "Invalid address": ""
+  },
   "Assets": {
     "Powered by Tail Database": "На основі бази даних Tail Database",
     "Search {{count}} assets_one": "Пошук {{count}} активу",
