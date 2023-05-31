@@ -1,9 +1,9 @@
 {
   "App": {
-    "Offers successfully restored": "",
-    "Invalid offer": "",
-    "Offer successfully indexed": "",
-    "Error uploading offer": ""
+    "Offers successfully restored": "Offerte ripristinate con successo",
+    "Invalid offer": "Offerta non valida",
+    "Offer successfully indexed": "Offerta indicizzata correttamente",
+    "Error uploading offer": "Errore nel caricamento dell'offerta"
   },
   "nft": {
     "Unnamed NFT": "NFT senza nome",
@@ -255,7 +255,7 @@
     "gobyError4900": "Goby non è connesso",
     "Request rejected": "Richiesta rigettata",
     "Offer rejected": "Offerta rigettata",
-    "Please reconnect your wallet to perform this action": "",
+    "Please reconnect your wallet to perform this action": "Cortesemente connetti nuovamente il portafogli per eseguire questa azione",
     "Offer accepted": "Offerta Accettata",
     "Asset added": "Asset aggiunto"
   },
@@ -265,8 +265,8 @@
   },
   "This feature is not supported by {{wallet}}": "Quasta funzionalità non è supportata da {{wallet}}",
   "signAddress": {
-    "No key for this address": "",
-    "Invalid address": ""
+    "No key for this address": "Nessuna chiave per questo indirizzo",
+    "Invalid address": "Indirizzo non valido"
   },
   "Assets": {
     "Powered by Tail Database": "Fonte Tail Database",
@@ -286,10 +286,10 @@
     "{{code}} Liquidity": "Liquidità in {{code}}"
   },
   "claimHistory": {
-    "Claimed Rewards History": "Storia delle ricompense rivendicatee",
+    "Claimed Rewards History": "Storia delle ricompense rivendicate",
     "Learn more about the Liquidity Incentive Program": "Scopri di piu circa il programma degli incentivi di liquidità",
     "Total Rewards Claimed": "Ricompense totali rivendicate",
-    "Within Last Month Claimed": "",
+    "Within Last Month Claimed": "Rivendicato entro il mese scorso",
     "Outstanding Claims": "reclami in sospeso",
     "Daily Reward Rate": "Tasso di ricompensa giornaliero",
     "Claimed Reward": "Ricompensa rivendicata",
@@ -319,7 +319,7 @@
     "offerFileSuccessfullyIndexed": "File di offerta indicizzato con successo",
     "Submit Offer": "Presenta offerta",
     "Paste from Clipboard": "Incolla dal Clipboard",
-    "Offer creator address does not exist in connected wallet": "",
+    "Offer creator address does not exist in connected wallet": "L'indirizzo del creatore dell'offerta non esiste nel portafoglio connesso",
     "Rewards": "Ricompense",
     "Upload Offer Files": "Carica file di offerta",
     "Create with Goby": "Crea con Goby",
@@ -344,7 +344,7 @@
     "Your Added Offers": "Le tue offerte aggiunte",
     "Your added offers appear here": "Le tue offerte aggiunte appaiono qui",
     "No matching offers": "Offerte senza corrispondenza",
-    "Offers close to the market price can receive rewards (click for more)": "",
+    "Offers close to the market price can receive rewards (click for more)": "Le offerte vicine al prezzo di mercato possono ricevere premi (fare clic per ulteriori informazioni)",
     "Liquidity Rewards": "Liquidity Rewards",
     "Reward Claimed": "Ricompense rivendicate",
     "Claim": "Ottieni",
