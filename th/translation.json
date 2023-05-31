@@ -300,6 +300,7 @@
     "offerFileSuccessfullyIndexed": "ไฟล์ข้อเสนอได้ถูกบันทึกแล้ว",
     "Submit Offer": "ส่งข้อเสนอ",
     "Paste from Clipboard": "แปะข้อเสนอจากคลิปบอร์ด",
+    "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "อัพโหลดไฟล์ข้อเสนอ",
     "Create with Goby": "สร้างด้วย Goby",

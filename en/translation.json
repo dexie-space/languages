@@ -307,6 +307,7 @@
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
     "Submit Offer": "Submit Offer",
     "Paste from Clipboard": "Paste from Clipboard",
+    "Offer creator address does not exist in connected wallet": "Offer creator address does not exist in connected wallet.",
     "Rewards": "Rewards",
     "Upload Offer Files": "Upload Offer Files",
     "Create with Goby": "Create with Goby",
