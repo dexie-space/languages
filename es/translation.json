@@ -1,9 +1,9 @@
 {
   "App": {
-    "Offers successfully restored": "",
-    "Invalid offer": "",
-    "Offer successfully indexed": "",
-    "Error uploading offer": ""
+    "Offers successfully restored": "Ofertas restauradas con éxito",
+    "Invalid offer": "Oferta inválida",
+    "Offer successfully indexed": "Oferta indexada con éxito",
+    "Error uploading offer": "Error al cargar oferta"
   },
   "nft": {
     "Unnamed NFT": "NFT sin nombre",
