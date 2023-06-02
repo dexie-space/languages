@@ -1,9 +1,9 @@
 {
   "App": {
-    "Offers successfully restored": "",
-    "Invalid offer": "",
-    "Offer successfully indexed": "",
-    "Error uploading offer": ""
+    "Offers successfully restored": "Пропозиції успішно відновлено",
+    "Invalid offer": "Недійсна пропозиція",
+    "Offer successfully indexed": "Пропозицію успішно проіндексовано",
+    "Error uploading offer": "Помилка завантаження пропозиції"
   },
   "nft": {
     "Unnamed NFT": "НФТ без назви",
@@ -108,9 +108,9 @@
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
     "FAQ": "ЧаПи",
-    "bannerMessageLiquidityRewards": "",
+    "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність<b>! Отримуй <b>dexie долари<b>, додаючи пропозиції для стимульованих пар.",
     "Get USDS": "Отримай USDS",
-    "Your Offers": ""
+    "Your Offers": "Твої пропозиції"
   },
   "connectModal": {
     "Not Installed": "Не встановлено",
@@ -203,7 +203,7 @@
     "Go to Trade": "Перейдіть до Торгівлі",
     "Completed before collection date": "Завершено до дата отримання",
     "Cancelled before collection date": "Скасовано до дати отримання",
-    "Trade ID": "",
+    "Trade ID": "Торговий ідентифікатор",
     "Confirmed at Block": "Підтверджено в блоку",
     "Number of confirmations": "Кількість підтверджень",
     "attached": "додається",
@@ -261,7 +261,7 @@
     "gobyError4900": "Goby помилка 4900",
     "Request rejected": "Запит відхилено",
     "Offer rejected": "Пропозицію відхилено",
-    "Please reconnect your wallet to perform this action": "",
+    "Please reconnect your wallet to perform this action": "Будь ласка, повторно підключіть свій гаманець, щоб виконати цю дію",
     "Offer accepted": "Пропозиція прийнята",
     "Asset added": "Актив додано"
   },
@@ -271,8 +271,8 @@
   },
   "This feature is not supported by {{wallet}}": "Ця функція не підтримується {{wallet}}",
   "signAddress": {
-    "No key for this address": "",
-    "Invalid address": ""
+    "No key for this address": "Для цієї адреси немає ключа",
+    "Invalid address": "Недійсна адреса"
   },
   "Assets": {
     "Powered by Tail Database": "На основі бази даних Tail Database",
@@ -293,21 +293,21 @@
     "{{code}} Liquidity": "{{code}} Ліквідність"
   },
   "claimHistory": {
-    "Claimed Rewards History": "",
-    "Learn more about the Liquidity Incentive Program": "",
-    "Total Rewards Claimed": "",
-    "Claimed Within Last Month": "",
-    "Outstanding Claims": "",
-    "Daily Reward Rate": "",
-    "Claimed Reward": "",
-    "Claimed By": "",
-    "Date": "",
-    "Queued": "",
-    "Sent": "",
-    "Offer": "",
-    "Distribution Coin": "",
-    "Public Key": "",
-    "Signature": ""
+    "Claimed Rewards History": "Історія затребуваних винагород",
+    "Learn more about the Liquidity Incentive Program": "Дізнайтеся більше про програму стимулювання ліквідності",
+    "Total Rewards Claimed": "Загальна кількість витребуваних винагород",
+    "Claimed Within Last Month": "Заявлено протягом останнього місяця",
+    "Outstanding Claims": "Непогашені вимоги",
+    "Daily Reward Rate": "Щоденна ставка винагороди",
+    "Claimed Reward": "Затребувана винагорода",
+    "Claimed By": "Заявлено",
+    "Date": "Дата",
+    "Queued": "У черзі",
+    "Sent": "Відправлено",
+    "Offer": "Пропозиція",
+    "Distribution Coin": "Монета розподілу",
+    "Public Key": "Публічний ключ",
+    "Signature": "Підпис"
   },
   "contributors": {
     "Core Contributor": "Core розробник",
@@ -326,13 +326,13 @@
     "offerFileSuccessfullyIndexed": "файл пропозиції проіндексовано  успішно",
     "Submit Offer": "Надіслати пропозицію",
     "Paste from Clipboard": "Вставити з буфера обміну",
-    "Offer creator address does not exist in connected wallet": "",
-    "Rewards": "",
+    "Offer creator address does not exist in connected wallet": "Адреси творця пропозиції не існує в підключеному гаманці",
+    "Rewards": "Нагороди",
     "Upload Offer Files": "Завантажити файли пропозицій",
     "Create with Goby": "Створити пропозицію за допомогою Goby",
     "Paste Offer": "Вставити пропозицію",
     "Bulk Upload": "Масове завантаження",
-    "API": "",
+    "API": "API",
     "Backup / Restore": "Резервне копіювання / Відновлення",
     "#dragHint": "Перетягніть файл пропозиції сюди або натисніть, щоб вибрати",
     "Raw Offer here": "Сирі дані пропозиції",
@@ -344,19 +344,19 @@
     "Successfully queued {{count}} offers for submission_other": "Успішно поставлено в чергу {{count}} пропозицій для надсилання",
     "Select and Upload ZIP file": "Вибери і завантаж ZIP-файл",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Пропозиції з масового завантаження не відображатимуться в доданих пропозиціях",
-    "See the API documentation for more information and examples": "",
+    "See the API documentation for more information and examples": "Додаткову інформацію та приклади див. у документації API",
     "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Додані тобою пропозиції зберігаються у твоєму веб-переглядачі, зроби резервну копію, перш ніж очищати локальне сховище",
     "Backup Your Offers": "Резервне копіювання твоїх пропозицій",
     "Restore Your Offers": "Відновити свої пропозиції",
     "Duplicate offers will be merged": "Дубльовані пропозиції будуть об’єднані",
     "Your Added Offers": "Твої додані пропозиції",
-    "Your added offers appear here": "",
+    "Your added offers appear here": "Тут відображаються ваші додані пропозиції",
     "No matching offers": "Немає відповідних пропозицій",
-    "Offers close to the market price can receive rewards (click for more)": "",
-    "Liquidity Rewards": "",
-    "Reward Claimed": "",
-    "Claim": "",
-    "Eligible": ""
+    "Offers close to the market price can receive rewards (click for more)": "Пропозиції, близькі до ринкової ціни, можуть отримати винагороду (натисніть, щоб дізнатися більше)",
+    "Liquidity Rewards": "Винагороди за ліквідність",
+    "Reward Claimed": "Затребувано винагороду",
+    "Claim": "Заявлено",
+    "Eligible": "Придатний"
   },
   "faq": {
     "question1": "Що таке dexie?",
@@ -367,15 +367,15 @@
   "markets": {
     "{{market}} subheading": "Показано всі відомі активи з принаймні 1 {{market}} ліквідністю.",
     "{{market}} heading": "{{market}} Ринок",
-    "Price Depth": "",
+    "Price Depth": "Глибина ціни",
     "Rank": "Ранг",
     "Asset": "Актив",
     "#buyPriceHint{{depth}}": "Ціна за одиницю покупки {{depth}} {{market}} \nі скільки отримає кожен {{market}}.",
     "Buy Price": "Ціна купівлі",
     "#sellPriceHint{{depth}}": "Ціна за одиницю продажу {{depth}} {{market}} \nі скільки буде коштувати кожен {{market}}.",
     "Sell Price": "Ціна продажу",
-    "Provide liquidity to earn DBX rewards": "",
-    "Incentives": "",
+    "Provide liquidity to earn DBX rewards": "Забезпечте ліквідність, щоб отримати винагороду DBX",
+    "Incentives": "Стимули",
     "Buy": "Купити",
     "Sell": "Продати",
     "no liquidity": "Немає ліквідності",
@@ -424,7 +424,7 @@
     "Spam": "Спам",
     "Illegal Content": "Нелегальний Контент",
     "Other": "Інше",
-    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
+    "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Будь ласка, введіть якомога більше додаткової інформації, яку можна використати для перегляду цього звіту, наприклад, посилання на оригінальну колекцію у випадку звіту про видавання себе за іншу особу (усі примітки є загальнодоступними)",
     "Thank you, a new report has been generated": "Дякуємо, створено новий звіт",
     "Report {{id}}": "Скарга {{id}}",
     "Generating Report": "Створити скаргу",
