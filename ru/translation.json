@@ -293,13 +293,13 @@
     "{{code}} Liquidity": "{{code}} Ликвидность"
   },
   "claimHistory": {
-    "Claimed Rewards History": "",
+    "Recent Reward Claims": "",
     "Learn more about the Liquidity Incentive Program": "",
     "Total Rewards Claimed": "",
     "Claimed Within Last Month": "",
     "Outstanding Claims": "",
     "Daily Reward Rate": "",
-    "Claimed Reward": "",
+    "Liquidity Reward": "",
     "Claimed By": "",
     "Date": "",
     "Queued": "",

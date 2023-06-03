@@ -249,7 +249,7 @@
     "gobyError4900": "Goby is not connected",
     "Request rejected": "Request rejected",
     "Offer rejected": "Offer rejected",
-    "Please reconnect your wallet to perform this action": "",
+    "Please reconnect your wallet to perform this action": "Please reconnect your wallet to perform this action",
     "Offer accepted": "Offer accepted",
     "Asset added": "Asset added"
   },
@@ -259,8 +259,8 @@
   },
   "This feature is not supported by {{wallet}}": "This feature is not supported by {{wallet}}",
   "signAddress": {
-    "No key for this address": "",
-    "Invalid address": ""
+    "No key for this address": "No key for this address",
+    "Invalid address": "Invalid address"
   },
   "Assets": {
     "Powered by Tail Database": "Powered by Tail Database",
@@ -279,13 +279,13 @@
     "{{code}} Liquidity": "{{code}} Liquidity"
   },
   "claimHistory": {
-    "Claimed Rewards History": "Claimed Rewards History",
+    "Recent Reward Claims": "Recent Reward Claims",
     "Learn more about the Liquidity Incentive Program": "Learn more about the Liquidity Incentive Program",
     "Total Rewards Claimed": "Total Rewards Claimed",
     "Claimed Within Last Month": "Claimed Within Last Month",
     "Outstanding Claims": "Outstanding Claims",
     "Daily Reward Rate": "Daily Reward Rate",
-    "Claimed Reward": "Claimed Reward",
+    "Liquidity Reward": "Liquidity Reward",
     "Claimed By": "Claimed By",
     "Date": "Date",
     "Queued": "Queued",
