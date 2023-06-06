@@ -293,13 +293,13 @@
     "{{code}} Liquidity": "{{code}} Ліквідність"
   },
   "claimHistory": {
-    "Recent Reward Claims": "",
+    "Recent Reward Claims": "Нещодавні вимоги винагороди",
     "Learn more about the Liquidity Incentive Program": "Дізнайтеся більше про програму стимулювання ліквідності",
     "Total Rewards Claimed": "Загальна кількість витребуваних винагород",
     "Claimed Within Last Month": "Заявлено протягом останнього місяця",
     "Outstanding Claims": "Непогашені вимоги",
     "Daily Reward Rate": "Щоденна ставка винагороди",
-    "Liquidity Reward": "",
+    "Liquidity Reward": "Винагорода за ліквідність",
     "Claimed By": "Заявлено",
     "Date": "Дата",
     "Queued": "У черзі",
