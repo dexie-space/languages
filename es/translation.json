@@ -255,7 +255,7 @@
     "gobyError4900": "Goby no está conectado",
     "Request rejected": "Solicitud rechazada",
     "Offer rejected": "Oferta rechazada",
-    "Please reconnect your wallet to perform this action": "",
+    "Please reconnect your wallet to perform this action": "Vuelva a conectar su billetera para realizar esta acción.",
     "Offer accepted": "Oferta aceptada",
     "Asset added": "Activo agregado"
   },
@@ -265,8 +265,8 @@
   },
   "This feature is not supported by {{wallet}}": "Esta función no es soportada por {{wallet}}",
   "signAddress": {
-    "No key for this address": "",
-    "Invalid address": ""
+    "No key for this address": "No hay llave para esta dirección",
+    "Invalid address": "Dirección inválida"
   },
   "Assets": {
     "Powered by Tail Database": "Alimentado por Tail Database",
@@ -286,13 +286,13 @@
     "{{code}} Liquidity": "{{code}} Liquidez"
   },
   "claimHistory": {
-    "Recent Reward Claims": "",
+    "Recent Reward Claims": "Reclamaciones de recompensas recientes",
     "Learn more about the Liquidity Incentive Program": "Conozca más sobre el Programa de Incentivo de Liquidez",
     "Total Rewards Claimed": "Recompensas totales reclamadas",
-    "Claimed Within Last Month": "",
+    "Claimed Within Last Month": "Reclamado en el último mes",
     "Outstanding Claims": "Reclamaciones pendientes",
     "Daily Reward Rate": "Tasa de recompensa diaria",
-    "Liquidity Reward": "",
+    "Liquidity Reward": "Recompensa de liquidez",
     "Claimed By": "Reclamado por",
     "Date": "Fecha",
     "Queued": "En cola",
@@ -319,7 +319,7 @@
     "offerFileSuccessfullyIndexed": "Archivo de oferta indexado con éxito.",
     "Submit Offer": "Enviar oferta",
     "Paste from Clipboard": "Pegar desde portapapeles",
-    "Offer creator address does not exist in connected wallet": "",
+    "Offer creator address does not exist in connected wallet": "La dirección del creador de la oferta no existe en la billetera conectada",
     "Rewards": "Recompensas",
     "Upload Offer Files": "Cargar archivos de oferta",
     "Create with Goby": "Crear con Goby",
@@ -344,7 +344,7 @@
     "Your Added Offers": "Sus ofertas añadidas",
     "Your added offers appear here": "Tus ofertas añadidas aparecen aquí",
     "No matching offers": "No hay ofertas coincidentes",
-    "Offers close to the market price can receive rewards (click for more)": "",
+    "Offers close to the market price can receive rewards (click for more)": "Las ofertas cercanas al precio de mercado pueden recibir recompensas (haga clic para obtener más información)",
     "Liquidity Rewards": "Recompensas de liquidez",
     "Reward Claimed": "Recompensa reclamada",
     "Claim": "Reclamar",
