@@ -286,13 +286,13 @@
     "{{code}} Liquidity": "Liquidità in {{code}}"
   },
   "claimHistory": {
-    "Recent Reward Claims": "",
+    "Recent Reward Claims": "Premi recentemente richiesti",
     "Learn more about the Liquidity Incentive Program": "Scopri di piu circa il programma degli incentivi di liquidità",
     "Total Rewards Claimed": "Ricompense totali rivendicate",
-    "Claimed Within Last Month": "",
+    "Claimed Within Last Month": "Rivendicato entro il mese scorso",
     "Outstanding Claims": "reclami in sospeso",
     "Daily Reward Rate": "Tasso di ricompensa giornaliero",
-    "Liquidity Reward": "",
+    "Liquidity Reward": "Premio in liquidità",
     "Claimed By": "Rivendicato da",
     "Date": "Data",
     "Queued": "In coda",
