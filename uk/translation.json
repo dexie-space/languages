@@ -65,7 +65,7 @@
     "Add to Wallet": "Додати до гаманця",
     "Trade": "Торгівля",
     "Description": "Опис",
-    "Daily Volume": "Денним об'ємом",
+    "Daily Volume": "Добовий об'єм",
     "Website": "Веб-сайт",
     "Friends": "Друзі",
     "Transaction Fees": "Комісії за транзакції",
@@ -108,7 +108,7 @@
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
     "FAQ": "ЧаПи",
-    "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність<b>! Отримуй <b>dexie долари<b>, додаючи пропозиції для стимульованих пар.",
+    "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність</b>! Отримуй <b>dexie бакси</b>, додаючи пропозиції для стимульованих пар.",
     "Get USDS": "Отримай USDS",
     "Your Offers": "Твої пропозиції"
   },
@@ -126,7 +126,7 @@
   },
   "createOffer": {
     "Please wait": "Будь ласка, зачекайте",
-    "Create Offer with Goby": "Створити пропозицію з допомогою Goby"
+    "Create Offer with Goby": "Створити з допомогою Goby"
   },
   "footer": {
     "Public API": "API",
