@@ -230,6 +230,7 @@
     "Bid with Goby": "Ставка за допомогою Goby",
     "Upload Offer": "Вивантажити пропозицію",
     "Create a new offer which requests this NFT": "Створіть нову пропозицію, яка запитує цей НФТ",
+    "Unknown CAT": "",
     "Unknown": "Невідомо"
   },
   "chart": {
@@ -305,6 +306,7 @@
     "Queued": "У черзі",
     "Sent": "Відправлено",
     "Offer": "Пропозиція",
+    "Target Address": "",
     "Distribution Coin": "Монета розподілу",
     "Public Key": "Публічний ключ",
     "Signature": "Підпис"

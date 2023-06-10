@@ -224,6 +224,7 @@
     "Bid with Goby": "Oferte con Goby",
     "Upload Offer": "Subir oferta",
     "Create a new offer which requests this NFT": "Crear una nueva oferta que solicite este NFT",
+    "Unknown CAT": "",
     "Unknown": "Desconocida"
   },
   "chart": {
@@ -298,6 +299,7 @@
     "Queued": "En cola",
     "Sent": "Enviada",
     "Offer": "Oferta",
+    "Target Address": "",
     "Distribution Coin": "Moneda de distribución",
     "Public Key": "Llave pública",
     "Signature": "Firma"

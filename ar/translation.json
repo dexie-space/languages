@@ -242,6 +242,7 @@
     "Bid with Goby": "قم بالمزايدة مع Goby",
     "Upload Offer": "رفع العرض",
     "Create a new offer which requests this NFT": "قم بإنشاء عرض جديد يطلب هذا NFT",
+    "Unknown CAT": "",
     "Unknown": ""
   },
   "chart": {
@@ -319,6 +320,7 @@
     "Queued": "",
     "Sent": "",
     "Offer": "",
+    "Target Address": "",
     "Distribution Coin": "",
     "Public Key": "",
     "Signature": ""

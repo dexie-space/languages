@@ -212,6 +212,7 @@
     "Bid with Goby": "以Goby出价",
     "Upload Offer": "上传优惠",
     "Create a new offer which requests this NFT": "创建一个请求此 NFT 的新报价",
+    "Unknown CAT": "",
     "Unknown": ""
   },
   "chart": {
@@ -284,6 +285,7 @@
     "Queued": "",
     "Sent": "",
     "Offer": "",
+    "Target Address": "",
     "Distribution Coin": "",
     "Public Key": "",
     "Signature": ""

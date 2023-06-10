@@ -212,6 +212,7 @@
     "Bid with Goby": "",
     "Upload Offer": "",
     "Create a new offer which requests this NFT": "",
+    "Unknown CAT": "",
     "Unknown": ""
   },
   "chart": {
@@ -284,6 +285,7 @@
     "Queued": "",
     "Sent": "",
     "Offer": "",
+    "Target Address": "",
     "Distribution Coin": "",
     "Public Key": "",
     "Signature": ""
