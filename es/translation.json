@@ -121,7 +121,7 @@
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Su oferta ha sido enviada, agréguela a Sus ofertas para marcarla como favorita",
     "Add to Your Offers": "Agregar a sus ofertas",
     "Go to Trade": "Ir a operaciones",
-    "Taken by {{taker}}": "",
+    "Taken by {{taker}}": "Tomada por {{taker}}",
     "Trade ID": "Identificación de la transacción",
     "Confirmed at Block": "Confirmado en el bloque",
     "Number of confirmations": "Número de confirmaciones",
@@ -148,7 +148,7 @@
     "Bid with Goby": "Oferte con Goby",
     "Upload Offer": "Subir oferta",
     "Create a new offer which requests this NFT": "Crear una nueva oferta que solicite este NFT",
-    "Unknown CAT": "",
+    "Unknown CAT": "CAT desconocido",
     "Unknown": "Desconocida"
   },
   "confirmTransactionModal": {
@@ -300,7 +300,7 @@
     "Queued": "En cola",
     "Sent": "Enviada",
     "Offer": "Oferta",
-    "Target Address": "",
+    "Target Address": "Dirección de destino",
     "Distribution Coin": "Moneda de distribución",
     "Public Key": "Llave pública",
     "Signature": "Firma"
