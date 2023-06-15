@@ -1,7 +1,7 @@
 {
   "App": {
     "Offers successfully restored": "Offers successfully restored",
-    "Invalid offer": "Invalid offer",
+    "Invalid offer": "پیشنهاد نامعتبر",
     "Offer successfully indexed": "Offer successfully indexed",
     "Error uploading offer": "خطا در بارگزاری پیشنهاد"
   },
