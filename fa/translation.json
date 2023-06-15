@@ -2,7 +2,7 @@
   "App": {
     "Offers successfully restored": "پیشنهادها با موفقیت بازیابی شدند",
     "Invalid offer": "پیشنهاد نامعتبر",
-    "Offer successfully indexed": "Offer successfully indexed",
+    "Offer successfully indexed": "پیشنهاد با موفقیت فهریت شد",
     "Error uploading offer": "خطا در بارگزاری پیشنهاد"
   },
   "nft": {
