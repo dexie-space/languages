@@ -68,7 +68,7 @@
     "Friends": "Friends",
     "Transaction Fees": "کارمزد معامله",
     "Mempool Transaction ID": "Mempool Transaction ID",
-    "Uploading": "در حال بارگذاری...",
+    "Uploading": "...در حال بارگذاری",
     "Currently Offered": "Currently Offered",
     "Weekly Volume": "حجم هفتگی",
     "Monthly Volume": "حجم ماهیانه",
@@ -96,7 +96,7 @@
     "Completed before collection date": "Completed before collection date",
     "Cancelled before collection date": "Cancelled before collection date",
     "dexie link": "dexie link",
-    "Loading": "بازکذاری...",
+    "Loading": "...بازکذاری",
     "offer not found": "پیشنهاد پیدا نشد",
     "Requested": "درخواست شد",
     "Offered": "پیشنهاد شد",
@@ -150,9 +150,9 @@
   },
   "confirmTransactionModal": {
     "Confirm Transaction": "تایید تراکنش",
-    "You Pay": "You Pay",
-    "You Receive": "You Receive",
-    "Waiting for confirmation in your wallet": " در حال انتظار برای تایید در کیف پول شما"
+    "You Pay": "شما پرداخت میکنید",
+    "You Receive": "شما دریافت میکنید",
+    "Waiting for confirmation in your wallet": "در حال انتظار برای تایید در کیف پول شما"
   },
   "Connect Wallet": "اتصال کیف پول",
   "header": {
@@ -179,7 +179,7 @@
     "Disconnect": "Disconnect"
   },
   "createOffer": {
-    "Please wait": "لطغا صبر کنید...",
+    "Please wait": "...لطغا صبر کنید",
     "Create Offer with Goby": "Create Offer with Goby"
   },
   "footer": {
@@ -202,8 +202,8 @@
     "Combine Offers": "Combine Offers",
     "Collapse NFTs": "Collapse NFTs",
     "Expand NFTs": "Expand NFTs",
-    "You Pay": "You Pay",
-    "You Receive": "You Receive",
+    "You Pay": "شما پرداخت میکنید",
+    "You Receive": "شما دریافت میکنید",
     "offersCount_one": "<0>{{formattedCount}}</0> Offer",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Legacy offer, combination not supported": "Legacy offer, combination not supported.",
@@ -292,7 +292,7 @@
     "Date": "تاریخ",
     "Queued": "Queued",
     "Sent": "Sent",
-    "Offer": "Offer",
+    "Offer": "پیشنهاد",
     "Target Address": "Target Address",
     "Distribution Coin": "Distribution Coin",
     "Public Key": "Public Key",
@@ -404,7 +404,7 @@
     "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "Every report becomes a public pull request in the <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'>Community Blocklist</a> repository, where it will be reviewed by a maintainer.",
     "NFT": "NFT",
     "CAT reporting is not available right now": "CAT reporting is not available right now",
-    "Token (CAT)": "Token (CAT)",
+    "Token (CAT)": "توکن (CAT)",
     "Impersonation": "Impersonation",
     "Spam": "Spam",
     "Illegal Content": "Illegal Content",
