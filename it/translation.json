@@ -6,10 +6,11 @@
     "Error uploading offer": "Errore nel caricamento dell'offerta"
   },
   "nft": {
-    "Unnamed NFT": "NFT senza nome",
+    "Name unavailable": "",
     "No Preview Available": "Nessuna anteprima disponibile",
     "Sensitive Content": "Contenuto sensibile",
     "Click to always enable": "Fare clic per abilitare sempre",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Close Metadata": "Chiudi Metadata",
     "Inspect Metadata": "Analizza Metadata",
     "Blocked for violating community rules": "Bloccato per violazione delle regole della comunità",

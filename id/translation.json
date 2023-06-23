@@ -6,10 +6,11 @@
     "Error uploading offer": ""
   },
   "nft": {
-    "Unnamed NFT": "NFT tanpa nama",
+    "Name unavailable": "",
     "No Preview Available": "Pra-tinjau tidak tersedia",
     "Sensitive Content": "",
     "Click to always enable": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Close Metadata": "Tutup Metadata",
     "Inspect Metadata": "Periksa Metadata",
     "Blocked for violating community rules": "Diblokir karena melanggar aturan komunitas",

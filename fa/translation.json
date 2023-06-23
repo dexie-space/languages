@@ -6,10 +6,11 @@
     "Error uploading offer": "خطا در بارگذاری پیشنهاد"
   },
   "nft": {
-    "Unnamed NFT": "ان اف تی بدون نام",
+    "Name unavailable": "",
     "No Preview Available": "پیش نمایش موجود نیست",
     "Sensitive Content": "محتوای حساس",
     "Click to always enable": "Click to always enable",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Close Metadata": "Close Metadata",
     "Inspect Metadata": "Inspect Metadata",
     "Blocked for violating community rules": "Blocked for violating community rules",

@@ -6,10 +6,11 @@
     "Error uploading offer": ""
   },
   "nft": {
-    "Unnamed NFT": "未命名的NFT",
+    "Name unavailable": "",
     "No Preview Available": "预览不可用",
     "Sensitive Content": "",
     "Click to always enable": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Close Metadata": "关闭元数据",
     "Inspect Metadata": "检查元数据",
     "Blocked for violating community rules": "因违反社区规则而被屏蔽",
