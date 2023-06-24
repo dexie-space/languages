@@ -5,33 +5,6 @@
     "Offer successfully indexed": "پیشنهاد با موفقیت فهرست شد",
     "Error uploading offer": "خطا در بارگذاری پیشنهاد"
   },
-  "nft": {
-    "Unnamed NFT": "ان اف تی بدون نام",
-    "No Preview Available": "پیش نمایش موجود نیست",
-    "Sensitive Content": "محتوای حساس",
-    "Click to always enable": "کلیک کنید تا همیشه فعال شود",
-    "Close Metadata": "بستن Metadata",
-    "Inspect Metadata": "بررسی Metadata",
-    "Blocked for violating community rules": " به دلیل نقض قوانین مسدود شده است",
-    "Blocked": "مسدود",
-    "Anyone can create an NFT collection, make sure the creator is authentic": " هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
-    "Unknown Creator": "خالق ناشناس",
-    "Creator DID claimed by {{name}} on {{via}}": "Creator DID claimed by {{name}} on {{via}}",
-    "{{platform}} verified": "{{platform}} verified",
-    "{{platform}} unverified": "{{platform}} unverified",
-    "NFT Address": "آدرس ان اف تی",
-    "Royalty": "حق امتیاز",
-    "NFT Creator": "خالق ان اف تی",
-    "Created at Height": "خلق شده در بلاک",
-    "Data URIs": "لینکهای داده ها",
-    "Data Hash": "هش داده ها",
-    "Metadata URIs": "Metadata لینکهای",
-    "Metadata Hash": "Metadata هش",
-    "License URIs": "مجوز لینک ها",
-    "License Hash": "مجوز هش",
-    "NFT Markets": "معاملات ان اف تی",
-    "Newcomers": "تازه واردان"
-  },
   "common": {
     "CLIPPED": "CLIPPED",
     "Search Tokens, NFTs or enter Address": " جستجوی توکن ها یا ان اف تی ها  یا آدرس را وارد کنید",
@@ -119,6 +92,7 @@
     "Your Offer has been submitted, add it to Your Offers to bookmark it": " پیشنهاد شما تایید شد آن را به پیشنهادات خود اضافه کنید تا لیست شود",
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
+    "Remove from Your Offers": "",
     "Taken by {{taker}}": "Taken by {{taker}}",
     "Trade ID": "شناسه معامله",
     "Confirmed at Block": "بلوک تایید شده",
@@ -191,6 +165,34 @@
     "disconnected": "قطع شده",
     "connecting": "درحال اتصال",
     "More": "بیشتر"
+  },
+  "nft": {
+    "No Preview Available": "پیش نمایش موجود نیست",
+    "Name unavailable": "",
+    "Sensitive Content": "محتوای حساس",
+    "Click to always enable": "کلیک کنید تا همیشه فعال شود",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "Close Metadata": "بستن Metadata",
+    "Inspect Metadata": "بررسی Metadata",
+    "Blocked for violating community rules": " به دلیل نقض قوانین مسدود شده است",
+    "Blocked": "مسدود",
+    "Anyone can create an NFT collection, make sure the creator is authentic": " هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
+    "Unknown Creator": "خالق ناشناس",
+    "Creator DID claimed by {{name}} on {{via}}": "Creator DID claimed by {{name}} on {{via}}",
+    "{{platform}} verified": "{{platform}} verified",
+    "{{platform}} unverified": "{{platform}} unverified",
+    "NFT Address": "آدرس ان اف تی",
+    "Royalty": "حق امتیاز",
+    "NFT Creator": "خالق ان اف تی",
+    "Created at Height": "خلق شده در بلاک",
+    "Data URIs": "لینکهای داده ها",
+    "Data Hash": "هش داده ها",
+    "Metadata URIs": "Metadata لینکهای",
+    "Metadata Hash": "Metadata هش",
+    "License URIs": "مجوز لینک ها",
+    "License Hash": "مجوز هش",
+    "NFT Markets": "معاملات ان اف تی",
+    "Newcomers": "تازه واردان"
   },
   "offersTable": {
     "Accept": "تایید",
@@ -309,7 +311,7 @@
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
     "Add or Query TAILs": "Add or Query TAILs",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق‌العاده‌اش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق\u200cالعاده\u200cاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "Offer File successfully indexed.",
@@ -424,6 +426,7 @@
     "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
-    "Low Fee": "کارمزد کم"
+    "Low Fee": "کارمزد کم",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }

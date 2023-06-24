@@ -5,34 +5,6 @@
     "Offer successfully indexed": "Offer successfully indexed",
     "Error uploading offer": "Error uploading offer"
   },
-  "nft": {
-    "Name unavailable": "Name unavailable",
-    "No Preview Available": "No Preview Available",
-    "Sensitive Content": "Sensitive Content",
-    "Click to always enable": "Click to always enable",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT is unnamed or fetching the metadata failed (dexie keeps retrying).",
-    "Close Metadata": "Close Metadata",
-    "Inspect Metadata": "Inspect Metadata",
-    "Blocked for violating community rules": "Blocked for violating community rules",
-    "Blocked": "Blocked",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "Anyone can create an NFT collection, make sure the creator is authentic.",
-    "Unknown Creator": "Unknown Creator",
-    "Creator DID claimed by {{name}} on {{via}}": "Creator DID claimed by {{name}} on {{via}}",
-    "{{platform}} verified": "{{platform}} verified",
-    "{{platform}} unverified": "{{platform}} unverified",
-    "NFT Address": "NFT Address",
-    "Royalty": "Royalty",
-    "NFT Creator": "NFT Creator",
-    "Created at Height": "Created at Height",
-    "Data URIs": "Data URIs",
-    "Data Hash": "Data Hash",
-    "Metadata URIs": "Metadata URIs",
-    "Metadata Hash": "Metadata Hash",
-    "License URIs": "License URIs",
-    "License Hash": "License Hash",
-    "NFT Markets": "NFT Markets",
-    "Newcomers": "Newcomers"
-  },
   "common": {
     "CLIPPED": "CLIPPED",
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
@@ -193,6 +165,34 @@
     "disconnected": "disconnected",
     "connecting": "connecting",
     "More": "More"
+  },
+  "nft": {
+    "No Preview Available": "No Preview Available",
+    "Name unavailable": "Name unavailable",
+    "Sensitive Content": "Sensitive Content",
+    "Click to always enable": "Click to always enable",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT is unnamed or fetching the metadata failed (dexie keeps retrying).",
+    "Close Metadata": "Close Metadata",
+    "Inspect Metadata": "Inspect Metadata",
+    "Blocked for violating community rules": "Blocked for violating community rules",
+    "Blocked": "Blocked",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "Anyone can create an NFT collection, make sure the creator is authentic.",
+    "Unknown Creator": "Unknown Creator",
+    "Creator DID claimed by {{name}} on {{via}}": "Creator DID claimed by {{name}} on {{via}}",
+    "{{platform}} verified": "{{platform}} verified",
+    "{{platform}} unverified": "{{platform}} unverified",
+    "NFT Address": "NFT Address",
+    "Royalty": "Royalty",
+    "NFT Creator": "NFT Creator",
+    "Created at Height": "Created at Height",
+    "Data URIs": "Data URIs",
+    "Data Hash": "Data Hash",
+    "Metadata URIs": "Metadata URIs",
+    "Metadata Hash": "Metadata Hash",
+    "License URIs": "License URIs",
+    "License Hash": "License Hash",
+    "NFT Markets": "NFT Markets",
+    "Newcomers": "Newcomers"
   },
   "offersTable": {
     "Accept": "Accept",
@@ -426,6 +426,7 @@
     "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
-    "Low Fee": "Low Fee"
+    "Low Fee": "Low Fee",
+    "Cancelled offers are only shown for the last 30 days": "Cancelled offers are only shown for the last 30 days."
   }
 }

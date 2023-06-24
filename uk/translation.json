@@ -5,34 +5,6 @@
     "Offer successfully indexed": "Пропозицію успішно проіндексовано",
     "Error uploading offer": "Помилка завантаження пропозиції"
   },
-  "nft": {
-    "Name unavailable": "",
-    "No Preview Available": "Попередній перегляд недоступний",
-    "Sensitive Content": "Чутливий вміст",
-    "Click to always enable": "Натисніть, щоб завжди вмикати",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
-    "Close Metadata": "Закрити метадані",
-    "Inspect Metadata": "Переглянути метадані",
-    "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
-    "Blocked": "Заблоковано",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "Будь-хто може створити колекцію NFT, переконайтеся, що автор справжній",
-    "Unknown Creator": "Невідомий автор",
-    "Creator DID claimed by {{name}} on {{via}}": "{{name}} створено на {{via}}",
-    "{{platform}} verified": "верифіковано на {{platform}}",
-    "{{platform}} unverified": "не верифіковано на {{platform}}",
-    "NFT Address": "НФТ адреса",
-    "Royalty": "Роялті",
-    "NFT Creator": "НФТ автор",
-    "Created at Height": "Створений на висоті",
-    "Data URIs": "Дані URI",
-    "Data Hash": "Хеш даних",
-    "Metadata URIs": "URI метаданих",
-    "Metadata Hash": "Хеш метаданих",
-    "License URIs": "URI ліцензії",
-    "License Hash": "Хеш ліцензії",
-    "NFT Markets": "НФТ ринок",
-    "Newcomers": "Новинки"
-  },
   "common": {
     "CLIPPED": "ЗАКРІПЛЕНО",
     "Search Tokens, NFTs or enter Address": "Шукайте токени, НФТ або введіть адресу",
@@ -199,6 +171,34 @@
     "disconnected": "відключено",
     "connecting": "підключено",
     "More": "більше"
+  },
+  "nft": {
+    "No Preview Available": "Попередній перегляд недоступний",
+    "Name unavailable": "",
+    "Sensitive Content": "Чутливий вміст",
+    "Click to always enable": "Натисніть, щоб завжди вмикати",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "Close Metadata": "Закрити метадані",
+    "Inspect Metadata": "Переглянути метадані",
+    "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
+    "Blocked": "Заблоковано",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "Будь-хто може створити колекцію NFT, переконайтеся, що автор справжній",
+    "Unknown Creator": "Невідомий автор",
+    "Creator DID claimed by {{name}} on {{via}}": "{{name}} створено на {{via}}",
+    "{{platform}} verified": "верифіковано на {{platform}}",
+    "{{platform}} unverified": "не верифіковано на {{platform}}",
+    "NFT Address": "НФТ адреса",
+    "Royalty": "Роялті",
+    "NFT Creator": "НФТ автор",
+    "Created at Height": "Створений на висоті",
+    "Data URIs": "Дані URI",
+    "Data Hash": "Хеш даних",
+    "Metadata URIs": "URI метаданих",
+    "Metadata Hash": "Хеш метаданих",
+    "License URIs": "URI ліцензії",
+    "License Hash": "Хеш ліцензії",
+    "NFT Markets": "НФТ ринок",
+    "Newcomers": "Новинки"
   },
   "offersTable": {
     "Accept": "Прийняти",
@@ -444,6 +444,7 @@
     "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",
     "Transaction Fee (higher fee = higher priority)": "Комісія за транзакцію (вища комісія = вищий пріоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низька комісія за транзакцію (низький пріоритет) {{fee}}",
-    "Low Fee": "Низька комісія"
+    "Low Fee": "Низька комісія",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }

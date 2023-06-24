@@ -5,34 +5,6 @@
     "Offer successfully indexed": "Предложение успешно проиндексировано",
     "Error uploading offer": "Ошибка при загрузке предложения"
   },
-  "nft": {
-    "Name unavailable": "",
-    "No Preview Available": "Предварительный просмотр недоступен",
-    "Sensitive Content": "Чувствительный контент",
-    "Click to always enable": "Нажмите, чтобы всегда включать",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
-    "Close Metadata": "Закрыть метаданные",
-    "Inspect Metadata": "Проверить метаданные",
-    "Blocked for violating community rules": "Заблокирован за нарушение правил сообщества",
-    "Blocked": "Заблокирован",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "Любой может создать коллекцию NFT, убедитесь в подлинности ее создателя",
-    "Unknown Creator": "Неизвестный создатель",
-    "Creator DID claimed by {{name}} on {{via}}": "Создатель DID заявлен {{name}} на {{via}}.",
-    "{{platform}} verified": "{{platform}} проверена",
-    "{{platform}} unverified": "{{platform}} непроверенная",
-    "NFT Address": "НФТ адрес",
-    "Royalty": "Роялти",
-    "NFT Creator": "Создатель NFT",
-    "Created at Height": "Созданный на высоте",
-    "Data URIs": "Данные URI",
-    "Data Hash": "Хэш данных",
-    "Metadata URIs": "URI метаданных",
-    "Metadata Hash": "Хэш метаданных",
-    "License URIs": "URI лицензии",
-    "License Hash": "Хэш лицензии",
-    "NFT Markets": "НФТ рынок",
-    "Newcomers": "Новинки"
-  },
   "common": {
     "CLIPPED": "ЗАКРЫТЫЙ",
     "Search Tokens, NFTs or enter Address": "Ищите токены, НФТ или введите адрес",
@@ -199,6 +171,34 @@
     "disconnected": "отключено",
     "connecting": "подключено",
     "More": "Больше"
+  },
+  "nft": {
+    "No Preview Available": "Предварительный просмотр недоступен",
+    "Name unavailable": "",
+    "Sensitive Content": "Чувствительный контент",
+    "Click to always enable": "Нажмите, чтобы всегда включать",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "Close Metadata": "Закрыть метаданные",
+    "Inspect Metadata": "Проверить метаданные",
+    "Blocked for violating community rules": "Заблокирован за нарушение правил сообщества",
+    "Blocked": "Заблокирован",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "Любой может создать коллекцию NFT, убедитесь в подлинности ее создателя",
+    "Unknown Creator": "Неизвестный создатель",
+    "Creator DID claimed by {{name}} on {{via}}": "Создатель DID заявлен {{name}} на {{via}}.",
+    "{{platform}} verified": "{{platform}} проверена",
+    "{{platform}} unverified": "{{platform}} непроверенная",
+    "NFT Address": "НФТ адрес",
+    "Royalty": "Роялти",
+    "NFT Creator": "Создатель NFT",
+    "Created at Height": "Созданный на высоте",
+    "Data URIs": "Данные URI",
+    "Data Hash": "Хэш данных",
+    "Metadata URIs": "URI метаданных",
+    "Metadata Hash": "Хэш метаданных",
+    "License URIs": "URI лицензии",
+    "License Hash": "Хэш лицензии",
+    "NFT Markets": "НФТ рынок",
+    "Newcomers": "Новинки"
   },
   "offersTable": {
     "Accept": "Принять",
@@ -444,6 +444,7 @@
     "Toggle suspicious trades (wash trading, spam)": "Отключение подозрительных сделок (грязная торговля, спам)",
     "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
-    "Low Fee": "Низкая комиссия"
+    "Low Fee": "Низкая комиссия",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }

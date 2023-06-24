@@ -5,34 +5,6 @@
     "Offer successfully indexed": "Oferta indexada con éxito",
     "Error uploading offer": "Error al cargar oferta"
   },
-  "nft": {
-    "Name unavailable": "",
-    "No Preview Available": "No hay vista previa disponible",
-    "Sensitive Content": "Contenido sensible",
-    "Click to always enable": "Clic para mantener siempre activo",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
-    "Close Metadata": "Cerrar metadatos",
-    "Inspect Metadata": "Inspeccionar metadatos",
-    "Blocked for violating community rules": "Bloqueado por violar las reglas de la comunidad",
-    "Blocked": "Bloqueado",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "Cualquiera puede crear una colección NFT, asegúrese de que el creador sea auténtico",
-    "Unknown Creator": "Creador desconocido",
-    "Creator DID claimed by {{name}} on {{via}}": "Creador DID reclamado por {{name}} en {{via}}",
-    "{{platform}} verified": "{{platform}} verificado",
-    "{{platform}} unverified": "{{platform}} no verificado",
-    "NFT Address": "Dirección del NFT",
-    "Royalty": "Regalía",
-    "NFT Creator": "Creador de NFT",
-    "Created at Height": "Creado a la altura",
-    "Data URIs": "URIs de datos",
-    "Data Hash": "Hash de datos",
-    "Metadata URIs": "URIs de metadatos",
-    "Metadata Hash": "Hash de metadatos",
-    "License URIs": "URIs de licencia",
-    "License Hash": "Hash de licencia",
-    "NFT Markets": "Mercados NFT",
-    "Newcomers": "Recién llegados"
-  },
   "common": {
     "CLIPPED": "Copiada",
     "Search Tokens, NFTs or enter Address": "Buscar tokens, NFT o ingrese la dirección",
@@ -196,6 +168,34 @@
     "disconnected": "desconectada",
     "connecting": "conectando",
     "More": "Más"
+  },
+  "nft": {
+    "No Preview Available": "No hay vista previa disponible",
+    "Name unavailable": "",
+    "Sensitive Content": "Contenido sensible",
+    "Click to always enable": "Clic para mantener siempre activo",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "Close Metadata": "Cerrar metadatos",
+    "Inspect Metadata": "Inspeccionar metadatos",
+    "Blocked for violating community rules": "Bloqueado por violar las reglas de la comunidad",
+    "Blocked": "Bloqueado",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "Cualquiera puede crear una colección NFT, asegúrese de que el creador sea auténtico",
+    "Unknown Creator": "Creador desconocido",
+    "Creator DID claimed by {{name}} on {{via}}": "Creador DID reclamado por {{name}} en {{via}}",
+    "{{platform}} verified": "{{platform}} verificado",
+    "{{platform}} unverified": "{{platform}} no verificado",
+    "NFT Address": "Dirección del NFT",
+    "Royalty": "Regalía",
+    "NFT Creator": "Creador de NFT",
+    "Created at Height": "Creado a la altura",
+    "Data URIs": "URIs de datos",
+    "Data Hash": "Hash de datos",
+    "Metadata URIs": "URIs de metadatos",
+    "Metadata Hash": "Hash de metadatos",
+    "License URIs": "URIs de licencia",
+    "License Hash": "Hash de licencia",
+    "NFT Markets": "Mercados NFT",
+    "Newcomers": "Recién llegados"
   },
   "offersTable": {
     "Accept": "Aceptar",
@@ -435,6 +435,7 @@
     "Toggle suspicious trades (wash trading, spam)": "Alternar operaciones sospechosas (comercio de lavado, spam)",
     "Transaction Fee (higher fee = higher priority)": "Tarifa de transacción (tarifa alta = alta prioridad)",
     "Low Transaction Fee (low priority) {{fee}}": "Tarifa de transacción baja (baja prioridad) {{fee}}",
-    "Low Fee": "Tarifa baja"
+    "Low Fee": "Tarifa baja",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }

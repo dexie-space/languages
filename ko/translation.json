@@ -5,34 +5,6 @@
     "Offer successfully indexed": "",
     "Error uploading offer": ""
   },
-  "nft": {
-    "Name unavailable": "",
-    "No Preview Available": "",
-    "Sensitive Content": "",
-    "Click to always enable": "",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
-    "Close Metadata": "",
-    "Inspect Metadata": "",
-    "Blocked for violating community rules": "",
-    "Blocked": "",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "",
-    "Unknown Creator": "",
-    "Creator DID claimed by {{name}} on {{via}}": "",
-    "{{platform}} verified": "",
-    "{{platform}} unverified": "",
-    "NFT Address": "",
-    "Royalty": "",
-    "NFT Creator": "",
-    "Created at Height": "",
-    "Data URIs": "",
-    "Data Hash": "",
-    "Metadata URIs": "",
-    "Metadata Hash": "",
-    "License URIs": "",
-    "License Hash": "",
-    "NFT Markets": "",
-    "Newcomers": ""
-  },
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
@@ -190,6 +162,34 @@
     "disconnected": "",
     "connecting": "",
     "More": ""
+  },
+  "nft": {
+    "No Preview Available": "",
+    "Name unavailable": "",
+    "Sensitive Content": "",
+    "Click to always enable": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "Close Metadata": "",
+    "Inspect Metadata": "",
+    "Blocked for violating community rules": "",
+    "Blocked": "",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "",
+    "Unknown Creator": "",
+    "Creator DID claimed by {{name}} on {{via}}": "",
+    "{{platform}} verified": "",
+    "{{platform}} unverified": "",
+    "NFT Address": "",
+    "Royalty": "",
+    "NFT Creator": "",
+    "Created at Height": "",
+    "Data URIs": "",
+    "Data Hash": "",
+    "Metadata URIs": "",
+    "Metadata Hash": "",
+    "License URIs": "",
+    "License Hash": "",
+    "NFT Markets": "",
+    "Newcomers": ""
   },
   "offersTable": {
     "Accept": "받기",
@@ -417,6 +417,7 @@
     "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": ""
+    "Low Fee": "",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }
