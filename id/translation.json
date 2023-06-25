@@ -261,18 +261,18 @@
     "Invalid address": "Alamat tidak valid"
   },
   "Assets": {
-    "Powered by Tail Database": "",
+    "Powered by Tail Database": "Dipersembahkan oleh Tail Database",
     "Search {{count}} assets_other": "Cari {{count}} Aset_lainnya",
-    "Show All": "",
-    "Show Muted": "",
-    "No Muted Assets": "",
-    "Asset Not Found": "",
-    "Mute assets to prevent them from showing up for you": "",
-    "Unmute": "",
-    "Mute": "",
+    "Show All": "Tampilkan Semua",
+    "Show Muted": "Tampilkan Dimatikan",
+    "No Muted Assets": "Tidak Ada Aset yang Dimatikan",
+    "Asset Not Found": "Aset Tidak Ditemukan",
+    "Mute assets to prevent them from showing up for you": "Nonaktifkan aset agar tidak muncul untuk Anda",
+    "Unmute": "Aktifkan",
+    "Mute": "Nonaktifkan",
     "Code": "Kode",
     "Asset ID": "ID Aset",
-    "Current Average Price": "",
+    "Current Average Price": "Harga Rata-Rata Saat Ini",
     "{{code}} Liquidity": "{{code}} Likuiditas"
   },
   "claimHistory": {
