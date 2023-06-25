@@ -120,10 +120,10 @@
     "Unknown": "Tidak diketahui"
   },
   "confirmTransactionModal": {
-    "Confirm Transaction": "",
-    "You Pay": "",
-    "You Receive": "",
-    "Waiting for confirmation in your wallet": ""
+    "Confirm Transaction": "Konfirmasi Transaksi",
+    "You Pay": "Anda Membayar",
+    "You Receive": "Anda Menerima",
+    "Waiting for confirmation in your wallet": "Menunggu konfirmasi di dompet Anda"
   },
   "Connect Wallet": "Hubungkan Dompet",
   "header": {
