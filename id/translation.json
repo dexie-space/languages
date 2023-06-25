@@ -127,15 +127,15 @@
   },
   "Connect Wallet": "Hubungkan Dompet",
   "header": {
-    "Connect Wallet": "",
+    "Connect Wallet": "Hubungkan Dompet",
     "Markets": "Pasar",
     "NFT": "NFT",
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
     "FAQ": "FAQ",
-    "bannerMessageLiquidityRewards": "",
-    "Get USDS": "",
-    "Your Offers": ""
+    "bannerMessageLiquidityRewards": "spandukPesanHadiahLikuiditas",
+    "Get USDS": "Dapatkan USDS",
+    "Your Offers": "Penawaran Anda"
   },
   "connectModal": {
     "Not Installed": "",
