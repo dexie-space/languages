@@ -415,10 +415,10 @@
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
     "no filters selected": "Tidak ada filter yang dipilih",
-    "Toggle suspicious trades (wash trading, spam)": "",
+    "Toggle suspicious trades (wash trading, spam)": "Alihkan perdagangan yang mencurigakan (pencucian perdagangan, spam)",
     "Transaction Fee (higher fee = higher priority)": "Biaya transaksi (biaya yang lebih tinggi = prioritas yang lebih tinggi)",
     "Low Transaction Fee (low priority) {{fee}}": "Biaya transaksi rendah (prioritas rendah) {{fee}}",
     "Low Fee": "Biaya rendah",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "Cancelled offers are only shown for the last 30 days": "Penawaran yang dibatalkan hanya ditampilkan selama 30 hari terakhir"
   }
 }
