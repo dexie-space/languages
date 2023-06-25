@@ -138,16 +138,16 @@
     "Your Offers": "Penawaran Anda"
   },
   "connectModal": {
-    "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
-    "Copy WalletConnect Link": "",
-    "Cancel WalletConnect": "",
-    "Add with WalletConnect": "",
-    "Connect": "",
-    "Connected": "",
-    "Disconnected": "",
-    "Remove": "",
-    "Disconnect": ""
+    "Not Installed": "Tidak diinstall",
+    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Untuk menyiapkan WalletConnect dengan Dompet Chia Desktop, klik Kode di bawah untuk menyalin tautan koneksi",
+    "Copy WalletConnect Link": "Salin Tautan WalletConnect",
+    "Cancel WalletConnect": "Batalkan WalletConnect",
+    "Add with WalletConnect": "Tambahkan dengan WalletConnect",
+    "Connect": "Hubungkan",
+    "Connected": "Terhubung",
+    "Disconnected": "Terputus",
+    "Remove": "Hapus",
+    "Disconnect": "Putuskan"
   },
   "createOffer": {
     "Please wait": "Mohon tunggu...",
