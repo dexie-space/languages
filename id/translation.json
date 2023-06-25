@@ -245,11 +245,11 @@
   "toast": {
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
     "gobyError4900": "Goby tidak terhubung",
-    "Request rejected": "",
-    "Offer rejected": "",
-    "Please reconnect your wallet to perform this action": "",
+    "Request rejected": "Permintaan ditolak",
+    "Offer rejected": "Tawaran ditolak",
+    "Please reconnect your wallet to perform this action": "Hubungkan kembali dompet Anda untuk melakukan tindakan ini",
     "Offer accepted": "Penawaran diterima",
-    "Asset added": ""
+    "Asset added": "Aset ditambahkan"
   },
   "signMessage": {
     "Address not found in {{walletName}}": "",
