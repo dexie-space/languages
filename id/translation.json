@@ -252,8 +252,8 @@
     "Asset added": "Aset ditambahkan"
   },
   "signMessage": {
-    "Address not found in {{walletName}}": "",
-    "Message signed": ""
+    "Address not found in {{walletName}}": "Alamat tidak ditemukan di {{walletName}}",
+    "Message signed": "Pesan ditandatangani"
   },
   "This feature is not supported by {{wallet}}": "",
   "signAddress": {
