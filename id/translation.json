@@ -255,10 +255,10 @@
     "Address not found in {{walletName}}": "Alamat tidak ditemukan di {{walletName}}",
     "Message signed": "Pesan ditandatangani"
   },
-  "This feature is not supported by {{wallet}}": "",
+  "This feature is not supported by {{wallet}}": "Fitur ini tidak didukung oleh {{wallet}}",
   "signAddress": {
-    "No key for this address": "",
-    "Invalid address": ""
+    "No key for this address": "Tidak ada kunci untuk alamat ini",
+    "Invalid address": "Alamat tidak valid"
   },
   "Assets": {
     "Powered by Tail Database": "",
