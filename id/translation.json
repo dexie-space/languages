@@ -196,19 +196,19 @@
     "Download Offer File": "Unduh file penawaran",
     "Copy Offer File": "Salin file penawaran",
     "No Offers Found": "Tidak ada penawaran yang ditemukan",
-    "{{count}} Muted Assets_other": "",
+    "{{count}} Muted Assets_other": "{{count}} Aset Dinonaktifkan_lainnya",
     "Combine Offers": "Menggabungkan penawaran",
     "Collapse NFTs": "Ciutkan NFT",
     "Expand NFTs": "Perluas NFT",
     "You Pay": "Anda Membayar",
     "You Receive": "Anda menerima",
-    "offersCount_other": "<0>{{formattedCount}}</0> Offers",
-    "Legacy offer, combination not supported": "",
-    "This offer contains overlapping inputs or outputs and can not be added": "",
+    "offersCount_other": "<0>{{formattedCount}}</0> Tawaran",
+    "Legacy offer, combination not supported": "Tawaran lawas, kombinasi tidak didukung",
+    "This offer contains overlapping inputs or outputs and can not be added": "Penawaran ini berisi input atau output yang tumpang tindih dan tidak dapat ditambahkan",
     "Last": "Terakhir",
     "Best Price": "Harga terbaik",
     "New": "Baru",
-    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks lalu"
   },
   "ribbon": {
     "Yours": "Milikmu"
@@ -240,7 +240,7 @@
     "cancelled": "Dibatalkan",
     "completed": "Lengkap",
     "unknown": "Tidak dikenal",
-    "expired": ""
+    "expired": "kedaluwarsa"
   },
   "toast": {
     "gobyError4001": "Harap selesaikan pengaturan Goby terlebih dahulu.",
