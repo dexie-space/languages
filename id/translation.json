@@ -378,15 +378,15 @@
     "Go back home": "Kembali ke Halaman Depan"
   },
   "offers": {
-    "Sell": "",
-    "Buy": ""
+    "Sell": "Menjual",
+    "Buy": "Membeli"
   },
   "autoCombine": {
     "Combining Offers": "Menggabungkan Penawaran",
     "Combined Offer": "Penawaran Gabungan",
     "Auto-Combined": "Gabungan Otomatis",
     "Bonus": "Bonus",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
+    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Termasuk Biaya Kombinasi ({{count}} Pembelanjaan Koin)_lainnya",
     "Fee": "Biaya",
     "No offers to auto-combine, try a larger amount or choose the best offer from below": "Tidak ada penawaran untuk digabungkan secara otomatis, coba jumlah yang lebih besar atau pilih penawaran terbaik dari bawah",
     "High Slippage": "Selip Tinggi",
