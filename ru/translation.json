@@ -93,12 +93,12 @@
     "Escrow Address": "Адрес бронирования",
     "Raw Offer File": "Содержимое файла предложения",
     "Cross-Chain": "Кросс-чейн",
-    "Offer not found or not supported": "",
-    "Try raw offers archive": "",
+    "Offer not found or not supported": "Предложение не найдено или не поддерживается",
+    "Try raw offers archive": "Попробуйте архив необработанных предложений",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Ваше предложение было отправлено, добавьте его в Ваши предложения, чтобы добавить в закладки.",
     "Add to Your Offers": "Добавить свои предложения",
     "Go to Trade": "Перейти к торговле",
-    "Remove from Your Offers": "",
+    "Remove from Your Offers": "Удалить из ваших предложений",
     "Taken by {{taker}}": "Снято {{taker}}",
     "Trade ID": "Торговый идентификатор",
     "Confirmed at Block": "Подтверждено в блоке",
@@ -176,10 +176,10 @@
   },
   "nft": {
     "No Preview Available": "Предварительный просмотр недоступен",
-    "Name unavailable": "",
+    "Name unavailable": "Название недоступно",
     "Sensitive Content": "Чувствительный контент",
     "Click to always enable": "Нажмите, чтобы всегда включать",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT не имеет имени или не удалось получить метаданные (Dexie продолжает повторять попытки)",
     "Close Metadata": "Закрыть метаданные",
     "Inspect Metadata": "Проверить метаданные",
     "Blocked for violating community rules": "Заблокирован за нарушение правил сообщества",
@@ -447,6 +447,6 @@
     "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
     "Low Fee": "Низкая комиссия",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30 дней."
   }
 }
