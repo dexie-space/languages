@@ -91,12 +91,12 @@
     "Escrow Address": "Indirizzo di deposito a garanzia",
     "Raw Offer File": "Inserisci qui il contenuto testuale del tuo file di offerta",
     "Cross-Chain": "Cross-Chain",
-    "Offer not found or not supported": "",
-    "Try raw offers archive": "",
+    "Offer not found or not supported": "Offerta non trovata o non supportata",
+    "Try raw offers archive": "Prova l'archivio delle offerte grezze",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "La tua offerta è stata sottomessa, inseriscila nelle Tue Offerte per aggiungerla ai segnalibri",
     "Add to Your Offers": "Carica le tue offerte",
     "Go to Trade": "Vai alle compravendite",
-    "Remove from Your Offers": "",
+    "Remove from Your Offers": "Rimuovi dalla tue offerte",
     "Taken by {{taker}}": "Preso da {{taker}}",
     "Trade ID": "Trade ID",
     "Confirmed at Block": "Confermato al blocco",
@@ -173,10 +173,10 @@
   },
   "nft": {
     "No Preview Available": "Nessuna anteprima disponibile",
-    "Name unavailable": "",
+    "Name unavailable": "Nome non disponibile",
     "Sensitive Content": "Contenuto sensibile",
     "Click to always enable": "Fare clic per abilitare sempre",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT è senza nome o il recupero dei metadati non è riuscito (dexie continua a riprovare)",
     "Close Metadata": "Chiudi Metadata",
     "Inspect Metadata": "Analizza Metadata",
     "Blocked for violating community rules": "Bloccato per violazione delle regole della comunità",
@@ -438,6 +438,6 @@
     "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
     "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
     "Low Fee": "Commissione bassa",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
   }
 }
