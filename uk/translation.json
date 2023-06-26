@@ -93,12 +93,12 @@
     "Escrow Address": "Адреса зберігання",
     "Raw Offer File": "Вміст файла пропозиції",
     "Cross-Chain": "Кросс-чейн",
-    "Offer not found or not supported": "",
-    "Try raw offers archive": "",
+    "Offer not found or not supported": "Пропозиція не знайдена або не підтримується",
+    "Try raw offers archive": "Спробуйте сирий архів пропозицій",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Вашу пропозицію надіслано, додайте її до ваших пропозицій, щоб створити закладку",
     "Add to Your Offers": "Додати свої пропозиції",
     "Go to Trade": "Перейдіть до Торгівлі",
-    "Remove from Your Offers": "",
+    "Remove from Your Offers": "Видалити зі своїх пропозицій",
     "Taken by {{taker}}": "Знято {{taker}}",
     "Trade ID": "Торговий ідентифікатор",
     "Confirmed at Block": "Підтверджено в блоку",
@@ -176,10 +176,10 @@
   },
   "nft": {
     "No Preview Available": "Попередній перегляд недоступний",
-    "Name unavailable": "",
+    "Name unavailable": "Ім'я недоступне",
     "Sensitive Content": "Чутливий вміст",
     "Click to always enable": "Натисніть, щоб завжди вмикати",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT не має назви або не вдалося отримати метадані (dexie продовжує спроби)",
     "Close Metadata": "Закрити метадані",
     "Inspect Metadata": "Переглянути метадані",
     "Blocked for violating community rules": "Заблоковано за порушення правил спільноти",
@@ -447,6 +447,6 @@
     "Transaction Fee (higher fee = higher priority)": "Комісія за транзакцію (вища комісія = вищий пріоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низька комісія за транзакцію (низький пріоритет) {{fee}}",
     "Low Fee": "Низька комісія",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "Cancelled offers are only shown for the last 30 days": "Скасовані пропозиції відображаються лише за останні 30 днів"
   }
 }
