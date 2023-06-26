@@ -128,7 +128,7 @@
     "Maker Inputs": "ورودی های سازنده",
     "Taker Inputs": "ورودی های گیرنده",
     "Offer successfully executed": "پیشنهاد با موفقیت اجرا شد",
-    "Inputs may be larger than outputs, any excess amount was returned as change": "ورودی ها ممکن است بزرگتر از خروجی ها باشند، هر مبلغ اضافی به عنوان تغییر برگردانده شد ",
+    "Inputs may be larger than outputs, any excess amount was returned as change": "ورودی ها ممکن است بزرگتر از خروجی ها باشند، هر مبلغ اضافی به عنوان تغییر برگردانده شد",
     "Larger outputs indicate that this offer was combined with other offers": "خروجی های بزرگتر نشان می دهد که این پیشنهاد با پیشنهادات دیگر ترکیب شده است",
     "Pending Maker Outputs": "خروجی های سازنده در انتظار تایید",
     "Cancelled Maker Outputs": "خروجی های سازنده لفو شد",
@@ -220,7 +220,7 @@
   "ozoneModal": {
     "Scan QR Code with Ozone Wallet to accept": "برای تایید، بارکد را با کیف پول اوزون اسکن کنید",
     "Try Ozone Wallet": "کیف پول اوزون را امتحان کنید",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "کیف پول اوزون برای تراکنش با XCH و CAT به روشی مطمئن و امن طراحی شده است "
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "کیف پول اوزون برای تراکنش با XCH و CAT به روشی مطمئن و امن طراحی شده است"
   },
   "chart": {
     "Day": "روز",
@@ -228,8 +228,8 @@
     "Month": "ماه",
     "3 Month": "3 ماه",
     "Year": "سال",
-    "Linear": "Linear",
-    "Log": "Log",
+    "Linear": "خطی",
+    "Log": "الگریتمی",
     "activeOffers": "پیشنهادهای فعال",
     "lastPrice": "آخرین قیمت",
     "Collapse": "ریزش",
