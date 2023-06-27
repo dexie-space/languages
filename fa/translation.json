@@ -347,7 +347,7 @@
   },
   "faq": {
     "question1": "دکسی چیست؟",
-    "answer1": "<p class='my-5'>دکسی یک رابط مرورگر برای معاملات چیا است. پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین چیا فراهم میکند در</p><p class='my-5'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود، پس از آن دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، منتقل می‌شود. بصورت میانجی</p><p class='my-5'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است. پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین چیا فراهم میکند در</p><p class='my-4'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود، پس از آن دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، منتقل می‌شود. بصورت میانجی</p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "نیاز به پشتیبانی یا داشتن سوالات ؟",
     "answer2": "<p class='my-5'> تماس با ما توسط توییتر در<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> یا بازدید ما در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, برای کمک و همیاری همواره در خدمت هستیم</p>"
   },
