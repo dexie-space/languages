@@ -94,12 +94,13 @@
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "پیشنهاد شما تایید شد آن را به پیشنهادات خود اضافه کنید تا لیست شود",
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
+    "Remove from Your Offers": "",
     "Taken by {{taker}}": "گرفته شده توسط {{taker}}",
     "Trade ID": "شناسه معامله",
     "Confirmed at Block": "بلوک تایید شده",
     "Number of confirmations": "تعداد تاییدیه ها",
     "attached": "پیوست شده است",
-    "Cancelled Maker Inputs": "ورودی‌های سازنده لغو شد",
+    "Cancelled Maker Inputs": "ورودی\u200cهای سازنده لغو شد",
     "Maker Inputs": "ورودی های سازنده",
     "Taker Inputs": "ورودی های گیرنده",
     "Offer successfully executed": "پیشنهاد با موفقیت اجرا شد",
@@ -168,8 +169,8 @@
     "More": "بیشتر"
   },
   "nft": {
-    "Unnamed NFT": "ان اف تی بدون نام",
     "No Preview Available": "پیش نمایش موجود نیست",
+    "Name unavailable": "",
     "Sensitive Content": "محتوای حساس",
     "Click to always enable": "کلیک کنید تا همیشه فعال شود",
     "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
@@ -209,7 +210,7 @@
     "You Receive": "دریافتی شما",
     "offersCount_one": "<0>{{formattedCount}}</0> پیشنهاد",
     "offersCount_other": "<0>{{formattedCount}}</0> پیشنهادات",
-    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمی‌شود",
+    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمی\u200cشود",
     "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد نداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
     "Last": "آخر",
     "Best Price": "بهترین قیمت",
@@ -312,7 +313,7 @@
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
     "Add or Query TAILs": "Add or Query TAILs",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق‌العاده‌اش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق\u200cالعاده\u200cاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": " فایل پیشنهادی با موفقیت فهرست شد",
@@ -335,7 +336,7 @@
     "Select and Upload ZIP file": "انتخاب وبارگذاری فایل فشرده",
     "Offers from Bulk Upload won't show up in Your Added Offers": " پیشنهادهای آپلود انبوه در پیشنهادات اضافه شده شما نشان داده نمی شود",
     "See the API documentation for more information and examples": "برای اطلاعات بیشتر و مثال ها به مثال های رابط برنامه نویسی نرم افزار مراجعه کنید",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": " پیشنهاداتی که اضافه می‌کنید در مرورگر شما ذخیره می‌شوند، قبل از پاک کردن فضای ذخیره‌سازی مرورگر یک نسخه پشتیبان تهیه کنید",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": " پیشنهاداتی که اضافه می\u200cکنید در مرورگر شما ذخیره می\u200cشوند، قبل از پاک کردن فضای ذخیره\u200cسازی مرورگر یک نسخه پشتیبان تهیه کنید",
     "Backup Your Offers": "پشتیبان گرفتن از پیشنهادات خود",
     "Restore Your Offers": "بازگردادن پیشنهادات خود",
     "Duplicate offers will be merged": " پیشنهادات تکراری ادغام خواهند شد",
@@ -350,7 +351,7 @@
   },
   "faq": {
     "question1": "دکسی چیست؟",
-    "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است. پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین چیا فراهم میکند در</p><p class='my-4'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود، پس از آن دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، منتقل می‌شود. بصورت میانجی</p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است. پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین چیا فراهم میکند در</p><p class='my-4'>دکسی سکه\u200cها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن\u200cها باقی می\u200cمانند تا زمانی که یک پیشنهاد پذیرفته شود، پس از آن دارایی\u200cها به طور امن بین سازنده و کسی که می\u200cخواهد آن\u200cها را در یک تراکنش روی بلاک چین بپذیرد، منتقل می\u200cشود. بصورت میانجی</p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "نیاز به پشتیبانی یا داشتن سوالات ؟",
     "answer2": "<p class='my-5'> تماس با ما توسط توییتر در<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> یا بازدید ما در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, برای کمک و همیاری همواره در خدمت هستیم</p>"
   },
@@ -376,7 +377,7 @@
     "The highest price someone is bidding for an NFT": "بالاترین قیمتی که کسی برای ان اف تی پیشنهاد داده است",
     "Highest Bid": "بالاترین پیشنهاد",
     "Floor 24h": "در طی 24 ساعت",
-    "Toggle collections with suspicious trading activity": "مجموعه‌های دارای فعالیت تجاری مشکوک را تغییر دهید",
+    "Toggle collections with suspicious trading activity": "مجموعه\u200cهای دارای فعالیت تجاری مشکوک را تغییر دهید",
     "no {{xch}} offers": "هیچ {{xch}} پیشنهادی"
   },
   "notFound": {
@@ -427,7 +428,7 @@
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": "کمترین کارمزد تراکنش (low priority): {{fee}}",
-    "Low Fee": "کارمزد کم"
+    "Low Fee": "کارمزد کم",
     "Cancelled offers are only shown for the last 30 days": ""
   }
 }

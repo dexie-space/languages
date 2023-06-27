@@ -447,6 +447,6 @@
     "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
     "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
     "Low Fee": "Низкая комиссия",
-    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30 дней."
+    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30\u00a0дней."
   }
 }
