@@ -91,12 +91,12 @@
     "Escrow Address": "Dirección de escrow",
     "Raw Offer File": "Archivo de oferta sin procesar",
     "Cross-Chain": "Inter-cadena",
-    "Offer not found or not supported": "",
-    "Try raw offers archive": "",
+    "Offer not found or not supported": "Oferta no encontrada o no admitida",
+    "Try raw offers archive": "Pruebe el archivo de ofertas sin procesar",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "Su oferta ha sido enviada, agréguela a Sus ofertas para marcarla como favorita",
     "Add to Your Offers": "Agregar a sus ofertas",
     "Go to Trade": "Ir a operaciones",
-    "Remove from Your Offers": "",
+    "Remove from Your Offers": "Quitar de tus ofertas",
     "Taken by {{taker}}": "Tomada por {{taker}}",
     "Trade ID": "Identificación de la transacción",
     "Confirmed at Block": "Confirmado en el bloque",
@@ -173,10 +173,10 @@
   },
   "nft": {
     "No Preview Available": "No hay vista previa disponible",
-    "Name unavailable": "",
+    "Name unavailable": "Nombre no disponible",
     "Sensitive Content": "Contenido sensible",
     "Click to always enable": "Clic para mantener siempre activo",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "NFT no tiene nombre o no se pudieron obtener los metadatos (Dexie sigue intentándolo)",
     "Close Metadata": "Cerrar metadatos",
     "Inspect Metadata": "Inspeccionar metadatos",
     "Blocked for violating community rules": "Bloqueado por violar las reglas de la comunidad",
@@ -438,6 +438,6 @@
     "Transaction Fee (higher fee = higher priority)": "Tarifa de transacción (tarifa alta = alta prioridad)",
     "Low Transaction Fee (low priority) {{fee}}": "Tarifa de transacción baja (baja prioridad) {{fee}}",
     "Low Fee": "Tarifa baja",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "Cancelled offers are only shown for the last 30 days": "Las ofertas canceladas solo se muestran para los últimos 30 días"
   }
 }
