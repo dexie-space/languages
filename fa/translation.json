@@ -89,9 +89,12 @@
     "Escrow Address": "آدرس رزرو",
     "Raw Offer File": "محتوای فایل پیشنهادی",
     "Cross-Chain": "Cross-Chain",
+    "Offer not found or not supported": "",
+    "Try raw offers archive": "",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "پیشنهاد شما تایید شد آن را به پیشنهادات خود اضافه کنید تا لیست شود",
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
+    "Remove from Your Offers": "",
     "Taken by {{taker}}": "گرفته شده توسط {{taker}}",
     "Trade ID": "شناسه معامله",
     "Confirmed at Block": "بلوک تایید شده",
@@ -165,12 +168,13 @@
     "connecting": "درحال اتصال",
     "More": "بیشتر"
   },
-    "nft": {
-    "Unnamed NFT": "ان اف تی بدون نام",
+  "nft": {
     "No Preview Available": "پیش نمایش موجود نیست",
+    "Name unavailable": "",
     "Sensitive Content": "محتوای حساس",
     "Click to always enable": "کلیک کنید تا همیشه فعال شود",
     "Close Metadata": "بستن Metadata",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Inspect Metadata": "بررسی Metadata",
     "Blocked for violating community rules": "به دلیل نقض قوانین مسدود شده است",
     "Blocked": "مسدود",
