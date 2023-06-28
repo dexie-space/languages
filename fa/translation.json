@@ -6,8 +6,8 @@
     "Error uploading offer": "خطا در بارگذاری پیشنهاد"
   },
   "common": {
-    "CLIPPED": "CLIPPED",
-    "Search Tokens, NFTs or enter Address": " جستجوی توکن ها یا ان اف تی ها  یا آدرس را وارد کنید",
+    "CLIPPED": "بسته شده",
+    "Search Tokens, NFTs or enter Address": "جستجوی توکن ها یا ان اف تی هاو یا آدرس را وارد کنید",
     "You Offer": "پیشنهاد شما",
     "Tokens (CATs)": "توکن ها (CATs)",
     "Your NFTs": "ان اف تی های شما",
@@ -27,8 +27,8 @@
     "Requested": "درخواست شده",
     "Offered": "پیشنهاد شده",
     "loading": "بارگذاری",
-    "{{count}} more_one": "{{count}} بیشتر",
-    "{{count}} more_other": "{{count}} بیشتر",
+    "{{count}} more_one": " بیشتر {{count}} ",
+    "{{count}} more_other": " بیشتر {{count}} ",
     "Inspect": "بررسی",
     "No Results": "بدون نتیجه",
     "Current Price": "قیمت موجود",
@@ -100,7 +100,7 @@
     "Confirmed at Block": "بلوک تایید شده",
     "Number of confirmations": "تعداد تاییدیه ها",
     "attached": "پیوست شده است",
-    "Cancelled Maker Inputs": "ورودی\u200cهای سازنده لغو شد",
+    "Cancelled Maker Inputs": "ورودی‌های سازنده لغو شد",
     "Maker Inputs": "ورودی های سازنده",
     "Taker Inputs": "ورودی های گیرنده",
     "Offer successfully executed": "پیشنهاد با موفقیت اجرا شد",
@@ -115,7 +115,7 @@
     "Royalties": "حق امتباز",
     "Current Bid": "پیشنهاد فعلی",
     "Make Bid": "دادن پیشنهاد",
-    "Requested price is too high? The seller might accept your bid!": "قیمت درخواستی خیلی زیاد است ممکن است فروشنده پیشنهاد شما را بپذیرد",
+    "Requested price is too high? The seller might accept your bid!": "آیا قیمت درخواست شده زیاد است؟ پیشنهاد دهید شاید فروشنده پیشنهاد شما را بپذیرد",
     "{{count}} offers_one": "{{count}} پیشنهاد",
     "{{count}} offers_other": "{{count}} پیشنهادها",
     "Bid with Goby": "پیشنهاد با برنامه گوبی",
@@ -138,7 +138,7 @@
     "Trade": "معامله",
     "Recent Trades": "معاملات انجام شده",
     "FAQ": "پاسخ به سوالات",
-    "bannerMessageLiquidityRewards": "درحال حاضر با <b> پاداش نقدینگی</b>! فارم <b>دکسی باکس</b> با افزودن پیشنهادات برای جفت های مشوق",
+    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت‌های مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Get USDS": "USDS دریافت ارز",
     "Your Offers": "پیشنهادهای شما"
   },
@@ -173,14 +173,14 @@
     "Name unavailable": "",
     "Sensitive Content": "محتوای حساس",
     "Click to always enable": "کلیک کنید تا همیشه فعال شود",
-    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Close Metadata": "بستن Metadata",
+    "NFT is unnamed or fetching the metadata failed (dexie keeps retrying)": "",
     "Inspect Metadata": "بررسی Metadata",
     "Blocked for violating community rules": "به دلیل نقض قوانین مسدود شده است",
     "Blocked": "مسدود",
     "Anyone can create an NFT collection, make sure the creator is authentic": "هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
     "Unknown Creator": "خالق ناشناس",
-    "Creator DID claimed by {{name}} on {{via}}": "مطالبه سازنده دید با {{name}} روی {{via}}",
+    "Creator DID claimed by {{name}} on {{via}}": "{{via}} روی{{name}} مطالبه سازنده دید با",
     "{{platform}} verified": "{{platform}} تایید شده",
     "{{platform}} unverified": "{{platform}} تایید نشده",
     "NFT Address": "آدرس ان اف تی",
@@ -210,9 +210,9 @@
     "You Receive": "دریافتی شما",
     "offersCount_one": "<0>{{formattedCount}}</0> پیشنهاد",
     "offersCount_other": "<0>{{formattedCount}}</0> پیشنهادات",
-    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمی\u200cشود",
-    "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد نداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
-    "Last": "آخر",
+    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمی‌شود",
+    "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد تداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
+    "Last": "آخرین قیمت",
     "Best Price": "بهترین قیمت",
     "New": "جدید",
     "Blocks ago_one": "<0>{{formattedCount}}</0> Block ago",
@@ -224,7 +224,7 @@
   "ozoneModal": {
     "Scan QR Code with Ozone Wallet to accept": "برای تایید، بارکد را با کیف پول اوزون اسکن کنید",
     "Try Ozone Wallet": "کیف پول اوزون را امتحان کنید",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "کیف پول اوزون برای تراکنش با XCH و CAT به روشی مطمئن و امن طراحی شده است"
+    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "به روشی مطمئن و امن طراحی شده است XCH و CAT کیف پول اوزون برای تراکنش با"
   },
   "chart": {
     "Day": "روز",
@@ -238,8 +238,8 @@
     "lastPrice": "آخرین قیمت",
     "Collapse": "ریزش",
     "Expand": "گسترش",
-    "No data for this chart": "هیچ اطلا عاتی برای این نمودار وجود ندارد",
-    "Still collecting data for this chart": "هنوز در حال جمع آوری اطلاعات برای این نمودار است"
+    "No data for this chart": "هیچ اطلاعاتی برای این نمودار وجود ندارد",
+    "Still collecting data for this chart": "در حال جمع آوری اطلاعات برای این نمودار"
   },
   "status": {
     "active": "فعال",
@@ -251,7 +251,7 @@
     "expired": "منقضی شد"
   },
   "toast": {
-    "gobyError4001": " لطفاً ابتدا نصب برنامه گوبی را کامل کنید",
+    "gobyError4001": " لطفاً ابتدا نصب برنامه گوبی  را کامل کنید",
     "gobyError4900": "برنامه گوبی متصل نیست",
     "Request rejected": "درخواست رد شد",
     "Offer rejected": "پیشنهاد رد شد",
@@ -260,10 +260,10 @@
     "Asset added": "دارایی اضافه شد"
   },
   "signMessage": {
-    "Address not found in {{walletName}}": "آدرس پیدا نشد در{{walletName}}",
+    "Address not found in {{walletName}}": "{{walletName}}آدرس پیدا نشد در",
     "Message signed": "پیام امضا شد"
   },
-  "This feature is not supported by {{wallet}}": "این ویژگی پشتیبانی نمیشود با {{wallet}}",
+  "This feature is not supported by {{wallet}}": " {{wallet}}این ویژگی پشتیبانی نمیشود با",
   "signAddress": {
     "No key for this address": "کلیدی برای این آدرس وجود ندارد",
     "Invalid address": "آدرس نامعتبر"
@@ -304,16 +304,16 @@
   },
   "contributors": {
     "Core Contributor": "مشارکت کننده اصلی",
-    "Community Manager": "مدیر سازمان",
-    "Advisor/Strategy": "مشاور/استراتژی",
+    "Community Manager": "مدیر انجمن",
+    "Advisor/Strategy": "مشاور/ استراتژی",
     "Data Cruncher": "آنالیز داده ها",
     "Translator": "مترجم",
-    "DBX Holders": " دارندگانDBX",
-    "The Community": "سازمان",
+    "DBX Holders": " DBXدارندگان ",
+    "The Community": "انجمن",
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
-    "Add or Query TAILs": "Add or Query TAILs",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق\u200cالعاده\u200cاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
+    "Add or Query TAILs": "توکن ها را اضافه یا پیدا کنید",
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق‌العاده‌اش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": " فایل پیشنهادی با موفقیت فهرست شد",
@@ -328,42 +328,42 @@
     "API": "رابط برنامه نویسی نرم افزار",
     "Backup / Restore": "پشتیبان / بازکرداندن",
     "#dragHint": "فایهای پیشنهادی خود را اینجا وارد کنید",
-    "Raw Offer here": "Raw Offer here",
+    "Raw Offer here": "محتوای پیشنهاد اینجا است",
     "No Offer entered": "هیچ پیشنهادی وارد نشده",
-    "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": " پیشنهادات متعدد را در یک فایل فشرده بارگذاری کنید  دکسی آنها را بترتیب بدون تناقض با هم در شبکه منتشر میکند",
+    "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "پیشنهادات متعدد را در یک فایل فشرده بارگذاری کنید تا دکسی آنها را بترتیب بدون تناقض با هم در شبکه منتشر میکند",
     "Successfully queued {{count}} offers for submission_one": " با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
     "Successfully queued {{count}} offers for submission_other": " با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
     "Select and Upload ZIP file": "انتخاب وبارگذاری فایل فشرده",
-    "Offers from Bulk Upload won't show up in Your Added Offers": " پیشنهادهای آپلود انبوه در پیشنهادات اضافه شده شما نشان داده نمی شود",
+    "Offers from Bulk Upload won't show up in Your Added Offers": "پیشنهادهای آپلود انبوه در پیشنهادات اضافه شده شما نشان داده نمی شود",
     "See the API documentation for more information and examples": "برای اطلاعات بیشتر و مثال ها به مثال های رابط برنامه نویسی نرم افزار مراجعه کنید",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": " پیشنهاداتی که اضافه می\u200cکنید در مرورگر شما ذخیره می\u200cشوند، قبل از پاک کردن فضای ذخیره\u200cسازی مرورگر یک نسخه پشتیبان تهیه کنید",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "پیشنهاداتی که اضافه می‌کنید در مرورگر شما ذخیره می‌شوند، قبل از پاک کردن فضای ذخیره‌سازی مرورگر یک نسخه پشتیبان تهیه کنید",
     "Backup Your Offers": "پشتیبان گرفتن از پیشنهادات خود",
     "Restore Your Offers": "بازگردادن پیشنهادات خود",
-    "Duplicate offers will be merged": " پیشنهادات تکراری ادغام خواهند شد",
+    "Duplicate offers will be merged": "پیشنهادات تکراری ادغام خواهند شد",
     "Your Added Offers": "پیشنهادات اضافه شده شما",
     "Your added offers appear here": "پیشنهادات اضافه شده شما در اینجا ظاهر می شود",
-    "No matching offers": "هیچ پیشنهاد منطبقی وجود ندارد",
-    "Offers close to the market price can receive rewards (click for more)": " پیشنهادات نزدیک به قیمت بازار می توانند پاداش دریافت کنند (click for more)",
-    "Liquidity Rewards": " پاداش نقدینگی",
+    "No matching offers": "هیچ پیشنهاد مشابه ای وجود ندارد",
+    "Offers close to the market price can receive rewards (click for more)": "پیشنهادات نزدیک به قیمت بازار می توانند پاداش دریافت کنند (click for more)",
+    "Liquidity Rewards": "پاداش نقدینگی",
     "Reward Claimed": "پاداش مطالبه شده",
     "Claim": "مطالبه",
     "Eligible": "واجد شرایط"
   },
   "faq": {
     "question1": "دکسی چیست؟",
-    "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است. پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین چیا فراهم میکند در</p><p class='my-4'>دکسی سکه\u200cها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن\u200cها باقی می\u200cمانند تا زمانی که یک پیشنهاد پذیرفته شود، پس از آن دارایی\u200cها به طور امن بین سازنده و کسی که می\u200cخواهد آن\u200cها را در یک تراکنش روی بلاک چین بپذیرد، منتقل می\u200cشود. بصورت میانجی</p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
-    "question2": "نیاز به پشتیبانی یا داشتن سوالات ؟",
-    "answer2": "<p class='my-5'> تماس با ما توسط توییتر در<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> یا بازدید ما در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, برای کمک و همیاری همواره در خدمت هستیم</p>"
+    "answer1": "<p class='my-4'>دکسی  یک رابط  مرورگر  برای معاملات چیا است.  پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین ارز چیا فراهم میکند </p><p class='my-4'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود،</p><p class='my-4'>  پس از آن  دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، بشکل رابط منتقل می‌شود. </p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "question2": "برای سوالات بیشتر و یا نیاز به پشتیبانی چه کنم؟",
+    "answer2": "<p class='my-5'>بصورت تمام وقت<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>تماس با ما توسط توییتر در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a> با بازدید ما در, برای کمک و همیاری همواره در خدمت هستیم</p>"
   },
   "markets": {
-    "{{market}} subheading": "نقدینگی خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل 1",
+    "{{market}} subheading": "نقدینگی جهت خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل 1",
     "{{market}} heading": "{{market}} بازارها",
     "Price Depth": "حداقل قیمت",
     "Rank": "رتبه",
     "Asset": "دارایی",
-    "#buyPriceHint{{depth}}": " قیمت واحد برای خرید {{depth}} {{market}} و هر کدام چقدر خواهد بود {{market}}",
+    "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای خرید",
     "Buy Price": "قیمت خرید",
-    "#sellPriceHint{{depth}}": "قیمت واحد برای فروش {{depth}} {{market}} و هزینه هر کدام چقدر است {{market}}",
+    "#sellPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای فروش",
     "Sell Price": "قیمت فروش",
     "Provide liquidity to earn DBX rewards": "نقدینگی را برای کسب پاداش های دی بی ایکس فراهم کنید",
     "Incentives": "مشوق ها",
@@ -377,12 +377,12 @@
     "The highest price someone is bidding for an NFT": "بالاترین قیمتی که کسی برای ان اف تی پیشنهاد داده است",
     "Highest Bid": "بالاترین پیشنهاد",
     "Floor 24h": "در طی 24 ساعت",
-    "Toggle collections with suspicious trading activity": "مجموعه\u200cهای دارای فعالیت تجاری مشکوک را تغییر دهید",
-    "no {{xch}} offers": "هیچ {{xch}} پیشنهادی"
+    "Toggle collections with suspicious trading activity": "مجموعه‌های دارای فعالیت تجاری مشکوک را تغییر دهید",
+    "no {{xch}} offers": "پیشنهادی {{xch}} هیچ"
   },
   "notFound": {
-    "404 Error": "حطای 404",
-    "Page not found": "صفحه یافت نشد",
+    "404 Error": "خطای 404",
+    "Page not found": "صفحه مورد نظریافت نشد",
     "Sorry, we couldn't find the page you're looking for": "متأسفیم، ما نتوانستیم صفحه مورد نظر شما را پیدا کنیم",
     "Go back home": "بازگشت به صفحه اصلی"
   },
@@ -392,7 +392,7 @@
   },
   "autoCombine": {
     "Combining Offers": "ترکیب پیشنهادات",
-    "Combined Offer": "پیشنهاد ترکیبی",
+    "Combined Offer": "پیشنهادات ترکیب شده",
     "Auto-Combined": "ترکیب خودکار",
     "Bonus": "جایزه",
     "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% کارمزد ترکیب کردن شامل شده ({{count}} ارز خرج شده)",
@@ -405,7 +405,7 @@
   "report": {
     "Report Content": "گزارش محتوا",
     "Use this form to report NFTs or Tokens for rule violations": "از این فرم برای گزارش ان اف تی ها یا توکنها برای نقض قوانین استفاده کنید",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "هر گزارش به یک درخواست قفل عمومی در لیست بلاک سازمان تبدیل می شود که در آنجا بررسی میگردد",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "هر گزارش به یک درخواست قفل عمومی در لیست بلاک انجمن تبدیل می شود که در آنجا بررسی میگردد",
     "NFT": "ان اف تی",
     "CAT reporting is not available right now": "گزارش توکن در حال حاضر در دسترس نیست",
     "Token (CAT)": "توکن (CAT)",
