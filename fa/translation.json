@@ -5,33 +5,6 @@
     "Offer successfully indexed": "پیشنهاد با موفقیت فهرست شد",
     "Error uploading offer": "خطا در بارگذاری پیشنهاد"
   },
-  "nft": {
-    "Unnamed NFT": "ان اف تی بدون نام",
-    "No Preview Available": "پیش نمایش موجود نیست",
-    "Sensitive Content": "محتوای حساس",
-    "Click to always enable": "کلیک کنید تا همیشه فعال شود",
-    "Close Metadata": "بستن Metadata",
-    "Inspect Metadata": "بررسی Metadata",
-    "Blocked for violating community rules": "به دلیل نقض قوانین مسدود شده است",
-    "Blocked": "مسدود",
-    "Anyone can create an NFT collection, make sure the creator is authentic": "هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
-    "Unknown Creator": "خالق ناشناس",
-    "Creator DID claimed by {{name}} on {{via}}": "{{via}} روی{{name}} مطالبه سازنده دید با",
-    "{{platform}} verified": "{{platform}} تایید شده",
-    "{{platform}} unverified": "{{platform}} تایید نشده",
-    "NFT Address": "آدرس ان اف تی",
-    "Royalty": "حق امتیاز",
-    "NFT Creator": "خالق ان اف تی",
-    "Created at Height": "خلق شده در بلاک",
-    "Data URIs": "لینکهای داده ها",
-    "Data Hash": "هش داده ها",
-    "Metadata URIs": "Metadata لینکهای",
-    "Metadata Hash": "Metadata هش",
-    "License URIs": "مجوز لینک ها",
-    "License Hash": "مجوز هش",
-    "NFT Markets": "معاملات ان اف تی",
-    "Newcomers": "تازه واردان"
-  },
   "common": {
     "CLIPPED": "بسته شده",
     "Search Tokens, NFTs or enter Address": "جستجوی توکن ها یا ان اف تی هاو یا آدرس را وارد کنید",
@@ -192,6 +165,33 @@
     "connecting": "درحال اتصال",
     "More": "بیشتر"
   },
+    "nft": {
+    "Unnamed NFT": "ان اف تی بدون نام",
+    "No Preview Available": "پیش نمایش موجود نیست",
+    "Sensitive Content": "محتوای حساس",
+    "Click to always enable": "کلیک کنید تا همیشه فعال شود",
+    "Close Metadata": "بستن Metadata",
+    "Inspect Metadata": "بررسی Metadata",
+    "Blocked for violating community rules": "به دلیل نقض قوانین مسدود شده است",
+    "Blocked": "مسدود",
+    "Anyone can create an NFT collection, make sure the creator is authentic": "هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
+    "Unknown Creator": "خالق ناشناس",
+    "Creator DID claimed by {{name}} on {{via}}": "{{via}} روی{{name}} مطالبه سازنده دید با",
+    "{{platform}} verified": "{{platform}} تایید شده",
+    "{{platform}} unverified": "{{platform}} تایید نشده",
+    "NFT Address": "آدرس ان اف تی",
+    "Royalty": "حق امتیاز",
+    "NFT Creator": "خالق ان اف تی",
+    "Created at Height": "خلق شده در بلاک",
+    "Data URIs": "لینکهای داده ها",
+    "Data Hash": "هش داده ها",
+    "Metadata URIs": "Metadata لینکهای",
+    "Metadata Hash": "Metadata هش",
+    "License URIs": "مجوز لینک ها",
+    "License Hash": "مجوز هش",
+    "NFT Markets": "معاملات ان اف تی",
+    "Newcomers": "تازه واردان"
+  },
   "offersTable": {
     "Accept": "تایید",
     "Download Offer File": "بازگذاری فایل پیشنهاد",
@@ -347,7 +347,7 @@
   },
   "faq": {
     "question1": "دکسی چیست؟",
-    "answer1": "<p class='my-5'>دکسی  یک رابط  مرورگر  برای معاملات چیا است.  پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین ارز چیا فراهم میکند </p><p class='my-5'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود،</p><p class='my-5'>  پس از آن  دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، بشکل رابط منتقل می‌شود. </p><p class='my-5'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "answer1": "<p class='my-4'>دکسی  یک رابط  مرورگر  برای معاملات چیا است.  پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین ارز چیا فراهم میکند </p><p class='my-4'>دکسی سکه‌ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن‌ها باقی می‌مانند تا زمانی که یک پیشنهاد پذیرفته شود،</p><p class='my-4'>  پس از آن  دارایی‌ها به طور امن بین سازنده و کسی که می‌خواهد آن‌ها را در یک تراکنش روی بلاک چین بپذیرد، بشکل رابط منتقل می‌شود. </p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "برای سوالات بیشتر و یا نیاز به پشتیبانی چه کنم؟",
     "answer2": "<p class='my-5'>بصورت تمام وقت<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>تماس با ما توسط توییتر در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a> با بازدید ما در, برای کمک و همیاری همواره در خدمت هستیم</p>"
   },
@@ -357,9 +357,9 @@
     "Price Depth": "حداقل قیمت",
     "Rank": "رتبه",
     "Asset": "دارایی",
-   "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای خرید",
+    "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای خرید",
     "Buy Price": "قیمت خرید",
-   "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای فروش",
+    "#sellPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای فروش",
     "Sell Price": "قیمت فروش",
     "Provide liquidity to earn DBX rewards": "نقدینگی را برای کسب پاداش های دی بی ایکس فراهم کنید",
     "Incentives": "مشوق ها",
@@ -424,6 +424,7 @@
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": "کمترین کارمزد تراکنش (low priority): {{fee}}",
-    "Low Fee": "کارمزد کم"
+    "Low Fee": "کارمزد کم",
+    "Cancelled offers are only shown for the last 30 days": ""
   }
 }
