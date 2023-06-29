@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Cari Token, NFT atau masukkan Alamat",
+    "You Request": "Anda Meminta",
     "You Offer": "Anda Menawarkan",
     "Tokens (CATs)": "Token (CATs)",
     "Your NFTs": "NFT Anda",
-    "You Request": "Anda Meminta",
     "Assets": "Aset",
     "Contributors": "Kontributor",
     "Dark Mode": "Gelap",
@@ -61,7 +61,8 @@
     "All Markets": "Semua Pasar",
     "Date": "Tanggal",
     "Actions": "Tindakan",
-    "Hide": "Sembunyikan"
+    "Hide": "Sembunyikan",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -121,6 +122,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -129,6 +131,7 @@
   "Connect Wallet": "Hubungkan Dompet",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "Pasar",
     "NFT": "NFT",
     "Trade": "Berdagang",
@@ -150,8 +153,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "Mohon tunggu...",
-    "Create Offer with Goby": "Buat Penawaran dengan Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "Publik API",
@@ -313,7 +318,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "Unggah Penawaran File",
-    "Create with Goby": "Buat dengan Goby",
+    "Create with Wallet": "",
     "Paste Offer": "Tempel Penawaran",
     "Bulk Upload": "Unggah Massal",
     "API": "",

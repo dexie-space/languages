@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "ابحث في الرموز أو NFTs أو أدخل العنوان",
+    "You Request": "طلبك",
     "You Offer": "انت تعرض",
     "Tokens (CATs)": "التوكينز (CAT)",
     "Your NFTs": "NFTs الخاص بك",
-    "You Request": "طلبك",
     "Assets": "الأصول",
     "Contributors": "المساهمون",
     "Dark Mode": "مظلم",
@@ -66,7 +66,8 @@
     "All Markets": "جميع الأسواق",
     "Date": "تاريخ",
     "Actions": "أفعال",
-    "Hide": "يخفي"
+    "Hide": "يخفي",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -136,6 +137,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -144,6 +146,7 @@
   "Connect Wallet": "ربط المحفظة",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "الأسواق",
     "NFT": "NFT",
     "Trade": "تجارة",
@@ -165,8 +168,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "أرجو الإنتظار...",
-    "Create Offer with Goby": "أنشئ عرضًا مع Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "API العامة",
@@ -348,7 +353,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "رفع ملفات العرض",
-    "Create with Goby": "ابتكر مع Goby",
+    "Create with Wallet": "",
     "Paste Offer": "لصق العرض",
     "Bulk Upload": "تحميل بالجملة",
     "API": "",

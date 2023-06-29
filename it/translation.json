@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "COPIATO",
     "Search Tokens, NFTs or enter Address": "Trova i Tokens,gli NFTs o inserisci l'indirizzo",
+    "You Request": "La tua richiesta",
     "You Offer": "La tua offerta",
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "I tuoi NFT",
-    "You Request": "La tua richiesta",
     "Assets": "Risorse",
     "Contributors": "Team & Collaboratori",
     "Dark Mode": "Scuro",
@@ -63,7 +63,8 @@
     "All Markets": "Tutti i mercati",
     "Date": "Data",
     "Actions": "Azioni",
-    "Hide": "Nascondi"
+    "Hide": "Nascondi",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "Completata prima della data di pubblicazione",
@@ -127,6 +128,7 @@
     "Unknown": "Sconosciuto"
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "Conferma la transazione",
     "You Pay": "Paghi",
     "You Receive": "Ricevi",
@@ -135,6 +137,7 @@
   "Connect Wallet": "Connetti il tuo wallet",
   "header": {
     "Connect Wallet": "Connetti il Portafogli",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "Mercati",
     "NFT": "NFT",
     "Trade": "Compravendite",
@@ -156,8 +159,10 @@
     "Disconnect": "Disconnetti"
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "Cortesemente attendi...",
-    "Create Offer with Goby": "Crea un offerta con Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "Public API",
@@ -327,7 +332,7 @@
     "Offer creator address does not exist in connected wallet": "L'indirizzo del creatore dell'offerta non esiste nel portafoglio connesso",
     "Rewards": "Ricompense",
     "Upload Offer Files": "Carica file di offerta",
-    "Create with Goby": "Crea con Goby",
+    "Create with Wallet": "",
     "Paste Offer": "Incolla offerta",
     "Bulk Upload": "Caricamento Massivo",
     "API": "API",

@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "بسته شده",
     "Search Tokens, NFTs or enter Address": "جستجوی توکن ها یا ان اف تی هاو یا آدرس را وارد کنید",
+    "You Request": "درخواست شما",
     "You Offer": "پیشنهاد شما",
     "Tokens (CATs)": "توکن ها (CATs)",
     "Your NFTs": "ان اف تی های شما",
-    "You Request": "درخواست شما",
     "Assets": "دارایی ها",
     "Contributors": "مشارکت کنندگان",
     "Dark Mode": "تاریک",
@@ -62,7 +62,8 @@
     "All Markets": "همه بازارها",
     "Date": "تاریخ",
     "Actions": "اقدامات",
-    "Hide": "پنهان"
+    "Hide": "پنهان",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "قبل از تاریخ جمع آوری تکمیل شده است",
@@ -124,6 +125,7 @@
     "Unknown": "ناشناخته"
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "تایید تراکنش",
     "You Pay": "پرداختی شما",
     "You Receive": "دریافتی شما",
@@ -132,12 +134,13 @@
   "Connect Wallet": "اتصال کیف پول",
   "header": {
     "Connect Wallet": "اتصال کیف پول",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "بازارها",
     "NFT": "ان اف تی",
     "Trade": "معامله",
     "Recent Trades": "معاملات انجام شده",
     "FAQ": "پاسخ به سوالات",
-    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت‌های مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
+    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت\u200cهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Your Offers": "پیشنهادهای شما"
   },
   "connectModal": {
@@ -153,8 +156,10 @@
     "Disconnect": "قطع شدن"
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "لطفا صبر کنید",
-    "Create Offer with Goby": "یک پیشنهاد با برنامه گوبی ایجاد کنید"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "رابط عمومی برنامه نویسی نرم افزار",
@@ -320,7 +325,7 @@
     "Offer creator address does not exist in connected wallet": "آدرس ایجاد کننده پیشنهاد در کیف پول متصل وجود ندارد",
     "Rewards": "پاداشها",
     "Upload Offer Files": "بارگذاری فایلهای پیشنهادی",
-    "Create with Goby": "ایجاد با برنامه گوبی",
+    "Create with Wallet": "",
     "Paste Offer": "چسباندن پیشنهاد",
     "Bulk Upload": "بارکذاری گروهی",
     "API": "رابط برنامه نویسی نرم افزار",

@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
+    "You Request": "",
     "You Offer": "",
     "Tokens (CATs)": "",
     "Your NFTs": "",
-    "You Request": "",
     "Assets": "",
     "Contributors": "",
     "Dark Mode": "다크 모드",
@@ -61,7 +61,8 @@
     "All Markets": "",
     "Date": "날짜",
     "Actions": "Actions",
-    "Hide": "숨김"
+    "Hide": "숨김",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -121,6 +122,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -129,6 +131,7 @@
   "Connect Wallet": "지갑 연동",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "마켓",
     "NFT": "",
     "Trade": "거래",
@@ -150,8 +153,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "",
-    "Create Offer with Goby": ""
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "",
@@ -313,7 +318,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "",
-    "Create with Goby": "",
+    "Create with Wallet": "",
     "Paste Offer": "",
     "Bulk Upload": "",
     "API": "",

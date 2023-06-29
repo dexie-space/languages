@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
+    "You Request": "คุณร้องขอ",
     "You Offer": "คุณเสนอ",
     "Tokens (CATs)": "",
     "Your NFTs": "",
-    "You Request": "คุณร้องขอ",
     "Assets": "",
     "Contributors": "",
     "Dark Mode": "โหมดมืด",
@@ -61,7 +61,8 @@
     "All Markets": "ทุกตลาด",
     "Date": "วันที่",
     "Actions": "การกระทำ",
-    "Hide": "ซ่อน"
+    "Hide": "ซ่อน",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -121,6 +122,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -129,6 +131,7 @@
   "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "ตลาด",
     "NFT": "",
     "Trade": "ซื้อขาย",
@@ -150,8 +153,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "โปรดรอสักครู่",
-    "Create Offer with Goby": "สร้างข้อเสนอด้วย Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "",
@@ -313,7 +318,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "อัพโหลดไฟล์ข้อเสนอ",
-    "Create with Goby": "สร้างด้วย Goby",
+    "Create with Wallet": "",
     "Paste Offer": "แปะข้อเสนอ",
     "Bulk Upload": "",
     "API": "",

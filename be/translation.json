@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "",
+    "You Request": "",
     "You Offer": "",
     "Tokens (CATs)": "",
     "Your NFTs": "",
-    "You Request": "",
     "Assets": "",
     "Contributors": "",
     "Dark Mode": "",
@@ -64,7 +64,8 @@
     "All Markets": "",
     "Date": "",
     "Actions": "",
-    "Hide": ""
+    "Hide": "",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -130,6 +131,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -138,6 +140,7 @@
   "Connect Wallet": "",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "",
     "NFT": "",
     "Trade": "",
@@ -159,8 +162,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "",
-    "Create Offer with Goby": ""
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "",
@@ -334,7 +339,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "",
-    "Create with Goby": "",
+    "Create with Wallet": "",
     "Paste Offer": "",
     "Bulk Upload": "",
     "API": "",

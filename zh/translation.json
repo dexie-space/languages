@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "搜索Tokens、NFT 或输入地址",
+    "You Request": "请求",
     "You Offer": "提供",
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "你的 NFT",
-    "You Request": "请求",
     "Assets": "资产",
     "Contributors": "投稿人",
     "Dark Mode": "暗黑模式",
@@ -61,7 +61,8 @@
     "All Markets": "所有市场",
     "Date": "日期",
     "Actions": "动作",
-    "Hide": "隐藏"
+    "Hide": "隐藏",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -121,6 +122,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -129,6 +131,7 @@
   "Connect Wallet": "链接钱包",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "市场",
     "NFT": "NFT",
     "Trade": "交易",
@@ -150,8 +153,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "请等待",
-    "Create Offer with Goby": "用Goby生成Offer"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "公共 API",
@@ -313,7 +318,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "上传Offer文件",
-    "Create with Goby": "用Goby钱包生成",
+    "Create with Wallet": "",
     "Paste Offer": "粘贴Offer文件",
     "Bulk Upload": "批量上传",
     "API": "",

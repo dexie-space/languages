@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "CLIPPED",
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
+    "You Request": "You Request",
     "You Offer": "You Offer",
     "Tokens (CATs)": "Tokens (CATs)",
     "Your NFTs": "Your NFTs",
-    "You Request": "You Request",
     "Assets": "Assets",
     "Contributors": "Contributors",
     "Dark Mode": "Dark",
@@ -62,7 +62,8 @@
     "All Markets": "All Markets",
     "Date": "Date",
     "Actions": "Actions",
-    "Hide": "Hide"
+    "Hide": "Hide",
+    "Cancel Offer": "Cancel Offer"
   },
   "inspect": {
     "Completed before collection date": "Completed before collection date",
@@ -124,6 +125,7 @@
     "Unknown": "Unknown"
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "Confirm Offer Creation",
     "Confirm Transaction": "Confirm Transaction",
     "You Pay": "You Pay",
     "You Receive": "You Receive",
@@ -132,6 +134,7 @@
   "Connect Wallet": "Connect Wallet",
   "header": {
     "Connect Wallet": "Connect Wallet",
+    "Create Offer is not supported with {{walletName}}": "Create Offer is not supported with {{walletName}}",
     "Markets": "Markets",
     "NFT": "NFT",
     "Trade": "Trade",
@@ -153,8 +156,10 @@
     "Disconnect": "Disconnect"
   },
   "createOffer": {
+    "Request Available Assets": "Request Available Assets",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "Only assets in your wallet are available for trading, go to Assets to add more.",
     "Please wait": "Please wait...",
-    "Create Offer with Goby": "Create Offer with Goby"
+    "Create Offer with {{walletName}}": "Create Offer with {{walletName}}"
   },
   "footer": {
     "Public API": "Public API",
@@ -320,7 +325,7 @@
     "Offer creator address does not exist in connected wallet": "Offer creator address does not exist in connected wallet.",
     "Rewards": "Rewards",
     "Upload Offer Files": "Upload Offer Files",
-    "Create with Goby": "Create with Goby",
+    "Create with Wallet": "Create with Wallet",
     "Paste Offer": "Paste Offer",
     "Bulk Upload": "Bulk Upload",
     "API": "API",

@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "",
     "Search Tokens, NFTs or enter Address": "Rechercher des jetons, NFTs ou entrer une Adresse",
+    "You Request": "Vous Demandez",
     "You Offer": "Votre Offre",
     "Tokens (CATs)": "Jetons (CATs)",
     "Your NFTs": "Vos NFTs",
-    "You Request": "Vous Demandez",
     "Assets": "Actifs",
     "Contributors": "Contributeurs",
     "Dark Mode": "Mode Sombre",
@@ -63,7 +63,8 @@
     "All Markets": "Tous les Marchés",
     "Date": "Date",
     "Actions": "Actions",
-    "Hide": "Cacher"
+    "Hide": "Cacher",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "",
@@ -127,6 +128,7 @@
     "Unknown": ""
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "",
     "You Pay": "",
     "You Receive": "",
@@ -135,6 +137,7 @@
   "Connect Wallet": "Connecter votre Portefeuille",
   "header": {
     "Connect Wallet": "",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "Marchés",
     "NFT": "NFT",
     "Trade": "Echanger",
@@ -156,8 +159,10 @@
     "Disconnect": ""
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "Veuillez patienter",
-    "Create Offer with Goby": "Créer une Offre dans Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "API Publique",
@@ -327,7 +332,7 @@
     "Offer creator address does not exist in connected wallet": "",
     "Rewards": "",
     "Upload Offer Files": "Charger des Offres",
-    "Create with Goby": "Créer avec Goby",
+    "Create with Wallet": "",
     "Paste Offer": "Copier l'Offre",
     "Bulk Upload": "Multi Chargement",
     "API": "",

@@ -7,10 +7,10 @@
   "common": {
     "CLIPPED": "ЗАКРЫТЫЙ",
     "Search Tokens, NFTs or enter Address": "Ищите токены, НФТ или введите адрес",
+    "You Request": "Ты получишь",
     "You Offer": "Ты предлагаешь",
     "Tokens (CATs)": "Токены (CAT)",
     "Your NFTs": "Твои НФТ",
-    "You Request": "Ты получишь",
     "Assets": "Активы",
     "Contributors": "Авторы",
     "Dark Mode": "Темная",
@@ -64,7 +64,8 @@
     "All Markets": "Весь рынок",
     "Date": "Дата",
     "Actions": "Действия",
-    "Hide": "Скрыть"
+    "Hide": "Скрыть",
+    "Cancel Offer": ""
   },
   "inspect": {
     "Completed before collection date": "Завершено до даты сбора",
@@ -130,6 +131,7 @@
     "Unknown": "Неизвестно"
   },
   "confirmTransactionModal": {
+    "Confirm Offer Creation": "",
     "Confirm Transaction": "Подтвердить транзакцию",
     "You Pay": "Ты платишь",
     "You Receive": "Ты получаешь",
@@ -138,6 +140,7 @@
   "Connect Wallet": "Подключите кошелек",
   "header": {
     "Connect Wallet": "Подключить кошелек",
+    "Create Offer is not supported with {{walletName}}": "",
     "Markets": "Рынок",
     "NFT": "НФТ",
     "Trade": "Торговля",
@@ -159,8 +162,10 @@
     "Disconnect": "Отключить"
   },
   "createOffer": {
+    "Request Available Assets": "",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "",
     "Please wait": "Пожалуйста, подождите",
-    "Create Offer with Goby": "Создать предложение с помощью Goby"
+    "Create Offer with {{walletName}}": ""
   },
   "footer": {
     "Public API": "API",
@@ -334,7 +339,7 @@
     "Offer creator address does not exist in connected wallet": "Адрес создателя предложения не существует в подключенном кошельке",
     "Rewards": "Награды",
     "Upload Offer Files": "Загрузить файлы предложений",
-    "Create with Goby": "Создать предложение с помощью Goby",
+    "Create with Wallet": "",
     "Paste Offer": "Вставить предложение",
     "Bulk Upload": "Массовая загрузка",
     "API": "API",
