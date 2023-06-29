@@ -26,8 +26,8 @@
     "Requested": "درخواست شده",
     "Offered": "پیشنهاد شده",
     "loading": "بارگذاری",
-    "{{count}} more_one": " بیشتر {{count}} ",
-    "{{count}} more_other": " بیشتر {{count}} ",
+    "{{count}} more_one": "بیشتر {{count}} ",
+    "{{count}} more_other": "بیشتر {{count}} ",
     "Inspect": "بررسی",
     "No Results": "بدون نتیجه",
     "Current Price": "قیمت موجود",
@@ -87,9 +87,9 @@
     "Message Address": "آدرس پیام",
     "Escrow Address": "آدرس رزرو",
     "Raw Offer File": "محتوای فایل پیشنهادی",
-    "Cross-Chain": "Cross-Chain",
+    "Cross-Chain": "زنجیره متقابل",
     "Offer not found or not supported": "",
-    "Try raw offers archive": "",
+    "Try raw offers archive": "محتوی آرشیو پیشنهادات را امتحان کنید",
     "Your Offer has been submitted, add it to Your Offers to bookmark it": "پیشنهاد شما تایید شد آن را به پیشنهادات خود اضافه کنید تا لیست شود",
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
@@ -99,7 +99,7 @@
     "Confirmed at Block": "بلوک تایید شده",
     "Number of confirmations": "تعداد تاییدیه ها",
     "attached": "پیوست شده است",
-    "Cancelled Maker Inputs": "ورودی\u200cهای سازنده لغو شد",
+    "Cancelled Maker Inputs": "ورودی های سازنده لغو شد",
     "Maker Inputs": "ورودی های سازنده",
     "Taker Inputs": "ورودی های گیرنده",
     "Offer successfully executed": "پیشنهاد با موفقیت اجرا شد",
@@ -137,7 +137,7 @@
     "Trade": "معامله",
     "Recent Trades": "معاملات انجام شده",
     "FAQ": "پاسخ به سوالات",
-    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت\u200cهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
+    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت‌های مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Your Offers": "پیشنهادهای شما"
   },
   "connectModal": {
@@ -208,7 +208,7 @@
     "You Receive": "دریافتی شما",
     "offersCount_one": "<0>{{formattedCount}}</0> پیشنهاد",
     "offersCount_other": "<0>{{formattedCount}}</0> پیشنهادات",
-    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمی\u200cشود",
+    "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمیشود",
     "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد تداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
     "Last": "آخرین قیمت",
     "Best Price": "بهترین قیمت",
@@ -249,7 +249,7 @@
     "expired": "منقضی شد"
   },
   "toast": {
-    "gobyError4001": " لطفاً ابتدا نصب برنامه گوبی  را کامل کنید",
+    "gobyError4001": "لطفاً ابتدا نصب برنامه گوبی  را کامل کنید",
     "gobyError4900": "برنامه گوبی متصل نیست",
     "Request rejected": "درخواست رد شد",
     "Offer rejected": "پیشنهاد رد شد",
@@ -261,7 +261,7 @@
     "Address not found in {{walletName}}": "{{walletName}}آدرس پیدا نشد در",
     "Message signed": "پیام امضا شد"
   },
-  "This feature is not supported by {{wallet}}": " {{wallet}}این ویژگی پشتیبانی نمیشود با",
+  "This feature is not supported by {{wallet}}": "{{wallet}}این ویژگی پشتیبانی نمیشود با",
   "signAddress": {
     "No key for this address": "کلیدی برای این آدرس وجود ندارد",
     "Invalid address": "آدرس نامعتبر"
@@ -311,10 +311,10 @@
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
     "Add or Query TAILs": "توکن ها را اضافه یا پیدا کنید",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق\u200cالعاده\u200cاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق العادهاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
   },
   "uploadOffer": {
-    "offerFileSuccessfullyIndexed": " فایل پیشنهادی با موفقیت فهرست شد",
+    "offerFileSuccessfullyIndexed": "فایل پیشنهادی با موفقیت فهرست شد",
     "Submit Offer": "ارائه پیشنهاد",
     "Paste from Clipboard": "چسباندن از داخل حافظه",
     "Offer creator address does not exist in connected wallet": "آدرس ایجاد کننده پیشنهاد در کیف پول متصل وجود ندارد",
@@ -329,12 +329,12 @@
     "Raw Offer here": "محتوای پیشنهاد اینجا است",
     "No Offer entered": "هیچ پیشنهادی وارد نشده",
     "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "پیشنهادات متعدد را در یک فایل فشرده بارگذاری کنید تا دکسی آنها را بترتیب بدون تناقض با هم در شبکه منتشر میکند",
-    "Successfully queued {{count}} offers for submission_one": " با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
-    "Successfully queued {{count}} offers for submission_other": " با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
+    "Successfully queued {{count}} offers for submission_one": "با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
+    "Successfully queued {{count}} offers for submission_other": "با موفقیت در صف قرار گرفت{{count}} پیشنهاد برای ارسال",
     "Select and Upload ZIP file": "انتخاب وبارگذاری فایل فشرده",
     "Offers from Bulk Upload won't show up in Your Added Offers": "پیشنهادهای آپلود انبوه در پیشنهادات اضافه شده شما نشان داده نمی شود",
     "See the API documentation for more information and examples": "برای اطلاعات بیشتر و مثال ها به مثال های رابط برنامه نویسی نرم افزار مراجعه کنید",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "پیشنهاداتی که اضافه می\u200cکنید در مرورگر شما ذخیره می\u200cشوند، قبل از پاک کردن فضای ذخیره\u200cسازی مرورگر یک نسخه پشتیبان تهیه کنید",
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "پیشنهاداتی که اضافه میکنید در مرورگر شما ذخیره میشوند، قبل از پاک کردن فضای ذخیرهسازی مرورگر یک نسخه پشتیبان تهیه کنید",
     "Backup Your Offers": "پشتیبان گرفتن از پیشنهادات خود",
     "Restore Your Offers": "بازگردادن پیشنهادات خود",
     "Duplicate offers will be merged": "پیشنهادات تکراری ادغام خواهند شد",
@@ -349,7 +349,7 @@
   },
   "faq": {
     "question1": "دکسی چیست؟",
-    "answer1": "<p class='my-4'>دکسی  یک رابط  مرورگر  برای معاملات چیا است.  پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین ارز چیا فراهم میکند </p><p class='my-4'>دکسی سکه\u200cها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آن\u200cها باقی می\u200cمانند تا زمانی که یک پیشنهاد پذیرفته شود،</p><p class='my-4'>  پس از آن  دارایی\u200cها به طور امن بین سازنده و کسی که می\u200cخواهد آن\u200cها را در یک تراکنش روی بلاک چین بپذیرد، بشکل رابط منتقل می\u200cشود. </p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
+    "answer1": "<p class='my-4'>دکسی  یک رابط  مرورگر  برای معاملات چیا است.  پیشنهادات امکان تبادل امن دارایی ها را بدون واسطه در بلاک چین ارز چیا فراهم میکند </p><p class='my-4'>دکسی سکه ها را ذخیره نمیکند، آنها همیشه در کیف پول سازنده آنها باقی میمانند تا زمانی که یک پیشنهاد پذیرفته شود،</p><p class='my-4'>  پس از آن  داراییها به طور امن بین سازنده و کسی که میخواهد آنها را در یک تراکنش روی بلاک چین بپذیرد، بشکل رابط منتقل میشود. </p><p class='my-4'> درباره فایل های پیشنهادی در وب سایت رسمی بیشتر بیاموزید <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "برای سوالات بیشتر و یا نیاز به پشتیبانی چه کنم؟",
     "answer2": "<p class='my-5'>بصورت تمام وقت<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>تماس با ما توسط توییتر در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a> با بازدید ما در, برای کمک و همیاری همواره در خدمت هستیم</p>"
   },
@@ -375,7 +375,7 @@
     "The highest price someone is bidding for an NFT": "بالاترین قیمتی که کسی برای ان اف تی پیشنهاد داده است",
     "Highest Bid": "بالاترین پیشنهاد",
     "Floor 24h": "در طی 24 ساعت",
-    "Toggle collections with suspicious trading activity": "مجموعه\u200cهای دارای فعالیت تجاری مشکوک را تغییر دهید",
+    "Toggle collections with suspicious trading activity": "مجموعه های دارای فعالیت تجاری مشکوک را تغییر دهید",
     "no {{xch}} offers": "پیشنهادی {{xch}} هیچ"
   },
   "notFound": {
