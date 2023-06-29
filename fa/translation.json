@@ -403,7 +403,7 @@
   "report": {
     "Report Content": "گزارش محتوا",
     "Use this form to report NFTs or Tokens for rule violations": "از این فرم برای گزارش ان اف تی ها یا توکنها برای نقض قوانین استفاده کنید",
-    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "هر گزارش به یک درخواست قفل عمومی در لیست بلاک انجمن تبدیل می شود که در آنجا بررسی میگردد",
+    "Every report becomes a public pull request in the Community Blocklist repository, where it will be reviewed by a maintainer": "هر گزارش در <a class='text-nice underline' href='https://github.com/dexie-space/blocklist' target='_blank' rel='noopener'> به یک درخواست قفل عمومی در لیست بلاک انجمن تبدیل میشود<a class='text-nice' /a> که در آنجا بررسی میگردد",
     "NFT": "ان اف تی",
     "CAT reporting is not available right now": "گزارش توکن در حال حاضر در دسترس نیست",
     "Token (CAT)": "توکن (CAT)",
