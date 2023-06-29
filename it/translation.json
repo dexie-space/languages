@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "Offerte ripristinate con successo",
-    "Invalid offer": "Offerta non valida",
     "Offer successfully indexed": "Offerta indicizzata correttamente",
     "Error uploading offer": "Errore nel caricamento dell'offerta"
   },
@@ -142,7 +141,6 @@
     "Recent Trades": "Vendite Recenti",
     "FAQ": "FAQ",
     "bannerMessageLiquidityRewards": "Ora con <b>Liquidity Rewards</b>! Ottieni <b>dexie bucks</b> utilizzando le offerte fuse automaticamente",
-    "Get USDS": "Ottieni USDS",
     "Your Offers": "Le tue offerte"
   },
   "connectModal": {

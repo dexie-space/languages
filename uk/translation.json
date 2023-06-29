@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "Пропозиції успішно відновлено",
-    "Invalid offer": "Недійсна пропозиція",
     "Offer successfully indexed": "Пропозицію успішно проіндексовано",
     "Error uploading offer": "Помилка завантаження пропозиції"
   },
@@ -145,7 +144,6 @@
     "Recent Trades": "Останні торги",
     "FAQ": "ЧаПи",
     "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність</b>! Отримуй <b>dexie бакси</b>, додаючи пропозиції для стимульованих пар.",
-    "Get USDS": "Отримай USDS",
     "Your Offers": "Твої пропозиції"
   },
   "connectModal": {

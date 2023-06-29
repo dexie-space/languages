@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "",
-    "Invalid offer": "",
     "Offer successfully indexed": "",
     "Error uploading offer": ""
   },
@@ -136,7 +135,6 @@
     "Recent Trades": "近期交易",
     "FAQ": "常见问题",
     "bannerMessageLiquidityRewards": "",
-    "Get USDS": "获取 USDS",
     "Your Offers": ""
   },
   "connectModal": {

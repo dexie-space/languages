@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "",
-    "Invalid offer": "",
     "Offer successfully indexed": "",
     "Error uploading offer": ""
   },
@@ -145,7 +144,6 @@
     "Recent Trades": "Ostatnie transakcje",
     "FAQ": "FAQ",
     "bannerMessageLiquidityRewards": "Wprowadziliśmy <b>nagrody za dostarczanie płynności</b>! Zdobywaj <b>dexie bucks</b> w zamian za dodawanie ofert w premiowanych parach.",
-    "Get USDS": "Kup USDS",
     "Your Offers": "Twoje oferty"
   },
   "connectModal": {

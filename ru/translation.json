@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "Предложения успешно восстановлены",
-    "Invalid offer": "Недействительное предложение",
     "Offer successfully indexed": "Предложение успешно проиндексировано",
     "Error uploading offer": "Ошибка при загрузке предложения"
   },
@@ -145,7 +144,6 @@
     "Recent Trades": "Последние торги",
     "FAQ": "ЧАВО",
     "bannerMessageLiquidityRewards": "Теперь с <b>вознаграждениями за ликвидность</b>! Зарабатывайте <b>декси-баксы</b>, добавляя предложения для поощрительных пар.",
-    "Get USDS": "Получить USDS",
     "Your Offers": "Твои предложения"
   },
   "connectModal": {

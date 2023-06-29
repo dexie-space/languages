@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "Ofertas restauradas con éxito",
-    "Invalid offer": "Oferta inválida",
     "Offer successfully indexed": "Oferta indexada con éxito",
     "Error uploading offer": "Error al cargar oferta"
   },
@@ -142,7 +141,6 @@
     "Recent Trades": "Operaciones recientes",
     "FAQ": "FAQ",
     "bannerMessageLiquidityRewards": "¡Presentamos <b>Recompensas de Liquidez</b>!  Gane <b>dexie bucks</b> agregando ofertas para pares comerciales incentivados.",
-    "Get USDS": "Obtenga USDS",
     "Your Offers": "Tus ofertas"
   },
   "connectModal": {

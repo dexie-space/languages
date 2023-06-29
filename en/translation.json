@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "Offers successfully restored",
-    "Invalid offer": "Invalid offer",
     "Offer successfully indexed": "Offer successfully indexed",
     "Error uploading offer": "Error uploading offer"
   },
@@ -139,7 +138,6 @@
     "Recent Trades": "Recent Trades",
     "FAQ": "FAQ",
     "bannerMessageLiquidityRewards": "Now with <b>Liquidity Rewards</b>! Farm <b>dexie bucks</b> by adding offers for incentivized pairs.",
-    "Get USDS": "Get USDS",
     "Your Offers": "Your Offers"
   },
   "connectModal": {

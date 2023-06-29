@@ -1,7 +1,6 @@
 {
   "App": {
     "Offers successfully restored": "",
-    "Invalid offer": "",
     "Offer successfully indexed": "",
     "Error uploading offer": ""
   },
@@ -142,7 +141,6 @@
     "Recent Trades": "Transactions récentes",
     "FAQ": "FAQ",
     "bannerMessageLiquidityRewards": "",
-    "Get USDS": "Obtenez des USDS",
     "Your Offers": ""
   },
   "connectModal": {
