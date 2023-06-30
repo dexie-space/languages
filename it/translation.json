@@ -64,7 +64,7 @@
     "Date": "Data",
     "Actions": "Azioni",
     "Hide": "Nascondi",
-    "Cancel Offer": ""
+    "Cancel Offer": "Cancella Offerta"
   },
   "inspect": {
     "Completed before collection date": "Completata prima della data di pubblicazione",
@@ -128,7 +128,7 @@
     "Unknown": "Sconosciuto"
   },
   "confirmTransactionModal": {
-    "Confirm Offer Creation": "",
+    "Confirm Offer Creation": "Conferma la creazione dell'offerta",
     "Confirm Transaction": "Conferma la transazione",
     "You Pay": "Paghi",
     "You Receive": "Ricevi",
@@ -137,7 +137,7 @@
   "Connect Wallet": "Connetti il tuo wallet",
   "header": {
     "Connect Wallet": "Connetti il Portafogli",
-    "Create Offer is not supported with {{walletName}}": "",
+    "Create Offer is not supported with {{walletName}}": "La creazione di offerte non è supportata con {{walletName}}",
     "Markets": "Mercati",
     "NFT": "NFT",
     "Trade": "Compravendite",
@@ -159,10 +159,10 @@
     "Disconnect": "Disconnetti"
   },
   "createOffer": {
-    "Request Available Assets": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
+    "Request Available Assets": "Richiedi Asset Disponibili",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "Solo gli asset nel tuo portafogli sono disponibili al trading, vai in asset e aggiungine altri",
     "Please wait": "Cortesemente attendi...",
-    "Create Offer with {{walletName}}": ""
+    "Create Offer with {{walletName}}": "Crea offerta con {{walletName}}"
   },
   "footer": {
     "Public API": "Public API",
@@ -332,7 +332,7 @@
     "Offer creator address does not exist in connected wallet": "L'indirizzo del creatore dell'offerta non esiste nel portafoglio connesso",
     "Rewards": "Ricompense",
     "Upload Offer Files": "Carica file di offerta",
-    "Create with Wallet": "",
+    "Create with Wallet": "Crea con il portafogli",
     "Paste Offer": "Incolla offerta",
     "Bulk Upload": "Caricamento Massivo",
     "API": "API",
