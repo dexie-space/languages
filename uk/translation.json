@@ -65,7 +65,7 @@
     "Date": "Дата",
     "Actions": "Дії",
     "Hide": "Сховати",
-    "Cancel Offer": ""
+    "Cancel Offer": "Скасувати пропозицію"
   },
   "inspect": {
     "Completed before collection date": "Завершено до дата отримання",
@@ -131,7 +131,7 @@
     "Unknown": "Невідомо"
   },
   "confirmTransactionModal": {
-    "Confirm Offer Creation": "",
+    "Confirm Offer Creation": "Підтвердити створення пропозиції",
     "Confirm Transaction": "Підтвердити транзакцію",
     "You Pay": "Ти платиш",
     "You Receive": "Ти отримаєш",
@@ -140,7 +140,7 @@
   "Connect Wallet": "Підключи гаманець",
   "header": {
     "Connect Wallet": "Підключити гаманець",
-    "Create Offer is not supported with {{walletName}}": "",
+    "Create Offer is not supported with {{walletName}}": "{{walletName}} не підтримує створення пропозиції",
     "Markets": "Ринок",
     "NFT": "НФТ",
     "Trade": "Торгівля",
@@ -162,10 +162,10 @@
     "Disconnect": "Відключити"
   },
   "createOffer": {
-    "Request Available Assets": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
+    "Request Available Assets": "Запит на доступні активи",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "Для торгівлі доступні лише активи у вашому гаманці. Щоб додати більше, перейдіть до активів",
     "Please wait": "Будь ласка, зачекайте",
-    "Create Offer with {{walletName}}": ""
+    "Create Offer with {{walletName}}": "Створити пропозицію за допомогою {{walletName}}"
   },
   "footer": {
     "Public API": "API",
@@ -339,7 +339,7 @@
     "Offer creator address does not exist in connected wallet": "Адреси творця пропозиції не існує в підключеному гаманці",
     "Rewards": "Нагороди",
     "Upload Offer Files": "Завантажити файли пропозицій",
-    "Create with Wallet": "",
+    "Create with Wallet": "Створити за допомогою гаманця",
     "Paste Offer": "Вставити пропозицію",
     "Bulk Upload": "Масове завантаження",
     "API": "API",
