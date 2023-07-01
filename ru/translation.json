@@ -65,7 +65,7 @@
     "Date": "Дата",
     "Actions": "Действия",
     "Hide": "Скрыть",
-    "Cancel Offer": ""
+    "Cancel Offer": "Отменить предложение"
   },
   "inspect": {
     "Completed before collection date": "Завершено до даты сбора",
@@ -131,7 +131,7 @@
     "Unknown": "Неизвестно"
   },
   "confirmTransactionModal": {
-    "Confirm Offer Creation": "",
+    "Confirm Offer Creation": "Подтвердить создание предложения",
     "Confirm Transaction": "Подтвердить транзакцию",
     "You Pay": "Ты платишь",
     "You Receive": "Ты получаешь",
@@ -140,7 +140,7 @@
   "Connect Wallet": "Подключите кошелек",
   "header": {
     "Connect Wallet": "Подключить кошелек",
-    "Create Offer is not supported with {{walletName}}": "",
+    "Create Offer is not supported with {{walletName}}": "Создание предложение не поддерживается {{walletName}}.",
     "Markets": "Рынок",
     "NFT": "НФТ",
     "Trade": "Торговля",
@@ -162,10 +162,10 @@
     "Disconnect": "Отключить"
   },
   "createOffer": {
-    "Request Available Assets": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
+    "Request Available Assets": "Запросить доступные активы",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "Для торговли доступны только активы в вашем кошельке, перейдите в активы, чтобы добавить больше",
     "Please wait": "Пожалуйста, подождите",
-    "Create Offer with {{walletName}}": ""
+    "Create Offer with {{walletName}}": "Создать предложение с помощью {{walletName}}"
   },
   "footer": {
     "Public API": "API",
@@ -339,7 +339,7 @@
     "Offer creator address does not exist in connected wallet": "Адрес создателя предложения не существует в подключенном кошельке",
     "Rewards": "Награды",
     "Upload Offer Files": "Загрузить файлы предложений",
-    "Create with Wallet": "",
+    "Create with Wallet": "Создать с помощью кошелька",
     "Paste Offer": "Вставить предложение",
     "Bulk Upload": "Массовая загрузка",
     "API": "API",
