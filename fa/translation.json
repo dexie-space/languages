@@ -63,7 +63,7 @@
     "Date": "تاریخ",
     "Actions": "اقدامات",
     "Hide": "پنهان",
-    "Cancel Offer": ""
+    "Cancel Offer": "لغو پیشنهاد"
   },
   "inspect": {
     "Completed before collection date": "قبل از تاریخ جمع آوری تکمیل شده است",
@@ -95,7 +95,7 @@
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
     "Remove from Your Offers": "از پیشنهادات خود حذف کنید",
-    "Taken by {{taker}}": "گرفته شده توسط {{taker}}",
+    "Taken by {{taker}}": "{{taker}}گرفته شده توسط",
     "Trade ID": "شناسه معامله",
     "Confirmed at Block": "بلوک تایید شده",
     "Number of confirmations": "تعداد تاییدیه ها",
@@ -134,13 +134,13 @@
   "Connect Wallet": "اتصال کیف پول",
   "header": {
     "Connect Wallet": "اتصال کیف پول",
-    "Create Offer is not supported with {{walletName}}": "",
+    "Create Offer is not supported with {{walletName}}": "پشتیبانی نمیشود{{walletName}} ایجاد پیشنهاد با",
     "Markets": "بازارها",
     "NFT": "ان اف تی",
     "Trade": "معامله",
     "Recent Trades": "معاملات انجام شده",
     "FAQ": "پاسخ به سوالات",
-    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفت\u200cهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
+    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفتهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Your Offers": "پیشنهادهای شما"
   },
   "connectModal": {
@@ -156,15 +156,15 @@
     "Disconnect": "قطع شدن"
   },
   "createOffer": {
-    "Request Available Assets": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
+    "Request Available Assets": "درخواست دارایی های موجود",
+    "Only assets in your wallet are available for trading, go to Assets to add more": "فقط دارایی های موجود در کیف پول شما برای معامله در دسترس است، برای افزودن بیشتر به بخش دارایی ها بروید",
     "Please wait": "لطفا صبر کنید",
-    "Create Offer with {{walletName}}": ""
+    "Create Offer with {{walletName}}": "{{walletName}} ایجاد پیشنهاد با"
   },
   "footer": {
     "Public API": "رابط عمومی برنامه نویسی نرم افزار",
     "Help translate": "همکاری برای ترجمه",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "از بلوک ها به طور کامل استفاده می شود، کارمزد تراکنش توصیه شده{{fee}} {{xch}}",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "{{fee}} {{xch}}از بلاک ها به طور کامل استفاده میشود، کارمزد تراکنش توصیه شده",
     "Status": "وضعیت",
     "synced": "سینک شده",
     "disconnected": "قطع شده",
@@ -183,7 +183,7 @@
     "Blocked": "مسدود",
     "Anyone can create an NFT collection, make sure the creator is authentic": "هر کسی میتواند یک مجموعه ان اف تی ایجاد کند، مطمئن شوید که سازنده معتبر است",
     "Unknown Creator": "خالق ناشناس",
-    "Creator DID claimed by {{name}} on {{via}}": "{{via}} روی{{name}} مطالبه سازنده دید با",
+    "Creator DID claimed by {{name}} on {{via}}": "{{via}} روی{{name}} مطالبه سازنده شناسه غیرمتمرکز با",
     "{{platform}} verified": "{{platform}} تایید شده",
     "{{platform}} unverified": "{{platform}} تایید نشده",
     "NFT Address": "آدرس ان اف تی",
@@ -311,7 +311,7 @@
     "Advisor/Strategy": "مشاور/ استراتژی",
     "Data Cruncher": "آنالیز داده ها",
     "Translator": "مترجم",
-    "DBX Holders": " DBX دارندگان ",
+    "DBX Holders": " DBX دارندگان",
     "The Community": "انجمن",
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
@@ -346,7 +346,7 @@
     "Your Added Offers": "پیشنهادات اضافه شده شما",
     "Your added offers appear here": "پیشنهادات اضافه شده شما در اینجا ظاهر می شود",
     "No matching offers": "هیچ پیشنهاد مشابه ای وجود ندارد",
-    "Offers close to the market price can receive rewards (click for more)": "پیشنهادات نزدیک به قیمت بازار می توانند پاداش دریافت کنند (click for more)",
+    "Offers close to the market price can receive rewards (click for more)": "پیشنهادات نزدیک به قیمت بازار می توانند پاداش دریافت کنند (کلیک برای اطلاعات بیشتر)",
     "Liquidity Rewards": "پاداش نقدینگی",
     "Reward Claimed": "پاداش مطالبه شده",
     "Claim": "مطالبه",
@@ -428,9 +428,9 @@
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلوک هستند",
     "mempoolSize": "حافطه استخر تراکنش",
     "no filters selected": "هیچ فیلتری انتخاب نشده است",
-    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (wash trading, spam)",
+    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
     "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (higher fee = higher priority)",
-    "Low Transaction Fee (low priority) {{fee}}": "کمترین کارمزد تراکنش (low priority): {{fee}}",
+    "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
     "Low Fee": "کارمزد کم",
     "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   }
