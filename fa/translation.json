@@ -125,7 +125,7 @@
     "Unknown": "ناشناخته"
   },
   "confirmTransactionModal": {
-    "Confirm Offer Creation": "",
+    "Confirm Offer Creation": "ایجاد پیشنهاد را تأیید کنید",
     "Confirm Transaction": "تایید تراکنش",
     "You Pay": "پرداختی شما",
     "You Receive": "دریافتی شما",
@@ -325,7 +325,7 @@
     "Offer creator address does not exist in connected wallet": "آدرس ایجاد کننده پیشنهاد در کیف پول متصل وجود ندارد",
     "Rewards": "پاداشها",
     "Upload Offer Files": "بارگذاری فایلهای پیشنهادی",
-    "Create with Wallet": "",
+    "Create with Wallet": "با کیف پول ایجاد کنید",
     "Paste Offer": "چسباندن پیشنهاد",
     "Bulk Upload": "بارگذاری گروهی",
     "API": "رابط برنامه نویسی نرم افزار",
