@@ -239,8 +239,8 @@
     "Log": "الگریتمی",
     "activeOffers": "پیشنهادهای فعال",
     "lastPrice": "آخرین قیمت",
-    "Collapse": "ریزش",
-    "Expand": "گسترش",
+    "Collapse": "کوچکتر",
+    "Expand": "بازتر",
     "No data for this chart": "هیچ اطلاعاتی برای این نمودار وجود ندارد",
     "Still collecting data for this chart": "در حال جمع آوری اطلاعات برای این نمودار"
   },
