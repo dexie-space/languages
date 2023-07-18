@@ -406,7 +406,7 @@
     "Buy": "يشتري",
     "Sell": "باع",
     "no liquidity": "لا سيولة",
-    "Learn more about our NFT Verification Labels": "تعرف على المزيد حول ملصقات التحقق من NFT الخاصة بنا",
+    "All traded NFT collections, ranked by {{ranked}}": "",
     "Collection": "مجموعة",
     "The current lowest price of an NFT": "أدنى سعر حالي لـ NFT",
     "Buy Price (Floor)": "سعر الشراء (الطابق)",
