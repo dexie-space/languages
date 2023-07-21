@@ -356,7 +356,7 @@
     "No matching offers": "Offerte senza corrispondenza",
     "Offers close to the market price can receive rewards (click for more)": "Le offerte vicine al prezzo di mercato possono ricevere premi (fare clic per ulteriori informazioni)",
     "Liquidity Rewards": "Liquidity Rewards",
-    "Upload failed, no data": "",
+    "Upload failed, no data": "Caricamento fallito, nessun dato",
     "Reward Claimed": "Ricompense rivendicate",
     "Claim": "Ottieni",
     "Eligible": "Idonea"
@@ -382,7 +382,7 @@
     "Buy": "Compra",
     "Sell": "Vendi",
     "no liquidity": "Nessuna liquidità",
-    "All traded NFT collections, ranked by {{ranked}}": "",
+    "All traded NFT collections, ranked by {{ranked}}": "Tutte le collezioni NFT in vendita, ordinate per {{ranked}}",
     "Collection": "Collezione",
     "The current lowest price of an NFT": "Prezzo corrente più basso di un NFT",
     "Buy Price (Floor)": "Prezzo di acquisto",
