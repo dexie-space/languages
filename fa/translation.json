@@ -95,6 +95,8 @@
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "Go to Trade": "رفتن به بازار",
     "Remove from Your Offers": "از پیشنهادات خود حذف کنید",
+    "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
+    "Legacy": "",
     "Taken by {{taker}}": "{{taker}}گرفته شده توسط",
     "Trade ID": "شناسه معامله",
     "Confirmed at Block": "بلاک تایید شده",

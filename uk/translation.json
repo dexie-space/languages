@@ -99,6 +99,8 @@
     "Add to Your Offers": "Додати свої пропозиції",
     "Go to Trade": "Перейдіть до Торгівлі",
     "Remove from Your Offers": "Видалити зі своїх пропозицій",
+    "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
+    "Legacy": "",
     "Taken by {{taker}}": "Знято {{taker}}",
     "Trade ID": "Торговий ідентифікатор",
     "Confirmed at Block": "Підтверджено в блоку",

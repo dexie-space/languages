@@ -95,6 +95,8 @@
     "Add to Your Offers": "Zu deinen Angeboten hinzufügen",
     "Go to Trade": "Zum Handel gehen",
     "Remove from Your Offers": "",
+    "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
+    "Legacy": "",
     "Taken by {{taker}}": "",
     "Trade ID": "",
     "Confirmed at Block": "Bestätigt in Block",

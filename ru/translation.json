@@ -99,6 +99,8 @@
     "Add to Your Offers": "Добавить свои предложения",
     "Go to Trade": "Перейти к торговле",
     "Remove from Your Offers": "Удалить из ваших предложений",
+    "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
+    "Legacy": "",
     "Taken by {{taker}}": "Снято {{taker}}",
     "Trade ID": "Торговый идентификатор",
     "Confirmed at Block": "Подтверждено в блоке",
