@@ -288,8 +288,8 @@
   },
   "Assets": {
     "Powered by Tail Database": "На основі бази даних Tail Database",
-    "Search muted assets": "",
-    "Search assets": "",
+    "Search muted assets": "Пошук вимкнених активів",
+    "Search assets": "Пошук активів",
     "Show All": "Покажи всі",
     "Show Muted": "Показати вимкнені",
     "No Muted Assets": "Немає вимкнених активів",
