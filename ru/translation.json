@@ -288,8 +288,8 @@
   },
   "Assets": {
     "Powered by Tail Database": "Работает на Tail Database",
-    "Search muted assets": "",
-    "Search assets": "",
+    "Search muted assets": "Поиск скрытых активов",
+    "Search assets": "Поиск активов",
     "Show All": "Показать все",
     "Show Muted": "Показать приглушенные",
     "No Muted Assets": "Нет скрытых активов",
