@@ -31,6 +31,8 @@
     "No Results": "No Results",
     "Current Price": "Current Price",
     "New": "New",
+    "Everything": "Everything",
+    "NFT Collections": "NFT Collections",
     "Add to Wallet": "Add to Wallet",
     "Trade": "Trade",
     "Description": "Description",
@@ -58,8 +60,6 @@
     "Any NFT": "Any NFT",
     "NFT Collection": "NFT Collection",
     "Classic Chart": "Classic Chart",
-    "Everything": "Everything",
-    "NFT Collections": "NFT Collections",
     "Select Reason": "Select Reason",
     "Date": "Date",
     "Actions": "Actions",
@@ -275,11 +275,9 @@
     "Invalid address": "Invalid address"
   },
   "Assets": {
-    "Powered by Tail Database": "Powered by Tail Database",
-    "Search muted assets": "Search muted assets",
+    "Muted Assets": "Muted Assets",
     "Search assets": "Search assets",
-    "Show All": "Show All",
-    "Show Muted": "Show Muted",
+    "Tokens sourced from TailDB": "Tokens sourced from TailDB",
     "No Muted Assets": "No Muted Assets",
     "Asset Not Found": "Asset Not Found",
     "Mute assets to prevent them from showing up for you": "Mute assets to prevent them from showing up for you.",
@@ -288,7 +286,13 @@
     "Code": "Code",
     "Asset ID": "Asset ID",
     "Current Average Price": "Current Average Price",
-    "{{code}} Liquidity": "{{code}} Liquidity"
+    "{{code}} Liquidity": "{{code}} Liquidity",
+    "Creator": "Creator",
+    "Collection ID": "Collection ID",
+    "Number of Items": "Number of Items",
+    "Floor Price": "Floor Price",
+    "Offered NFTs": "Offered NFTs",
+    "Mute {{asset}}": "Mute {{asset}}"
   },
   "claimHistory": {
     "Recent Reward Claims": "Recent Reward Claims",

@@ -32,6 +32,8 @@
     "No Results": "Sin resultados",
     "Current Price": "Precio actual",
     "New": "Nuevo",
+    "Everything": "Todo",
+    "NFT Collections": "Colecciones NFT",
     "Add to Wallet": "Agregar a la billetera",
     "Trade": "Operación",
     "Description": "Descripción",
@@ -59,8 +61,6 @@
     "Any NFT": "",
     "NFT Collection": "Colección NFT",
     "Classic Chart": "Gráfica clásica",
-    "Everything": "Todo",
-    "NFT Collections": "Colecciones NFT",
     "Select Reason": "Seleccionar motivo",
     "Date": "Fecha",
     "Actions": "Acciones",
@@ -281,11 +281,9 @@
     "Invalid address": "Dirección inválida"
   },
   "Assets": {
-    "Powered by Tail Database": "Alimentado por Tail Database",
-    "Search muted assets": "",
+    "Muted Assets": "",
     "Search assets": "",
-    "Show All": "Mostrar todo",
-    "Show Muted": "Mostrar silenciado",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "Sin activos silenciados",
     "Asset Not Found": "Activo no encontrado",
     "Mute assets to prevent them from showing up for you": "Silenciar activos para evitar que se muestren para usted",
@@ -294,7 +292,13 @@
     "Code": "Código",
     "Asset ID": "ID del Activo",
     "Current Average Price": "Precio promedio actual",
-    "{{code}} Liquidity": "{{code}} Liquidez"
+    "{{code}} Liquidity": "{{code}} Liquidez",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "Reclamaciones de recompensas recientes",

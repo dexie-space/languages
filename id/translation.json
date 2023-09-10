@@ -30,6 +30,8 @@
     "No Results": "Tidak ada hasil",
     "Current Price": "Harga sekarang",
     "New": "",
+    "Everything": "Semuanya",
+    "NFT Collections": "Koleksi NFT",
     "Add to Wallet": "",
     "Trade": "Berdagang",
     "Description": "Keterangan",
@@ -57,8 +59,6 @@
     "Any NFT": "",
     "NFT Collection": "Koleksi NFT",
     "Classic Chart": "",
-    "Everything": "Semuanya",
-    "NFT Collections": "Koleksi NFT",
     "Select Reason": "Pilih Alasan",
     "Date": "Tanggal",
     "Actions": "Tindakan",
@@ -269,11 +269,9 @@
     "Invalid address": ""
   },
   "Assets": {
-    "Powered by Tail Database": "",
-    "Search muted assets": "",
+    "Muted Assets": "",
     "Search assets": "",
-    "Show All": "",
-    "Show Muted": "",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "",
     "Asset Not Found": "",
     "Mute assets to prevent them from showing up for you": "",
@@ -282,7 +280,13 @@
     "Code": "Kode",
     "Asset ID": "ID Aset",
     "Current Average Price": "",
-    "{{code}} Liquidity": "{{code}} Likuiditas"
+    "{{code}} Liquidity": "{{code}} Likuiditas",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "",

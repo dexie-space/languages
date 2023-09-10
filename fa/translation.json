@@ -31,6 +31,8 @@
     "No Results": "بدون نتیجه",
     "Current Price": "قیمت موجود",
     "New": "جدید",
+    "Everything": "همه چیز",
+    "NFT Collections": "مجموعه های ان اف تی",
     "Add to Wallet": "افزودن به کیف پول",
     "Trade": "معامله",
     "Description": "توضیحات",
@@ -58,8 +60,6 @@
     "Any NFT": "هرگونه ان اف تی",
     "NFT Collection": "مجموعه ان اف تی",
     "Classic Chart": "نمودار معمولی",
-    "Everything": "همه چیز",
-    "NFT Collections": "مجموعه های ان اف تی",
     "Select Reason": "انتخاب دلیل",
     "Date": "تاریخ",
     "Actions": "اقدامات",
@@ -275,11 +275,9 @@
     "Invalid address": "آدرس نامعتبر"
   },
   "Assets": {
-    "Powered by Tail Database": "پشتیبانی شده توسط پایگاه داده تیل",
-    "Search muted assets": "جستجوی دارایی های خاموش",
+    "Muted Assets": "",
     "Search assets": "جستجوی دارایی ها",
-    "Show All": "نمایش همه",
-    "Show Muted": "نمایش خاموش",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "بدون دارایی های خاموش",
     "Asset Not Found": "دارایی یافت نشد",
     "Mute assets to prevent them from showing up for you": "دارایی ها را خاموش کنید تا به شما نشان داده نشود",
@@ -288,7 +286,13 @@
     "Code": "کد",
     "Asset ID": "شناسه دارایی",
     "Current Average Price": "میانگین قیمت فعلی",
-    "{{code}} Liquidity": "{{code}} نقدینگی"
+    "{{code}} Liquidity": "{{code}} نقدینگی",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "مطالبات پاداش اخیر",

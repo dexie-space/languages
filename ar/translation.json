@@ -35,6 +35,8 @@
     "No Results": "لا نتائج",
     "Current Price": "السعر الحالي",
     "New": "",
+    "Everything": "كل شىء",
+    "NFT Collections": "مجموعات NFT",
     "Add to Wallet": "",
     "Trade": "تجارة",
     "Description": "الوصف",
@@ -62,8 +64,6 @@
     "Any NFT": "",
     "NFT Collection": "مجموعة NFT",
     "Classic Chart": "",
-    "Everything": "كل شىء",
-    "NFT Collections": "مجموعات NFT",
     "Select Reason": "اختر سبب",
     "Date": "تاريخ",
     "Actions": "أفعال",
@@ -299,11 +299,9 @@
     "Invalid address": ""
   },
   "Assets": {
-    "Powered by Tail Database": "",
-    "Search muted assets": "",
+    "Muted Assets": "",
     "Search assets": "",
-    "Show All": "",
-    "Show Muted": "",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "",
     "Asset Not Found": "",
     "Mute assets to prevent them from showing up for you": "",
@@ -312,7 +310,13 @@
     "Code": "شفرة",
     "Asset ID": "معرف الأصول",
     "Current Average Price": "",
-    "{{code}} Liquidity": "{{code}} السيولة"
+    "{{code}} Liquidity": "{{code}} السيولة",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "",

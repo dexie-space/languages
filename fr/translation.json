@@ -32,6 +32,8 @@
     "No Results": "Pas de Résultats",
     "Current Price": "Prix Actuel",
     "New": "",
+    "Everything": "Tout",
+    "NFT Collections": "Collections NFT",
     "Add to Wallet": "",
     "Trade": "Echanger",
     "Description": "Description",
@@ -59,8 +61,6 @@
     "Any NFT": "",
     "NFT Collection": "Collection NFT",
     "Classic Chart": "",
-    "Everything": "Tout",
-    "NFT Collections": "Collections NFT",
     "Select Reason": "Choisir le motif",
     "Date": "Date",
     "Actions": "Actions",
@@ -281,11 +281,9 @@
     "Invalid address": ""
   },
   "Assets": {
-    "Powered by Tail Database": "",
-    "Search muted assets": "",
+    "Muted Assets": "",
     "Search assets": "",
-    "Show All": "",
-    "Show Muted": "",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "",
     "Asset Not Found": "",
     "Mute assets to prevent them from showing up for you": "",
@@ -294,7 +292,13 @@
     "Code": "Code",
     "Asset ID": "ID d'actif",
     "Current Average Price": "",
-    "{{code}} Liquidity": "{{code}} Liquidité"
+    "{{code}} Liquidity": "{{code}} Liquidité",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "",

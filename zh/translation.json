@@ -30,6 +30,8 @@
     "No Results": "没有结果",
     "Current Price": "时价",
     "New": "",
+    "Everything": "万事",
+    "NFT Collections": "NFT 集合",
     "Add to Wallet": "",
     "Trade": "交易",
     "Description": "描述",
@@ -57,8 +59,6 @@
     "Any NFT": "",
     "NFT Collection": "NFT 集合",
     "Classic Chart": "",
-    "Everything": "万事",
-    "NFT Collections": "NFT 集合",
     "Select Reason": "选择原因",
     "Date": "日期",
     "Actions": "动作",
@@ -269,11 +269,9 @@
     "Invalid address": ""
   },
   "Assets": {
-    "Powered by Tail Database": "",
-    "Search muted assets": "",
+    "Muted Assets": "",
     "Search assets": "",
-    "Show All": "",
-    "Show Muted": "",
+    "Tokens sourced from TailDB": "",
     "No Muted Assets": "",
     "Asset Not Found": "",
     "Mute assets to prevent them from showing up for you": "",
@@ -282,7 +280,13 @@
     "Code": "代码",
     "Asset ID": "资产 ID",
     "Current Average Price": "",
-    "{{code}} Liquidity": "{{code}} 流动性"
+    "{{code}} Liquidity": "{{code}} 流动性",
+    "Creator": "",
+    "Collection ID": "",
+    "Number of Items": "",
+    "Floor Price": "",
+    "Offered NFTs": "",
+    "Mute {{asset}}": ""
   },
   "claimHistory": {
     "Recent Reward Claims": "",
