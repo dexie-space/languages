@@ -287,11 +287,11 @@
     "Invalid address": "Недійсна адреса"
   },
   "Assets": {
-    "Muted Assets": "",
+    "Muted Assets": "Вимкнуті активи",
     "Search assets": "Пошук активів",
-    "Tokens sourced from TailDB": "",
-    "No muted assets": "",
-    "Nothing found": "",
+    "Tokens sourced from TailDB": "Токени отримано з TailDB",
+    "No muted assets": "Немає вимкнених активів",
+    "Nothing found": "Нічого не знайдено",
     "Mute assets to prevent them from showing up for you": "Вимкнути активии, щоб вони не відображалися",
     "Unmute": "Увімкнути",
     "Mute": "Вимкнути",
@@ -299,12 +299,12 @@
     "Asset ID": "Ідентифікатор активу",
     "Current Average Price": "Поточна середня вартість",
     "{{code}} Liquidity": "{{code}} Ліквідність",
-    "Creator": "",
-    "Collection ID": "",
-    "Number of Items": "",
-    "Floor Price": "",
-    "Offered NFTs": "",
-    "Mute {{asset}}": ""
+    "Creator": "Автор",
+    "Collection ID": "ID колекції",
+    "Number of Items": "Кількість пунктів",
+    "Floor Price": "Мінімальна ціна",
+    "Offered NFTs": "Пропоновані НФТ",
+    "Mute {{asset}}": "Вимкнути {{asset}}"
   },
   "claimHistory": {
     "Recent Reward Claims": "Нещодавні вимоги винагороди",
