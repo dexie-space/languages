@@ -281,11 +281,11 @@
     "Invalid address": "Indirizzo non valido"
   },
   "Assets": {
-    "Muted Assets": "",
+    "Muted Assets": "Asset nascosti",
     "Search assets": "Trova asset",
-    "Tokens sourced from TailDB": "",
-    "No muted assets": "",
-    "Nothing found": "",
+    "Tokens sourced from TailDB": "Informazioni raccolte da TailDB",
+    "No muted assets": "Asset non nascosti",
+    "Nothing found": "Ricerca fallita",
     "Mute assets to prevent them from showing up for you": "Nascondi gli asset per evitare che questi ti vengano mostrati",
     "Unmute": "Rendi visibile",
     "Mute": "Nascondi",
@@ -293,12 +293,12 @@
     "Asset ID": "Asset ID",
     "Current Average Price": "Prezzo medio corrente",
     "{{code}} Liquidity": "Liquidità in {{code}}",
-    "Creator": "",
-    "Collection ID": "",
-    "Number of Items": "",
-    "Floor Price": "",
-    "Offered NFTs": "",
-    "Mute {{asset}}": ""
+    "Creator": "Creatore",
+    "Collection ID": "ID di collezione",
+    "Number of Items": "Numero di elementi",
+    "Floor Price": "Prezzo più basso",
+    "Offered NFTs": "NFT offerti",
+    "Mute {{asset}}": "Nascondi {{asset}}"
   },
   "claimHistory": {
     "Recent Reward Claims": "Premi recentemente richiesti",
