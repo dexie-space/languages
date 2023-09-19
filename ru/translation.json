@@ -166,6 +166,7 @@
   },
   "footer": {
     "Public API": "API",
+    "Fees": "",
     "Help translate": "Помогите перевести",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
@@ -420,8 +421,8 @@
     "Go back home": "Вернуться домой"
   },
   "offers": {
-    "Buy": "Купить",
-    "Sell": "Продать"
+    "Sell": "Продать",
+    "Buy": "Купить"
   },
   "report": {
     "Report Content": "Жалоба на содержание",

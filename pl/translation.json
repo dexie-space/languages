@@ -166,6 +166,7 @@
   },
   "footer": {
     "Public API": "Publiczne API",
+    "Fees": "",
     "Help translate": "Pomóż tłumaczyć",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Bloki są zapełnione, zalecana opłata transakcyjna: {{fee}} {{xch}}",
     "Status": "Status",
@@ -420,8 +421,8 @@
     "Go back home": "Wróć na stronę główną"
   },
   "offers": {
-    "Buy": "Kup",
-    "Sell": "Sprzedaj"
+    "Sell": "Sprzedaj",
+    "Buy": "Kup"
   },
   "report": {
     "Report Content": "Zgłoś treść",

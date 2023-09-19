@@ -160,6 +160,7 @@
   },
   "footer": {
     "Public API": "Publik API",
+    "Fees": "",
     "Help translate": "Membantu menerjemahkan",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blok digunakan sepenuhnya, biaya transaksi yang disarankan: {{fee}} {{xch}}",
     "Status": "Status",
@@ -400,8 +401,8 @@
     "Go back home": "Kembali ke Halaman Depan"
   },
   "offers": {
-    "Buy": "",
-    "Sell": ""
+    "Sell": "",
+    "Buy": ""
   },
   "report": {
     "Report Content": "Laporkan konten",

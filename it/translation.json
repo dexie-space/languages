@@ -164,6 +164,7 @@
   },
   "footer": {
     "Public API": "Public API",
+    "Fees": "",
     "Help translate": "Help translate",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
@@ -413,8 +414,8 @@
     "Go back home": "Torna alla Home"
   },
   "offers": {
-    "Buy": "Compra",
-    "Sell": "Vendi"
+    "Sell": "Vendi",
+    "Buy": "Compra"
   },
   "report": {
     "Report Content": "Fai delle segnalazioni",

@@ -160,6 +160,7 @@
   },
   "footer": {
     "Public API": "",
+    "Fees": "",
     "Help translate": "",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "",
@@ -399,8 +400,8 @@
     "Go back home": ""
   },
   "offers": {
-    "Buy": "",
-    "Sell": ""
+    "Sell": "",
+    "Buy": ""
   },
   "report": {
     "Report Content": "",

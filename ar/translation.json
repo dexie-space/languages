@@ -170,6 +170,7 @@
   },
   "footer": {
     "Public API": "API العامة",
+    "Fees": "",
     "Help translate": "مساعدة في الترجمة",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "يتم استخدام الكتل بالكامل ، ويوصى برسوم المعاملات: {{fee}} {{xch}}",
     "Status": "حالة",
@@ -434,8 +435,8 @@
     "Go back home": "ارجع الى البيت"
   },
   "offers": {
-    "Buy": "",
-    "Sell": ""
+    "Sell": "",
+    "Buy": ""
   },
   "report": {
     "Report Content": "محتوى التقرير",

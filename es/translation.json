@@ -164,6 +164,7 @@
   },
   "footer": {
     "Public API": "API Pública",
+    "Fees": "",
     "Help translate": "Ayuda a traducir",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Los bloques se utilizan por completo, tarifa de transacción recomendada: {{fee}} {{xch}}",
     "Status": "Estado",
@@ -413,8 +414,8 @@
     "Go back home": "Vuelve a casa"
   },
   "offers": {
-    "Buy": "Comprar",
-    "Sell": "Vender"
+    "Sell": "Vender",
+    "Buy": "Comprar"
   },
   "report": {
     "Report Content": "Reportar Contenido",
