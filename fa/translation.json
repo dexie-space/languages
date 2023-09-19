@@ -210,8 +210,8 @@
     "offersCount_one": "<0>{{formattedCount}}</0> پیشنهاد",
     "offersCount_other": "<0>{{formattedCount}}</0> پیشنهادات",
     "Offers": "",
-    "You Sell": "",
-    "You Buy": "",
+    "You Pay": "",
+    "You Receive": "",
     "Collapse NFTs": "ریزش ان اف تی ها",
     "Expand NFTs": "گسترش دادن ان اف تی ها",
     "Move the slider to sweep the best offers": "",
@@ -220,7 +220,9 @@
     "Best Price": "بهترین قیمت",
     "New": "جدید",
     "Blocks ago_one": "<0>{{formattedCount}}</0> Block ago",
-    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago",
+    "You Sell": "",
+    "You Buy": ""
   },
   "autoCombine": {
     "Auto-Combined": "ترکیب خودکار",

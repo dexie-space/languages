@@ -214,8 +214,8 @@
     "offersCount_many": "<0>{{formattedCount}}</0> Offerte",
     "offersCount_other": "<0>{{formattedCount}}</0> Offerte",
     "Offers": "",
-    "You Sell": "",
-    "You Buy": "",
+    "You Pay": "",
+    "You Receive": "",
     "Collapse NFTs": "Comprimi NFT",
     "Expand NFTs": "Espandi NFT",
     "Move the slider to sweep the best offers": "",
@@ -225,7 +225,9 @@
     "New": "Nuova",
     "Blocks ago_one": "<0>{{formattedCount}}</0> Blocco fa",
     "Blocks ago_many": "<0>{{formattedCount}}</0> Blocchi fa",
-    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocchi fa"
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocchi fa",
+    "You Sell": "",
+    "You Buy": ""
   },
   "autoCombine": {
     "Auto-Combined": "Fusione automatica",

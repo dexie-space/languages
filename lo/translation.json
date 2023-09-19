@@ -206,8 +206,8 @@
     "{{count}} Muted Assets_other": "",
     "offersCount_other": "<0>{{formattedCount}}</0> Offers",
     "Offers": "",
-    "You Sell": "",
-    "You Buy": "",
+    "You Pay": "",
+    "You Receive": "",
     "Collapse NFTs": "",
     "Expand NFTs": "",
     "Move the slider to sweep the best offers": "",
@@ -215,7 +215,9 @@
     "This offer contains overlapping inputs or outputs and can not be added": "",
     "Best Price": "",
     "New": "",
-    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago"
+    "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago",
+    "You Sell": "",
+    "You Buy": ""
   },
   "autoCombine": {
     "Auto-Combined": "",
