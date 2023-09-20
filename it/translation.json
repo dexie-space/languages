@@ -442,7 +442,7 @@
     "Tx Fee": "Commissione di transazione",
     "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
     "mempoolSize": "Mempool",
-    "No filters selected": "",
+    "No filters selected": "Nessun filtro selezionato",
     "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
     "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
