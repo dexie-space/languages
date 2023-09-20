@@ -6,7 +6,7 @@
   },
   "common": {
     "CLIPPED": "بسته شده",
-    "Search Tokens, NFTs or enter Address": "جستجوی برای توکن یا ان اف تی و یا با وارد نمودن آدرس",
+    "Search Tokens, NFTs or enter Address": "جستجو برای توکن یا ان اف تی و یا با وارد نمودن آدرس",
     "You Request": "درخواست شما",
     "You Offer": "پیشنهاد شما",
     "Tokens (CATs)": "توکن ها (CATs)",
@@ -162,7 +162,7 @@
   },
   "footer": {
     "Public API": "رابط عمومی برنامه نویسی نرم افزار",
-    "Fees": "",
+    "Fees": "کارمزد",
     "Help translate": "همکاری برای ترجمه",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "{{fee}} {{xch}}از بلاک ها به طور کامل استفاده میشود، کارمزد تراکنش توصیه شده",
     "Status": "وضعیت",
@@ -200,21 +200,18 @@
     "Newcomers": "تازه واردان"
   },
   "offersTable": {
-    "Download Offer": "",
-    "Copy Offer": "",
+    "Download Offer": "ذخیره پیشنهاد",
+    "Copy Offer": "کپی پیشنهاد",
     "No Offers Found": "هیچ پیشنهادی یافت نشد",
-    "No Ask Offers": "",
-    "No Bid Offers": "",
+    "No Ask Offers": "بدون درخواست فروش پیشنهادی",
+    "No Bid Offers": "بدون درخواست خرید پیشنهادی",
     "{{count}} Muted Assets_one": "{{count}} دارایی خاموش",
     "{{count}} Muted Assets_other": "{{count}} دارایی های خاموش",
     "offersCount_one": "<0>{{formattedCount}}</0> پیشنهاد",
     "offersCount_other": "<0>{{formattedCount}}</0> پیشنهادات",
-    "Offers": "",
-    "You Pay": "",
-    "You Receive": "",
     "Collapse NFTs": "ریزش ان اف تی ها",
     "Expand NFTs": "گسترش دادن ان اف تی ها",
-    "Move the slider to sweep the best offers": "",
+    "Move the slider to sweep the best offers": "نوار لغزنده را حرکت دهید تا بهترین پیشنهادها را جمع کنید",
     "Legacy offer, combination not supported": "پیشنهاد قدیمی است ترکیب پشتیبانی نمیشود",
     "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد تداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
     "Best Price": "بهترین قیمت",
@@ -253,8 +250,8 @@
     "Log": "الگریتمی",
     "activeOffers": "پیشنهادهای فعال",
     "lastPrice": "آخرین قیمت",
-    "Recent Trades": "",
-    "Collapse": "کوچکتر",
+    "Recent Trades": "معاملات انجام شده",
+    "Collapse": "بسته تر",
     "Expand": "بازتر",
     "No data for this chart": "هیچ اطلاعاتی برای این نمودار وجود ندارد",
     "Still collecting data for this chart": "در حال جمع آوری اطلاعات برای این نمودار"
@@ -265,7 +262,7 @@
     "cancelling": "در حال لغو",
     "cancelled": "لغو شد",
     "completed": "کامل شد",
-    "unknown": "نا معلوم",
+    "unknown": "نامعلوم",
     "expired": "منقضی شد"
   },
   "toast": {
@@ -336,7 +333,7 @@
     "Web3 Wallet": "کیف پول وب 3",
     "Explore NFTs": "پیگیری ان اف تی ها",
     "Add or Query TAILs": "توکن ها را اضافه یا پیدا کنید",
-    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق العادهاش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
+    "dexie would like to thank its awesome contributors and friends, without them dexie wouldn't be what it is today": "دکسی از همکاران و دوستان فوق العاده اش تشکر میکند چون بدون آنها دکسی آنچیزی که امروز است نمیتوانست باشد"
   },
   "uploadOffer": {
     "offerFileSuccessfullyIndexed": "فایل پیشنهادی با موفقیت فهرست شد",
@@ -364,7 +361,7 @@
     "Restore Your Offers": "بازگردادن پیشنهادات خود",
     "Duplicate offers will be merged": "پیشنهادات تکراری ادغام خواهند شد",
     "Your Added Offers": "پیشنهادات اضافه شده شما",
-    "Your added offers appear here": "پیشنهادات اضافه شده شما در اینجا ظاهر می شود",
+    "Your added offers appear here": "پیشنهادات اضافه شده شما در اینجا ظاهر میشود",
     "No matching offers": "هیچ پیشنهاد مشابه ای وجود ندارد",
     "Offers close to the market price can receive rewards (click for more)": "پیشنهادات نزدیک به قیمت بازار می توانند پاداش دریافت کنند (کلیک برای اطلاعات بیشتر)",
     "Liquidity Rewards": "پاداش نقدینگی",
@@ -432,10 +429,10 @@
   },
   "trades": {
     "Recommended Transaction Fee": "کارمزد تراکنش توصیه شده",
-    "Tx Fee": "کارمزد",
+    "Tx Fee": "کارمزد مالیات",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
     "mempoolSize": "حافطه استخر تراکنش",
-    "No filters selected": "",
+    "No filters selected": "هیچ فیلتری انتخاب نشده است",
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
     "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
