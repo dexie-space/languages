@@ -78,7 +78,7 @@
     "Copy to Clipboard": "کپی در حافظه",
     "Status": "وضعیت",
     "Offer ID (Hash)": "شناسه پیشنهاد (هش)",
-    "Date Expiry": " تاریخ انقضا",
+    "Date Expiry": "تاریخ انقضا",
     "Date Pending": "تاریخ انتظار",
     "Date Closed": "تاریخ بستن",
     "Confirmed at Height": "تایید شده دربلاک",
@@ -162,7 +162,7 @@
   },
   "footer": {
     "Public API": "رابط عمومی برنامه نویسی نرم افزار",
-    "Fees": "کارمزد",
+    "Fees": "کارمزدها",
     "Help translate": "همکاری برای ترجمه",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "{{fee}} {{xch}}از بلاک ها به طور کامل استفاده میشود، کارمزد تراکنش توصیه شده",
     "Status": "وضعیت",
@@ -218,8 +218,8 @@
     "New": "جدید",
     "Blocks ago_one": "<0>{{formattedCount}}</0> Block ago",
     "Blocks ago_other": "<0>{{formattedCount}}</0> Blocks ago",
-    "You Sell": "",
-    "You Buy": ""
+    "You Sell": "میفروشید",
+    "You Buy": "میخرید"
   },
   "autoCombine": {
     "Auto-Combined": "ترکیب خودکار",
@@ -429,7 +429,7 @@
   },
   "trades": {
     "Recommended Transaction Fee": "کارمزد تراکنش توصیه شده",
-    "Tx Fee": "کارمزد مالیات",
+    "Tx Fee": "مالیات کارمزد",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
     "mempoolSize": "حافطه استخر تراکنش",
     "No filters selected": "هیچ فیلتری انتخاب نشده است",
