@@ -34,7 +34,6 @@
     "Daily Volume": "Volume Harian",
     "Website": "Situs Web",
     "Friends": "Teman",
-    "Transaction Fees": "Biaya transaksi",
     "Accept in Wallet": "Terima di Dompet",
     "Transaction Fees": "Biaya transaksi",
     "Mempool Transaction ID": "Mempool ID Transaksi",
@@ -362,7 +361,7 @@
     "Offers close to the market price can receive rewards (click for more)": "Penawaran yang mendekati harga pasar dapat menerima hadiah (klik untuk lebih banyak)",
     "Liquidity Rewards": "",
     "Upload failed, no data": "",
-    "Reward Claimed": "Hadiah Diklaim"",
+    "Reward Claimed": "Hadiah Diklaim",
     "Claim": "Klaim",
     "Eligible": "Memenuhi syarat",
     "Successfully queued {{count}} offers for submission_one": "Berhasil mengantrekan {{count}} penawaran untuk pengajuan"
