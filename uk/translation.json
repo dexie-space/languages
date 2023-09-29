@@ -98,7 +98,7 @@
     "Legacy": "Застаріле",
     "Taken by {{taker}}": "Знято {{taker}}",
     "Trade ID": "Торговий ідентифікатор",
-    "Block Expiry": "",
+    "Block Expiry": "Термін дії блоку",
     "Confirmed at Block": "Підтверджено в блоку",
     "Number of confirmations": "Кількість підтверджень",
     "attached": "додається",
