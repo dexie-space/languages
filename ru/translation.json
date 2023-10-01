@@ -443,6 +443,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Пожалуйста, введите как можно больше дополнительной информации, которая может быть использована для просмотра этого отчета, например, ссылки на исходную коллекцию в случае отчета о выдаче себя за другое лицо (все примечания общедоступны).",
     "Thank you, a new report has been generated": "Спасибо, создан новый отчет",
     "Report {{id}}": "Жалоба {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Создать жалобу",
     "Submit Report": "Отправить жалобу"
   },

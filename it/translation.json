@@ -437,6 +437,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Inserisci quante più informazioni aggiuntive possibili che possono essere utilizzate per esaminare questa segnalazione, ad esempio collegamenti alla raccolta originale in caso di segnalazione di furto d'identità (tutte le note sono pubbliche)",
     "Thank you, a new report has been generated": "Grazie, una nuova segnalazione è stata aggiunta",
     "Report {{id}}": "Segnalazione {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Generazione segnalazione in corso ...",
     "Submit Report": "Invia segnalazione"
   },

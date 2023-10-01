@@ -455,6 +455,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "شكرا لك ، تم إنشاء تقرير جديد",
     "Report {{id}}": "الإبلاغ عن {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "جاري إنشاء التقرير ...",
     "Submit Report": "إرسال التقرير"
   },

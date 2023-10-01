@@ -443,6 +443,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Proszę w miarę możliwości podać wszelkie dodatkowe informacje, które mogą okazać się pomocne w weryfikacji zgłoszenia, np. linki do oryginalnej kolekcji NFT w przypadku zgłoszenia podszywania się (podane informacje będą publicznie widoczne w zgłoszeniu)",
     "Thank you, a new report has been generated": "Dziękujemy, zgłoszenie zostało utworzone",
     "Report {{id}}": "Zgłoszenie {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Tworzenie zgłoszenia ...",
     "Submit Report": "Wyślij zgłoszenie"
   },

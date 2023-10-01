@@ -437,6 +437,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Veuillez saisir autant d'informations supplémentaires que possible qui peuvent être utilisées pour examiner ce rapport, par exemple des liens vers la collection originale dans le cas d'un rapport d'usurpation d'identité (toutes les notes sont publiques).",
     "Thank you, a new report has been generated": "Merci, un nouveau rapport a été généré",
     "Report {{id}}": "Reporter {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Création du Rapport",
     "Submit Report": "Soumettre le Rapport"
   },

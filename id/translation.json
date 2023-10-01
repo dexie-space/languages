@@ -426,6 +426,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Masukkan informasi tambahan sebanyak mungkin yang dapat digunakan untuk meninjau laporan ini, misalnya tautan ke koleksi asli jika ada laporan peniruan identitas (semua catatan bersifat publik)",
     "Thank you, a new report has been generated": "Terima kasih, laporan baru telah dihasilkan",
     "Report {{id}}": "Laporan {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Menghasilkan Laporan ...",
     "Submit Report": "Kirimkan laporan"
   },

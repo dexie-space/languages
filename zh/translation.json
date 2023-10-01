@@ -425,6 +425,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "谢谢，已生成新报告",
     "Report {{id}}": "举报{{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "生成报告",
     "Submit Report": "提交举报"
   },
