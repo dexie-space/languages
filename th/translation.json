@@ -382,7 +382,7 @@
     "Sell Price": "ราคาขาย",
     "#buyPriceHint{{depth}}": "ราคาต่อหน่วยสำหรับการซื้อ {{depth}} {{market}} \nและราคาที่แต่ละ {{market}} จะได้",
     "Buy Price": "ราคารับซื้อ",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",

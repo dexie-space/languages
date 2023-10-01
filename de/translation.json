@@ -388,7 +388,7 @@
     "Sell Price": "Verkaufspreis",
     "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} {{market}} \nund Ertrag eines {{market}}.",
     "Buy Price": "Kaufpreis",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",

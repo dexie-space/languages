@@ -388,7 +388,7 @@
     "Sell Price": "قیمت فروش",
     "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای خرید",
     "Buy Price": "قیمت خرید",
-    "Liquidity Ratio": "نسبت نقدینگی",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "نقدینگی را برای کسب پاداش های توکن دی بی ایکس فراهم کنید",
     "Incentives": "مشوق ها",
     "Asset Overview": "نمای کلی دارایی",

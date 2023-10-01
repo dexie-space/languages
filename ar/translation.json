@@ -412,7 +412,7 @@
     "Sell Price": "سعر البيع",
     "#buyPriceHint{{depth}}": "سعر الوحدة لشراء {{depth}} {{market}} من الحجم\nوالمبلغ الذي سيحصل عليه كل {{market}}.",
     "Buy Price": "سعر شراء",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",

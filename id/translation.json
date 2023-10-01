@@ -383,7 +383,7 @@
     "Sell Price": "Harga jual",
     "#buyPriceHint{{depth}}": "Harga unit untuk membeli {{depth}} {{market}} volume\ndan berapa masing-masing {{market}} akan mendapatkan.",
     "Buy Price": "Harga beli",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "Sediakan likuiditas untuk mendapatkan imbalan DBX",
     "Incentives": "Insentif",
     "Asset Overview": "",

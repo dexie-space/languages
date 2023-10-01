@@ -394,7 +394,7 @@
     "Sell Price": "Prezzo di vendita",
     "#buyPriceHint{{depth}}": "Il prezzo unitario per l'acquisto di {{depth}} {{market}} \n e quanto otterrebbe ogni {{market}}.",
     "Buy Price": "Prezzo di acquisto",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "Aggiungi liquidità per ottenere DBX",
     "Incentives": "Incentivi",
     "Asset Overview": "",

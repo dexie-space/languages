@@ -382,7 +382,7 @@
     "Sell Price": "卖出价格",
     "#buyPriceHint{{depth}}": "购买单价{{depth}} {{market}}总量\n以及每个{{market}}得到多少。",
     "Buy Price": "买入价格",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",

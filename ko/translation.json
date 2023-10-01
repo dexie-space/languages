@@ -382,7 +382,7 @@
     "Sell Price": "판매가",
     "#buyPriceHint{{depth}}": "{{depth}} {{market}} 유닛당 구매 단가\n{{market}} 개별가",
     "Buy Price": "구매가",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",

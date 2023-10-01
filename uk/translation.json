@@ -400,7 +400,7 @@
     "Sell Price": "Ціна продажу",
     "#buyPriceHint{{depth}}": "Ціна за одиницю покупки {{depth}} {{market}} \nі скільки отримає кожен {{market}}.",
     "Buy Price": "Ціна купівлі",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "Забезпечте ліквідність, щоб отримати винагороду DBX",
     "Incentives": "Стимули",
     "Asset Overview": "",

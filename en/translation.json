@@ -388,7 +388,7 @@
     "Sell Price": "Sell Price",
     "#buyPriceHint{{depth}}": "The unit price for buying {{depth}} {{market}} of volume\nand how much each {{market}} would get.",
     "Buy Price": "Buy Price",
-    "Liquidity Ratio": "Liquidity Ratio",
+    "Liquidity": "Liquidity",
     "Provide liquidity to earn DBX rewards": "Provide liquidity to earn DBX rewards!",
     "Incentives": "Incentives",
     "Asset Overview": "Asset Overview",
