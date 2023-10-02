@@ -400,7 +400,7 @@
     "Sell Price": "Ціна продажу",
     "#buyPriceHint{{depth}}": "Ціна за одиницю покупки {{depth}} {{market}} \nі скільки отримає кожен {{market}}.",
     "Buy Price": "Ціна купівлі",
-    "Liquidity Ratio": "Коефіцієнт ліквідності",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "Забезпечте ліквідність, щоб отримати винагороду DBX",
     "Incentives": "Стимули",
     "Asset Overview": "Огляд активів",
@@ -443,6 +443,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Будь ласка, введіть якомога більше додаткової інформації, яку можна використати для перегляду цього звіту, наприклад, посилання на оригінальну колекцію у випадку звіту про видавання себе за іншу особу (усі примітки є загальнодоступними)",
     "Thank you, a new report has been generated": "Дякуємо, створено новий звіт",
     "Report {{id}}": "Скарга {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Створити скаргу",
     "Submit Report": "Надіслати скаргу"
   },
