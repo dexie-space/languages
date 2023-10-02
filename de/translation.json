@@ -388,7 +388,7 @@
     "Sell Price": "Verkaufspreis",
     "#buyPriceHint{{depth}}": "Der Stückpreis für den Kauf von {{depth}} {{market}} \nund Ertrag eines {{market}}.",
     "Buy Price": "Kaufpreis",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",
@@ -431,6 +431,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Bitte gib so viele zusätzliche Informationen wie möglich an, die zur Überprüfung dieses Berichts verwendet werden können, z. B. Links zur Originalsammlung im Falle eines Identitätsbetrug-Berichts (alle Notizen sind öffentlich)",
     "Thank you, a new report has been generated": "Vielen Dank, es wurde eine neue Meldung erstellt.",
     "Report {{id}}": "Meldung {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Meldung wird generiert",
     "Submit Report": "Meldung abschicken"
   },

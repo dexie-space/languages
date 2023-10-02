@@ -388,7 +388,7 @@
     "Sell Price": "",
     "#buyPriceHint{{depth}}": "",
     "Buy Price": "",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "",
     "Incentives": "",
     "Asset Overview": "",
@@ -431,6 +431,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "",
     "Thank you, a new report has been generated": "",
     "Report {{id}}": "",
+    "Some required fields are missing": "",
     "Generating Report": "",
     "Submit Report": ""
   },

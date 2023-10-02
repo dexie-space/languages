@@ -388,7 +388,7 @@
     "Sell Price": "Sell Price",
     "#buyPriceHint{{depth}}": "The unit price for buying {{depth}} {{market}} of volume\nand how much each {{market}} would get.",
     "Buy Price": "Buy Price",
-    "Liquidity Ratio": "Liquidity Ratio",
+    "Liquidity": "Liquidity",
     "Provide liquidity to earn DBX rewards": "Provide liquidity to earn DBX rewards!",
     "Incentives": "Incentives",
     "Asset Overview": "Asset Overview",
@@ -431,6 +431,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Please enter as much additional information as possible that can be used to review this report, e.g. links to the original collection in case of an impersonation report (all notes are public).",
     "Thank you, a new report has been generated": "Thank you, a new report has been generated",
     "Report {{id}}": "Report {{id}}",
+    "Some required fields are missing": "Some required fields are missing",
     "Generating Report": "Generating Report ...",
     "Submit Report": "Submit Report"
   },

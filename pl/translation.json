@@ -400,7 +400,7 @@
     "Sell Price": "Cena sprzedaży",
     "#buyPriceHint{{depth}}": "Cena jednostkowa zakupu o wartości {{depth}} {{market}}\noraz zakup na jaki pozwoli każda jednostka {{market}}.",
     "Buy Price": "Cena zakupu",
-    "Liquidity Ratio": "",
+    "Liquidity": "",
     "Provide liquidity to earn DBX rewards": "Zapewniaj płynność, by zdobywać nagrody w DBX!",
     "Incentives": "Premiowane",
     "Asset Overview": "",
@@ -443,6 +443,7 @@
     "Please enter as much additional information as possible that can be used to review this report, eg links to the original collection in case of an impersonation report (all notes are public)": "Proszę w miarę możliwości podać wszelkie dodatkowe informacje, które mogą okazać się pomocne w weryfikacji zgłoszenia, np. linki do oryginalnej kolekcji NFT w przypadku zgłoszenia podszywania się (podane informacje będą publicznie widoczne w zgłoszeniu)",
     "Thank you, a new report has been generated": "Dziękujemy, zgłoszenie zostało utworzone",
     "Report {{id}}": "Zgłoszenie {{id}}",
+    "Some required fields are missing": "",
     "Generating Report": "Tworzenie zgłoszenia ...",
     "Submit Report": "Wyślij zgłoszenie"
   },
