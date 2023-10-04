@@ -407,8 +407,10 @@
     "Go back home": "回到首页"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "",
-    "Buy": ""
+    "Buy": "",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "举报内容",

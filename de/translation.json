@@ -413,8 +413,10 @@
     "Go back home": "Zurück zur Startseite"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "Verkaufe",
-    "Buy": "Kaufe"
+    "Buy": "Kaufe",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "Inhalt Melden",

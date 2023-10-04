@@ -437,8 +437,10 @@
     "Go back home": "ارجع الى البيت"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "",
-    "Buy": ""
+    "Buy": "",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "محتوى التقرير",

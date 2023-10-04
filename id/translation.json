@@ -408,8 +408,10 @@
     "Go back home": "Kembali ke Halaman Depan"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "Menjual",
-    "Buy": "Membeli"
+    "Buy": "Membeli",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "Laporkan konten",

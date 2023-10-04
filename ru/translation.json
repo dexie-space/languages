@@ -425,8 +425,10 @@
     "Go back home": "Вернуться домой"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "Продать",
-    "Buy": "Купить"
+    "Buy": "Купить",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "Жалоба на содержание",

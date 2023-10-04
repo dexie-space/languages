@@ -419,8 +419,10 @@
     "Go back home": "Torna alla Home"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "Vendi",
-    "Buy": "Compra"
+    "Buy": "Compra",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "Fai delle segnalazioni",

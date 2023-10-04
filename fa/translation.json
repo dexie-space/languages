@@ -413,8 +413,10 @@
     "Go back home": "بازگشت به صفحه اصلی"
   },
   "offers": {
+    "Enter Sell Amount": "",
     "Sell": "فروش",
-    "Buy": "خرید"
+    "Buy": "خرید",
+    "Enter Buy Amount": ""
   },
   "report": {
     "Report Content": "گزارش محتوا",

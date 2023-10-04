@@ -413,8 +413,10 @@
     "Go back home": "Go back home"
   },
   "offers": {
+    "Enter Sell Amount": "Enter Sell Amount",
     "Sell": "Sell",
-    "Buy": "Buy"
+    "Buy": "Buy",
+    "Enter Buy Amount": "Enter Buy Amount"
   },
   "report": {
     "Report Content": "Report Content",
