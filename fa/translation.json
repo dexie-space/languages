@@ -392,9 +392,9 @@
     "Provide liquidity to earn DBX rewards": "نقدینگی را برای کسب پاداش های توکن دی بی ایکس فراهم کنید",
     "Incentives": "مشوق ها",
     "Asset Overview": "نمای کلی دارایی",
-    "Sell for {{bid}} {{code}} within {{level}}%": " با {{bid}} {{code}} فروش به قیمت {{level}}%",
-    "{{spread}}% Spread": "گسترش {{spread}}%",
-    "Buy for {{ask}} {{code}} within {{level}}%": " با {{ask}} {{code}} خرید به قیمت {{level}}%",
+    "Sell for {{bid}} {{code}} within {{level}}%": "{{bid}} {{code}} با {{level}}% فروش به قیمت",
+    "{{spread}}% Spread": "{{spread}}% گسترش",
+    "Buy for {{ask}} {{code}} within {{level}}%": "{{ask}} {{code}} با {{level}}% خرید به قیمت",
     "no liquidity": "بدون نقدینگی",
     "All traded NFT collections, ranked by {{ranked}}": "{{ranked}} همه مجموعه های ان اف تی معامله شده، رتبه بندی شده توسط",
     "Collection": "مجموعه",
@@ -413,10 +413,10 @@
     "Go back home": "بازگشت به صفحه اصلی"
   },
   "offers": {
-    "Enter Sell Amount": "",
+    "Enter Sell Amount": "مبلغ فروش را وارد کنید",
     "Sell": "فروش",
     "Buy": "خرید",
-    "Enter Buy Amount": ""
+    "Enter Buy Amount": "مبلغ خرید را وارد کنید"
   },
   "report": {
     "Report Content": "گزارش محتوا",
