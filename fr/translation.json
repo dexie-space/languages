@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Complété avant la date de collecte",
     "Cancelled before collection date": "Annulé avant la date de collecte",
+    "Download Offer": "Télécharger l'Offre",
+    "Offer copied": "Offre copiée",
+    "Copy to Clipboard": "Copier dans le Presse-Papier",
     "Date Collected": "Date d’acceptation",
     "dexie link": "lien dexie",
     "Loading": "Chargement...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Aller au Echanger",
     "Requested": "A demandé",
     "Offered": "A offert",
-    "Download Offer": "Télécharger l'Offre",
-    "Offer copied": "Offre copiée",
-    "Copy to Clipboard": "Copier dans le Presse-Papier",
     "Remove from Your Offers": "Enelever de vos Offres",
     "Status": "Statut",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "Les offres anciennes ne sont plus prises en charge. S'il s'agit de votre offre, veuillez l'annuler et la recréer.",
@@ -125,7 +125,6 @@
     "You Receive": "Vous recevez",
     "Waiting for confirmation in your wallet": "En attente de confirmation dans votre wallet"
   },
-  "Connect Wallet": "Connecter votre Portefeuille",
   "header": {
     "Connect Wallet": "Connectez votre Wallet",
     "Create Offer is not supported with {{walletName}}": "La création d'Offre n'est pas supportée avec {{walletName}}",
@@ -133,10 +132,11 @@
     "NFT": "NFT",
     "Trade": "Echanger",
     "Recent Trades": "Transactions récentes",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "Maintenant avec les <b>récompenses de liquidité</b> ! Gagnez des <b>dexie bucks</b> en ajoutant des offres pour des paires incentivées.",
     "Your Offers": "Vos Offres"
   },
+  "Connect Wallet": "Connecter votre Portefeuille",
   "connectModal": {
     "Not Installed": "Pas installé",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Pour configurer WalletConnect avec le Chia Desktop Wallet, cliquez sur le code ci-dessous pour copier le lien de connexion.",
@@ -156,7 +156,6 @@
     "Create Offer with {{walletName}}": "Créer une offre avec {{walletName}}"
   },
   "footer": {
-    "Public API": "API Publique",
     "Fees": "Frais",
     "Privacy": "",
     "Help translate": "Aider à traduire",

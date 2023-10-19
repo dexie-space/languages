@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Oferta zakończona przed dodaniem",
     "Cancelled before collection date": "Oferta anulowana przed dodaniem",
+    "Download Offer": "Pobierz plik oferty",
+    "Offer copied": "",
+    "Copy to Clipboard": "Skopiuj do schowka",
     "Date Collected": "Data dodania",
     "dexie link": "Link do dexie",
     "Loading": "Ładowanie...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Handluj",
     "Requested": "Żądane",
     "Offered": "Oferowane",
-    "Download Offer": "Pobierz plik oferty",
-    "Offer copied": "",
-    "Copy to Clipboard": "Skopiuj do schowka",
     "Remove from Your Offers": "",
     "Status": "Status",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -126,7 +126,6 @@
     "You Receive": "Otrzymujesz",
     "Waiting for confirmation in your wallet": "Oczekiwanie na zatwierdzenie w portfelu"
   },
-  "Connect Wallet": "Połącz portfel",
   "header": {
     "Connect Wallet": "Połącz portfel",
     "Create Offer is not supported with {{walletName}}": "",
@@ -134,10 +133,11 @@
     "NFT": "NFT",
     "Trade": "Handluj",
     "Recent Trades": "Ostatnie transakcje",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "Wprowadziliśmy <b>nagrody za dostarczanie płynności</b>! Zdobywaj <b>dexie bucks</b> w zamian za dodawanie ofert w premiowanych parach.",
     "Your Offers": "Twoje oferty"
   },
+  "Connect Wallet": "Połącz portfel",
   "connectModal": {
     "Not Installed": "Niezainstalowano",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Aby połączyć portfel Chia za pomocą WalletConnect, użyj kodu QR poniżej lub kliknij go, aby skopiować link do połączenia.",
@@ -157,7 +157,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "Publiczne API",
     "Fees": "",
     "Privacy": "",
     "Help translate": "Pomóż tłumaczyć",

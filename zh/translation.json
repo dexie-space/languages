@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "",
     "Cancelled before collection date": "",
+    "Download Offer": "下载优惠",
+    "Offer copied": "",
+    "Copy to Clipboard": "复制到剪贴板",
     "Date Collected": "日期已搜集",
     "dexie link": "dexie链接",
     "Loading": "加载中...",
@@ -75,9 +78,6 @@
     "Go to Trade": "前往贸易",
     "Requested": "请求",
     "Offered": "提供",
-    "Download Offer": "下载优惠",
-    "Offer copied": "",
-    "Copy to Clipboard": "复制到剪贴板",
     "Remove from Your Offers": "",
     "Status": "地位",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -123,7 +123,6 @@
     "You Receive": "",
     "Waiting for confirmation in your wallet": ""
   },
-  "Connect Wallet": "链接钱包",
   "header": {
     "Connect Wallet": "",
     "Create Offer is not supported with {{walletName}}": "",
@@ -131,10 +130,11 @@
     "NFT": "NFT",
     "Trade": "交易",
     "Recent Trades": "近期交易",
-    "FAQ": "常见问题",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "",
     "Your Offers": ""
   },
+  "Connect Wallet": "链接钱包",
   "connectModal": {
     "Not Installed": "",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
@@ -154,7 +154,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "公共 API",
     "Fees": "",
     "Privacy": "",
     "Help translate": "帮助翻译",

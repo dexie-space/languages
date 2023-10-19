@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Завершено до дата отримання",
     "Cancelled before collection date": "Скасовано до дати отримання",
+    "Download Offer": "Завантажити пропозицію",
+    "Offer copied": "Пропозицію скопійовано",
+    "Copy to Clipboard": "Копіювати в буфер",
     "Date Collected": "Дата створення",
     "dexie link": "dexie посилання",
     "Loading": "Завантаження...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Перейдіть до Торгівлі",
     "Requested": "Отримати",
     "Offered": "Запропоновано",
-    "Download Offer": "Завантажити пропозицію",
-    "Offer copied": "Пропозицію скопійовано",
-    "Copy to Clipboard": "Копіювати в буфер",
     "Remove from Your Offers": "Видалити зі своїх пропозицій",
     "Status": "Статус",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "Застарілі пропозиції більше не підтримуються. Якщо це ваша пропозиція, скасуйте та створіть її заново",
@@ -126,7 +126,6 @@
     "You Receive": "Ти отримаєш",
     "Waiting for confirmation in your wallet": "Зачекайте для підтвердження у вашому гаманці"
   },
-  "Connect Wallet": "Підключи гаманець",
   "header": {
     "Connect Wallet": "Підключити гаманець",
     "Create Offer is not supported with {{walletName}}": "{{walletName}} не підтримує створення пропозиції",
@@ -134,10 +133,11 @@
     "NFT": "НФТ",
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
-    "FAQ": "ЧаПи",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність</b>! Отримуй <b>dexie бакси</b>, додаючи пропозиції для стимульованих пар.",
     "Your Offers": "Твої пропозиції"
   },
+  "Connect Wallet": "Підключи гаманець",
   "connectModal": {
     "Not Installed": "Не встановлено",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Щоб налаштувати WalletConnect із Chia Desktop Wallet, натисніть код нижче, щоб скопіювати посилання на підключення",
@@ -157,7 +157,6 @@
     "Create Offer with {{walletName}}": "Створити пропозицію за допомогою {{walletName}}"
   },
   "footer": {
-    "Public API": "API",
     "Fees": "Комісія",
     "Privacy": "Конфіденційність",
     "Help translate": "Допоможіть перекласти",

@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Completado antes de la fecha de recogida",
     "Cancelled before collection date": "Cancelada antes de la fecha de recogida",
+    "Download Offer": "Descargar oferta",
+    "Offer copied": "",
+    "Copy to Clipboard": "Copiar al portapapeles",
     "Date Collected": "Fecha registrada",
     "dexie link": "enlace dexie",
     "Loading": "Cargando...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Ir a operaciones",
     "Requested": "Solicitado",
     "Offered": "Ofrecido",
-    "Download Offer": "Descargar oferta",
-    "Offer copied": "",
-    "Copy to Clipboard": "Copiar al portapapeles",
     "Remove from Your Offers": "Quitar de tus ofertas",
     "Status": "Estado",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -125,7 +125,6 @@
     "You Receive": "Usted Recibe",
     "Waiting for confirmation in your wallet": "Esperando por las confirmaciones en su monedero"
   },
-  "Connect Wallet": "Conectar monedero",
   "header": {
     "Connect Wallet": "Conectar monedero",
     "Create Offer is not supported with {{walletName}}": "",
@@ -133,10 +132,11 @@
     "NFT": "NFT",
     "Trade": "Operar",
     "Recent Trades": "Operaciones recientes",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "¡Presentamos <b>Recompensas de Liquidez</b>!  Gane <b>dexie bucks</b> agregando ofertas para pares comerciales incentivados.",
     "Your Offers": "Tus ofertas"
   },
+  "Connect Wallet": "Conectar monedero",
   "connectModal": {
     "Not Installed": "No instalada",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Para configurar WalletConnect con el monedero de escritorio de Chia, haga clic en el código a continuación para copiar el enlace de conexión",
@@ -156,7 +156,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "API Pública",
     "Fees": "",
     "Privacy": "",
     "Help translate": "Ayuda a traducir",

@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Completata prima della data di pubblicazione",
     "Cancelled before collection date": "Completata prima della data di pubblicazione",
+    "Download Offer": "Scarica Offerta",
+    "Offer copied": "Offerta copiata",
+    "Copy to Clipboard": "Copia sul clipboard",
     "Date Collected": "Data di inserimento",
     "dexie link": "Link a Dexie",
     "Loading": "Caricamento di corso...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Vai alle compravendite",
     "Requested": "Richiesto",
     "Offered": "Offerto",
-    "Download Offer": "Scarica Offerta",
-    "Offer copied": "Offerta copiata",
-    "Copy to Clipboard": "Copia sul clipboard",
     "Remove from Your Offers": "Rimuovi dalla tue offerte",
     "Status": "Stato",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "Le offerte obsolete non sono più supportate, se questa è la tua offerta, cortesemente cancellala e ricreala",
@@ -125,7 +125,6 @@
     "You Receive": "Ricevi",
     "Waiting for confirmation in your wallet": "In attesa di conferma dal Portafogli"
   },
-  "Connect Wallet": "Connetti il tuo wallet",
   "header": {
     "Connect Wallet": "Connetti il Portafogli",
     "Create Offer is not supported with {{walletName}}": "La creazione di offerte non è supportata con {{walletName}}",
@@ -133,10 +132,11 @@
     "NFT": "NFT",
     "Trade": "Compravendite",
     "Recent Trades": "Vendite Recenti",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "Ora con <b>Liquidity Rewards</b>! Ottieni <b>dexie bucks</b> utilizzando le offerte fuse automaticamente",
     "Your Offers": "Le tue offerte"
   },
+  "Connect Wallet": "Connetti il tuo wallet",
   "connectModal": {
     "Not Installed": "Non installato",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Per attivare il WalletConnect con il tuo Portafogli Desktop, Clicca il codice sotto per copiare il link di connessione",
@@ -156,7 +156,6 @@
     "Create Offer with {{walletName}}": "Crea offerta con {{walletName}}"
   },
   "footer": {
-    "Public API": "Public API",
     "Fees": "Commissioni",
     "Privacy": "",
     "Help translate": "Help translate",

@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "",
     "Cancelled before collection date": "",
+    "Download Offer": "",
+    "Offer copied": "",
+    "Copy to Clipboard": "",
     "Date Collected": "수집일",
     "dexie link": "덱시 링크",
     "Loading": "로딩중...",
@@ -75,9 +78,6 @@
     "Go to Trade": "",
     "Requested": "요청가",
     "Offered": "제안가",
-    "Download Offer": "",
-    "Offer copied": "",
-    "Copy to Clipboard": "",
     "Remove from Your Offers": "",
     "Status": "",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -123,7 +123,6 @@
     "You Receive": "",
     "Waiting for confirmation in your wallet": ""
   },
-  "Connect Wallet": "지갑 연동",
   "header": {
     "Connect Wallet": "",
     "Create Offer is not supported with {{walletName}}": "",
@@ -131,10 +130,11 @@
     "NFT": "",
     "Trade": "거래",
     "Recent Trades": "신규 거래",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "",
     "Your Offers": ""
   },
+  "Connect Wallet": "지갑 연동",
   "connectModal": {
     "Not Installed": "",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
@@ -154,7 +154,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "",
     "Fees": "",
     "Privacy": "",
     "Help translate": "",

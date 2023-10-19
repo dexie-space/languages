@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "Pengambilan Selesai sebelum tanggal",
     "Cancelled before collection date": "Pengambilan Dibatalkan sebelum tanggal",
+    "Download Offer": "Unduh Penawaran",
+    "Offer copied": "",
+    "Copy to Clipboard": "Salin ke papan klip",
     "Date Collected": "Tanggal dikumpulkan",
     "dexie link": "tautan dexie",
     "Loading": "Memuat...",
@@ -75,9 +78,6 @@
     "Go to Trade": "Pergi ke Perdagangan",
     "Requested": "Diminta",
     "Offered": "Ditawarkan",
-    "Download Offer": "Unduh Penawaran",
-    "Offer copied": "",
-    "Copy to Clipboard": "Salin ke papan klip",
     "Remove from Your Offers": "Hapus dari Penawaran Anda",
     "Status": "Status",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -123,7 +123,6 @@
     "You Receive": "Anda Menerima",
     "Waiting for confirmation in your wallet": "Menunggu konfirmasi di dompet Anda"
   },
-  "Connect Wallet": "Hubungkan Dompet",
   "header": {
     "Connect Wallet": "Hubungkan Dompet",
     "Create Offer is not supported with {{walletName}}": "",
@@ -131,10 +130,11 @@
     "NFT": "NFT",
     "Trade": "Berdagang",
     "Recent Trades": "Perdagangan Terbaru",
-    "FAQ": "FAQ",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "",
     "Your Offers": "Penawaran Anda"
   },
+  "Connect Wallet": "Hubungkan Dompet",
   "connectModal": {
     "Not Installed": "Tidak diinstall",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Untuk menyiapkan WalletConnect dengan Dompet Chia Desktop, klik Kode di bawah untuk menyalin tautan koneksi",
@@ -154,7 +154,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "Publik API",
     "Fees": "",
     "Privacy": "",
     "Help translate": "Membantu menerjemahkan",

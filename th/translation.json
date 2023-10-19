@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "",
     "Cancelled before collection date": "",
+    "Download Offer": "",
+    "Offer copied": "",
+    "Copy to Clipboard": "",
     "Date Collected": "วันที่ยื่นข้อเสนอ",
     "dexie link": "dexie link",
     "Loading": "กำลังโหลด...",
@@ -75,9 +78,6 @@
     "Go to Trade": "",
     "Requested": "ร้องขอ",
     "Offered": "นำเสนอ",
-    "Download Offer": "",
-    "Offer copied": "",
-    "Copy to Clipboard": "",
     "Remove from Your Offers": "",
     "Status": "",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "",
@@ -123,7 +123,6 @@
     "You Receive": "",
     "Waiting for confirmation in your wallet": ""
   },
-  "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
   "header": {
     "Connect Wallet": "",
     "Create Offer is not supported with {{walletName}}": "",
@@ -131,10 +130,11 @@
     "NFT": "",
     "Trade": "ซื้อขาย",
     "Recent Trades": "ซื้อขายล่าสุด",
-    "FAQ": "คำถามที่พบบ่อย",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "",
     "Your Offers": ""
   },
+  "Connect Wallet": "เชื่อมต่อกับกระเป๋าสตางค์",
   "connectModal": {
     "Not Installed": "",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
@@ -154,7 +154,6 @@
     "Create Offer with {{walletName}}": ""
   },
   "footer": {
-    "Public API": "",
     "Fees": "",
     "Privacy": "",
     "Help translate": "",

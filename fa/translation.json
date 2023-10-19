@@ -65,6 +65,9 @@
   "inspect": {
     "Completed before collection date": "قبل از تاریخ جمع آوری تکمیل شده است",
     "Cancelled before collection date": "قبل از تاریخ جمع آوری لغو شد",
+    "Download Offer": "ذخیره پیشنهاد",
+    "Offer copied": "پیشنهاد کپی شد",
+    "Copy to Clipboard": "کپی در حافظه",
     "Date Collected": "تاریخ دریافت شده",
     "dexie link": "لینک دکسی",
     "Loading": "بارکذاری...",
@@ -75,9 +78,6 @@
     "Go to Trade": "ورود به معامله",
     "Requested": "درخواست شد",
     "Offered": "پیشنهاد شد",
-    "Download Offer": "ذخیره پیشنهاد",
-    "Offer copied": "پیشنهاد کپی شد",
-    "Copy to Clipboard": "کپی در حافظه",
     "Remove from Your Offers": "از پیشنهادات خود حذف کنید",
     "Status": "وضعیت",
     "Legacy offers are no longer supported, if this is your offer, please cancel and recreate it": "پیشنهادات قدیمی دیگر پشتیبانی نمیشوند،اگر این پیشنهاد شمااست، لطفاً آن را لغوکرده و دوباره ایجاد کنید",
@@ -124,7 +124,6 @@
     "You Receive": "دریافتی شما",
     "Waiting for confirmation in your wallet": "در حال انتظار برای تایید در کیف پول شما"
   },
-  "Connect Wallet": "اتصال کیف پول",
   "header": {
     "Connect Wallet": "اتصال کیف پول",
     "Create Offer is not supported with {{walletName}}": "پشتیبانی نمیشود{{walletName}} ایجاد پیشنهاد با",
@@ -132,10 +131,11 @@
     "NFT": "ان اف تی",
     "Trade": "معامله",
     "Recent Trades": "معاملات انجام شده",
-    "FAQ": "پاسخ به سوالات",
+    "Docs": "",
     "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفتهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Your Offers": "پیشنهادهای شما"
   },
+  "Connect Wallet": "اتصال کیف پول",
   "connectModal": {
     "Not Installed": "نصب نشده",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "برای راه اندازی اتصال کیف پول با کیف پول برنامه چیا روی کد زیر کلیک کرده و لینک کیف پول را کپی کنید",
@@ -155,7 +155,6 @@
     "Create Offer with {{walletName}}": "{{walletName}} ایجاد پیشنهاد با"
   },
   "footer": {
-    "Public API": "رابط عمومی برنامه نویسی نرم افزار",
     "Fees": "کارمزدها",
     "Privacy": "حریم خصوصی",
     "Help translate": "همکاری برای ترجمه",
