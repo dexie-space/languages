@@ -157,7 +157,7 @@
   "footer": {
     "Public API": "API",
     "Fees": "",
-    "Privacy Policy": "",
+    "Privacy": "",
     "Help translate": "Hilf übersetzen",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Alle Blöcke sind voll ausgelastet, empfohlene Transaktionsgebühr: {{fee}} {{xch}}",
     "Status": "Status",

@@ -156,7 +156,7 @@
   "footer": {
     "Public API": "公共 API",
     "Fees": "",
-    "Privacy Policy": "",
+    "Privacy": "",
     "Help translate": "帮助翻译",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",

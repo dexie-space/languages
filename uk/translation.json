@@ -159,7 +159,7 @@
   "footer": {
     "Public API": "API",
     "Fees": "Комісія",
-    "Privacy Policy": "",
+    "Privacy": "",
     "Help translate": "Допоможіть перекласти",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",

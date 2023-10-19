@@ -161,7 +161,7 @@
   "footer": {
     "Public API": "API العامة",
     "Fees": "",
-    "Privacy Policy": "",
+    "Privacy": "",
     "Help translate": "مساعدة في الترجمة",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "يتم استخدام الكتل بالكامل ، ويوصى برسوم المعاملات: {{fee}} {{xch}}",
     "Status": "حالة",

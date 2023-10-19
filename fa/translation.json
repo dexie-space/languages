@@ -157,7 +157,7 @@
   "footer": {
     "Public API": "رابط عمومی برنامه نویسی نرم افزار",
     "Fees": "کارمزدها",
-    "Privacy Policy": "",
+    "Privacy": "",
     "Help translate": "همکاری برای ترجمه",
     "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "{{fee}} {{xch}}از بلاک ها به طور کامل استفاده میشود، کارمزد تراکنش توصیه شده",
     "Status": "وضعیت",
