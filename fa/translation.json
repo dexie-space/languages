@@ -137,6 +137,7 @@
   },
   "Connect Wallet": "اتصال کیف پول",
   "connectModal": {
+    "Not required for adding or downloading offers, but some features may only work when a wallet is connected": "",
     "Not Installed": "نصب نشده",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "برای راه اندازی اتصال کیف پول با کیف پول برنامه چیا روی کد زیر کلیک کرده و لینک کیف پول را کپی کنید",
     "Copy WalletConnect Link": "کپی لینک کیف پول",
