@@ -138,7 +138,7 @@
   },
   "Connect Wallet": "Connetti il tuo wallet",
   "connectModal": {
-    "Not required for adding or downloading offers, but some features may only work when a wallet is connected": "",
+    "Optional for adding or downloading offers, but some features may only work when a wallet is connected": "",
     "Not Installed": "Non installato",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Per attivare il WalletConnect con il tuo Portafogli Desktop, Clicca il codice sotto per copiare il link di connessione",
     "Copy WalletConnect Link": "Copia il link di connessione WalletConnect",
