@@ -136,7 +136,7 @@
   },
   "Connect Wallet": "Hubungkan Dompet",
   "connectModal": {
-    "A connected wallet is optional for adding or downloading offers, but some features may only work when one is connected": "",
+    "This is optional for adding or downloading offers, but some features may only work with a connected wallet": "",
     "Not Installed": "Tidak diinstall",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Untuk menyiapkan WalletConnect dengan Dompet Chia Desktop, klik Kode di bawah untuk menyalin tautan koneksi",
     "Copy WalletConnect Link": "Salin Tautan WalletConnect",

@@ -138,7 +138,7 @@
   },
   "Connect Wallet": "Conectar monedero",
   "connectModal": {
-    "A connected wallet is optional for adding or downloading offers, but some features may only work when one is connected": "",
+    "This is optional for adding or downloading offers, but some features may only work with a connected wallet": "",
     "Not Installed": "No instalada",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Para configurar WalletConnect con el monedero de escritorio de Chia, haga clic en el código a continuación para copiar el enlace de conexión",
     "Copy WalletConnect Link": "Copia el enlace de WalletConnect",
