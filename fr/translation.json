@@ -15,7 +15,6 @@
     "Contributors": "Contributeurs",
     "Dark Mode": "Mode Sombre",
     "Light Mode": "Mode Clair",
-    "Trade": "Echanger",
     "Trade History": "Historique d'échange",
     "Report NFT": "Reporter ce NFT",
     "Show on MintGarden": "Voir sur MintGarden",
@@ -30,6 +29,7 @@
     "NFT Collections": "Collections NFT",
     "Loading": "Chargement",
     "Add to Wallet": "Ajouter au Wallet",
+    "Trade": "Echanger",
     "Description": "Description",
     "Daily Volume": "Volume Journalier",
     "Website": "Site Web",
@@ -196,6 +196,7 @@
     "Newcomers": "Nouveaux arrivants"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "",
     "Mute": "Rendre Muet",
     "Muted Assets": "Actifs Muet",

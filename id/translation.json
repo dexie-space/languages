@@ -15,7 +15,6 @@
     "Contributors": "Kontributor",
     "Dark Mode": "Gelap",
     "Light Mode": "Terang",
-    "Trade": "Berdagang",
     "Trade History": "Riwayat Perdagangan",
     "Report NFT": "Laporkan NFT",
     "Show on MintGarden": "Tampilkan di MintGarden",
@@ -30,6 +29,7 @@
     "NFT Collections": "Koleksi NFT",
     "Loading": "Memuat ...",
     "Add to Wallet": "Tambahkan ke Dompet",
+    "Trade": "Berdagang",
     "Description": "Keterangan",
     "Daily Volume": "Volume Harian",
     "Website": "Situs Web",
@@ -194,6 +194,7 @@
     "Newcomers": "Pendatang baru"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "Aktifkan",
     "Mute": "Nonaktifkan",
     "Muted Assets": "",

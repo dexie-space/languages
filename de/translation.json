@@ -15,7 +15,6 @@
     "Contributors": "Mitwirkende",
     "Dark Mode": "Dunkel",
     "Light Mode": "Hell",
-    "Trade": "Handel",
     "Trade History": "Handelsverlauf",
     "Report NFT": "NFT melden",
     "Show on MintGarden": "zu MintGarden",
@@ -30,6 +29,7 @@
     "NFT Collections": "NFT Sammlungen",
     "Loading": "Laden ...",
     "Add to Wallet": "Zur Wallet hinzufügen",
+    "Trade": "Handel",
     "Description": "Beschreibung",
     "Daily Volume": "Tägliches Volumen",
     "Website": "Website",
@@ -195,6 +195,7 @@
     "Newcomers": "Newcomer"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "Anzeigen",
     "Mute": "Ausblenden",
     "Muted Assets": "",

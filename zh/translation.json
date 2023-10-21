@@ -15,7 +15,6 @@
     "Contributors": "投稿人",
     "Dark Mode": "暗黑模式",
     "Light Mode": "明亮模式",
-    "Trade": "交易",
     "Trade History": "交易记录",
     "Report NFT": "举报 NFT",
     "Show on MintGarden": "",
@@ -30,6 +29,7 @@
     "NFT Collections": "NFT 集合",
     "Loading": "加载中",
     "Add to Wallet": "",
+    "Trade": "交易",
     "Description": "描述",
     "Daily Volume": "每日交易量",
     "Website": "网站",
@@ -194,6 +194,7 @@
     "Newcomers": "新人"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "",
     "Mute": "",
     "Muted Assets": "",

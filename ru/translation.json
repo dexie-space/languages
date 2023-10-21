@@ -15,7 +15,6 @@
     "Contributors": "Авторы",
     "Dark Mode": "Темная",
     "Light Mode": "Светлая",
-    "Trade": "Торговля",
     "Trade History": "История торговли",
     "Report NFT": "Пожаловаться на НФТ",
     "Show on MintGarden": "Показать на MintGarden",
@@ -30,6 +29,7 @@
     "NFT Collections": "НФТ колекции",
     "Loading": "Загрузка...",
     "Add to Wallet": "Добавить в кошелек",
+    "Trade": "Торговля",
     "Description": "Описание",
     "Daily Volume": "Дневным объемом",
     "Website": "Веб-сайт",
@@ -197,6 +197,7 @@
     "Newcomers": "Новинки"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "Разблокировать",
     "Mute": "Заглушить",
     "Muted Assets": "Отключенные активы",

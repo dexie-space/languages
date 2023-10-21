@@ -15,7 +15,6 @@
     "Contributors": "",
     "Dark Mode": "",
     "Light Mode": "",
-    "Trade": "",
     "Trade History": "",
     "Report NFT": "",
     "Show on MintGarden": "",
@@ -30,6 +29,7 @@
     "NFT Collections": "",
     "Loading": "",
     "Add to Wallet": "",
+    "Trade": "",
     "Description": "",
     "Daily Volume": "",
     "Website": "",
@@ -195,6 +195,7 @@
     "Newcomers": ""
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "",
     "Mute": "",
     "Muted Assets": "",

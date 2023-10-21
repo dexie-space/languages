@@ -15,7 +15,6 @@
     "Contributors": "",
     "Dark Mode": "다크 모드",
     "Light Mode": "라이트 모드",
-    "Trade": "거래",
     "Trade History": "",
     "Report NFT": "",
     "Show on MintGarden": "",
@@ -30,6 +29,7 @@
     "NFT Collections": "",
     "Loading": "",
     "Add to Wallet": "",
+    "Trade": "거래",
     "Description": "",
     "Daily Volume": "",
     "Website": "",
@@ -194,6 +194,7 @@
     "Newcomers": ""
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "",
     "Mute": "",
     "Muted Assets": "",

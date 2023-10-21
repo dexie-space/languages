@@ -15,7 +15,6 @@
     "Contributors": "Автори",
     "Dark Mode": "Темна",
     "Light Mode": "Світла",
-    "Trade": "Торгівля",
     "Trade History": "Історія торгівлі",
     "Report NFT": "Поскаржитись на НФТ",
     "Show on MintGarden": "Переглянути на MintGarden",
@@ -30,6 +29,7 @@
     "NFT Collections": "НФТ колекції",
     "Loading": "Завантаження...",
     "Add to Wallet": "Додати до гаманця",
+    "Trade": "Торгівля",
     "Description": "Опис",
     "Daily Volume": "Добовий об'єм",
     "Website": "Веб-сайт",
@@ -197,6 +197,7 @@
     "Newcomers": "Новинки"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "Увімкнути",
     "Mute": "Вимкнути",
     "Muted Assets": "Вимкнуті активи",

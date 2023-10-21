@@ -15,7 +15,6 @@
     "Contributors": "مشارکت کنندگان",
     "Dark Mode": "تاریک",
     "Light Mode": "روشن",
-    "Trade": "معامله",
     "Trade History": "تاریخچه معاملات",
     "Report NFT": "گزارش ان اف تی",
     "Show on MintGarden": "MintGarden دیدن در",
@@ -30,6 +29,7 @@
     "NFT Collections": "مجموعه های ان اف تی",
     "Loading": "بارگذاری...",
     "Add to Wallet": "افزودن به کیف پول",
+    "Trade": "معامله",
     "Description": "توضیحات",
     "Daily Volume": "حجم روزانه",
     "Website": "صفحه وب",
@@ -195,6 +195,7 @@
     "Newcomers": "تازه واردان"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "خاموش نشده",
     "Mute": "خاموش",
     "Muted Assets": "دارایی های خاموش",

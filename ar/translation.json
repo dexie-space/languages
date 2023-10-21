@@ -15,7 +15,6 @@
     "Contributors": "المساهمون",
     "Dark Mode": "مظلم",
     "Light Mode": "خفيفة",
-    "Trade": "تجارة",
     "Trade History": "تاريخ التجارة",
     "Report NFT": "تقرير NFT",
     "Show on MintGarden": "",
@@ -30,6 +29,7 @@
     "NFT Collections": "مجموعات NFT",
     "Loading": "جار التحميل ...",
     "Add to Wallet": "",
+    "Trade": "تجارة",
     "Description": "الوصف",
     "Daily Volume": "الحجم اليومي",
     "Website": "موقع الكتروني",
@@ -199,6 +199,7 @@
     "Newcomers": "الوافدون الجدد"
   },
   "Assets": {
+    "Collection Overview": "",
     "Unmute": "",
     "Mute": "",
     "Muted Assets": "",
