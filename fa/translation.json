@@ -137,7 +137,7 @@
   },
   "Connect Wallet": "اتصال کیف پول",
   "connectModal": {
-    "Connecting your wallet enables additional functionality": "",
+    "Connecting your wallet enables additional functionality": "اتصال کیف پول شما قابلیت های بیشتری را فعال میکند",
     "Not Installed": "نصب نشده",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "برای راه اندازی اتصال کیف پول با کیف پول برنامه چیا روی کد زیر کلیک کرده و لینک کیف پول را کپی کنید",
     "Copy WalletConnect Link": "کپی لینک کیف پول",
@@ -195,7 +195,7 @@
     "Newcomers": "تازه واردان"
   },
   "Assets": {
-    "Collection Overview": "",
+    "Collection Overview": "نمای کلی مجموعه",
     "Unmute": "خاموش نشده",
     "Mute": "خاموش",
     "Muted Assets": "دارایی های خاموش",
@@ -351,9 +351,9 @@
     "Provide liquidity to earn DBX rewards": "نقدینگی را برای کسب پاداش های توکن دی بی ایکس فراهم کنید",
     "Incentives": "مشوق ها",
     "Asset Overview": "نمای کلی دارایی",
-    "Sell for {{bid}} {{code}} within {{level}}%": "%{{level}} با {{code}} {{bid}} فروش به قیمت",
+    "Sell for {{bid}} {{code}} within {{level}}%": "%{{level}}با{{code}} {{bid}}فروش به قیمت",
     "{{spread}}% Spread": "%{{spread}} فاصله",
-    "Buy for {{ask}} {{code}} within {{level}}%": "%{{level}} با {{code}} {{ask}} خرید به قیمت",
+    "Buy for {{ask}} {{code}} within {{level}}%": "%{{level}}با{{code}} {{ask}}خرید به قیمت",
     "no liquidity": "بدون نقدینگی",
     "All traded NFT collections, ranked by {{ranked}}": "{{ranked}} همه مجموعه های ان اف تی معامله شده، رتبه بندی شده توسط",
     "Collection": "مجموعه",
