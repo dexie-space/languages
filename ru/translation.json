@@ -133,13 +133,13 @@
     "NFT": "НФТ",
     "Trade": "Торговля",
     "Recent Trades": "Последние торги",
-    "Docs": "",
+    "Docs": "Документы",
     "bannerMessageLiquidityRewards": "Теперь с <b>вознаграждениями за ликвидность</b>! Зарабатывайте <b>декси-баксы</b>, добавляя предложения для поощрительных пар.",
     "Your Offers": "Твои предложения"
   },
   "Connect Wallet": "Подключите кошелек",
   "connectModal": {
-    "Connecting your wallet enables additional functionality": "",
+    "Connecting your wallet enables additional functionality": "Подключение кошелька открывает дополнительные функции",
     "Not Installed": "Не установлено",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Чтобы установить WalletConnect с кошельком Chia Wallet, нажмите на Код ниже, чтобы скопировать ссылку для подключения",
     "Copy WalletConnect Link": "Скопировать ссылку WalletConnect",
@@ -197,7 +197,7 @@
     "Newcomers": "Новинки"
   },
   "Assets": {
-    "Collection Overview": "",
+    "Collection Overview": "Обзор коллекции",
     "Unmute": "Разблокировать",
     "Mute": "Заглушить",
     "Muted Assets": "Отключенные активы",
