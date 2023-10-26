@@ -133,13 +133,13 @@
     "NFT": "НФТ",
     "Trade": "Торгівля",
     "Recent Trades": "Останні торги",
-    "Docs": "",
+    "Docs": "Документи",
     "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність</b>! Отримуй <b>dexie бакси</b>, додаючи пропозиції для стимульованих пар.",
     "Your Offers": "Твої пропозиції"
   },
   "Connect Wallet": "Підключи гаманець",
   "connectModal": {
-    "Connecting your wallet enables additional functionality": "",
+    "Connecting your wallet enables additional functionality": "Підключення гаманця надає додаткові функції",
     "Not Installed": "Не встановлено",
     "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Щоб налаштувати WalletConnect із Chia Desktop Wallet, натисніть код нижче, щоб скопіювати посилання на підключення",
     "Copy WalletConnect Link": "Копіювати посилання WalletConnect",
@@ -197,7 +197,7 @@
     "Newcomers": "Новинки"
   },
   "Assets": {
-    "Collection Overview": "",
+    "Collection Overview": "Огляд колекції",
     "Unmute": "Увімкнути",
     "Mute": "Вимкнути",
     "Muted Assets": "Вимкнуті активи",
