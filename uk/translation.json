@@ -217,7 +217,7 @@
     "Offered NFTs": "Пропоновані НФТ"
   },
   "offersTable": {
-    "Take": "Брати",
+    "Take": "Виконати",
     "Download Offer": "Завантажити пропозицію",
     "Copy Offer": "Копіювати пропозицію",
     "No Offers Found": "Пропозицію не знайдено",
@@ -228,9 +228,9 @@
     "offersCount_many": "<0>{{formattedCount}}</0> пропозицій",
     "offersCount_other": "<0>{{formattedCount}}</0> пропозиції",
     "Offers": "Пропозиції",
-    "Switch to Bid/Ask View": "",
-    "Switch to Single Side View": "",
-    "View": "",
+    "Switch to Bid/Ask View": "Перегляд попиту/пропозицій",
+    "Switch to Single Side View": "Переключитися на односторонній вигляд",
+    "View": "Перегляд",
     "Move the slider to sweep the best offers": "Перемістіть повзунок, щоб вибрати найкращі пропозиції",
     "Legacy offer, combination not supported": "Застаріла пропозиція, комбінація не підтримується",
     "This offer contains overlapping inputs or outputs and can not be added": "Ця пропозиція містить вхідні чи вихідні дані, що збігаються, і їх не можна додати",
