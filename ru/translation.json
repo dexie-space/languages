@@ -230,6 +230,7 @@
     "Offers": "Предложения",
     "Switch to Bid/Ask View": "",
     "Switch to Single Side View": "",
+    "View": "",
     "Move the slider to sweep the best offers": "Переместите ползунок, чтобы просмотреть лучшие предложения",
     "Legacy offer, combination not supported": "Устаревшее предложение, комбинация не поддерживается",
     "This offer contains overlapping inputs or outputs and can not be added": "Это предложение содержит перекрывающиеся входы или выходы и не может быть добавлено",
