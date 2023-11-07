@@ -69,7 +69,6 @@
     "Offer copied": "",
     "Copy to Clipboard": "",
     "Date Collected": "วันที่ยื่นข้อเสนอ",
-    "dexie link": "dexie link",
     "Loading": "กำลังโหลด...",
     "Offer not found or not supported": "",
     "Try raw offers archive": "",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "",
     "Royalties": "",
     "Raw Offer File": "ข้อมูลข้อเสนอ",
+    "dexie link": "dexie link",
     "Current Bid": "",
     "Make Bid": "",
     "Requested price is too high? The seller might accept your bid!": "",
@@ -138,7 +138,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "",
     "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",
@@ -246,11 +246,6 @@
   },
   "ribbon": {
     "Yours": ""
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "",
-    "Try Ozone Wallet": "",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": ""
   },
   "chart": {
     "Day": "วัน",

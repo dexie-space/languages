@@ -69,7 +69,6 @@
     "Offer copied": "Пропозицію скопійовано",
     "Copy to Clipboard": "Копіювати в буфер",
     "Date Collected": "Дата створення",
-    "dexie link": "dexie посилання",
     "Loading": "Завантаження...",
     "Offer not found or not supported": "Пропозиція не знайдена або не підтримується",
     "Try raw offers archive": "Спробуйте сирий архів пропозицій",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Скасовані комісійні",
     "Royalties": "Комісійні",
     "Raw Offer File": "Вміст файла пропозиції",
+    "dexie link": "dexie посилання",
     "Current Bid": "Поточна ставка",
     "Make Bid": "Зробити ставку",
     "Requested price is too high? The seller might accept your bid!": "Запитана ціна зависока? Продавець може прийняти вашу ставку!",
@@ -141,7 +141,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Підключення гаманця надає додаткові функції",
     "Not Installed": "Не встановлено",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Щоб налаштувати WalletConnect із Chia Desktop Wallet, натисніть код нижче, щоб скопіювати посилання на підключення",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "Копіювати посилання WalletConnect",
     "Cancel WalletConnect": "Скасувати WalletConnect",
     "Add with WalletConnect": "Додати з WalletConnect",
@@ -258,11 +258,6 @@
   },
   "ribbon": {
     "Yours": "Твої"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Відсканувати QR-код за допомогою гаманця Ozone, щоб прийняти",
-    "Try Ozone Wallet": "Спробувати гаманець Ozone",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Гаманець Ozone розроблений для транзакцій з XCH і CAT надійним і безпечним способом"
   },
   "chart": {
     "Day": "Добова",

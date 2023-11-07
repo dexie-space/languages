@@ -69,7 +69,6 @@
     "Offer copied": "Предложение скопировано",
     "Copy to Clipboard": "Копировать в буфер",
     "Date Collected": "Дата создания",
-    "dexie link": "dexie ссылка",
     "Loading": "Загрузка...",
     "Offer not found or not supported": "Предложение не найдено или не поддерживается",
     "Try raw offers archive": "Попробуйте архив необработанных предложений",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Отмененные роялти",
     "Royalties": "Роялти",
     "Raw Offer File": "Содержимое файла предложения",
+    "dexie link": "dexie ссылка",
     "Current Bid": "Текущая ставка",
     "Make Bid": "Сделать ставку",
     "Requested price is too high? The seller might accept your bid!": "Запрошенная цена слишком высока? Продавец может принять вашу ставку!",
@@ -141,7 +141,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Подключение кошелька открывает дополнительные функции",
     "Not Installed": "Не установлено",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Чтобы установить WalletConnect с кошельком Chia Wallet, нажмите на Код ниже, чтобы скопировать ссылку для подключения",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "Скопировать ссылку WalletConnect",
     "Cancel WalletConnect": "Отменить WalletConnect",
     "Add with WalletConnect": "Добавить с помощью WalletConnect",
@@ -258,11 +258,6 @@
   },
   "ribbon": {
     "Yours": "Твои"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Отсканировать QR-код с помощью кошелька Ozone, чтобы принять",
-    "Try Ozone Wallet": "Попробуйте кошелек Ozone",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Кошелек Ozone разработан для транзакций с XCH и CAT надежным и безопасным способом."
   },
   "chart": {
     "Day": "Суточный",

@@ -69,7 +69,6 @@
     "Offer copied": "",
     "Copy to Clipboard": "Salin ke papan klip",
     "Date Collected": "Tanggal dikumpulkan",
-    "dexie link": "tautan dexie",
     "Loading": "Memuat...",
     "Offer not found or not supported": "",
     "Try raw offers archive": "",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Royalti yang Dibatalka",
     "Royalties": "Royalti",
     "Raw Offer File": "File penawaran Raw",
+    "dexie link": "tautan dexie",
     "Current Bid": "Tawaran saat ini",
     "Make Bid": "Buat tawaran",
     "Requested price is too high? The seller might accept your bid!": "Harga yang diminta terlalu tinggi? Penjual mungkin menerima tawaran Anda!",
@@ -138,7 +138,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "",
     "Not Installed": "Tidak diinstall",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Untuk menyiapkan WalletConnect dengan Dompet Chia Desktop, klik Kode di bawah untuk menyalin tautan koneksi",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "Salin Tautan WalletConnect",
     "Cancel WalletConnect": "Batalkan WalletConnect",
     "Add with WalletConnect": "Tambahkan dengan WalletConnect",
@@ -246,11 +246,6 @@
   },
   "ribbon": {
     "Yours": "Milikmu"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Pindai kode QR dengan Ozon Walet untuk diterima",
-    "Try Ozone Wallet": "Coba Ozon Wallet",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozon Wallet dirancang untuk transaksi dengan XCH dan CAT dengan cara yang andal dan aman."
   },
   "chart": {
     "Day": "Hari",

@@ -69,7 +69,6 @@
     "Offer copied": "",
     "Copy to Clipboard": "نسخ إلى الحافظة",
     "Date Collected": "تاريخ الجمع",
-    "dexie link": "dexie link",
     "Loading": "جار التحميل...",
     "Offer not found or not supported": "",
     "Try raw offers archive": "",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "",
     "Royalties": "",
     "Raw Offer File": "ملف العرض الخام",
+    "dexie link": "dexie link",
     "Current Bid": "العطاء الحالي",
     "Make Bid": "قدم مناقصة",
     "Requested price is too high? The seller might accept your bid!": "السعر المطلوب مرتفع جدا؟ قد يقبل البائع مزايدتك!",
@@ -143,7 +143,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "",
     "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",
@@ -266,11 +266,6 @@
   },
   "ribbon": {
     "Yours": "خاصة بك"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "امسح كود QR باستخدام محفظة Ozone لقبوله",
-    "Try Ozone Wallet": "جرب محفظة Ozone",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "تم تصميم محفظة Ozone للمعاملات مع XCH و CATs بطريقة موثوقة وآمنة."
   },
   "chart": {
     "Day": "يوم",

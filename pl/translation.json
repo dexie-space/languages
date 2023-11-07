@@ -69,7 +69,6 @@
     "Offer copied": "",
     "Copy to Clipboard": "Skopiuj do schowka",
     "Date Collected": "Data dodania",
-    "dexie link": "Link do dexie",
     "Loading": "Ładowanie...",
     "Offer not found or not supported": "",
     "Try raw offers archive": "",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Anulowane tantiemy",
     "Royalties": "Tantiemy",
     "Raw Offer File": "Treść oferty",
+    "dexie link": "Link do dexie",
     "Current Bid": "Aktualna oferta",
     "Make Bid": "Złóż ofertę",
     "Requested price is too high? The seller might accept your bid!": "Uważasz, że proponowana cena jest zbyt wysoka? Być może sprzedawca zaakceptuje Twoją ofertę!",
@@ -141,7 +141,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "",
     "Not Installed": "Niezainstalowano",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Aby połączyć portfel Chia za pomocą WalletConnect, użyj kodu QR poniżej lub kliknij go, aby skopiować link do połączenia.",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "Skopiuj link WalletConnect",
     "Cancel WalletConnect": "Anuluj połączenie WalletConnect",
     "Add with WalletConnect": "Dodaj z WalletConnect",
@@ -258,11 +258,6 @@
   },
   "ribbon": {
     "Yours": "Twoja"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Zeskanuj kod QR w Ozone Wallet, aby zaakceptować.",
-    "Try Ozone Wallet": "Wypróbuj Ozone Wallet",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet służy do wykonywania transakcji XCH i CAT w niezawodny i bezpieczny sposób."
   },
   "chart": {
     "Day": "Dzień",

@@ -69,7 +69,6 @@
     "Offer copied": "",
     "Copy to Clipboard": "复制到剪贴板",
     "Date Collected": "日期已搜集",
-    "dexie link": "dexie链接",
     "Loading": "加载中...",
     "Offer not found or not supported": "",
     "Try raw offers archive": "",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "",
     "Royalties": "",
     "Raw Offer File": "原Offer文件",
+    "dexie link": "dexie链接",
     "Current Bid": "当前出价",
     "Make Bid": "出价",
     "Requested price is too high? The seller might accept your bid!": "要求的价格太高？ 卖家可能会接受您的出价！",
@@ -138,7 +138,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "",
     "Not Installed": "",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "",
     "Cancel WalletConnect": "",
     "Add with WalletConnect": "",
@@ -246,11 +246,6 @@
   },
   "ribbon": {
     "Yours": "你的"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "使用Ozone钱包扫描QR码接受",
-    "Try Ozone Wallet": "试试Ozone钱包",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone钱包专为以可靠和安全的方式与 XCH 和 CAT 进行交易而设计"
   },
   "chart": {
     "Day": "日",

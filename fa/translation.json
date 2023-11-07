@@ -69,7 +69,6 @@
     "Offer copied": "پیشنهاد کپی شد",
     "Copy to Clipboard": "کپی در حافظه",
     "Date Collected": "تاریخ دریافت شده",
-    "dexie link": "لینک دکسی",
     "Loading": "بارکذاری...",
     "Offer not found or not supported": "پیشنهاد پیدا نشد یا پشتیبانی نشد",
     "Try raw offers archive": "محتوای آرشیو پیشنهادات را امتحان کنید",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "حق امتیاز لغو شده",
     "Royalties": "حق امتیاز",
     "Raw Offer File": "محتوای فایل پیشنهادی",
+    "dexie link": "لینک دکسی",
     "Current Bid": "پیشنهاد فعلی",
     "Make Bid": "دادن پیشنهاد",
     "Requested price is too high? The seller might accept your bid!": "آیا قیمت درخواست شده زیاد است؟ پیشنهاد دهید شاید فروشنده پیشنهاد شما را بپذیرد",
@@ -139,7 +139,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "اتصال کیف پول شما قابلیت های بیشتری را فعال میکند",
     "Not Installed": "نصب نشده",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "برای راه اندازی اتصال کیف پول با کیف پول برنامه چیا روی کد زیر کلیک کرده و لینک کیف پول را کپی کنید",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "کپی لینک کیف پول",
     "Cancel WalletConnect": "لغو اتصال کیف پول",
     "Add with WalletConnect": "اقزودن با اتصال کیف پول",
@@ -250,11 +250,6 @@
   },
   "ribbon": {
     "Yours": "برای شما"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "برای تایید، بارکد را با کیف پول اوزون اسکن کنید",
-    "Try Ozone Wallet": "کیف پول اوزون را امتحان کنید",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "به روشی مطمئن و امن طراحی شده است XCH و CAT کیف پول اوزون برای تراکنش با"
   },
   "chart": {
     "Day": "روز",

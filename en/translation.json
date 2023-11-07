@@ -69,7 +69,6 @@
     "Offer copied": "Offer copied",
     "Copy to Clipboard": "Copy to Clipboard",
     "Date Collected": "Date Collected",
-    "dexie link": "dexie link",
     "Loading": "Loading...",
     "Offer not found or not supported": "Offer not found or not supported",
     "Try raw offers archive": "Try raw offers archive",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Cancelled Royalties",
     "Royalties": "Royalties",
     "Raw Offer File": "Raw Offer File",
+    "dexie link": "dexie link",
     "Current Bid": "Current Bid",
     "Make Bid": "Make a Bid",
     "Requested price is too high? The seller might accept your bid!": "Requested price is too high? The seller might accept your bid!",
@@ -139,7 +139,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Connecting your wallet enables additional functionality.",
     "Not Installed": "Not Installed",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link.",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link.",
     "Copy WalletConnect Link": "Copy WalletConnect Link",
     "Cancel WalletConnect": "Cancel WalletConnect",
     "Add with WalletConnect": "Add with WalletConnect",
@@ -250,11 +250,6 @@
   },
   "ribbon": {
     "Yours": "Yours"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Scan QR Code with Ozone Wallet to accept",
-    "Try Ozone Wallet": "Try Ozone Wallet",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way."
   },
   "chart": {
     "Day": "Day",

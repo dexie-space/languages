@@ -69,7 +69,6 @@
     "Offer copied": "Offerta copiata",
     "Copy to Clipboard": "Copia sul clipboard",
     "Date Collected": "Data di inserimento",
-    "dexie link": "Link a Dexie",
     "Loading": "Caricamento di corso...",
     "Offer not found or not supported": "Offerta non trovata o non supportata",
     "Try raw offers archive": "Prova l'archivio delle offerte grezze",
@@ -106,6 +105,7 @@
     "Cancelled Royalties": "Diritti d'autore cancellati",
     "Royalties": "Diritti d'autore",
     "Raw Offer File": "Inserisci qui il contenuto testuale del tuo file di offerta",
+    "dexie link": "Link a Dexie",
     "Current Bid": "Offerta corrente",
     "Make Bid": "Fai un offerta",
     "Requested price is too high? The seller might accept your bid!": "Il prezzo richiesto è troppo alto! Il venditore potrebbe accettare la tua offerta!",
@@ -140,7 +140,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Connettere il tuo wallet abilita funzionalità aggiuntive",
     "Not Installed": "Non installato",
-    "To set up WalletConnect with the Chia Desktop Wallet, click the Code below to copy the connection link": "Per attivare il WalletConnect con il tuo Portafogli Desktop, Clicca il codice sotto per copiare il link di connessione",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
     "Copy WalletConnect Link": "Copia il link di connessione WalletConnect",
     "Cancel WalletConnect": "Cancella WalletConnect",
     "Add with WalletConnect": "Aggiungi con WalletConnect",
@@ -254,11 +254,6 @@
   },
   "ribbon": {
     "Yours": "Le tue"
-  },
-  "ozoneModal": {
-    "Scan QR Code with Ozone Wallet to accept": "Scansione il QR Code con il portafogli Ozone per accettare",
-    "Try Ozone Wallet": "Prova il portafogli Ozone",
-    "Ozone Wallet is designed for transactions with XCH and CATs in a reliable and secure way": "Il portafogli Ozone è studiato per effettuare transazioni con XCH e CATs in modo sicuro e affidabile"
   },
   "chart": {
     "Day": "Giorno",
