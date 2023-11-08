@@ -140,7 +140,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Connettere il tuo wallet abilita funzionalità aggiuntive",
     "Not Installed": "Non installato",
-    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "Per abilitare WalletConnet con un wallet compatibile, clicca o scansiona il codice sotto per copiare il link di connessione",
     "Copy WalletConnect Link": "Copia il link di connessione WalletConnect",
     "Cancel WalletConnect": "Cancella WalletConnect",
     "Add with WalletConnect": "Aggiungi con WalletConnect",
