@@ -141,7 +141,7 @@
   "connectModal": {
     "Connecting your wallet enables additional functionality": "Подключение кошелька открывает дополнительные функции",
     "Not Installed": "Не установлено",
-    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "",
+    "To set up WalletConnect with any compatible wallet, click or scan the code below to copy the connection link": "Чтобы настроить WalletConnect с любым совместимым кошельком, щелкните или отсканируйте код ниже, чтобы скопировать ссылку для подключения",
     "Copy WalletConnect Link": "Скопировать ссылку WalletConnect",
     "Cancel WalletConnect": "Отменить WalletConnect",
     "Add with WalletConnect": "Добавить с помощью WalletConnect",
