@@ -393,15 +393,15 @@
     "Submit Report": "ارسال گزارش"
   },
   "trades": {
-    "Recommended Transaction Fee": "کارمزد تراکنش توصیه شده",
     "Tx Fee": "مالیات کارمزد",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
     "mempoolSize": "حافطه استخر تراکنش",
+    "Low Fee": "کارمزد کم",
     "No filters selected": "هیچ فیلتری انتخاب نشده است",
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
     "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (هزینه بیشتر = اولویت بیشتر)",
     "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
-    "Low Fee": "کارمزد کم",
     "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   },
   "uploadOffer": {

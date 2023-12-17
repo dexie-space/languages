@@ -393,15 +393,15 @@
     "Submit Report": "Submit Report"
   },
   "trades": {
-    "Recommended Transaction Fee": "Recommended Transaction Fee",
     "Tx Fee": "Tx Fee",
-    "mempoolExplanation": "Transactions that are currently waiting to be included into a block.",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "Fee per cost (currently recommended mojos per CLVM cost)",
+    "mempoolExplanation": "Transactions that are currently waiting to be included into a block",
     "mempoolSize": "Mempool",
+    "Low Fee": "Low Fee",
     "No filters selected": "No filters selected",
     "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
     "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
-    "Low Fee": "Low Fee",
     "Cancelled offers are only shown for the last 30 days": "Cancelled offers are only shown for the last 30 days."
   },
   "uploadOffer": {

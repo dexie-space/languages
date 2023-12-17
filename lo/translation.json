@@ -389,15 +389,15 @@
     "Submit Report": ""
   },
   "trades": {
-    "Recommended Transaction Fee": "",
     "Tx Fee": "",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
+    "Low Fee": "",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "",
     "Low Transaction Fee (low priority) {{fee}}": "",
-    "Low Fee": "",
     "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {

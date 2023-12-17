@@ -397,15 +397,15 @@
     "Submit Report": "Invia segnalazione"
   },
   "trades": {
-    "Recommended Transaction Fee": "Commissione di transazione consigliata",
     "Tx Fee": "Commissione di transazione",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
     "mempoolSize": "Mempool",
+    "Low Fee": "Commissione bassa",
     "No filters selected": "Nessun filtro selezionato",
     "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
     "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
-    "Low Fee": "Commissione bassa",
     "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
   },
   "uploadOffer": {

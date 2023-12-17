@@ -409,15 +409,15 @@
     "Submit Report": "إرسال التقرير"
   },
   "trades": {
-    "Recommended Transaction Fee": "رسوم المعاملات الموصى بها",
     "Tx Fee": "رسوم Tx",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
     "mempoolSize": "Mempool",
+    "Low Fee": "رسوم منخفضة",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "",
     "Transaction Fee (higher fee = higher priority)": "رسوم المعاملات (رسوم أعلى = أولوية أعلى)",
     "Low Transaction Fee (low priority) {{fee}}": "رسوم معاملات منخفضة (أولوية منخفضة): {{fee}}",
-    "Low Fee": "رسوم منخفضة",
     "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {

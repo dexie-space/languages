@@ -393,15 +393,15 @@
     "Submit Report": "Meldung abschicken"
   },
   "trades": {
-    "Recommended Transaction Fee": "Empfohlene Transaktionsgebühr",
     "Tx Fee": "Tx Gebühr",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
     "mempoolSize": "Mempool",
+    "Low Fee": "Geringe Gebühr",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "Verdächtige Handelsaktivitäten umschalten (Wash-Trading, Spam)",
     "Transaction Fee (higher fee = higher priority)": "Transaktionsgebühr (höhere Gebühr = höhere Priorität)",
     "Low Transaction Fee (low priority) {{fee}}": "Geringe Transaktionsgebühr (niedrige Priorität) {{fee}}",
-    "Low Fee": "Geringe Gebühr",
     "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {

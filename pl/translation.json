@@ -401,15 +401,15 @@
     "Submit Report": "Wyślij zgłoszenie"
   },
   "trades": {
-    "Recommended Transaction Fee": "Zalecana opłata transakcyjna",
     "Tx Fee": "Opłata transakcyjna",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "Transakcje, które aktualnie oczekują na zatwierdzenie w bloku.",
     "mempoolSize": "Mempool",
+    "Low Fee": "Niska opłata",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "Włącz/wyłącz podejrzane transakcje (wash trading, spam)",
     "Transaction Fee (higher fee = higher priority)": "Opłata transakcyjna (wyższa opłata = krótszy czas oczekiwania)",
     "Low Transaction Fee (low priority) {{fee}}": "Niska opłata transakcyjna (niski priorytet): {{fee}}",
-    "Low Fee": "Niska opłata",
     "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {
