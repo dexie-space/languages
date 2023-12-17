@@ -391,7 +391,7 @@
   },
   "trades": {
     "Tx Fee": "交易费",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Fee per cost (mojos per CLVM cost)": "",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "mempoolSize": "内存池数量",
     "Low Fee": "低费用",

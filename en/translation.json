@@ -395,7 +395,7 @@
   },
   "trades": {
     "Tx Fee": "Tx Fee",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "Fee per cost (currently recommended mojos per CLVM cost)",
+    "Fee per cost (mojos per CLVM cost)": "Fee per cost (mojos per CLVM cost)",
     "mempoolExplanation": "Transactions that are currently waiting to be included into a block",
     "mempoolSize": "Mempool",
     "Low Fee": "Low Fee",

@@ -391,7 +391,7 @@
   },
   "trades": {
     "Tx Fee": "Biaya TX",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Fee per cost (mojos per CLVM cost)": "",
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
     "mempoolSize": "Mempool",
     "Low Fee": "Biaya rendah",

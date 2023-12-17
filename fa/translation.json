@@ -395,7 +395,7 @@
   },
   "trades": {
     "Tx Fee": "مالیات کارمزد",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Fee per cost (mojos per CLVM cost)": "",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
     "mempoolSize": "حافطه استخر تراکنش",
     "Low Fee": "کارمزد کم",

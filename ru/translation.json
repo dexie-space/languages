@@ -403,7 +403,7 @@
   },
   "trades": {
     "Tx Fee": "комиссия",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Fee per cost (mojos per CLVM cost)": "",
     "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
     "mempoolSize": "размер мемпула",
     "Low Fee": "Низкая комиссия",

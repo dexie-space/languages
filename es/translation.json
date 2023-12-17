@@ -399,7 +399,7 @@
   },
   "trades": {
     "Tx Fee": "Tarifa de envío",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Fee per cost (mojos per CLVM cost)": "",
     "mempoolExplanation": "Transacciones que actualmente esperan ser incluidas en un bloque.",
     "mempoolSize": "Mempool",
     "Low Fee": "Tarifa baja",
