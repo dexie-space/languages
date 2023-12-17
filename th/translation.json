@@ -391,7 +391,7 @@
   },
   "trades": {
     "Tx Fee": "",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Transaction fee in mojos per CLVM cost": "",
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
     "mempoolSize": "Mempool",
     "Low Fee": "",

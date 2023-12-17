@@ -411,7 +411,7 @@
   },
   "trades": {
     "Tx Fee": "رسوم Tx",
-    "Fee per cost (currently recommended mojos per CLVM cost)": "",
+    "Transaction fee in mojos per CLVM cost": "",
     "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
     "mempoolSize": "Mempool",
     "Low Fee": "رسوم منخفضة",
