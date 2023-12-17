@@ -399,7 +399,7 @@
   },
   "trades": {
     "Tx Fee": "Commissione di transazione",
-    "Fee per cost (mojos per CLVM cost)": "",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
     "mempoolSize": "Mempool",
     "Low Fee": "Commissione bassa",

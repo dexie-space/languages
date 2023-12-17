@@ -403,7 +403,7 @@
   },
   "trades": {
     "Tx Fee": "Opłata transakcyjna",
-    "Fee per cost (mojos per CLVM cost)": "",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "Transakcje, które aktualnie oczekują na zatwierdzenie w bloku.",
     "mempoolSize": "Mempool",
     "Low Fee": "Niska opłata",

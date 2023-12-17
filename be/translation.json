@@ -403,7 +403,7 @@
   },
   "trades": {
     "Tx Fee": "",
-    "Fee per cost (mojos per CLVM cost)": "",
+    "Fee per cost (currently recommended mojos per CLVM cost)": "",
     "mempoolExplanation": "",
     "mempoolSize": "",
     "Low Fee": "",
