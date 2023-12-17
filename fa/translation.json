@@ -35,7 +35,7 @@
     "Website": "صفحه وب",
     "Friends": "دوستان",
     "Accept in Wallet": "تایید در کیف پول",
-    "Transaction Fees": "کارمزد معامله",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "شناسه تراکنش درحافطه استخر تراکنش",
     "Uploading": "در حال بارگذاری...",
     "Currently Offered": "درحال حاضر پیشنهاد شده",
@@ -333,6 +333,18 @@
     "question2": "برای سوالات بیشتر و یا نیاز به پشتیبانی چه کنم؟",
     "answer2": "<p class='my-5'>بصورت تمام وقت<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>ویا تماس با ما در توییتر در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a> برای کمک و همیاری همواره در خدمت هستیم. با بازدید ما در</p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "مالیات کارمزد",
+    "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
+    "mempoolSize": "حافطه استخر تراکنش",
+    "Low Fee": "کارمزد کم",
+    "No filters selected": "هیچ فیلتری انتخاب نشده است",
+    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
+    "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (هزینه بیشتر = اولویت بیشتر)",
+    "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
+  },
   "markets": {
     "{{market}} subheading": "نقدینگی جهت خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل 1",
     "Max {{slippage}}% Slippage": "حداکثر {{slippage}}% لغزش",
@@ -392,18 +404,6 @@
     "Some required fields are missing": "برخی از موارد مورد نیاز جا افتاده است",
     "Generating Report": "گزارش ایجاد کنید",
     "Submit Report": "ارسال گزارش"
-  },
-  "trades": {
-    "Tx Fee": "مالیات کارمزد",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
-    "mempoolSize": "حافطه استخر تراکنش",
-    "Low Fee": "کارمزد کم",
-    "No filters selected": "هیچ فیلتری انتخاب نشده است",
-    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
-    "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (هزینه بیشتر = اولویت بیشتر)",
-    "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "آدرس ایجاد کننده پیشنهاد در کیف پول متصل وجود ندارد",

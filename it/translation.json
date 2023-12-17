@@ -35,7 +35,7 @@
     "Website": "Sito Web",
     "Friends": "Amici",
     "Accept in Wallet": "Accetta nel Portafogli",
-    "Transaction Fees": "Costo di commissione",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "ID di transazione nella Mempool",
     "Uploading": "Caricamento in corso...",
     "Currently Offered": "Offerte Correnti",
@@ -337,6 +337,18 @@
     "question2": "Supporto o domande?",
     "answer2": "<p class='my-5'>Contattaci su Twitter a <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> o raggiungici su <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, siamo felici di poterti aiutare.</p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "Commissione di transazione",
+    "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
+    "mempoolSize": "Mempool",
+    "Low Fee": "Commissione bassa",
+    "No filters selected": "Nessun filtro selezionato",
+    "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
+    "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
+    "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
+  },
   "markets": {
     "{{market}} subheading": "Tutti gli asset conosciuti con almeno un {{market}} di liquidità in vendita",
     "Max {{slippage}}% Slippage": "Massimo {{slippage}}% di slittamento",
@@ -396,18 +408,6 @@
     "Some required fields are missing": "Mancano alcuni campi obbligatori",
     "Generating Report": "Generazione segnalazione in corso ...",
     "Submit Report": "Invia segnalazione"
-  },
-  "trades": {
-    "Tx Fee": "Commissione di transazione",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
-    "mempoolSize": "Mempool",
-    "Low Fee": "Commissione bassa",
-    "No filters selected": "Nessun filtro selezionato",
-    "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
-    "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
-    "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "L'indirizzo del creatore dell'offerta non esiste nel portafoglio connesso",

@@ -35,7 +35,7 @@
     "Website": "Situs Web",
     "Friends": "Teman",
     "Accept in Wallet": "Terima di Dompet",
-    "Transaction Fees": "Biaya transaksi",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "Mempool ID Transaksi",
     "Uploading": "Mengunggah...",
     "Currently Offered": "Saat ini Ditawarkan",
@@ -329,6 +329,18 @@
     "question2": "Dukungan atau pertanyaan?",
     "answer2": "<p class='my-5'>Hubungi kami di Twitter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> atau periksa kami <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, Kami selalu senang membantu.</p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "Biaya TX",
+    "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
+    "mempoolSize": "Mempool",
+    "Low Fee": "Biaya rendah",
+    "No filters selected": "Tidak ada filter yang dipilih",
+    "Toggle suspicious trades (wash trading, spam)": "Alihkan perdagangan yang mencurigakan (pencucian perdagangan, spam)",
+    "Transaction Fee (higher fee = higher priority)": "Biaya transaksi (biaya yang lebih tinggi = prioritas yang lebih tinggi)",
+    "Low Transaction Fee (low priority) {{fee}}": "Biaya transaksi rendah (prioritas rendah) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": "Penawaran yang dibatalkan hanya ditampilkan selama 30 hari terakhir"
+  },
   "markets": {
     "{{market}} subheading": "Semua aset yang diketahui dengan setidaknya 1 {{market}} Beli dan jual likuiditas.",
     "Max {{slippage}}% Slippage": "",
@@ -388,18 +400,6 @@
     "Some required fields are missing": "",
     "Generating Report": "Menghasilkan Laporan ...",
     "Submit Report": "Kirimkan laporan"
-  },
-  "trades": {
-    "Tx Fee": "Biaya TX",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
-    "mempoolSize": "Mempool",
-    "Low Fee": "Biaya rendah",
-    "No filters selected": "Tidak ada filter yang dipilih",
-    "Toggle suspicious trades (wash trading, spam)": "Alihkan perdagangan yang mencurigakan (pencucian perdagangan, spam)",
-    "Transaction Fee (higher fee = higher priority)": "Biaya transaksi (biaya yang lebih tinggi = prioritas yang lebih tinggi)",
-    "Low Transaction Fee (low priority) {{fee}}": "Biaya transaksi rendah (prioritas rendah) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Penawaran yang dibatalkan hanya ditampilkan selama 30 hari terakhir"
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "Alamat pembuat penawaran tidak ada di dompet yang terhubung",

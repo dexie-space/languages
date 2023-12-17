@@ -35,7 +35,7 @@
     "Website": "Website",
     "Friends": "Freunde",
     "Accept in Wallet": "In Wallet annehmen",
-    "Transaction Fees": "Transaktionsgebühr",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "Mempool Transaktions-ID",
     "Uploading": "Hochladen...",
     "Currently Offered": "Derzeit Angeboten",
@@ -333,6 +333,18 @@
     "question2": "Probleme oder Fragen?",
     "answer2": "<p class='my-5'>Schreib uns auf Twitter unter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> oder schau mal in unserem <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord Kanal</a> vorbei.</p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "Tx Gebühr",
+    "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
+    "mempoolSize": "Mempool",
+    "Low Fee": "Geringe Gebühr",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "Verdächtige Handelsaktivitäten umschalten (Wash-Trading, Spam)",
+    "Transaction Fee (higher fee = higher priority)": "Transaktionsgebühr (höhere Gebühr = höhere Priorität)",
+    "Low Transaction Fee (low priority) {{fee}}": "Geringe Transaktionsgebühr (niedrige Priorität) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": ""
+  },
   "markets": {
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",
     "Max {{slippage}}% Slippage": "",
@@ -392,18 +404,6 @@
     "Some required fields are missing": "",
     "Generating Report": "Meldung wird generiert",
     "Submit Report": "Meldung abschicken"
-  },
-  "trades": {
-    "Tx Fee": "Tx Gebühr",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
-    "mempoolSize": "Mempool",
-    "Low Fee": "Geringe Gebühr",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "Verdächtige Handelsaktivitäten umschalten (Wash-Trading, Spam)",
-    "Transaction Fee (higher fee = higher priority)": "Transaktionsgebühr (höhere Gebühr = höhere Priorität)",
-    "Low Transaction Fee (low priority) {{fee}}": "Geringe Transaktionsgebühr (niedrige Priorität) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "",

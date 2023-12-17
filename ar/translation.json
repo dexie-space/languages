@@ -35,7 +35,7 @@
     "Website": "موقع الكتروني",
     "Friends": "أصدقاء",
     "Accept in Wallet": "",
-    "Transaction Fees": "",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "معرف معاملة Mempool",
     "Uploading": "ذاهبين للأعلى...",
     "Currently Offered": "عرضت حاليا",
@@ -349,6 +349,18 @@
     "question2": "دعم أم أسئلة؟",
     "answer2": "<p class='my-5'> اتصل بنا على Twitter على <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> أو تحقق من <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'> قناة الخلاف </a> ، نحن يسعدنا دائمًا تقديم المساعدة. </p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "رسوم Tx",
+    "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
+    "mempoolSize": "Mempool",
+    "Low Fee": "رسوم منخفضة",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
+    "Transaction Fee (higher fee = higher priority)": "رسوم المعاملات (رسوم أعلى = أولوية أعلى)",
+    "Low Transaction Fee (low priority) {{fee}}": "رسوم معاملات منخفضة (أولوية منخفضة): {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": ""
+  },
   "markets": {
     "{{market}} subheading": "جميع الأصول المعروفة بسيولة شراء وبيع واحدة من {{market}} على الأقل.",
     "Max {{slippage}}% Slippage": "",
@@ -408,18 +420,6 @@
     "Some required fields are missing": "",
     "Generating Report": "جاري إنشاء التقرير ...",
     "Submit Report": "إرسال التقرير"
-  },
-  "trades": {
-    "Tx Fee": "رسوم Tx",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
-    "mempoolSize": "Mempool",
-    "Low Fee": "رسوم منخفضة",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "",
-    "Transaction Fee (higher fee = higher priority)": "رسوم المعاملات (رسوم أعلى = أولوية أعلى)",
-    "Low Transaction Fee (low priority) {{fee}}": "رسوم معاملات منخفضة (أولوية منخفضة): {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": ""
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "",

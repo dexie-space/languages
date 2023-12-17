@@ -35,7 +35,7 @@
     "Website": "Веб-сайт",
     "Friends": "Друзья",
     "Accept in Wallet": "Принять в кошелек",
-    "Transaction Fees": "Комиссии за транзакции",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "Идентификатор транзакции Мемпула",
     "Uploading": "Выгрузка...",
     "Currently Offered": "Предложение",
@@ -341,6 +341,18 @@
     "question2": "Есть вопросы?",
     "answer2": "<p class='my-5'>Свяжитесь с нами в Twitter по адресу <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> или проверьте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, мы всегда рады помочь.</p>"
   },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Tx Fee": "комиссия",
+    "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
+    "mempoolSize": "размер мемпула",
+    "Low Fee": "Низкая комиссия",
+    "No filters selected": "Фильтры не выбраны",
+    "Toggle suspicious trades (wash trading, spam)": "Отключение подозрительных сделок (грязная торговля, спам)",
+    "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
+    "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30\u00a0дней."
+  },
   "markets": {
     "{{market}} subheading": "Показаны все известные активы по крайней мере 1 {{market}} ликвидностью.",
     "Max {{slippage}}% Slippage": "Максимально {{slippage}}% проскальзывание",
@@ -400,18 +412,6 @@
     "Some required fields are missing": "Некоторые обязательные поля отсутствуют",
     "Generating Report": "Создать жалобу",
     "Submit Report": "Отправить жалобу"
-  },
-  "trades": {
-    "Tx Fee": "комиссия",
-    "Transaction fee in mojos per CLVM cost": "",
-    "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
-    "mempoolSize": "размер мемпула",
-    "Low Fee": "Низкая комиссия",
-    "No filters selected": "Фильтры не выбраны",
-    "Toggle suspicious trades (wash trading, spam)": "Отключение подозрительных сделок (грязная торговля, спам)",
-    "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
-    "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30\u00a0дней."
   },
   "uploadOffer": {
     "Offer creator address does not exist in connected wallet": "Адрес создателя предложения не существует в подключенном кошельке",
