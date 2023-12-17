@@ -91,6 +91,7 @@
     "Confirmed at Block": "Підтверджено в блоку",
     "Number of confirmations": "Кількість підтверджень",
     "attached": "додається",
+    "total cost": "",
     "Cancelled Maker Inputs": "Скасовані вхідні пропозиції творцем",
     "Maker Inputs": "Вхідні того хто створив",
     "Taker Inputs": "Вхідні того хто приймає",

@@ -91,6 +91,7 @@
     "Confirmed at Block": "Bestätigt in Block",
     "Number of confirmations": "Anzahl der Bestätigungen",
     "attached": "angehängt",
+    "total cost": "",
     "Cancelled Maker Inputs": "Stornierte Maker-Eingänge",
     "Maker Inputs": "Maker-Eingänge",
     "Taker Inputs": "Taker-Eingänge",

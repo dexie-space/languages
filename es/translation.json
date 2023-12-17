@@ -91,6 +91,7 @@
     "Confirmed at Block": "Confirmado en el bloque",
     "Number of confirmations": "Número de confirmaciones",
     "attached": "adjuntado",
+    "total cost": "",
     "Cancelled Maker Inputs": "Entradas del hacedor canceladas",
     "Maker Inputs": "Entradas del hacedor",
     "Taker Inputs": "Entradas del toamdor",

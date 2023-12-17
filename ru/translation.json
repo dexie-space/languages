@@ -91,6 +91,7 @@
     "Confirmed at Block": "Подтверждено в блоке",
     "Number of confirmations": "Количество подтверждений",
     "attached": "прилагается",
+    "total cost": "",
     "Cancelled Maker Inputs": "Отмененные вводные данные того кто создал",
     "Maker Inputs": "Вводные данные того кто создал",
     "Taker Inputs": "Вводные данные того кто принимает",
