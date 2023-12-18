@@ -351,9 +351,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "رسوم Tx",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
-    "mempoolSize": "Mempool",
+    "Mempool": "",
     "Low Fee": "رسوم منخفضة",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "",

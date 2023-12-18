@@ -331,9 +331,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "Biaya TX",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "Transaksi yang saat ini menunggu untuk dimasukkan ke dalam blok.",
-    "mempoolSize": "Mempool",
+    "Mempool": "",
     "Low Fee": "Biaya rendah",
     "No filters selected": "Tidak ada filter yang dipilih",
     "Toggle suspicious trades (wash trading, spam)": "Alihkan perdagangan yang mencurigakan (pencucian perdagangan, spam)",

@@ -335,9 +335,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "Transaction fee in mojos per CLVM cost",
-    "Tx Fee": "Tx Fee",
+    "Optimal Fee": "Optimal Fee",
+    "Fee Rate": "Fee Rate",
     "mempoolExplanation": "Transactions that are waiting to be included into a block",
-    "mempoolSize": "Mempool",
+    "Mempool": "Mempool",
     "Low Fee": "Low Fee",
     "No filters selected": "No filters selected",
     "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",

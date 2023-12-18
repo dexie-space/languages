@@ -331,9 +331,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
-    "mempoolSize": "Mempool",
+    "Mempool": "",
     "Low Fee": "",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "",

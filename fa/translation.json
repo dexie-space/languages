@@ -335,9 +335,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "مالیات کارمزد",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
-    "mempoolSize": "حافطه استخر تراکنش",
+    "Mempool": "",
     "Low Fee": "کارمزد کم",
     "No filters selected": "هیچ فیلتری انتخاب نشده است",
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",

@@ -343,9 +343,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "комісія",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
-    "mempoolSize": "розмір мемпулу",
+    "Mempool": "",
     "Low Fee": "Низька комісія",
     "No filters selected": "Не вибрано жодного фільтра",
     "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",

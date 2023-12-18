@@ -331,9 +331,10 @@
   },
   "trades": {
     "Transaction fee in mojos per CLVM cost": "",
-    "Tx Fee": "交易费",
+    "Optimal Fee": "",
+    "Fee Rate": "",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
-    "mempoolSize": "内存池数量",
+    "Mempool": "",
     "Low Fee": "低费用",
     "No filters selected": "",
     "Toggle suspicious trades (wash trading, spam)": "",
