@@ -35,7 +35,7 @@
     "Website": "网站",
     "Friends": "朋友们",
     "Accept in Wallet": "",
-    "Transaction Fee": "",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "内存池交易 ID",
     "Uploading": "上传中...",
     "Currently Offered": "当前提供的",
@@ -160,12 +160,23 @@
     "Fees": "",
     "Privacy": "",
     "Help translate": "帮助翻译",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "区块已被充分利用，推荐交易费用 {{fee}} {{xch}}",
     "Status": "状态",
     "synced": "已同步",
     "disconnected": "已断开连接",
     "connecting": "链接中",
     "More": ""
+  },
+  "trades": {
+    "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Fee Rate": "",
+    "mempoolExplanation": "当前等待打包到区块的转账数量",
+    "Mempool": "",
+    "Low Fee": "低费用",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": ""
   },
   "nft": {
     "No Preview Available": "预览不可用",
@@ -329,19 +340,6 @@
     "answer1": "<p class='my-5'>dexie是一个Chia offer文件的点对点交易所，Offer文件完全去中心化并无需信任。</p><p class='my-5'>dexie并不托管任何硬币，硬币将一直在maker的钱包里直到offer被接受, 这时资产在maker和taker之间通过一次交易，安全的在区块链上进行了转移，无需任何中间商。</p><p class='my-5'>请到Chia官方网址了解更多关于offer文件的解释。<a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "如何获得支持和帮助?",
     "answer2": "<p class='my-5'>请通过我们的推特联系我们 <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> 或者加入我们的Discord社区 <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, 我们将很高兴提供帮助。</p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "",
-    "Optimal Fee": "",
-    "Fee Rate": "",
-    "mempoolExplanation": "当前等待打包到区块的转账数量",
-    "Mempool": "",
-    "Low Fee": "低费用",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "",
-    "Transaction Fee (higher fee = higher priority)": "交易费用（更高的费用=更高的优先级）",
-    "Low Transaction Fee (low priority) {{fee}}": "低交易费（低优先级）{{fee}}",
-    "Cancelled offers are only shown for the last 30 days": ""
   },
   "markets": {
     "{{market}} subheading": "显示至少有1{{market}}买卖流动性的所有已知资产。",

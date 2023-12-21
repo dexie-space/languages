@@ -35,7 +35,7 @@
     "Website": "صفحه وب",
     "Friends": "دوستان",
     "Accept in Wallet": "تایید در کیف پول",
-    "Transaction Fee": "کارمزد معامله",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "شناسه تراکنش درحافطه استخر تراکنش",
     "Uploading": "در حال بارگذاری...",
     "Currently Offered": "درحال حاضر پیشنهاد شده",
@@ -161,12 +161,23 @@
     "Fees": "کارمزدها",
     "Privacy": "حریم خصوصی",
     "Help translate": "همکاری برای ترجمه",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "{{fee}} {{xch}}از بلاک ها به طور کامل استفاده میشود، کارمزد تراکنش توصیه شده",
     "Status": "وضعیت",
     "synced": "سینک شده",
     "disconnected": "قطع شده",
     "connecting": "درحال اتصال",
     "More": "بیشتر"
+  },
+  "trades": {
+    "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Fee Rate": "نرخ کارمزد",
+    "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
+    "Mempool": "حافطه استخر تراکنش",
+    "Low Fee": "کارمزد کم",
+    "No filters selected": "هیچ فیلتری انتخاب نشده است",
+    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   },
   "nft": {
     "No Preview Available": "پیش نمایش موجود نیست",
@@ -333,19 +344,6 @@
     "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است که امکان تبادل غیرمترکز دارایی ها را در بلاک چین چیا فراهم میکند</p><p class='my-4'>پیشنهادات به صورت همتا به همتا تسویه میشود و نیازی به واسطه ندارد.کد بلاک چین اجبار میکند که تراکنش تنها در صورتی با موفقیت انجام شود</p><p class='my-4'>که دارایی های پیشنهادی و درخواستی به طور همزمان منتقل شوند.همه معامله گران همیشه کنترل کامل دارایی خود را دارند</p><p class='my-4'> درباره چگونگی ایجاد پیشنهاد در وب سایت رسمی <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>  فایل های  چیا  </a> بیشتر بیاموزید</p>",
     "question2": "برای سوالات بیشتر و یا نیاز به پشتیبانی چه کنم؟",
     "answer2": "<p class='my-5'>بصورت تمام وقت<a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a>ویا تماس با ما در توییتر در <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a> برای کمک و همیاری همواره در خدمت هستیم. با بازدید ما در</p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "کارمزد تراکنش در موجو به ازای هر هزینه سی ال وی ام",
-    "Optimal Fee": "کارمزد بهینه",
-    "Fee Rate": "نرخ کارمزد",
-    "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
-    "Mempool": "حافطه استخر تراکنش",
-    "Low Fee": "کارمزد کم",
-    "No filters selected": "هیچ فیلتری انتخاب نشده است",
-    "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
-    "Transaction Fee (higher fee = higher priority)": "کارمزد تراکنش (هزینه بیشتر = اولویت بیشتر)",
-    "Low Transaction Fee (low priority) {{fee}}": ":کمترین کارمزد تراکنش (اولویت کم) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   },
   "markets": {
     "{{market}} subheading": "نقدینگی جهت خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل 1",
