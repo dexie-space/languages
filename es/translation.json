@@ -169,9 +169,8 @@
     "More": "Más"
   },
   "trades": {
-    "Optimal Fee": "",
-    "Blockchain fee in mojos per CLVM cost": "",
     "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
     "Fee Rate": "",
     "mempoolExplanation": "Transacciones que actualmente esperan ser incluidas en un bloque.",
     "Mempool": "",

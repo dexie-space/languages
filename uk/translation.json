@@ -170,9 +170,8 @@
     "More": "більше"
   },
   "trades": {
-    "Optimal Fee": "Оптимальна комісія",
-    "Blockchain fee in mojos per CLVM cost": "",
     "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
     "Fee Rate": "Комісійна ставка",
     "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
     "Mempool": "Мемпул",

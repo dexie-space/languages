@@ -167,9 +167,8 @@
     "More": ""
   },
   "trades": {
-    "Optimal Fee": "",
-    "Blockchain fee in mojos per CLVM cost": "",
     "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
     "Fee Rate": "",
     "mempoolExplanation": "当前等待打包到区块的转账数量",
     "Mempool": "",

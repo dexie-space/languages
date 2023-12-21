@@ -168,9 +168,8 @@
     "More": "بیشتر"
   },
   "trades": {
-    "Optimal Fee": "کارمزد بهینه",
-    "Blockchain fee in mojos per CLVM cost": "",
     "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
     "Fee Rate": "نرخ کارمزد",
     "mempoolExplanation": "تراکنش هایی که در حال حاضر در انتظار گنجاندن در یک بلاک هستند",
     "Mempool": "مم پول",
