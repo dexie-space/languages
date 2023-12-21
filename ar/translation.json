@@ -35,7 +35,7 @@
     "Website": "موقع الكتروني",
     "Friends": "أصدقاء",
     "Accept in Wallet": "",
-    "Transaction Fee": "",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "معرف معاملة Mempool",
     "Uploading": "ذاهبين للأعلى...",
     "Currently Offered": "عرضت حاليا",
@@ -165,12 +165,24 @@
     "Fees": "",
     "Privacy": "",
     "Help translate": "مساعدة في الترجمة",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "يتم استخدام الكتل بالكامل ، ويوصى برسوم المعاملات: {{fee}} {{xch}}",
     "Status": "حالة",
     "synced": "تمت مزامنتها",
     "disconnected": "انقطع الاتصال",
     "connecting": "توصيل",
     "More": ""
+  },
+  "trades": {
+    "Optimal Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Blockchain Fee": "",
+    "Fee Rate": "",
+    "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
+    "Mempool": "",
+    "Low Fee": "رسوم منخفضة",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": ""
   },
   "nft": {
     "No Preview Available": "لا تتوفر معاينة",
@@ -349,19 +361,6 @@
     "answer1": "<p class='my-5'> dexie هو تبادل نظير إلى نظير لملفات عرض Chia. ملفات العروض لا مركزية تمامًا وغير موثوقة. </p> <p class='my-5'> لا تحتفظ dexie بأي عملات معدنية ، فهي تظل دائمًا في محفظة الشركة المصنعة حتى يتم قبول العرض ، وعند هذه النقطة تصبح الأصول نقلها بشكل آمن بين المُصنِّع والمتلقي خلال معاملة واحدة على blockchain دون أي وسيط. </p> <p class='my-5'> تعرف على المزيد حول ملفات العروض في <a class='text-nice underline' الرسمية href='https://chialisp.com/offers' target='_ blank' rel='noreferrer'> وثائق Chia </a>. </p>",
     "question2": "دعم أم أسئلة؟",
     "answer2": "<p class='my-5'> اتصل بنا على Twitter على <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> أو تحقق من <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'> قناة الخلاف </a> ، نحن يسعدنا دائمًا تقديم المساعدة. </p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "",
-    "Optimal Fee": "",
-    "Fee Rate": "",
-    "mempoolExplanation": "المعاملات التي تنتظر حاليًا ليتم تضمينها في الكتلة.",
-    "Mempool": "",
-    "Low Fee": "رسوم منخفضة",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "",
-    "Transaction Fee (higher fee = higher priority)": "رسوم المعاملات (رسوم أعلى = أولوية أعلى)",
-    "Low Transaction Fee (low priority) {{fee}}": "رسوم معاملات منخفضة (أولوية منخفضة): {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": ""
   },
   "markets": {
     "{{market}} subheading": "جميع الأصول المعروفة بسيولة شراء وبيع واحدة من {{market}} على الأقل.",
