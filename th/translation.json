@@ -35,7 +35,7 @@
     "Website": "",
     "Friends": "",
     "Accept in Wallet": "",
-    "Blockchain Fee": "",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "",
     "Uploading": "กำลังอัพโหลด...",
     "Currently Offered": "",
@@ -160,22 +160,12 @@
     "Fees": "",
     "Privacy": "",
     "Help translate": "",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "",
     "Status": "สถานะ",
     "synced": "เชื่อมต่อ",
     "disconnected": "ขาดการเชื่อมต่อ",
-    "connecting": "กำลังเชื่อมต่อ"
-  },
-  "trades": {
-    "Blockchain Fee": "",
-    "Blockchain fee in mojos per CLVM cost": "",
-    "Fee Rate": "",
-    "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
-    "Mempool": "",
-    "Low Fee": "",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "",
-    "Low Blockchain Fee (low priority) {{fee}}": "",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "connecting": "กำลังเชื่อมต่อ",
+    "More": ""
   },
   "nft": {
     "No Preview Available": "",
@@ -339,6 +329,19 @@
     "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "Support or Questions?",
     "answer2": "<p class='my-5'>Contact us on twitter at <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> or check our <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, we are always happy to help.</p>"
+  },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Optimal Fee": "",
+    "Fee Rate": "",
+    "mempoolExplanation": "จำนวนธุรกรรมที่กำลังรอการถูกรวมเข้าไปในบล็อค",
+    "Mempool": "",
+    "Low Fee": "",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "",
+    "Transaction Fee (higher fee = higher priority)": "",
+    "Low Transaction Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": ""
   },
   "markets": {
     "{{market}} subheading": "สินทรัพย์ทั้งหมดที่มีการซื้อขายหรือสภาพคล่องอย่างน้อย 1 {{market}}",

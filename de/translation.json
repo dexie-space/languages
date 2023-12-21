@@ -35,7 +35,7 @@
     "Website": "Website",
     "Friends": "Freunde",
     "Accept in Wallet": "In Wallet annehmen",
-    "Blockchain Fee": "",
+    "Transaction Fee": "",
     "Mempool Transaction ID": "Mempool Transaktions-ID",
     "Uploading": "Hochladen...",
     "Currently Offered": "Derzeit Angeboten",
@@ -161,22 +161,12 @@
     "Fees": "",
     "Privacy": "",
     "Help translate": "Hilf übersetzen",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Alle Blöcke sind voll ausgelastet, empfohlene Transaktionsgebühr: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synchronisiert",
     "disconnected": "getrennt",
-    "connecting": "verbinde"
-  },
-  "trades": {
-    "Blockchain Fee": "",
-    "Blockchain fee in mojos per CLVM cost": "",
-    "Fee Rate": "",
-    "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
-    "Mempool": "",
-    "Low Fee": "Geringe Gebühr",
-    "No filters selected": "",
-    "Toggle suspicious trades (wash trading, spam)": "Verdächtige Handelsaktivitäten umschalten (Wash-Trading, Spam)",
-    "Low Blockchain Fee (low priority) {{fee}}": "",
-    "Cancelled offers are only shown for the last 30 days": ""
+    "connecting": "verbinde",
+    "More": "Mehr"
   },
   "nft": {
     "No Preview Available": "Keine Vorschau verfügbar",
@@ -343,6 +333,19 @@
     "answer1": "<p class='my-5'>dexie ist ein dezentraler Peer-to-Peer Handelsmarkt für Chia Offer Files. Offer Files sind kleine Dateien, die mit der <a class='text-nice underline' href='https://www.chia.net/download/' target='_blank' rel='noreferrer'>Chia Wallet</a> erstellt werden und ein signiertes Tauschangebot von Kryptowährungen auf der Chia Blockchain enthalten.</p><p class='my-5'>Diese Dateien lassen sich auf dexie hochladen und für andere auffindbar machen. Sobald ein Tauschangebot angenommen wird, werden die Beträge beider Seiten innerhalb einer einzigen Transaktion auf der Blockchain übertragen.</p><p class='my-5'>Da die Transaktion nur erfolgreich ist, wenn alle Beträge  übertragen wurden, ist kein Vertrauen zwischen den Händlern erforderlich. Das System wird daher auch als <i>trustless and decentralized</i> bezeichnet.</p><p class='my-5'>Erfahre mehr über Offer Files in der offiziellen <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Dokumentation</a> (englisch).</p>",
     "question2": "Probleme oder Fragen?",
     "answer2": "<p class='my-5'>Schreib uns auf Twitter unter <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> oder schau mal in unserem <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord Kanal</a> vorbei.</p>"
+  },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "",
+    "Optimal Fee": "",
+    "Fee Rate": "",
+    "mempoolExplanation": "Anzahl der Transaktionen, die darauf warten verarbeitet zu werden.",
+    "Mempool": "",
+    "Low Fee": "Geringe Gebühr",
+    "No filters selected": "",
+    "Toggle suspicious trades (wash trading, spam)": "Verdächtige Handelsaktivitäten umschalten (Wash-Trading, Spam)",
+    "Transaction Fee (higher fee = higher priority)": "Transaktionsgebühr (höhere Gebühr = höhere Priorität)",
+    "Low Transaction Fee (low priority) {{fee}}": "Geringe Transaktionsgebühr (niedrige Priorität) {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": ""
   },
   "markets": {
     "{{market}} subheading": "Alle bekannten Währungen mit mindestens 1 {{market}} Kauf- und Verkaufsliquidität.",

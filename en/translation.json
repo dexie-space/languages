@@ -35,7 +35,7 @@
     "Website": "Website",
     "Friends": "Friends",
     "Accept in Wallet": "Accept in Wallet",
-    "Blockchain Fee": "Blockchain Fee",
+    "Transaction Fee": "Transaction Fee",
     "Mempool Transaction ID": "Mempool Transaction ID",
     "Uploading": "Uploading...",
     "Currently Offered": "Currently Offered",
@@ -161,22 +161,12 @@
     "Fees": "Fees",
     "Privacy": "Privacy",
     "Help translate": "Help translate",
+    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Blocks are fully utilized, recommended transaction fee: {{fee}} {{xch}}",
     "Status": "Status",
     "synced": "synced",
     "disconnected": "disconnected",
-    "connecting": "connecting"
-  },
-  "trades": {
-    "Blockchain Fee": "Blockchain Fee",
-    "Blockchain fee in mojos per CLVM cost": "Blockchain fee in mojos per CLVM cost",
-    "Fee Rate": "Fee Rate",
-    "mempoolExplanation": "Transactions that are waiting to be included into a block",
-    "Mempool": "Mempool",
-    "Low Fee": "Low Fee",
-    "No filters selected": "No filters selected",
-    "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",
-    "Low Blockchain Fee (low priority) {{fee}}": "Low Blockchain Fee (low priority) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Cancelled offers are only shown for the last 30 days."
+    "connecting": "connecting",
+    "More": "More"
   },
   "nft": {
     "No Preview Available": "No Preview Available",
@@ -343,6 +333,19 @@
     "answer1": "<p class='my-4'>dexie is an aggregator for Chia offers, which enable true peer-to-peer trading.</p><p class='my-4'>Chia offers are small files that contain a partial transaction involving a requested and offered trade amount. When another party adds the requested amount, the transaction becomes complete and can be settled on the <a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>Chia blockchain</a>.</p><p class='my-4'>dexie is not an intermediary; all transactions are settled directly between maker and taker. Both stay in full control of their funds at all times, making dexie a fully non-custodial platform.</p><p class='my-4'>Learn more about offers in the official <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
     "question2": "Support or Questions?",
     "answer2": "<p class='my-5'>Contact us on twitter at <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> or check our <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, we are always happy to help.</p>"
+  },
+  "trades": {
+    "Transaction fee in mojos per CLVM cost": "Transaction fee in mojos per CLVM cost",
+    "Optimal Fee": "Optimal Fee",
+    "Fee Rate": "Fee Rate",
+    "mempoolExplanation": "Transactions that are waiting to be included into a block",
+    "Mempool": "Mempool",
+    "Low Fee": "Low Fee",
+    "No filters selected": "No filters selected",
+    "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)",
+    "Transaction Fee (higher fee = higher priority)": "Transaction Fee (higher fee = higher priority)",
+    "Low Transaction Fee (low priority) {{fee}}": "Low Transaction Fee (low priority): {{fee}}",
+    "Cancelled offers are only shown for the last 30 days": "Cancelled offers are only shown for the last 30 days."
   },
   "markets": {
     "{{market}} subheading": "Displaying all tradable assets with at least 1 {{market}} buy and sell liquidity.",
