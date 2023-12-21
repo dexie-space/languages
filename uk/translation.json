@@ -35,7 +35,7 @@
     "Website": "Веб-сайт",
     "Friends": "Друзі",
     "Accept in Wallet": "Прийняти в гаманці",
-    "Transaction Fee": "Комісія за транзакцію",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "Ідентифікатор транзакції Мемпулу",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Пропозиція",
@@ -163,12 +163,22 @@
     "Fees": "Комісія",
     "Privacy": "Конфіденційність",
     "Help translate": "Допоможіть перекласти",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки використовуються повністю, рекомендована комісія за транзакцію {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронізовано",
     "disconnected": "відключено",
-    "connecting": "підключено",
-    "More": "більше"
+    "connecting": "підключено"
+  },
+  "trades": {
+    "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Fee Rate": "Комісійна ставка",
+    "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
+    "Mempool": "Мемпул",
+    "Low Fee": "Низька комісія",
+    "No filters selected": "Не вибрано жодного фільтра",
+    "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": "Скасовані пропозиції відображаються лише за останні 30 днів"
   },
   "nft": {
     "No Preview Available": "Попередній перегляд недоступний",
@@ -341,19 +351,6 @@
     "answer1": "<p class='my-4'>dexie — це агрегатор пропозицій Chia на <a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>блокчейні Chia</a>.</p><p class='my-4'>Пропозиції Chia — це невеликі файли, які містять часткову транзакцію, що включає затребувану та запропоновану суму торгівлі. Коли інша сторона додає затребувану суму, транзакція стає завершеною та може бути розрахована в<a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>,блокчейні Chia</a>.</p><p class='my-4'>dexie не є посередником; усі транзакції розраховуються безпосередньо між тим хто надає і отримує. Обидва зберігають повний контроль над їхніми коштами в будь-який час, що робить dexie платформою, яка повністю не кастодіальна.</p><p class='my-4'>Дізнайтеся більше про пропозиції в офіційній<a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Документації Chia</a>.</p>",
     "question2": "Маєте запитання?",
     "answer2": "<p class='my-5'>Зв'яжіться з нами в Twitter за адресою <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> або перевірте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, ми завжди раді допомогти.</p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "Комісія за транзакцію в mojo за вартість CLVM",
-    "Optimal Fee": "Оптимальна комісія",
-    "Fee Rate": "Комісійна ставка",
-    "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
-    "Mempool": "Мемпул",
-    "Low Fee": "Низька комісія",
-    "No filters selected": "Не вибрано жодного фільтра",
-    "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",
-    "Transaction Fee (higher fee = higher priority)": "Комісія за транзакцію (вища комісія = вищий пріоритет)",
-    "Low Transaction Fee (low priority) {{fee}}": "Низька комісія за транзакцію (низький пріоритет) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Скасовані пропозиції відображаються лише за останні 30 днів"
   },
   "markets": {
     "{{market}} subheading": "Показано всі відомі активи з принаймні 1 {{market}} ліквідністю.",

@@ -35,7 +35,7 @@
     "Website": "Sito Web",
     "Friends": "Amici",
     "Accept in Wallet": "Accetta nel Portafogli",
-    "Transaction Fee": "Costi di Commissione",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "ID di transazione nella Mempool",
     "Uploading": "Caricamento in corso...",
     "Currently Offered": "Offerte Correnti",
@@ -162,12 +162,22 @@
     "Fees": "Commissioni",
     "Privacy": "Privacy",
     "Help translate": "Help translate",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "I blocchi sono sovraccarichi di transazioni in attesa, si raccomanda una commissione minima di {{fee}} {{xch}}",
     "Status": "Stato",
     "synced": "Sincronizzato",
     "disconnected": "Disconnesso",
-    "connecting": "Connessione in corso:",
-    "More": "Di più"
+    "connecting": "Connessione in corso:"
+  },
+  "trades": {
+    "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Fee Rate": "Rate di commissione",
+    "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
+    "Mempool": "Mempool",
+    "Low Fee": "Commissione bassa",
+    "No filters selected": "Nessun filtro selezionato",
+    "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
   },
   "nft": {
     "No Preview Available": "Nessuna anteprima disponibile",
@@ -337,19 +347,6 @@
     "answer1": "<p class='my-5'>Dexie è un Exchange peer-to-peer per i file delle offerte Chia. I file delle offerte sono completamente decentralizzati e affidabili.</p><p class='my-5'>Dexie non detiene in custodia alcuna moneta, queste rimangono sempre nel portafogli dell'utente fino a quando l'offerta non viene accettata, a quel punto le risorse vengono trasferite in modo sicuro tra il venditore e l'acquirente all'interno di un'unica transazione sulla blockchain senza alcun intermediario.</p><p class='my-5'>Scopri i vantaggi dei file offerta sul sito ufficiale della <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>documentazione di Chia Network</a>.</p>",
     "question2": "Supporto o domande?",
     "answer2": "<p class='my-5'>Contattaci su Twitter a <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> o raggiungici su <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, siamo felici di poterti aiutare.</p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "Commissione di Transazione in Mojo per costo CLVM",
-    "Optimal Fee": "Commissione ottimale",
-    "Fee Rate": "Rate di commissione",
-    "mempoolExplanation": "Le transazioni sono in attesa di essere incluse in un blocco",
-    "Mempool": "Mempool",
-    "Low Fee": "Commissione bassa",
-    "No filters selected": "Nessun filtro selezionato",
-    "Toggle suspicious trades (wash trading, spam)": "Attività sospette (wash trading, spam)",
-    "Transaction Fee (higher fee = higher priority)": "Commissione di transazione (Commissione alta=priorità alta)",
-    "Low Transaction Fee (low priority) {{fee}}": "Commissione di transazione bassa (bassa priorità) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Le offerte annullate vengono mostrate solo per gli ultimi 30 giorni"
   },
   "markets": {
     "{{market}} subheading": "Tutti gli asset conosciuti con almeno un {{market}} di liquidità in vendita",

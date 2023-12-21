@@ -35,7 +35,7 @@
     "Website": "Веб-сайт",
     "Friends": "Друзья",
     "Accept in Wallet": "Принять в кошелек",
-    "Transaction Fee": "",
+    "Blockchain Fee": "",
     "Mempool Transaction ID": "Идентификатор транзакции Мемпула",
     "Uploading": "Выгрузка...",
     "Currently Offered": "Предложение",
@@ -163,12 +163,22 @@
     "Fees": "Комиссия",
     "Privacy": "Конфиденциальность",
     "Help translate": "Помогите перевести",
-    "Blocks are fully utilized, recommended transaction fee {{fee}} {{xch}}": "Блоки используются полностью, рекомендована комиссия по транзакции {{fee}} {{xch}}",
     "Status": "Статус",
     "synced": "синхронизировано",
     "disconnected": "отключено",
-    "connecting": "подключено",
-    "More": "Больше"
+    "connecting": "подключено"
+  },
+  "trades": {
+    "Blockchain Fee": "",
+    "Blockchain fee in mojos per CLVM cost": "",
+    "Fee Rate": "",
+    "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
+    "Mempool": "",
+    "Low Fee": "Низкая комиссия",
+    "No filters selected": "Фильтры не выбраны",
+    "Toggle suspicious trades (wash trading, spam)": "Отключение подозрительных сделок (грязная торговля, спам)",
+    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30\u00a0дней."
   },
   "nft": {
     "No Preview Available": "Предварительный просмотр недоступен",
@@ -341,19 +351,6 @@
     "answer1": "<p class='my-4'>dexie\u00a0— агрегатор предложений Chia, который обеспечивает настоящую одноранговую торговлю.</p><p class='my-4'>Предложения Chia – это небольшие файлы, содержащие частичную транзакцию, включающую требуемую и предложенную сумму торговли. Когда другая сторона добавляет требуемую сумму, транзакция становится завершенной и может быть рассчитана в<a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>Chia блокчейн</a>.</p><p class='my-4'>dexie не является посредником; все транзакции осуществляются напрямую между мейкером и тейкером. Оба всегда полностью контролируют свои средства, что делает dexie полностью некастодиальной платформой.</p><p class='my-4'>Узнайте больше о предложениях в официальной<a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>документации Chia</a>.</p>",
     "question2": "Есть вопросы?",
     "answer2": "<p class='my-5'>Свяжитесь с нами в Twitter по адресу <a class='text-nice underline' href='https://twitter.com/dexie_space' target='_blank' rel='noreferrer'>@dexie_space</a> или проверьте наш <a class='text-nice underline' href='https://discord.gg/3xUrkAxUmd' target='_blank' rel='noreferrer'>discord channel</a>, мы всегда рады помочь.</p>"
-  },
-  "trades": {
-    "Transaction fee in mojos per CLVM cost": "",
-    "Optimal Fee": "",
-    "Fee Rate": "",
-    "mempoolExplanation": "Транзакции, которые в данный момент ожидают включения в блок",
-    "Mempool": "",
-    "Low Fee": "Низкая комиссия",
-    "No filters selected": "Фильтры не выбраны",
-    "Toggle suspicious trades (wash trading, spam)": "Отключение подозрительных сделок (грязная торговля, спам)",
-    "Transaction Fee (higher fee = higher priority)": "Комиссия за транзакцию (чем больше комиссия = тем высший приоритет)",
-    "Low Transaction Fee (low priority) {{fee}}": "Низкая комиссия за транзакцию (низкий приоритет) {{fee}}",
-    "Cancelled offers are only shown for the last 30 days": "Отмененные предложения отображаются только за последние 30\u00a0дней."
   },
   "markets": {
     "{{market}} subheading": "Показаны все известные активы по крайней мере 1 {{market}} ликвидностью.",
