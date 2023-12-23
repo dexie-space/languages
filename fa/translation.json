@@ -4,6 +4,21 @@
     "Offer successfully indexed": "پیشنهاد با موفقیت فهرست شد",
     "Error uploading offer": "خطا در بارگذاری پیشنهاد"
   },
+  "bumpFee": {
+    "Bump Blockchain Fee": "",
+    "New fee submitted, it may take a moment until the new fee is fully propagated": "",
+    "You won't be charged if the fee bump was unsuccessful": "",
+    "Create an offer that offers 1 mojo and attach the desired fee": "",
+    "example": "",
+    "Offer Amount": "",
+    "Request Amount": "",
+    "leave empty": "",
+    "Attach Recommended Fee": "",
+    "Do not set an expiration for the offer and avoid sharing it elsewhere": "",
+    "Paste the offer here": "",
+    "Close": "",
+    "Merge and Bump Fee": ""
+  },
   "common": {
     "CLIPPED": "بسته شده",
     "Search Tokens, NFTs or enter Address": "جستجو برای توکن یا ان اف تی و یا با وارد نمودن آدرس",
@@ -93,6 +108,7 @@
     "attached": "پیوست شده است",
     "total cost": "هزینه کل",
     "Unknown Final Fee": "",
+    "Bump Fee": "",
     "Cancelled Maker Inputs": "ورودی های سازنده لغو شد",
     "Maker Inputs": "ورودی های سازنده",
     "Taker Inputs": "ورودی های گیرنده",

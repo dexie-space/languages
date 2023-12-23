@@ -4,6 +4,21 @@
     "Offer successfully indexed": "Offre indexée avec succès",
     "Error uploading offer": "Erreur de l'upload de l'offre"
   },
+  "bumpFee": {
+    "Bump Blockchain Fee": "",
+    "New fee submitted, it may take a moment until the new fee is fully propagated": "",
+    "You won't be charged if the fee bump was unsuccessful": "",
+    "Create an offer that offers 1 mojo and attach the desired fee": "",
+    "example": "",
+    "Offer Amount": "",
+    "Request Amount": "",
+    "leave empty": "",
+    "Attach Recommended Fee": "",
+    "Do not set an expiration for the offer and avoid sharing it elsewhere": "",
+    "Paste the offer here": "",
+    "Close": "",
+    "Merge and Bump Fee": ""
+  },
   "common": {
     "CLIPPED": "COPIÉE",
     "Search Tokens, NFTs or enter Address": "Rechercher des jetons, NFTs ou entrer une Adresse",
@@ -93,6 +108,7 @@
     "attached": "attachés",
     "total cost": "",
     "Unknown Final Fee": "",
+    "Bump Fee": "",
     "Cancelled Maker Inputs": "Entrées du Créateur Annulées",
     "Maker Inputs": "Entrées du Créateur",
     "Taker Inputs": "Entrées du Preneur",

@@ -4,6 +4,21 @@
     "Offer successfully indexed": "Offer successfully indexed",
     "Error uploading offer": "Error uploading offer"
   },
+  "bumpFee": {
+    "Bump Blockchain Fee": "Bump Blockchain Fee",
+    "New fee submitted, it may take a moment until the new fee is fully propagated": "New fee submitted, it may take a moment until the new fee is fully propagated.",
+    "You won't be charged if the fee bump was unsuccessful": "You won't be charged if the fee bump was unsuccessful.",
+    "Create an offer that offers 1 mojo and attach the desired fee": "Create an offer that offers 1 mojo and attach the desired fee.",
+    "example": "example",
+    "Offer Amount": "Offer Amount",
+    "Request Amount": "Request Amount",
+    "leave empty": "leave empty",
+    "Attach Recommended Fee": "Attach Recommended Fee",
+    "Do not set an expiration for the offer and avoid sharing it elsewhere": "Do not set an expiration for the offer and avoid sharing it elsewhere.",
+    "Paste the offer here": "Paste the offer here",
+    "Close": "Close",
+    "Merge and Bump Fee": "Merge and Bump Fee"
+  },
   "common": {
     "CLIPPED": "CLIPPED",
     "Search Tokens, NFTs or enter Address": "Search Tokens, NFTs or enter Address",
@@ -93,6 +108,7 @@
     "attached": "attached",
     "total cost": "total cost",
     "Unknown Final Fee": "Unknown Final Fee",
+    "Bump Fee": "Bump Fee",
     "Cancelled Maker Inputs": "Cancelled Maker Inputs",
     "Maker Inputs": "Maker Inputs",
     "Taker Inputs": "Taker Inputs",
