@@ -35,7 +35,7 @@
     "Website": "Веб-сайт",
     "Friends": "Друзі",
     "Accept in Wallet": "Прийняти в гаманці",
-    "Blockchain Fee": "",
+    "Blockchain Fee": "Комісія блокчейну",
     "Mempool Transaction ID": "Ідентифікатор транзакції Мемпулу",
     "Uploading": "Вивантаження...",
     "Currently Offered": "Пропозиція",
@@ -92,7 +92,7 @@
     "Number of confirmations": "Кількість підтверджень",
     "attached": "додається",
     "total cost": "загальна вартість",
-    "Unknown Final Fee": "",
+    "Unknown Final Fee": "Остаточна комісія невідома",
     "Cancelled Maker Inputs": "Скасовані вхідні пропозиції творцем",
     "Maker Inputs": "Вхідні того хто створив",
     "Taker Inputs": "Вхідні того хто приймає",
@@ -170,15 +170,15 @@
     "More": "більше"
   },
   "trades": {
-    "Blockchain Fee": "",
-    "Blockchain fee in mojos per CLVM cost": "",
+    "Blockchain Fee": "Комісія блокчейну",
+    "Blockchain fee in mojos per CLVM cost": "Блокчейн комісія у mojos за вартість CLVM",
     "Fee Rate": "Комісійна ставка",
     "mempoolExplanation": "Транзакції, які зараз очікують на включення в блок.",
     "Mempool": "Мемпул",
     "Low Fee": "Низька комісія",
     "No filters selected": "Не вибрано жодного фільтра",
     "Toggle suspicious trades (wash trading, spam)": "Вимкнути підозрілі угоди (шахрайство, спам)",
-    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Low Blockchain Fee (low priority) {{fee}}": "Низька комісія за блокчейн (низький пріоритет) {{fee}}",
     "Cancelled offers are only shown for the last 30 days": "Скасовані пропозиції відображаються лише за останні 30 днів"
   },
   "nft": {
