@@ -83,7 +83,7 @@
     "Website": "صفحه وب",
     "Friends": "دوستان",
     "Accept in Wallet": "تایید در کیف پول",
-    "Blockchain Fee": "",
+    "Blockchain Fee": "کارمزد بلاک چین",
     "Mempool Transaction ID": "شناسه تراکنش درحافطه استخر تراکنش",
     "Uploading": "در حال بارگذاری...",
     "Currently Offered": "درحال حاضر پیشنهاد شده",
@@ -225,7 +225,7 @@
     "Low Fee": "کارمزد کم",
     "No filters selected": "هیچ فیلتری انتخاب نشده است",
     "Toggle suspicious trades (wash trading, spam)": "معاملات مشکوک را تغییر دهید (معاملات شفاف یا هرزنامه)",
-    "Low Blockchain Fee (low priority) {{fee}}": "",
+    "Low Blockchain Fee (low priority) {{fee}}": "{{fee}} کارمزد پایین بلاک چین (اولویت پایین)",
     "Cancelled offers are only shown for the last 30 days": "پیشنهاد های لغو شده فقط برای 30 روز قبل نمایش داده میشود"
   },
   "nft": {
@@ -411,7 +411,7 @@
     "Asset Overview": "نمای کلی دارایی",
     "Sell for {{bid}} {{code}} within {{level}}%": "فروش for {{bid}} {{code}} within {{level}}%",
     "{{spread}}% Spread": "{{spread}}% Spread",
-    "Buy for {{ask}} {{code}} within {{level}}%": "Buy for {{ask}} {{code}} within {{level}}%",
+    "Buy for {{ask}} {{code}} within {{level}}%": "خرید for {{ask}} {{code}} within {{level}}%",
     "no liquidity": "بدون نقدینگی",
     "All traded NFT collections, ranked by {{ranked}}": "{{ranked}} همه مجموعه های ان اف تی معامله شده، رتبه بندی شده توسط",
     "Collection": "مجموعه",
