@@ -178,10 +178,10 @@
     "Web3 Wallet": ""
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
-    "Please wait": "",
-    "Request Available Assets": ""
+    "Getting Wallet Informations": "",
+    "Please wait": ""
   },
   "faq": {
     "answer1": "",
@@ -314,6 +314,7 @@
     "Loading from origin": "",
     "Metadata Hash": "",
     "Metadata URIs": "",
+    "Mint on Demand": "",
     "Name unavailable": "",
     "Newcomers": "",
     "NFT Address": "",
@@ -400,6 +401,7 @@
     "Asset added": "",
     "gobyError4001": "",
     "gobyError4900": "",
+    "Insufficient funds": "",
     "Offer accepted": "",
     "Offer rejected": "",
     "Please reconnect your wallet to perform this action": "",

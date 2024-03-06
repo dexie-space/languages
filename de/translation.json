@@ -179,10 +179,10 @@
     "Web3 Wallet": "Web3 Wallet"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
-    "Please wait": "Bitte warten ...",
-    "Request Available Assets": ""
+    "Getting Wallet Informations": "",
+    "Please wait": "Bitte warten ..."
   },
   "faq": {
     "answer1": "<p class='my-5'>dexie ist ein dezentraler Peer-to-Peer Handelsmarkt für Chia Offer Files. Offer Files sind kleine Dateien, die mit der <a class='text-nice underline' href='https://www.chia.net/download/' target='_blank' rel='noreferrer'>Chia Wallet</a> erstellt werden und ein signiertes Tauschangebot von Kryptowährungen auf der Chia Blockchain enthalten.</p><p class='my-5'>Diese Dateien lassen sich auf dexie hochladen und für andere auffindbar machen. Sobald ein Tauschangebot angenommen wird, werden die Beträge beider Seiten innerhalb einer einzigen Transaktion auf der Blockchain übertragen.</p><p class='my-5'>Da die Transaktion nur erfolgreich ist, wenn alle Beträge  übertragen wurden, ist kein Vertrauen zwischen den Händlern erforderlich. Das System wird daher auch als <i>trustless and decentralized</i> bezeichnet.</p><p class='my-5'>Erfahre mehr über Offer Files in der offiziellen <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Dokumentation</a> (englisch).</p>",
@@ -316,6 +316,7 @@
     "Loading from origin": "",
     "Metadata Hash": "Metadata Has",
     "Metadata URIs": "Metadata URIs",
+    "Mint on Demand": "",
     "Name unavailable": "",
     "Newcomers": "Newcomer",
     "NFT Address": "NFT Adresse",
@@ -404,6 +405,7 @@
     "Asset added": "Asset hinzugefügt",
     "gobyError4001": "Bitte richte erst Goby ein",
     "gobyError4900": "Goby ist nicht verbunden",
+    "Insufficient funds": "",
     "Offer accepted": "Angebot angenommen",
     "Offer rejected": "Angebot abgelehnt",
     "Please reconnect your wallet to perform this action": "",

@@ -178,10 +178,10 @@
     "Web3 Wallet": ""
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
-    "Please wait": "โปรดรอสักครู่",
-    "Request Available Assets": ""
+    "Getting Wallet Informations": "",
+    "Please wait": "โปรดรอสักครู่"
   },
   "faq": {
     "answer1": "<p class='my-5'>dexie is a peer-to-peer exchange for Chia offer files. Offer files are completely decentralized and trustless.</p><p class='my-5'>dexie holds no custody of coins, they always stay in the wallet of the maker until the offer is accepted, at which point the assets are transferred securely between the maker and taker within a single transaction on the blockchain without any intermediary.</p><p class='my-5'>Learn more about offer files in the official <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -314,6 +314,7 @@
     "Loading from origin": "",
     "Metadata Hash": "",
     "Metadata URIs": "",
+    "Mint on Demand": "",
     "Name unavailable": "",
     "Newcomers": "",
     "NFT Address": "",
@@ -400,6 +401,7 @@
     "Asset added": "",
     "gobyError4001": "โปรดติดตั้ง Goby ให้เสร็จก่อน",
     "gobyError4900": "ไม่ได้เชื่อมต่อกับ Goby",
+    "Insufficient funds": "",
     "Offer accepted": "ข้อเสนอได้รับการตอบรับแล้ว",
     "Offer rejected": "",
     "Please reconnect your wallet to perform this action": "",

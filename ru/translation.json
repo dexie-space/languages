@@ -181,10 +181,10 @@
     "Web3 Wallet": "Web3 Кошелек"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "Создать предложение с помощью {{walletName}}",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "Для торговли доступны только активы в вашем кошельке, перейдите в активы, чтобы добавить больше",
-    "Please wait": "Пожалуйста, подождите",
-    "Request Available Assets": "Запросить доступные активы"
+    "Getting Wallet Informations": "",
+    "Please wait": "Пожалуйста, подождите"
   },
   "faq": {
     "answer1": "<p class='my-4'>dexie\u00a0— агрегатор предложений Chia, который обеспечивает настоящую одноранговую торговлю.</p><p class='my-4'>Предложения Chia – это небольшие файлы, содержащие частичную транзакцию, включающую требуемую и предложенную сумму торговли. Когда другая сторона добавляет требуемую сумму, транзакция становится завершенной и может быть рассчитана в<a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>Chia блокчейн</a>.</p><p class='my-4'>dexie не является посредником; все транзакции осуществляются напрямую между мейкером и тейкером. Оба всегда полностью контролируют свои средства, что делает dexie полностью некастодиальной платформой.</p><p class='my-4'>Узнайте больше о предложениях в официальной<a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>документации Chia</a>.</p>",
@@ -320,6 +320,7 @@
     "Loading from origin": "Загрузка из источника",
     "Metadata Hash": "Хэш метаданных",
     "Metadata URIs": "URI метаданных",
+    "Mint on Demand": "",
     "Name unavailable": "Название недоступно",
     "Newcomers": "Новинки",
     "NFT Address": "НФТ адрес",
@@ -412,6 +413,7 @@
     "Asset added": "Добавление активов",
     "gobyError4001": "Goby ошибка 4001",
     "gobyError4900": "Goby ошибка 4900",
+    "Insufficient funds": "",
     "Offer accepted": "Предложение принято",
     "Offer rejected": "Предложение отклонено",
     "Please reconnect your wallet to perform this action": "Пожалуйста, переподключите свой кошелек, чтобы выполнить это действие.",

@@ -181,10 +181,10 @@
     "Web3 Wallet": "Portfel Web3"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
-    "Please wait": "Proszę czekać...",
-    "Request Available Assets": ""
+    "Getting Wallet Informations": "",
+    "Please wait": "Proszę czekać..."
   },
   "faq": {
     "answer1": "<p class='my-5'>dexie to zdecentralizowana giełda peer-to-peer (DEX), porównywalna do tablicy ogłoszeń, na której użytkownicy mogą zamieszczać swoje pliki ofert Chia. Pliki ofert są całkowicie zdecentralizowane i niezależne od osób trzecich.</p><p class='my-5'> dexie w żadnym momencie transakcji nie wchodzi w posiadanie środków. Pozostają one w portfelu twórcy oferty aż do momentu zaakceptowania oferty, kiedy to są one bezpiecznie przekazywane bezpośrednio od twórcy oferty do osoby, która ją zaakceptowała, w ramach pojedynczej transakcji na blockchainie Chia, bez udziału żadnych pośredników.</p><p class='my-5'>Więcej o plikach ofert możesz dowiedzieć się w <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>oficjalnej dokumentacji Chia</a>.</p>",
@@ -320,6 +320,7 @@
     "Loading from origin": "",
     "Metadata Hash": "Hash metadanych",
     "Metadata URIs": "URI metadanych",
+    "Mint on Demand": "",
     "Name unavailable": "",
     "Newcomers": "Nowe kolekcje",
     "NFT Address": "Adres NFT",
@@ -412,6 +413,7 @@
     "Asset added": "Dodano token",
     "gobyError4001": "Należy najpierw zakończyć konfigurację portfela Goby.",
     "gobyError4900": "Brak połączenia z portfelem Goby",
+    "Insufficient funds": "",
     "Offer accepted": "Zaakceptowano ofertę",
     "Offer rejected": "Odrzucono ofertę",
     "Please reconnect your wallet to perform this action": "",

@@ -179,10 +179,10 @@
     "Web3 Wallet": "کیف پول وب 3"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "{{walletName}} ایجاد پیشنهاد با",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "فقط دارایی های موجود در کیف پول شما برای معامله در دسترس است، برای افزودن بیشتر به بخش دارایی ها بروید",
-    "Please wait": "لطفا صبر کنید",
-    "Request Available Assets": "درخواست دارایی های موجود"
+    "Getting Wallet Informations": "",
+    "Please wait": "لطفا صبر کنید"
   },
   "faq": {
     "answer1": "<p class='my-4'>دکسی یک رابط مرورگر برای معاملات چیا است که امکان تبادل غیرمترکز دارایی ها را در بلاک چین چیا فراهم میکند</p><p class='my-4'>پیشنهادات به صورت همتا به همتا تسویه میشود و نیازی به واسطه ندارد.کد بلاک چین اجبار میکند که تراکنش تنها در صورتی با موفقیت انجام شود</p><p class='my-4'>که دارایی های پیشنهادی و درخواستی به طور همزمان منتقل شوند.همه معامله گران همیشه کنترل کامل دارایی خود را دارند</p><p class='my-4'> درباره چگونگی ایجاد پیشنهاد در وب سایت رسمی <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>  فایل های  چیا  </a> بیشتر بیاموزید</p>",
@@ -316,6 +316,7 @@
     "Loading from origin": "بارگیری از مبدا",
     "Metadata Hash": "Metadata هش",
     "Metadata URIs": "Metadata لینکهای",
+    "Mint on Demand": "",
     "Name unavailable": "نام موجود نیست",
     "Newcomers": "تازه واردان",
     "NFT Address": "آدرس ان اف تی",
@@ -404,6 +405,7 @@
     "Asset added": "دارایی اضافه شد",
     "gobyError4001": "خطای 4001 برنامه گوبی",
     "gobyError4900": "خطای 4900 برنامه گوبی",
+    "Insufficient funds": "",
     "Offer accepted": "پیشنهاد پذیرفته شد",
     "Offer rejected": "پیشنهاد رد شد",
     "Please reconnect your wallet to perform this action": "لطفاً برای انجام این عمل کیف پول خود را دوباره وصل کنید",

@@ -179,10 +179,10 @@
     "Web3 Wallet": "Web3 Wallet"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "Adding Missing CAT Wallet: {{assetName}}",
     "Create Offer with {{walletName}}": "Create Offer with {{walletName}}",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "Only assets in your wallet are available for trading, go to Assets to add more.",
-    "Please wait": "Please wait...",
-    "Request Available Assets": "Request Available Assets"
+    "Getting Wallet Informations": "Getting Wallet Informations",
+    "Please wait": "Please wait..."
   },
   "faq": {
     "answer1": "<p class='my-4'>dexie is an aggregator for Chia offers, which enable true peer-to-peer trading.</p><p class='my-4'>Chia offers are small files that contain a partial transaction involving a requested and offered trade amount. When another party adds the requested amount, the transaction becomes complete and can be settled on the <a class='text-nice underline' href='https://docs.chia.net/' target='_blank' rel='noreferrer'>Chia blockchain</a>.</p><p class='my-4'>dexie is not an intermediary; all transactions are settled directly between maker and taker. Both stay in full control of their funds at all times, making dexie a fully non-custodial platform.</p><p class='my-4'>Learn more about offers in the official <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Chia Documentation</a>.</p>",
@@ -316,6 +316,7 @@
     "Loading from origin": "Loading from origin",
     "Metadata Hash": "Metadata Hash",
     "Metadata URIs": "Metadata URIs",
+    "Mint on Demand": "Mint on Demand",
     "Name unavailable": "Name unavailable",
     "Newcomers": "Newcomers",
     "NFT Address": "NFT Address",
@@ -404,6 +405,7 @@
     "Asset added": "Asset added",
     "gobyError4001": "Please finish setting up Goby first.",
     "gobyError4900": "Goby is not connected",
+    "Insufficient funds": "Insufficient funds",
     "Offer accepted": "Offer accepted",
     "Offer rejected": "Offer rejected",
     "Please reconnect your wallet to perform this action": "Please reconnect your wallet to perform this action",

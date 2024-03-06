@@ -180,10 +180,10 @@
     "Web3 Wallet": "Web3 Wallet"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "Crea offerta con {{walletName}}",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "Solo gli asset nel tuo portafogli sono disponibili al trading, vai in asset e aggiungine altri",
-    "Please wait": "Cortesemente attendi...",
-    "Request Available Assets": "Richiedi Asset Disponibili"
+    "Getting Wallet Informations": "",
+    "Please wait": "Cortesemente attendi..."
   },
   "faq": {
     "answer1": "<p class='my-5'>Dexie è un Exchange peer-to-peer per i file delle offerte Chia. I file delle offerte sono completamente decentralizzati e affidabili.</p><p class='my-5'>Dexie non detiene in custodia alcuna moneta, queste rimangono sempre nel portafogli dell'utente fino a quando l'offerta non viene accettata, a quel punto le risorse vengono trasferite in modo sicuro tra il venditore e l'acquirente all'interno di un'unica transazione sulla blockchain senza alcun intermediario.</p><p class='my-5'>Scopri i vantaggi dei file offerta sul sito ufficiale della <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>documentazione di Chia Network</a>.</p>",
@@ -318,6 +318,7 @@
     "Loading from origin": "Caricamento dall'originale",
     "Metadata Hash": "Metadata Hash",
     "Metadata URIs": "Metadata URIs",
+    "Mint on Demand": "",
     "Name unavailable": "Nome non disponibile",
     "Newcomers": "Nuovi arrivi",
     "NFT Address": "Indirizzo NFT",
@@ -408,6 +409,7 @@
     "Asset added": "Asset aggiunto",
     "gobyError4001": "Cortesemente termina la configuarazione di Goby",
     "gobyError4900": "Goby non è connesso",
+    "Insufficient funds": "",
     "Offer accepted": "Offerta Accettata",
     "Offer rejected": "Offerta rigettata",
     "Please reconnect your wallet to perform this action": "Cortesemente connetti nuovamente il portafogli per eseguire questa azione",

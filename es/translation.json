@@ -180,10 +180,10 @@
     "Web3 Wallet": "Cartera Web3"
   },
   "createOffer": {
+    "Adding Missing CAT Wallet: {{assetName}}": "",
     "Create Offer with {{walletName}}": "",
-    "Only assets in your wallet are available for trading, go to Assets to add more": "",
-    "Please wait": "Por favor, espere...",
-    "Request Available Assets": ""
+    "Getting Wallet Informations": "",
+    "Please wait": "Por favor, espere..."
   },
   "faq": {
     "answer1": "<p class='my-5'>dexie es un intercambio peer-to-peer para archivos de ofertas de Chia. Los archivos de ofertas están completamente descentralizados y no necesitan de un tercero.</p><p class='my-5'>dexie no tiene la custodia de las monedas, siempre permanecen en la billetera del creador hasta que se acepta la oferta, momento en el cual los activos se transfieren de forma segura entre el creador y el tomador dentro de una sola transacción en la cadena de bloques sin ningún intermediario.</p><p class='my-5'>Obtenga más información sobre los archivos de oferta en la <a class='text-nice underline' href='https://chialisp.com/offers' target='_blank' rel='noreferrer'>Documentación oficial de Chia</a>.</p>",
@@ -318,6 +318,7 @@
     "Loading from origin": "",
     "Metadata Hash": "Hash de metadatos",
     "Metadata URIs": "URIs de metadatos",
+    "Mint on Demand": "",
     "Name unavailable": "Nombre no disponible",
     "Newcomers": "Recién llegados",
     "NFT Address": "Dirección del NFT",
@@ -408,6 +409,7 @@
     "Asset added": "Activo agregado",
     "gobyError4001": "Primero termine de configurar Goby.",
     "gobyError4900": "Goby no está conectado",
+    "Insufficient funds": "",
     "Offer accepted": "Oferta aceptada",
     "Offer rejected": "Oferta rechazada",
     "Please reconnect your wallet to perform this action": "Vuelva a conectar su billetera para realizar esta acción.",
