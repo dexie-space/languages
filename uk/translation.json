@@ -181,9 +181,9 @@
     "Web3 Wallet": "Web3 Гаманець"
   },
   "createOffer": {
-    "Adding Missing CAT Wallet: {{assetName}}": "",
+    "Adding Missing CAT Wallet: {{assetName}}": "Додавання відсутнього CAT у гаманець : {{assetName}}",
     "Create Offer with {{walletName}}": "Створити пропозицію за допомогою {{walletName}}",
-    "Getting Wallet Informations": "",
+    "Getting Wallet Informations": "Отримання інформації про гаманець",
     "Please wait": "Будь ласка, зачекайте"
   },
   "faq": {
@@ -294,7 +294,7 @@
     "no {{xch}} offers": "немає {{xch}} пропозицій",
     "no liquidity": "Немає ліквідності",
     "Price Depth": "Глибина ціни",
-    "Provide liquidity to earn rewards": "",
+    "Provide liquidity to earn rewards": "Забезпечте ліквідність, щоб отримати винагороду",
     "Sell for {{bid}} {{code}} within {{level}}%": "Продати за {{bid}} {{code}} в межах {{level}}%",
     "Sell Price": "Ціна продажу",
     "The current lowest price of an NFT": "Поточна найнижча ціна НФТ",
@@ -320,7 +320,7 @@
     "Loading from origin": "Завантаження з джерела",
     "Metadata Hash": "Хеш метаданих",
     "Metadata URIs": "URI метаданих",
-    "Mint on Demand": "",
+    "Mint on Demand": "Монета на вимогу",
     "Name unavailable": "Ім'я недоступне",
     "Newcomers": "Новинки",
     "NFT Address": "НФТ адреса",
@@ -413,7 +413,7 @@
     "Asset added": "Актив додано",
     "gobyError4001": "Goby помилка 4001",
     "gobyError4900": "Goby помилка 4900",
-    "Insufficient funds": "",
+    "Insufficient funds": "Недостатньо коштів",
     "Offer accepted": "Пропозиція прийнята",
     "Offer rejected": "Пропозицію відхилено",
     "Please reconnect your wallet to perform this action": "Будь ласка, повторно підключіть свій гаманець, щоб виконати цю дію",
