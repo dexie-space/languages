@@ -181,7 +181,7 @@
     "Web3 Wallet": "Web3 Гаманець"
   },
   "createOffer": {
-    "Adding Missing CAT Wallet: {{assetName}}": "Додавання відсутнього CAT у гаманець : {{assetName}}",
+    "Adding Missing CAT Wallet: {{assetName}}": "Додавання відсутнього CAT у гаманець: {{assetName}}",
     "Create Offer with {{walletName}}": "Створити пропозицію за допомогою {{walletName}}",
     "Getting Wallet Informations": "Отримання інформації про гаманець",
     "Please wait": "Будь ласка, зачекайте"
