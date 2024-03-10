@@ -25,15 +25,8 @@
     "Unmute": "Anzeigen"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% Kombinationsgebühr enthalten ({{count}} Coin-Spends)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Kombinationsgebühr enthalten ({{count}} Coin-Spends)",
     "Auto-Combined": "Automatisch kombiniert",
-    "Best Combined": "Beste Kombination",
-    "Bonus": "Bonus",
-    "Combining Offers": "Angebote kombinieren",
-    "Fee": "Gebühr",
-    "High Slippage": "Hohe Slippage",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Keine Angebote zum automatischen Kombinieren, versuche einen größeren Betrag oder wähle das beste Angebot von unten"
+    "Bonus": "Bonus"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "",
@@ -201,7 +194,6 @@
     "synced": "synchronisiert"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "",
     "Connect Wallet": "Wallet verbinden",
     "Create Offer is not supported with {{walletName}}": "",
     "Docs": "",
@@ -223,6 +215,7 @@
     "Cancelled Maker Inputs": "Stornierte Maker-Eingänge",
     "Cancelled Maker Outputs": "Stornierte Maker-Ausgänge",
     "Cancelled Royalties": "Stornierte Lizenzgebühren",
+    "Combined by dexie": "",
     "Completed before collection date": "Abgeschlossen vor Sammeldatum",
     "Confirmed at Block": "Bestätigt in Block",
     "Copy to Clipboard": "In die Zwischenablage kopieren",
@@ -335,8 +328,6 @@
   },
   "offers": {
     "Buy": "Kaufe",
-    "Enter Buy Amount": "",
-    "Enter Sell Amount": "",
     "Sell": "Verkaufe"
   },
   "offersTable": {
@@ -358,9 +349,7 @@
     "Switch to Single Side View": "",
     "Take": "",
     "This offer contains overlapping inputs or outputs and can not be added": "Dieses Angebot enthält überlappende Eingänge oder Ausgänge und kann nicht hinzugefügt werden.",
-    "View": "",
-    "You Buy": "",
-    "You Sell": ""
+    "View": ""
   },
   "report": {
     "CAT reporting is not available right now": "Token-Meldungen sind derzeit nicht möglich",
@@ -399,6 +388,30 @@
     "expired": "Abgelaufen",
     "pending": "Ausstehend",
     "unknown": "Unbekannt"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Diese Funktion wird nicht von {{wallet}} unterstützt.",
   "toast": {

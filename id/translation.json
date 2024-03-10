@@ -25,14 +25,8 @@
     "Unmute": "Aktifkan"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Termasuk Biaya Kombinasi ({{count}} Pembelanjaan Koin)",
     "Auto-Combined": "Gabungan Otomatis",
-    "Best Combined": "Gabungan Terbaik",
-    "Bonus": "Bonus",
-    "Combining Offers": "Menggabungkan Penawaran",
-    "Fee": "Biaya",
-    "High Slippage": "Selip Tinggi",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Tidak ada penawaran untuk digabungkan secara otomatis, coba jumlah yang lebih besar atau pilih penawaran terbaik dari bawah"
+    "Bonus": "Bonus"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "",
@@ -200,7 +194,6 @@
     "synced": "disinkronkan"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "",
     "Connect Wallet": "Hubungkan Dompet",
     "Create Offer is not supported with {{walletName}}": "",
     "Docs": "",
@@ -221,6 +214,7 @@
     "Cancelled Maker Inputs": "Input Pembuat yang Dibatalkan",
     "Cancelled Maker Outputs": "Output Pembuat yang Dibatalkan",
     "Cancelled Royalties": "Royalti yang Dibatalka",
+    "Combined by dexie": "",
     "Completed before collection date": "Pengambilan Selesai sebelum tanggal",
     "Confirmed at Block": "Dikonfirmasi di Blok",
     "Copy to Clipboard": "Salin ke papan klip",
@@ -333,8 +327,6 @@
   },
   "offers": {
     "Buy": "Membeli",
-    "Enter Buy Amount": "",
-    "Enter Sell Amount": "",
     "Sell": "Menjual"
   },
   "offersTable": {
@@ -354,9 +346,7 @@
     "Switch to Single Side View": "",
     "Take": "",
     "This offer contains overlapping inputs or outputs and can not be added": "Penawaran ini berisi input atau output yang tumpang tindih dan tidak dapat ditambahkan",
-    "View": "",
-    "You Buy": "",
-    "You Sell": ""
+    "View": ""
   },
   "report": {
     "CAT reporting is not available right now": "Pelaporan CAT tidak tersedia sekarang",
@@ -395,6 +385,29 @@
     "expired": "kedaluwarsa",
     "pending": "Tertunda",
     "unknown": "Tidak dikenal"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Fitur ini tidak didukung oleh {{wallet}}",
   "toast": {

@@ -25,14 +25,8 @@
     "Unmute": ""
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "",
     "Auto-Combined": "",
-    "Best Combined": "",
-    "Bonus": "",
-    "Combining Offers": "",
-    "Fee": "",
-    "High Slippage": "",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": ""
+    "Bonus": ""
   },
   "bumpFee": {
     "Bump Blockchain Fee": "",
@@ -200,7 +194,6 @@
     "synced": "동기화"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "",
     "Connect Wallet": "",
     "Create Offer is not supported with {{walletName}}": "",
     "Docs": "",
@@ -221,6 +214,7 @@
     "Cancelled Maker Inputs": "",
     "Cancelled Maker Outputs": "",
     "Cancelled Royalties": "",
+    "Combined by dexie": "",
     "Completed before collection date": "",
     "Confirmed at Block": "",
     "Copy to Clipboard": "",
@@ -333,8 +327,6 @@
   },
   "offers": {
     "Buy": "",
-    "Enter Buy Amount": "",
-    "Enter Sell Amount": "",
     "Sell": ""
   },
   "offersTable": {
@@ -354,9 +346,7 @@
     "Switch to Single Side View": "",
     "Take": "",
     "This offer contains overlapping inputs or outputs and can not be added": "",
-    "View": "",
-    "You Buy": "",
-    "You Sell": ""
+    "View": ""
   },
   "report": {
     "CAT reporting is not available right now": "",
@@ -395,6 +385,29 @@
     "expired": "",
     "pending": "보류중",
     "unknown": "알 수 없음"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "",
   "toast": {

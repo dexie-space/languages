@@ -25,15 +25,8 @@
     "Unmute": "Unmute"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% Combination Fee included ({{count}} Coin-Spend)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% Combination Fee included ({{count}} Coin-Spends)",
     "Auto-Combined": "Auto-Combined",
-    "Best Combined": "Best Combined",
-    "Bonus": "Bonus",
-    "Combining Offers": "Combining Offers",
-    "Fee": "Fee",
-    "High Slippage": "High Slippage",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No offers to auto-combine, try a larger amount or choose the best offer from below."
+    "Bonus": "Bonus"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "Bump Blockchain Fee",
@@ -201,7 +194,6 @@
     "synced": "synced"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "Now with <b>Liquidity Rewards</b>! Farm <b>dexie bucks</b> by adding offers for incentivized pairs.",
     "Connect Wallet": "Connect Wallet",
     "Create Offer is not supported with {{walletName}}": "Create Offer is not supported with {{walletName}}",
     "Docs": "Docs",
@@ -223,6 +215,7 @@
     "Cancelled Maker Inputs": "Cancelled Maker Inputs",
     "Cancelled Maker Outputs": "Cancelled Maker Outputs",
     "Cancelled Royalties": "Cancelled Royalties",
+    "Combined by dexie": "Combined by dexie",
     "Completed before collection date": "Completed before collection date",
     "Confirmed at Block": "Confirmed at Block",
     "Copy to Clipboard": "Copy to Clipboard",
@@ -335,8 +328,6 @@
   },
   "offers": {
     "Buy": "Buy",
-    "Enter Buy Amount": "Enter Buy Amount",
-    "Enter Sell Amount": "Enter Sell Amount",
     "Sell": "Sell"
   },
   "offersTable": {
@@ -358,9 +349,7 @@
     "Switch to Single Side View": "Switch to Single Side View",
     "Take": "Take",
     "This offer contains overlapping inputs or outputs and can not be added": "This offer contains overlapping inputs or outputs and can not be added.",
-    "View": "View",
-    "You Buy": "You Buy",
-    "You Sell": "You Sell"
+    "View": "View"
   },
   "report": {
     "CAT reporting is not available right now": "CAT reporting is not available right now",
@@ -399,6 +388,30 @@
     "expired": "Expired",
     "pending": "Pending",
     "unknown": "Unknown"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "All market liquidity in one place. Secured by offers.",
+    "Asset ID": "Asset ID",
+    "Combination Savings": "Combination Savings",
+    "Combined Swap": "Combined Swap",
+    "Create and paste the following offer": "Create and paste the following offer",
+    "Entered receive amount exceeds market liquidity": "Entered receive amount exceeds market liquidity.",
+    "Included Fee": "Included Fee",
+    "Offer": "Offer",
+    "Offering": "Offering",
+    "Offers_one": "{{count}} Offer",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "Optimal Routing",
+    "Price Impact": "Price Impact",
+    "Price impact is high": "Price impact is high",
+    "Recommended Fee": "Recommended Fee",
+    "Requesting": "Requesting",
+    "Search Tokens": "Search Tokens",
+    "Swap": "Swap",
+    "Swap failed": "Swap failed",
+    "Token to Token swaps are not yet supported, select {{xch}}": "Token to Token swaps are not yet supported, select {{xch}}.",
+    "You Pay": "You Pay",
+    "You Receive": "You Receive"
   },
   "This feature is not supported by {{wallet}}": "This feature is not supported by {{wallet}}",
   "toast": {

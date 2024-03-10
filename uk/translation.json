@@ -25,17 +25,8 @@
     "Unmute": "Увімкнути"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% комісії за комбінування включено ({{count}} монету)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_few": "{{fee}}% комісії за комбінування включено ({{count}} монет)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}}% комісії за комбінування включено ({{count}} монет)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% комісії за комбінування включено ({{count}} монети)",
     "Auto-Combined": "Автокомбіновані",
-    "Best Combined": "Найкраще поєднане",
-    "Bonus": "Бонус",
-    "Combining Offers": "Комбіновані пропозиції",
-    "Fee": "Комісія",
-    "High Slippage": "Високе ковзання",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Немає пропозицій для автоматичного об’єднання, спробуйте більшу суму або виберіть найкращу пропозицію знизу"
+    "Bonus": "Бонус"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "Підвищення комісії",
@@ -203,7 +194,6 @@
     "synced": "синхронізовано"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "Тепер із  <b>винагородою за ліквідність</b>! Отримуй <b>dexie бакси</b>, додаючи пропозиції для стимульованих пар.",
     "Connect Wallet": "Підключити гаманець",
     "Create Offer is not supported with {{walletName}}": "{{walletName}} не підтримує створення пропозиції",
     "Docs": "Документи",
@@ -227,6 +217,7 @@
     "Cancelled Maker Inputs": "Скасовані вхідні пропозиції творцем",
     "Cancelled Maker Outputs": "Скасовані вихідні дані того хто створив",
     "Cancelled Royalties": "Скасовані комісійні",
+    "Combined by dexie": "",
     "Completed before collection date": "Завершено до дата отримання",
     "Confirmed at Block": "Підтверджено в блоку",
     "Copy to Clipboard": "Копіювати в буфер",
@@ -339,8 +330,6 @@
   },
   "offers": {
     "Buy": "Купити",
-    "Enter Buy Amount": "Введіть суму купівлі",
-    "Enter Sell Amount": "Введіть суму продажу",
     "Sell": "Продати"
   },
   "offersTable": {
@@ -366,9 +355,7 @@
     "Switch to Single Side View": "Переключитися на односторонній вигляд",
     "Take": "Виконати",
     "This offer contains overlapping inputs or outputs and can not be added": "Ця пропозиція містить вхідні чи вихідні дані, що збігаються, і їх не можна додати",
-    "View": "Перегляд",
-    "You Buy": "Ти купуєш",
-    "You Sell": "Ти продаєш"
+    "View": "Перегляд"
   },
   "report": {
     "CAT reporting is not available right now": "Скарги на CAT токени зараз недоступні",
@@ -407,6 +394,32 @@
     "expired": "закінчився",
     "pending": "очікує",
     "unknown": "невідомо"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_few": "{{count}} Offers",
+    "Offers_many": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Ця функція не підтримується {{wallet}}",
   "toast": {

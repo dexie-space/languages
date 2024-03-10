@@ -25,16 +25,8 @@
     "Unmute": "Rendi visibile"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "Commissione di fusione al {{fee}}% inclusa. (Una moneta spesa)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "Commissione di fusione al {{fee}}% inclusa. ({{count}} monete spese)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "Commissione di fusione al {{fee}}% inclusa. ({{count}} monete spese)",
     "Auto-Combined": "Fusione automatica",
-    "Best Combined": "Fusione Migliore",
-    "Bonus": "Regalo",
-    "Combining Offers": "Fusione offerte in corso",
-    "Fee": "Commissione",
-    "High Slippage": "Slittamento Elevato",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Nessuna offerta da fondere, prova un importo più alto oppure scegli la migliore offerta qui sotto"
+    "Bonus": "Regalo"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "Aumento della commissione della blockchain",
@@ -202,7 +194,6 @@
     "synced": "Sincronizzato"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "Ora con <b>Liquidity Rewards</b>! Ottieni <b>dexie bucks</b> utilizzando le offerte fuse automaticamente",
     "Connect Wallet": "Connetti il Portafogli",
     "Create Offer is not supported with {{walletName}}": "La creazione di offerte non è supportata con {{walletName}}",
     "Docs": "Documenti",
@@ -225,6 +216,7 @@
     "Cancelled Maker Inputs": "Maker Inputs Cancellati",
     "Cancelled Maker Outputs": "Maker Outputs cancellati",
     "Cancelled Royalties": "Diritti d'autore cancellati",
+    "Combined by dexie": "",
     "Completed before collection date": "Completata prima della data di pubblicazione",
     "Confirmed at Block": "Confermato al blocco",
     "Copy to Clipboard": "Copia sul clipboard",
@@ -337,8 +329,6 @@
   },
   "offers": {
     "Buy": "Compra",
-    "Enter Buy Amount": "Inserisci prezzo di acquisto",
-    "Enter Sell Amount": "Inserisci prezzo di vendita",
     "Sell": "Vendi"
   },
   "offersTable": {
@@ -362,9 +352,7 @@
     "Switch to Single Side View": "Passa alla modalità singola",
     "Take": "Prendi",
     "This offer contains overlapping inputs or outputs and can not be added": "Questa offerta contiene input o output sovrapposti e non può essere aggiunta",
-    "View": "Visualizzazione",
-    "You Buy": "Tu compri",
-    "You Sell": "Tu vendi"
+    "View": "Visualizzazione"
   },
   "report": {
     "CAT reporting is not available right now": "Le segnalazioni sui CAT non sono attive in questo momento",
@@ -403,6 +391,31 @@
     "expired": "Scaduta",
     "pending": "In corso",
     "unknown": "Sconosciuto"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_many": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Quasta funzionalità non è supportata da {{wallet}}",
   "toast": {

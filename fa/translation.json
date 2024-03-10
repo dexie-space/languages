@@ -25,15 +25,8 @@
     "Unmute": "خاموش نشده"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% ارز خرج شده ({{count}} کارمزد ترکیب کردن شامل شده)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% ارز خرج شده ({{count}} کارمزد ترکیب کردن شامل شده)",
     "Auto-Combined": "ترکیب خودکار",
-    "Best Combined": "بهترین ترکیب",
-    "Bonus": "جایزه",
-    "Combining Offers": "ترکیب پیشنهادات",
-    "Fee": "کارمزد",
-    "High Slippage": "لغزش زیاد",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "هیچ پیشنهادی برای ترکیب خودکار وجود ندارد، مقدار بیشتری را امتحان کنید یا بهترین پیشنهاد را از پایین انتخاب کنید"
+    "Bonus": "جایزه"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "افزایش کارمزد بلاک چین",
@@ -201,7 +194,6 @@
     "synced": "سینک شده"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "اکنون با جوایز نقدینگی از طریق افزودن پیشنهادات برای جفتهای مشوق میتوانید توکن دکسی فارم کرده و کسب درامد کنید",
     "Connect Wallet": "اتصال کیف پول",
     "Create Offer is not supported with {{walletName}}": "پشتیبانی نمیشود{{walletName}} ایجاد پیشنهاد با",
     "Docs": "توضیحات",
@@ -223,6 +215,7 @@
     "Cancelled Maker Inputs": "ورودی های سازنده لغو شد",
     "Cancelled Maker Outputs": "خروجی های سازنده لغو شد",
     "Cancelled Royalties": "حق امتیاز لغو شده",
+    "Combined by dexie": "",
     "Completed before collection date": "قبل از تاریخ جمع آوری تکمیل شده است",
     "Confirmed at Block": "بلاک تایید شده",
     "Copy to Clipboard": "کپی در حافظه",
@@ -335,8 +328,6 @@
   },
   "offers": {
     "Buy": "خرید",
-    "Enter Buy Amount": "مبلغ خرید را وارد کنید",
-    "Enter Sell Amount": "مبلغ فروش را وارد کنید",
     "Sell": "فروش"
   },
   "offersTable": {
@@ -358,9 +349,7 @@
     "Switch to Single Side View": "به نمای یک بخشی تغییر دهید",
     "Take": "تصاحب",
     "This offer contains overlapping inputs or outputs and can not be added": "این پیشنهاد تداخل بین ورودی ها یا خروجی های دارد و نمی توان آن را اضافه کرد",
-    "View": "مشاهده",
-    "You Buy": "میخرید",
-    "You Sell": "میفروشید"
+    "View": "مشاهده"
   },
   "report": {
     "CAT reporting is not available right now": "گزارش توکن در حال حاضر در دسترس نیست",
@@ -399,6 +388,30 @@
     "expired": "منقضی شد",
     "pending": "در حال انتظار",
     "unknown": "نامعلوم"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "{{wallet}}این ویژگی پشتیبانی نمیشود با",
   "toast": {

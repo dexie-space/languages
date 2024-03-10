@@ -25,16 +25,8 @@
     "Unmute": "Activar activo"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% tarifa combinación incluida ({{count}} moneda gastada)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}}% tarifa combinación incluida ({{count}} monedas gastadas)",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% tarifa combinación incluida ({{count}} monedas gastadas)",
     "Auto-Combined": "Combinada automáticamente",
-    "Best Combined": "Mejor combinada",
-    "Bonus": "Bono",
-    "Combining Offers": "Combinando Ofertas",
-    "Fee": "Tarifa",
-    "High Slippage": "Alta variación",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "No hay ofertas para combinar automáticamente, pruebe una cantidad mayor o elija la mejor oferta de abajo."
+    "Bonus": "Bono"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "",
@@ -202,7 +194,6 @@
     "synced": "sincronizada"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "¡Presentamos <b>Recompensas de Liquidez</b>!  Gane <b>dexie bucks</b> agregando ofertas para pares comerciales incentivados.",
     "Connect Wallet": "Conectar monedero",
     "Create Offer is not supported with {{walletName}}": "",
     "Docs": "",
@@ -225,6 +216,7 @@
     "Cancelled Maker Inputs": "Entradas del hacedor canceladas",
     "Cancelled Maker Outputs": "Salidas del hacedor canceladas",
     "Cancelled Royalties": "Regalías canceladas",
+    "Combined by dexie": "",
     "Completed before collection date": "Completado antes de la fecha de recogida",
     "Confirmed at Block": "Confirmado en el bloque",
     "Copy to Clipboard": "Copiar al portapapeles",
@@ -337,8 +329,6 @@
   },
   "offers": {
     "Buy": "Comprar",
-    "Enter Buy Amount": "",
-    "Enter Sell Amount": "",
     "Sell": "Vender"
   },
   "offersTable": {
@@ -362,9 +352,7 @@
     "Switch to Single Side View": "",
     "Take": "",
     "This offer contains overlapping inputs or outputs and can not be added": "Esta oferta contiene entradas o salidas superpuestas y no se puede agregar",
-    "View": "",
-    "You Buy": "",
-    "You Sell": ""
+    "View": ""
   },
   "report": {
     "CAT reporting is not available right now": "El reporte sobre los CAT no está disponible en este momento",
@@ -403,6 +391,31 @@
     "expired": "expirada",
     "pending": "Pendiente",
     "unknown": "Desconocido"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_many": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Esta función no es soportada por {{wallet}}",
   "toast": {

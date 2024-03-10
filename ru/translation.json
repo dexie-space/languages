@@ -25,17 +25,8 @@
     "Unmute": "Разблокировать"
   },
   "autoCombine": {
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_one": "{{fee}}% комиссионных за объединение включено ({{count}} монету",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_few": "{{fee}}% комиссионных за объединение включено ({{count}} монет",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_many": "{{fee}}% комиссионных за объединение включено ({{count}} монет",
-    "{{fee}}% Combination Fee included ({{count}} Coin-Spends)_other": "{{fee}}% комиссионных за объединение включено ({{count}} монеты",
     "Auto-Combined": "Авто-комбинированое",
-    "Best Combined": "Лучшее комбинированое",
-    "Bonus": "Бонус",
-    "Combining Offers": "Объединение предложений",
-    "Fee": "Комиссия",
-    "High Slippage": "Высокое проскальзывание",
-    "No offers to auto-combine, try a larger amount or choose the best offer from below": "Нет предложений по автообъединению, попробуйте большую сумму или выберите лучшее предложение снизу"
+    "Bonus": "Бонус"
   },
   "bumpFee": {
     "Bump Blockchain Fee": "Повышение комиссии",
@@ -203,7 +194,6 @@
     "synced": "синхронизировано"
   },
   "header": {
-    "bannerMessageLiquidityRewards": "Теперь с <b>вознаграждениями за ликвидность</b>! Зарабатывайте <b>декси-баксы</b>, добавляя предложения для поощрительных пар.",
     "Connect Wallet": "Подключить кошелек",
     "Create Offer is not supported with {{walletName}}": "Создание предложение не поддерживается {{walletName}}.",
     "Docs": "Документы",
@@ -227,6 +217,7 @@
     "Cancelled Maker Inputs": "Отмененные вводные данные того кто создал",
     "Cancelled Maker Outputs": "Отмененные выводные того кто создал",
     "Cancelled Royalties": "Отмененные роялти",
+    "Combined by dexie": "",
     "Completed before collection date": "Завершено до даты сбора",
     "Confirmed at Block": "Подтверждено в блоке",
     "Copy to Clipboard": "Копировать в буфер",
@@ -339,8 +330,6 @@
   },
   "offers": {
     "Buy": "Купить",
-    "Enter Buy Amount": "Введите сумму покупки",
-    "Enter Sell Amount": "Введите сумму продажи",
     "Sell": "Продать"
   },
   "offersTable": {
@@ -366,9 +355,7 @@
     "Switch to Single Side View": "Переключиться на вид с одной стороны",
     "Take": "Взять",
     "This offer contains overlapping inputs or outputs and can not be added": "Это предложение содержит перекрывающиеся входы или выходы и не может быть добавлено",
-    "View": "Просмотр",
-    "You Buy": "Ты покупаешь",
-    "You Sell": "Вы продаешь"
+    "View": "Просмотр"
   },
   "report": {
     "CAT reporting is not available right now": "Жалобы на CAT токены сейчас недоступны",
@@ -407,6 +394,32 @@
     "expired": "истекший срок",
     "pending": "ожидает",
     "unknown": "неизвестно"
+  },
+  "swap": {
+    "All market liquidity in one place, secured by offers": "",
+    "Asset ID": "",
+    "Combination Savings": "",
+    "Combined Swap": "",
+    "Create and paste the following offer": "",
+    "Entered receive amount exceeds market liquidity": "",
+    "Included Fee": "",
+    "Offer": "",
+    "Offering": "",
+    "Offers_one": "{{count}} Offers",
+    "Offers_few": "{{count}} Offers",
+    "Offers_many": "{{count}} Offers",
+    "Offers_other": "{{count}} Offers",
+    "Optimal Routing": "",
+    "Price Impact": "",
+    "Price impact is high": "",
+    "Recommended Fee": "",
+    "Requesting": "",
+    "Search Tokens": "",
+    "Swap": "",
+    "Swap failed": "",
+    "Token to Token swaps are not yet supported, select {{xch}}": "",
+    "You Pay": "",
+    "You Receive": ""
   },
   "This feature is not supported by {{wallet}}": "Эта функция не поддерживается {{wallet}}",
   "toast": {
