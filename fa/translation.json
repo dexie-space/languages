@@ -172,9 +172,9 @@
     "Web3 Wallet": "کیف پول وب 3"
   },
   "createOffer": {
-    "Adding Missing CAT Wallet: {{assetName}}": "",
+    "Adding Missing CAT Wallet: {{assetName}}": "افزودن کیف پول توکن ازدست رفته: {{assetName}}",
     "Create Offer with {{walletName}}": "{{walletName}} ایجاد پیشنهاد با",
-    "Getting Wallet Informations": "",
+    "Getting Wallet Informations": "دریافت اطلاعات کیف پول",
     "Please wait": "لطفا صبر کنید"
   },
   "faq": {
@@ -264,7 +264,7 @@
   },
   "markets": {
     "{{market}} heading": "{{market}} بازارها",
-    "{{market}} subheading": "نقدینگی جهت خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل 1",
+    "{{market}} subheading": "نقدینگی جهت خرید و فروش {{market}} نمایش تمام دارایی های شناخته شده حداقل یک",
     "{{spread}}% Spread": "{{spread}}% Spread",
     "#buyPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای خرید",
     "#sellPriceHint{{depth}}": "چقدر خواهد بود {{market}} و هر {{depth}} {{market}}  قیمت واحد برای فروش",
@@ -309,7 +309,7 @@
     "Loading from origin": "بارگیری از مبدا",
     "Metadata Hash": "Metadata هش",
     "Metadata URIs": "Metadata لینکهای",
-    "Mint on Demand": "",
+    "Mint on Demand": "ثبت بر حسب تقاضا",
     "Name unavailable": "نام موجود نیست",
     "Newcomers": "تازه واردان",
     "NFT Address": "آدرس ان اف تی",
@@ -418,7 +418,7 @@
     "Asset added": "دارایی اضافه شد",
     "gobyError4001": "خطای 4001 برنامه گوبی",
     "gobyError4900": "خطای 4900 برنامه گوبی",
-    "Insufficient funds": "",
+    "Insufficient funds": "بودجه ناکافی",
     "Offer accepted": "پیشنهاد پذیرفته شد",
     "Offer rejected": "پیشنهاد رد شد",
     "Please reconnect your wallet to perform this action": "لطفاً برای انجام این عمل کیف پول خود را دوباره وصل کنید",
