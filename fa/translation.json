@@ -200,7 +200,7 @@
     "Markets": "بازارها",
     "NFT": "ان اف تی",
     "Recent Trades": "معاملات انجام شده",
-    "Swap": "",
+    "Swap": "تعویض",
     "Trade": "معامله",
     "Your Offers": "پیشنهادهای شما"
   },
@@ -216,7 +216,7 @@
     "Cancelled Maker Inputs": "ورودی های سازنده لغو شد",
     "Cancelled Maker Outputs": "خروجی های سازنده لغو شد",
     "Cancelled Royalties": "حق امتیاز لغو شده",
-    "Combined by dexie": "",
+    "Combined by dexie": "ترکیب شده توسط دکسی",
     "Completed before collection date": "قبل از تاریخ جمع آوری تکمیل شده است",
     "Confirmed at Block": "بلاک تایید شده",
     "Copy to Clipboard": "کپی در حافظه",
@@ -410,7 +410,7 @@
     "Search Tokens": "جستجوی توکن ها",
     "Swap": "تعویض",
     "Swap failed": "تعویض ناموفق",
-    "Token to Token swaps are not yet supported, select {{xch}}": "مبادله توکن به توکن هنوز پشتیبانی نمیشود، {{xch}} را انتخاب کنید",
+    "Token to Token swaps are not yet supported, select {{xch}}": "را انتخاب کنید. مبادله توکن به توکن هنوز پشتیبانی نمیشود ،{{xch}}",
     "You Pay": "شما پرداخت کنید",
     "You Receive": "شما دریافت میکنید"
   },
