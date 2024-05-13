@@ -83,7 +83,6 @@
     "Any Asset": "Any Asset",
     "Any NFT": "Any NFT",
     "Any Token": "Any Token",
-    "Assets": "Assets",
     "Blockchain Fee": "Blockchain Fee",
     "Cancel Offer": "Cancel Offer",
     "Classic Chart": "Classic Chart",
@@ -123,6 +122,7 @@
     "Showing Newest": "Showing Newest",
     "Status": "Status",
     "Suspicious trading activity (inflated volume)": "Suspicious trading activity (inflated volume)",
+    "Token Explorer": "Token Explorer",
     "Tokens (CATs)": "Tokens (CATs)",
     "Trade": "Trade",
     "Trade History": "Trade History",
@@ -184,14 +184,19 @@
     "question2": "Support or Questions?"
   },
   "footer": {
+    "About": "About",
+    "Additional Tools": "Additional Tools",
+    "Based on Splash!": "Based on Splash!",
     "connecting": "connecting",
+    "Contributors": "Contributors",
     "disconnected": "disconnected",
-    "Fees": "Fees",
     "Help translate": "Help translate",
+    "Interface Fees": "Interface Fees",
     "More": "More",
-    "Privacy": "Privacy",
+    "Privacy Policy": "Privacy Policy",
     "Status": "Status",
-    "synced": "synced"
+    "synced": "synced",
+    "Your Offers": "Your Offers"
   },
   "header": {
     "Connect Wallet": "Connect Wallet",
@@ -201,8 +206,7 @@
     "NFT": "NFT",
     "Recent Trades": "Recent Trades",
     "Swap": "Swap",
-    "Trade": "Trade",
-    "Your Offers": "Your Offers"
+    "Trade": "Trade"
   },
   "inspect": {
     "{{count}} offers_one": "{{count}} offer",
@@ -428,7 +432,6 @@
   "trades": {
     "Blockchain Fee": "Blockchain Fee",
     "Blockchain fee in mojos per CLVM cost": "Blockchain fee in mojos per CLVM cost",
-    "Cancelled offers are only shown for the last 30 days": "Cancelled offers are only shown for the last 30 days.",
     "Fee Rate": "Fee Rate",
     "Low Blockchain Fee (low priority) {{fee}}": "Low Blockchain Fee (low priority) {{fee}}",
     "Low Fee": "Low Fee",
@@ -438,37 +441,38 @@
     "Toggle suspicious trades (wash trading, spam)": "Toggle suspicious trades (wash trading, spam)"
   },
   "uploadOffer": {
-    "#dragHint": "Drop your offer files here",
-    "API": "API",
-    "Backup / Restore": "Backup / Restore",
+    "#dragHint": "Drop your offers anywhere",
+    "Backup": "Backup",
     "Backup Your Offers": "Backup Your Offers",
-    "Bulk Upload": "Bulk Upload",
+    "Bulk": "Bulk",
+    "Bulk upload many offers in a ZIP file": "Bulk upload many offers in a ZIP file.",
     "Claim": "Claim",
-    "Create with Wallet": "Create with Wallet",
-    "Duplicate offers will be merged": "Duplicate offers will be merged.",
+    "Closed": "Closed",
+    "Collected": "Collected",
+    "Create": "Create",
+    "Duplicates will be merged": "Duplicates will be merged.",
     "Eligible": "Eligible",
     "Liquidity Rewards": "Liquidity Rewards",
     "No matching offers": "No matching offers",
     "No Offer entered": "No Offer entered",
+    "Offer": "Offer",
     "Offer creator address does not exist in connected wallet": "Offer creator address does not exist in connected wallet.",
     "Offers close to the market price can receive rewards (click for more)": "Offers close to the market price can receive rewards (click for more)",
     "Offers from Bulk Upload won't show up in Your Added Offers": "Offers from Bulk Upload won't show up in Your Added Offers.",
+    "Paste": "Paste",
     "Paste from Clipboard": "Paste from Clipboard",
-    "Paste Offer": "Paste Offer",
     "Paste offer here": "Paste offer here",
     "Restore Your Offers": "Restore Your Offers",
     "Reward Claimed": "Reward Claimed",
     "Rewards": "Rewards",
-    "See the API documentation for more information and examples": "See the API documentation for more information and examples",
     "Select and Upload ZIP file": "Select and Upload ZIP file",
+    "Select Asset": "Select Asset",
     "Submit Offer": "Submit Offer",
     "Successfully queued {{count}} offers for submission_one": "Successfully queued {{count}} offer for submission.",
     "Successfully queued {{count}} offers for submission_other": "Successfully queued {{count}} offers for submission.",
+    "Upload": "Upload",
     "Upload failed, no data": "Upload failed, no data",
-    "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes": "Upload many offers in a ZIP file, dexie will internally queue and publish them without overloading the nodes.",
-    "Upload Offer Files": "Upload Offer Files",
-    "Your Added Offers": "Your Added Offers",
-    "Your added offers appear here": "Your added offers appear here",
-    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage."
+    "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage": "Your added offers are privately stored in your Browser, make a backup before clearing your Local Storage.",
+    "Your offers appear here": "Your offers appear here"
   }
 }
