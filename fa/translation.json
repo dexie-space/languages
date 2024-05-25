@@ -21,7 +21,6 @@
     "Number of Items": "تعداد موارد",
     "Offered NFTs": "ان اف تی های پیشنهاد شده",
     "Search assets": "جستجوی دارایی ها",
-    "Tokens sourced from TailDB": "منابع توکن ها از پایگاه داده تیل",
     "Unmute": "خاموش نشده"
   },
   "autoCombine": {
@@ -291,6 +290,7 @@
     "Provide liquidity to earn rewards": "نقدینگی برای کسب پاداش فراهم کنید",
     "Sell for {{bid}} {{code}} within {{level}}%": "فروش به {{bid}} {{code}} within {{level}}%",
     "Sell Price": "قیمت فروش",
+    "Swap": "",
     "The current lowest price of an NFT": "پایین ترین قیمت فعلی ان اف تی",
     "The highest price someone is bidding for an NFT": "بالاترین قیمتی که کسی برای ان اف تی پیشنهاد داده است",
     "Toggle collections with suspicious trading activity": "مجموعه های دارای فعالیت تجاری مشکوک را تغییر دهید"

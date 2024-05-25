@@ -21,7 +21,6 @@
     "Number of Items": "",
     "Offered NFTs": "",
     "Search assets": "",
-    "Tokens sourced from TailDB": "",
     "Unmute": ""
   },
   "autoCombine": {
@@ -290,6 +289,7 @@
     "Provide liquidity to earn rewards": "",
     "Sell for {{bid}} {{code}} within {{level}}%": "",
     "Sell Price": "卖出价格",
+    "Swap": "",
     "The current lowest price of an NFT": "NFT 的当前最低价格",
     "The highest price someone is bidding for an NFT": "某人竞标 NFT 的最高价格",
     "Toggle collections with suspicious trading activity": "切换具有可疑交易活动的集合"

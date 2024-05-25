@@ -21,7 +21,6 @@
     "Number of Items": "",
     "Offered NFTs": "",
     "Search assets": "",
-    "Tokens sourced from TailDB": "",
     "Unmute": "Aktifkan"
   },
   "autoCombine": {
@@ -290,6 +289,7 @@
     "Provide liquidity to earn rewards": "",
     "Sell for {{bid}} {{code}} within {{level}}%": "",
     "Sell Price": "Harga jual",
+    "Swap": "",
     "The current lowest price of an NFT": "Harga NFT terendah saat ini",
     "The highest price someone is bidding for an NFT": "Harga tertinggi seseorang menawar untuk NFT",
     "Toggle collections with suspicious trading activity": "Beralih koleksi dengan aktivitas perdagangan yang mencurigakan"

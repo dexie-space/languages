@@ -21,7 +21,6 @@
     "Number of Items": "Кількість пунктів",
     "Offered NFTs": "Пропоновані НФТ",
     "Search assets": "Пошук активів",
-    "Tokens sourced from TailDB": "Токени отримано з TailDB",
     "Unmute": "Увімкнути"
   },
   "autoCombine": {
@@ -293,6 +292,7 @@
     "Provide liquidity to earn rewards": "Забезпечте ліквідність, щоб отримати винагороду",
     "Sell for {{bid}} {{code}} within {{level}}%": "Продати за {{bid}} {{code}} в межах {{level}}%",
     "Sell Price": "Ціна продажу",
+    "Swap": "",
     "The current lowest price of an NFT": "Поточна найнижча ціна НФТ",
     "The highest price someone is bidding for an NFT": "Найвища ціна, яку пропонують за НФТ",
     "Toggle collections with suspicious trading activity": "Побачити колекції з підозрілою торгівлею"

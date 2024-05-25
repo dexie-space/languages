@@ -21,7 +21,6 @@
     "Number of Items": "Nombre d'éléments",
     "Offered NFTs": "NFTs Offerts",
     "Search assets": "Rechercher des actifs",
-    "Tokens sourced from TailDB": "Jetons provenant de TailDB",
     "Unmute": ""
   },
   "autoCombine": {
@@ -292,6 +291,7 @@
     "Provide liquidity to earn rewards": "",
     "Sell for {{bid}} {{code}} within {{level}}%": "",
     "Sell Price": "Prix de Vente",
+    "Swap": "",
     "The current lowest price of an NFT": "Le plus bas prix actuel d'un NFT",
     "The highest price someone is bidding for an NFT": "La plus haute Offre actuelle pour un NFT",
     "Toggle collections with suspicious trading activity": "Afficher les collections à l'activité suspicieuse"

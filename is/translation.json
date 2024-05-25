@@ -21,7 +21,6 @@
     "Number of Items": "",
     "Offered NFTs": "",
     "Search assets": "",
-    "Tokens sourced from TailDB": "",
     "Unmute": ""
   },
   "autoCombine": {
@@ -291,6 +290,7 @@
     "Provide liquidity to earn rewards": "",
     "Sell for {{bid}} {{code}} within {{level}}%": "",
     "Sell Price": "",
+    "Swap": "",
     "The current lowest price of an NFT": "",
     "The highest price someone is bidding for an NFT": "",
     "Toggle collections with suspicious trading activity": ""

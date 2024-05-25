@@ -21,7 +21,6 @@
     "Number of Items": "Количество предметов",
     "Offered NFTs": "Предлагаемые НФТ",
     "Search assets": "Поиск активов",
-    "Tokens sourced from TailDB": "Токены, полученные из TailDB",
     "Unmute": "Разблокировать"
   },
   "autoCombine": {
@@ -293,6 +292,7 @@
     "Provide liquidity to earn rewards": "Обеспечьте ликвидность для получения вознаграждений",
     "Sell for {{bid}} {{code}} within {{level}}%": "Продать за {{bid}} {{code}} в пределах {{level}}%",
     "Sell Price": "Цена продажи",
+    "Swap": "",
     "The current lowest price of an NFT": "Текущая самая низкая цена НФТ",
     "The highest price someone is bidding for an NFT": "Самая высокая цена, которую предлагают за НФТ",
     "Toggle collections with suspicious trading activity": "Увидеть коллекции с подозрительной торговлей"
