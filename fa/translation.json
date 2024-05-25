@@ -209,7 +209,7 @@
   },
   "inspect": {
     "{{count}} offers_one": "{{count}} پیشنهاد",
-    "{{count}} offers_other": "{{count}} پیشنهادها",
+    "{{count}} offers_other": "{{count}} پیشنهادات",
     "Add to Your Offers": "اضافه کردن به پیشنهاد خود",
     "attached": "پیوست شده است",
     "Bid with Goby": "پیشنهاد با برنامه گوبی",
@@ -290,7 +290,7 @@
     "Provide liquidity to earn rewards": "نقدینگی برای کسب پاداش فراهم کنید",
     "Sell for {{bid}} {{code}} within {{level}}%": "فروش به {{bid}} {{code}} within {{level}}%",
     "Sell Price": "قیمت فروش",
-    "Swap": "",
+    "Swap": "تعویض",
     "The current lowest price of an NFT": "پایین ترین قیمت فعلی ان اف تی",
     "The highest price someone is bidding for an NFT": "بالاترین قیمتی که کسی برای ان اف تی پیشنهاد داده است",
     "Toggle collections with suspicious trading activity": "مجموعه های دارای فعالیت تجاری مشکوک را تغییر دهید"
@@ -404,8 +404,8 @@
     "Included Fee": "هزینه شامل شده",
     "Offer": "پیشنهاد",
     "Offering": "در حال پیشنهاد دادن",
-    "Offers_one": "{{count}} Offers",
-    "Offers_other": "{{count}} Offers",
+    "Offers_one": "{{count}} پیشنهاد",
+    "Offers_other": "{{count}} پیشنهادات",
     "Optimal Routing": "مسیریابی بهینه",
     "Price Impact": "تاثیر قیمت",
     "Price impact is high": "تاثیر قیمت بالاست",
