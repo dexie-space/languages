@@ -1,3 +1,7 @@
+# Archived
+
+Community translations have been discontinued. Thank you to everyone who contributed!
+
 # dexie Community Translations
 
 [dexie](https://dexie.space) should be accessible for all, and that includes languages. Everyone is invited to improve existing translations or create new ones.
